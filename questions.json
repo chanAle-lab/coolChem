@@ -882,7 +882,8 @@
       "summary": "Relative mass and relative charge of a neutron.",
       "image": "img/2001-jan-chm1/q_q1a.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm1/ms_q1a.jpg"
+      "markscheme": "img/2001-jan-chm1/ms_q1a.jpg",
+      "markscheme_text": "• Relative mass: 1 (1)\n• Relative charge: 0 / neutral (1)\n\n[Extra Information]:\nallow: 1.0\nallow: zero / none / no charge\ndo not accept: -1 or +1"
     },
     {
       "id": "2001-jan-chm1-q1b",
@@ -899,7 +900,8 @@
       "summary": "Fundamental particles common to and differing between isotopes.",
       "image": "img/2001-jan-chm1/q_q1b.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm1/ms_q1b.jpg"
+      "markscheme": "img/2001-jan-chm1/ms_q1b.jpg",
+      "markscheme_text": "• In common: (same) number of protons (or electrons) (1)\n• Difference: (different) number of neutrons (1)\n\n[Extra Information]:\nallow: same atomic number / different mass number\ndo not accept: vague mass differences without mentioning neutrons"
     },
     {
       "id": "2001-jan-chm1-q1c",
@@ -916,7 +918,8 @@
       "summary": "Complete atomic symbol with 22 neutrons and 19 electrons.",
       "image": "img/2001-jan-chm1/q_q1c.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm1/ms_q1c.jpg"
+      "markscheme": "img/2001-jan-chm1/ms_q1c.jpg",
+      "markscheme_text": "41_19 K\n\n• K symbol (1)\n• 41 (mass number) and 19 (atomic number) (1)\n\n[Extra Information]:\natomic number 19 must match K symbol"
     },
     {
       "id": "2001-jan-chm1-q1di",
@@ -933,7 +936,8 @@
       "summary": "Two measurements made for each isotope in a mass spectrometer.",
       "image": "img/2001-jan-chm1/q_q1di.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm1/ms_q1di.jpg"
+      "markscheme": "img/2001-jan-chm1/ms_q1di.jpg",
+      "markscheme_text": "• Measurement 1: m/z (ratio) (1)\n• Measurement 2: relative abundance (1)\n\n[Extra Information]:\nallow: mass (or m/e)\nallow: percentage abundance / intensity / current"
     },
     {
       "id": "2001-jan-chm1-q1dii",
@@ -950,7 +954,8 @@
       "summary": "How the detector in a mass spectrometer works.",
       "image": "img/2001-jan-chm1/q_q1dii.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm1/ms_q1dii.jpg"
+      "markscheme": "img/2001-jan-chm1/ms_q1dii.jpg",
+      "markscheme_text": "any two from:\n• (ions hit a) charged (or negative) plate (1)\n• creates a current (when hit by ions) (1)\n• sends a signal to a computer (or chart recorder) (1)\n\n[Extra Information]:\nallow: ions gain electrons from the detector plate\nallow: current is proportional to abundance"
     },
     {
       "id": "2001-jan-chm1-q1diii",
@@ -967,7 +972,8 @@
       "summary": "Why a mass spectrometer cannot distinguish between 14N+ and 14N2(2+) ions.",
       "image": "img/2001-jan-chm1/q_q1diii.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm1/ms_q1diii.jpg"
+      "markscheme": "img/2001-jan-chm1/ms_q1diii.jpg",
+      "markscheme_text": "(they have the) same m/z (ratio) (1)\n\n[Extra Information]:\nallow: both have m/z = 14\n(14/1 = 28/2 = 14)"
     },
     {
       "id": "2001-jan-chm1-q1e",
@@ -984,7 +990,8 @@
       "summary": "Complete the energy-level diagram for electrons in a carbon atom.",
       "image": "img/2001-jan-chm1/q_q1e.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm1/ms_q1e.jpg"
+      "markscheme": "img/2001-jan-chm1/ms_q1e.jpg",
+      "markscheme_text": "• 6 electrons in total (1)\n• correct orbital arrangement: 1s: [up/down], 2s: [up/down], 2p: [up], [up], [empty] (1)\n\n[Extra Information]:\n2p electrons must be in separate orbitals with parallel spins (Hund's rule)"
     },
     {
       "id": "2001-jan-chm1-q1f",
@@ -1001,7 +1008,8 @@
       "summary": "Sub-level electronic configuration of the carbon ion C2+.",
       "image": "img/2001-jan-chm1/q_q1f.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm1/ms_q1f.jpg"
+      "markscheme": "img/2001-jan-chm1/ms_q1f.jpg",
+      "markscheme_text": "1s2 2s2 (1)\n\n[Extra Information]:\nallow subscripts or large numbers if clearly meant as powers"
     },
     {
       "id": "2001-jan-chm1-q2a",
