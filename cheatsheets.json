@@ -1,0 +1,1038 @@
+﻿{
+    "3.1.1":  {
+                  "title":  "Topic 3.1.1 · Atomic Structure",
+                  "group":  "Physical Chemistry",
+                  "spec":  "Fundamental particles, mass number, isotopes, TOF mass spectrometry, electron configuration, ionisation energies",
+                  "sections":  [
+                                   {
+                                       "heading":  "Fundamental Particles \u0026 Isotopes",
+                                       "points":  [
+                                                      "\u003cb\u003eFundamental particles:\u003c/b\u003e Proton (mass 1, charge +1), Neutron (mass 1, charge 0), Electron (mass 1/1840, charge -1).",
+                                                      "\u003cb\u003eAtomic number (Z):\u003c/b\u003e Number of protons in nucleus. Defines the chemical identity of the element.",
+                                                      "\u003cb\u003eMass number (A):\u003c/b\u003e Total number of protons + neutrons in nucleus.",
+                                                      "\u003cb\u003eIsotopes:\u003c/b\u003e Atoms of the same element with the same number of protons but different numbers of neutrons. Chemical properties are identical because they have the exact same electron configuration.",
+                                                      "\u003cb\u003eRelative atomic mass (Ar):\u003c/b\u003e The weighted average mass of an atom of an element compared with 1/12th of the mass of an atom of Carbon-12."
+                                                  ]
+                                   },
+                                   {
+                                       "heading":  "Time of Flight (TOF) Mass Spectrometry",
+                                       "points":  [
+                                                      "\u003cb\u003e1. Ionisation:\u003c/b\u003e",
+                                                      "• \u003ci\u003eElectron impact:\u003c/i\u003e Vaporised sample bombarded by high-energy electrons from an electron gun; knocks off one electron: \u003cb\u003eX(g) \u0026rarr; X\u003csup\u003e+\u003c/sup\u003e(g) + e\u003csup\u003e\u0026minus;\u003c/sup\u003e\u003c/b\u003e. Used for elements and substances with low Mr; can cause fragmentation.",
+                                                      "• \u003ci\u003eElectrospray ionisation:\u003c/i\u003e Sample dissolved in volatile solvent and injected through a fine hypodermic needle at high positive voltage; gains a proton: \u003cb\u003eX(g) + H\u003csup\u003e+\u003c/sup\u003e \u0026rarr; XH\u003csup\u003e+\u003c/sup\u003e(g)\u003c/b\u003e. Soft ionisation, no fragmentation; Mr is m/z \u0026minus; 1.",
+                                                      "\u003cb\u003e2. Acceleration:\u003c/b\u003e Positive ions accelerated by an electric field so all ions have the \u003cb\u003eSAME kinetic energy\u003c/b\u003e (KE = \u0026frac12;mv\u003csup\u003e2\u003c/sup\u003e).",
+                                                      "\u003cb\u003e3. Ion drift:\u003c/b\u003e Ions enter a flight tube with no electric field. Velocity depends on mass (v = \u0026radic;(2KE/m)). Lighter ions travel faster and have a shorter time of flight (t = d\u0026radic;(m / 2KE)).",
+                                                      "\u003cb\u003e4. Detection:\u003c/b\u003e Positive ions hit a negatively charged detector plate, gain electrons, and generate an electric current. Size of current is proportional to abundance."
+                                                  ]
+                                   },
+                                   {
+                                       "heading":  "Electron Configuration \u0026 Ionisation Energies",
+                                       "points":  [
+                                                      "\u003cb\u003eOrbitals \u0026 Sub-shells:\u003c/b\u003e Orbitals hold up to 2 electrons with opposite spins. Sub-shells: s (1 orbital, 2e), p (3 orbitals, 6e), d (5 orbitals, 10e).",
+                                                      "\u003cb\u003eFilling order:\u003c/b\u003e 1s \u0026lt; 2s \u0026lt; 2p \u0026lt; 3s \u0026lt; 3p \u0026lt; 4s \u0026lt; 3d \u0026lt; 4p. \u003cb\u003e4s fills before 3d\u003c/b\u003e and \u003cb\u003e4s electrons are lost first\u003c/b\u003e during ionisation.",
+                                                      "\u003cb\u003eExceptions to know:\u003c/b\u003e Chromium: [Ar] 4s\u003csup\u003e1\u003c/sup\u003e 3d\u003csup\u003e5\u003c/sup\u003e (half-filled d sub-shell stability); Copper: [Ar] 4s\u003csup\u003e1\u003c/sup\u003e 3d\u003csup\u003e10\u003c/sup\u003e (fully-filled d sub-shell stability).",
+                                                      "\u003cb\u003eFirst Ionisation Energy (IE):\u003c/b\u003e Enthalpy change when 1 mole of electrons is removed from 1 mole of gaseous atoms to form 1 mole of gaseous 1+ ions: \u003cb\u003eX(g) \u0026rarr; X\u003csup\u003e+\u003c/sup\u003e(g) + e\u003csup\u003e\u0026minus;\u003c/sup\u003e\u003c/b\u003e.",
+                                                      "\u003cb\u003eGeneral Period 3 trend:\u003c/b\u003e Increases across period due to increasing nuclear charge with similar shielding.",
+                                                      "\u003cb\u003ePeriod 3 anomalies:\u003c/b\u003e",
+                                                      "• \u003ci\u003eMg to Al drop:\u003c/i\u003e Al loses electron from 3p subshell, which is higher in energy and shielded by 3s electrons.",
+                                                      "• \u003ci\u003eP to S drop:\u003c/i\u003e S has paired electrons in a 3p orbital; repulsion between the paired electrons makes it easier to remove."
+                                                  ]
+                                   }
+                               ]
+              },
+    "3.1.2":  {
+                  "title":  "Topic 3.1.2 · Amount of Substance",
+                  "group":  "Physical Chemistry",
+                  "spec":  "Avogadro constant, mole calculations, ideal gas equation, empirical/molecular formulas, atom economy, percentage yield, titrations",
+                  "sections":  [
+                                   {
+                                       "heading":  "The Mole \u0026 Key Calculation Formulas",
+                                       "points":  [
+                                                      "\u003cb\u003eAvogadro constant (L or N\u003csub\u003eA\u003c/sub\u003e):\u003c/b\u003e 6.022 \u0026times; 10\u003csup\u003e23\u003c/sup\u003e mol\u003csup\u003e\u0026minus;1\u003c/sup\u003e (number of entities in 1 mole of substance).",
+                                                      "\u003cb\u003eMass formula:\u003c/b\u003e n = m / M\u003csub\u003er\u003c/sub\u003e (m in grams, M\u003csub\u003er\u003c/sub\u003e in g mol\u003csup\u003e\u0026minus;1\u003c/sup\u003e).",
+                                                      "\u003cb\u003eSolution formula:\u003c/b\u003e n = c \u0026times; V (c in mol dm\u003csup\u003e\u0026minus;3\u003c/sup\u003e, V in dm\u003csup\u003e3\u003c/sup\u003e; divide cm\u003csup\u003e3\u003c/sup\u003e by 1000).",
+                                                      "\u003cb\u003eMass concentration:\u003c/b\u003e conc (g dm\u003csup\u003e\u0026minus;3\u003c/sup\u003e) = conc (mol dm\u003csup\u003e\u0026minus;3\u003c/sup\u003e) \u0026times; M\u003csub\u003er\u003c/sub\u003e."
+                                                  ]
+                                   },
+                                   {
+                                       "heading":  "Ideal Gas Equation (pV = nRT)",
+                                       "points":  [
+                                                      "\u003cb\u003eEquation:\u003c/b\u003e pV = nRT where R = 8.31 J K\u003csup\u003e\u0026minus;1\u003c/sup\u003e mol\u003csup\u003e\u0026minus;1\u003c/sup\u003e.",
+                                                      "\u003cb\u003eSI Unit conversions (essential):\u003c/b\u003e",
+                                                      "• Pressure p: in \u003cb\u003ePa\u003c/b\u003e (kPa \u0026times; 1000 = Pa; MPa \u0026times; 10\u003csup\u003e6\u003c/sup\u003e = Pa).",
+                                                      "• Volume V: in \u003cb\u003em\u003csup\u003e3\u003c/sup\u003e\u003c/b\u003e (dm\u003csup\u003e3\u003c/sup\u003e \u0026times; 10\u003csup\u003e\u0026minus;3\u003c/sup\u003e = m\u003csup\u003e3\u003c/sup\u003e; cm\u003csup\u003e3\u003c/sup\u003e \u0026times; 10\u003csup\u003e\u0026minus;6\u003c/sup\u003e = m\u003csup\u003e3\u003c/sup\u003e).",
+                                                      "• Temperature T: in \u003cb\u003eKelvin (K)\u003c/b\u003e (\u0026deg;C + 273).",
+                                                      "\u003cb\u003eFinding Mr of volatile liquid:\u003c/b\u003e M\u003csub\u003er\u003c/sub\u003e = (m \u0026times; R \u0026times; T) / (p \u0026times; V)."
+                                                  ]
+                                   },
+                                   {
+                                       "heading":  "Empirical Formula, Yield \u0026 Atom Economy",
+                                       "points":  [
+                                                      "\u003cb\u003eEmpirical formula:\u003c/b\u003e Simplest whole-number ratio of atoms of each element in a compound. Calculate moles (mass / Ar), divide by smallest mole value to find ratio.",
+                                                      "\u003cb\u003eMolecular formula:\u003c/b\u003e Actual number of atoms of each element. Scale factor = M\u003csub\u003er\u003c/sub\u003e / empirical mass.",
+                                                      "\u003cb\u003ePercentage yield:\u003c/b\u003e (Actual yield / Theoretical yield) \u0026times; 100%. (Reduced by incomplete reaction, reversible equilibria, side reactions, purification losses).",
+                                                      "\u003cb\u003ePercentage atom economy:\u003c/b\u003e (M\u003csub\u003er\u003c/sub\u003e of desired product / Total M\u003csub\u003er\u003c/sub\u003e of all reactants) \u0026times; 100%. Industrial importance: minimizes waste, conserves raw materials, lowers cost.",
+                                                      "\u003cb\u003eTitrations \u0026 Concordancy:\u003c/b\u003e Concordant titres are within \u0026plusmn;0.10 cm\u003csup\u003e3\u003c/sup\u003e of each other. Only average concordant titres. Standard volumetric uncertainty calculation: percentage uncertainty = (uncertainty / reading) \u0026times; 100%."
+                                                  ]
+                                   }
+                               ]
+              },
+    "3.1.3":  {
+                  "title":  "Topic 3.1.3 · Bonding \u0026 Structure",
+                  "group":  "Physical Chemistry",
+                  "spec":  "Ionic, covalent, dative covalent, metallic bonding, 4 crystal structures, VSEPR shapes, electronegativity, intermolecular forces",
+                  "sections":  [
+                                   {
+                                       "heading":  "Types of Bonding \u0026 4 Crystal Structures",
+                                       "points":  [
+                                                      "\u003cb\u003eIonic bonding:\u003c/b\u003e Electrostatic attraction between oppositely charged ions in a giant lattice (e.g. NaCl, MgO). High mp, brittle, conducts electricity only when molten or aqueous.",
+                                                      "\u003cb\u003eCovalent bonding:\u003c/b\u003e Shared pair of electrons between non-metal atoms.",
+                                                      "\u003cb\u003eDative (co-ordinate) bond:\u003c/b\u003e Covalent bond where both shared electrons are donated by one atom (e.g. NH\u003csub\u003e4\u003c/sub\u003e\u003csup\u003e+\u003c/sup\u003e, H\u003csub\u003e3\u003c/sub\u003eO\u003csup\u003e+\u003c/sup\u003e, [AlCl\u003csub\u003e4\u003c/sub\u003e]\u003csup\u003e\u0026minus;\u003c/sup\u003e, CO). Shown by an arrow from donor to acceptor.",
+                                                      "\u003cb\u003eMetallic bonding:\u003c/b\u003e Attraction between positive metal ions and delocalised sea of electrons (e.g. Mg, Na). High electrical and thermal conductivity, malleable, ductile.",
+                                                      "\u003cb\u003e4 Crystal types:\u003c/b\u003e",
+                                                      "• \u003ci\u003eGiant ionic:\u003c/i\u003e NaCl (each Na\u003csup\u003e+\u003c/sup\u003e surrounded by 6 Cl\u003csup\u003e\u0026minus;\u003c/sup\u003e).",
+                                                      "• \u003ci\u003eMacromolecular:\u003c/i\u003e Diamond (each C bonded tetrahedrally to 4 others, extremely hard, non-conductor); Graphite (hexagonal layers bonded to 3 C, delocalised electrons conduct, weak van der Waals between layers allow sliding - lubricant); Ice (open hexagonal hydrogen-bonded lattice, density of ice \u0026lt; liquid water).",
+                                                      "• \u003ci\u003eMolecular:\u003c/i\u003e Iodine (I\u003csub\u003e2\u003c/sub\u003e molecules held by weak London dispersion forces, sublimes easily).",
+                                                      "• \u003ci\u003eGiant metallic:\u003c/i\u003e Magnesium lattice of Mg\u003csup\u003e2+\u003c/sup\u003e ions with 2 delocalised electrons per atom."
+                                                  ]
+                                   },
+                                   {
+                                       "heading":  "VSEPR Shapes of Molecules \u0026 Bond Angles",
+                                       "points":  [
+                                                      "\u003cb\u003eVSEPR Principle:\u003c/b\u003e Electron pairs repel to maximum separation. Repulsion order: \u003cb\u003eLone pair - lone pair \u0026gt; Lone pair - bond pair \u0026gt; Bond pair - bond pair\u003c/b\u003e. Each lone pair reduces bond angle by approx 2.5\u0026deg;.",
+                                                      "• \u003cb\u003e2 pairs:\u003c/b\u003e Linear (180\u0026deg;, e.g. BeCl\u003csub\u003e2\u003c/sub\u003e, CO\u003csub\u003e2\u003c/sub\u003e).",
+                                                      "• \u003cb\u003e3 pairs (0 lp):\u003c/b\u003e Trigonal planar (120\u0026deg;, e.g. BF\u003csub\u003e3\u003c/sub\u003e, AlCl\u003csub\u003e3\u003c/sub\u003e).",
+                                                      "• \u003cb\u003e4 pairs (0 lp):\u003c/b\u003e Tetrahedral (109.5\u0026deg;, e.g. CH\u003csub\u003e4\u003c/sub\u003e, NH\u003csub\u003e4\u003c/sub\u003e\u003csup\u003e+\u003c/sup\u003e).",
+                                                      "• \u003cb\u003e4 pairs (1 lp):\u003c/b\u003e Trigonal pyramidal (107\u0026deg;, e.g. NH\u003csub\u003e3\u003c/sub\u003e, H\u003csub\u003e3\u003c/sub\u003eO\u003csup\u003e+\u003c/sup\u003e).",
+                                                      "• \u003cb\u003e4 pairs (2 lp):\u003c/b\u003e Bent / V-shaped (104.5\u0026deg;, e.g. H\u003csub\u003e2\u003c/sub\u003eO, H\u003csub\u003e2\u003c/sub\u003eS, NH\u003csub\u003e2\u003c/sub\u003e\u003csup\u003e\u0026minus;\u003c/sup\u003e).",
+                                                      "• \u003cb\u003e5 pairs (0 lp):\u003c/b\u003e Trigonal bipyramidal (90\u0026deg; and 120\u0026deg;, e.g. PCl\u003csub\u003e5\u003c/sub\u003e).",
+                                                      "• \u003cb\u003e6 pairs (0 lp):\u003c/b\u003e Octahedral (90\u0026deg;, e.g. SF\u003csub\u003e6\u003c/sub\u003e, [Fe(H\u003csub\u003e2\u003c/sub\u003eO)\u003csub\u003e6\u003c/sub\u003e]\u003csup\u003e2+\u003c/sup\u003e).",
+                                                      "• \u003cb\u003e6 pairs (2 lp):\u003c/b\u003e Square planar (90\u0026deg;, e.g. XeF\u003csub\u003e4\u003c/sub\u003e, [Pt(NH\u003csub\u003e3\u003c/sub\u003e)\u003csub\u003e2\u003c/sub\u003eCl\u003csub\u003e2\u003c/sub\u003e])."
+                                                  ]
+                                   },
+                                   {
+                                       "heading":  "Electronegativity \u0026 Intermolecular Forces",
+                                       "points":  [
+                                                      "\u003cb\u003eElectronegativity:\u003c/b\u003e The power of an atom to attract the electron density in a covalent bond towards itself. Increases across periods and decreases down groups (F \u0026gt; O \u0026gt; N \u0026gt; Cl).",
+                                                      "\u003cb\u003ePermanent dipole:\u003c/b\u003e Arises when two bonded atoms have differing electronegativities (\u0026Delta;\u0026chi; \u0026gt; 0.4). Symmetrical molecules (e.g. CCl\u003csub\u003e4\u003c/sub\u003e, CO\u003csub\u003e2\u003c/sub\u003e, BF\u003csub\u003e3\u003c/sub\u003e) have polar bonds but no overall dipole because dipoles cancel out.",
+                                                      "\u003cb\u003eIntermolecular forces (weakest to strongest):\u003c/b\u003e",
+                                                      "1. \u003ci\u003evan der Waals / London dispersion:\u003c/i\u003e Induced dipole-dipole interactions due to temporary uneven electron distribution. Increases with number of electrons / molecular size.",
+                                                      "2. \u003ci\u003ePermanent dipole-dipole:\u003c/i\u003e Electrostatic attraction between polar molecules (e.g. HCl, CH\u003csub\u003e3\u003c/sub\u003eCl).",
+                                                      "3. \u003ci\u003eHydrogen bonding:\u003c/i\u003e Attraction between lone pair on strongly electronegative atom (N, O, F) and an electron-deficient H atom bonded to N, O, or F. Explains anomalous high bp of H\u003csub\u003e2\u003c/sub\u003eO, HF, NH\u003csub\u003e3\u003c/sub\u003e."
+                                                  ]
+                                   }
+                               ]
+              },
+    "3.1.4":  {
+                  "title":  "Topic 3.1.4 · Energetics",
+                  "group":  "Physical Chemistry",
+                  "spec":  "Enthalpy changes, standard enthalpy of formation and combustion, calorimetry, Hess\u0027s Law, mean bond enthalpies",
+                  "sections":  [
+                                   {
+                                       "heading":  "Standard Enthalpy Definitions",
+                                       "points":  [
+                                                      "\u003cb\u003eEnthalpy change (\u0026Delta;H):\u003c/b\u003e Heat energy change measured under constant pressure conditions. Exothermic (\u0026Delta;H \u0026lt; 0), Endothermic (\u0026Delta;H \u0026gt; 0).",
+                                                      "\u003cb\u003eStandard conditions:\u003c/b\u003e 100 kPa pressure and stated temperature (usually 298 K / 25\u0026deg;C).",
+                                                      "\u003cb\u003eStandard enthalpy of formation (\u0026Delta;\u003csub\u003ef\u003c/sub\u003eH\u0026deg;):\u003c/b\u003e Enthalpy change when 1 mole of a substance is formed from its constituent elements in their standard states under standard conditions. \u0026Delta;\u003csub\u003ef\u003c/sub\u003eH\u0026deg; for any element in its standard state is ZERO.",
+                                                      "\u003cb\u003eStandard enthalpy of combustion (\u0026Delta;\u003csub\u003ec\u003c/sub\u003eH\u0026deg;):\u003c/b\u003e Enthalpy change when 1 mole of a substance burns completely in excess oxygen under standard conditions."
+                                                  ]
+                                   },
+                                   {
+                                       "heading":  "Calorimetry \u0026 Calculations",
+                                       "points":  [
+                                                      "\u003cb\u003eHeat energy equation:\u003c/b\u003e q = mc\u0026Delta;T (q in Joules, m is mass of solution in grams, c = 4.18 J g\u003csup\u003e\u0026minus;1\u003c/sup\u003e K\u003csup\u003e\u0026minus;1\u003c/sup\u003e, \u0026Delta;T in K or \u0026deg;C).",
+                                                      "\u003cb\u003eMolar enthalpy:\u003c/b\u003e \u0026Delta;H = \u0026minus; (q / 1000) / n (in kJ mol\u003csup\u003e\u0026minus;1\u003c/sup\u003e). Always include sign (\u0026minus; for exothermic, + for endothermic)!",
+                                                      "\u003cb\u003eSources of error:\u003c/b\u003e Heat loss to surroundings, incomplete combustion, non-standard conditions, evaporation of fuel.",
+                                                      "\u003cb\u003eCooling curve correction:\u003c/b\u003e Plot temperature against time before, during, and after mixing. Extrapolate cooling line back to time of mixing to find true theoretical \u0026Delta;T."
+                                                  ]
+                                   },
+                                   {
+                                       "heading":  "Hess\u0027s Law \u0026 Mean Bond Enthalpies",
+                                       "points":  [
+                                                      "\u003cb\u003eHess\u0027s Law:\u003c/b\u003e Total enthalpy change for a chemical reaction is independent of the route taken.",
+                                                      "• From enthalpies of formation: \u003cb\u003e\u0026Delta;H\u003csub\u003er\u003c/sub\u003e = \u0026sum; \u0026Delta;\u003csub\u003ef\u003c/sub\u003eH(products) \u0026minus; \u0026sum; \u0026Delta;\u003csub\u003ef\u003c/sub\u003eH(reactants)\u003c/b\u003e.",
+                                                      "• From enthalpies of combustion: \u003cb\u003e\u0026Delta;H\u003csub\u003er\u003c/sub\u003e = \u0026sum; \u0026Delta;\u003csub\u003ec\u003c/sub\u003eH(reactants) \u0026minus; \u0026sum; \u0026Delta;\u003csub\u003ec\u003c/sub\u003eH(products)\u003c/b\u003e.",
+                                                      "\u003cb\u003eMean bond enthalpy:\u003c/b\u003e Enthalpy change needed to break 1 mole of a covalent bond into gaseous atoms, averaged over a wide range of different compounds.",
+                                                      "\u003cb\u003eBond enthalpy formula:\u003c/b\u003e \u003cb\u003e\u0026Delta;H = \u0026sum; (bonds broken) \u0026minus; \u0026sum; (bonds formed)\u003c/b\u003e (reactants \u0026minus; products).",
+                                                      "\u003cb\u003eDiscrepancy reason:\u003c/b\u003e Calculations using mean bond enthalpies are approximations because they use average values from multiple compounds, whereas Hess\u0027s law uses specific experimental standard enthalpy data for that exact compound in its actual physical state."
+                                                  ]
+                                   }
+                               ]
+              },
+    "3.1.5":  {
+                  "title":  "Topic 3.1.5 · Kinetics",
+                  "group":  "Physical Chemistry",
+                  "spec":  "Collision theory, activation energy, Maxwell-Boltzmann distributions, factors affecting reaction rate, catalysts",
+                  "sections":  [
+                                   {
+                                       "heading":  "Collision Theory \u0026 Maxwell-Boltzmann Distribution",
+                                       "points":  [
+                                                      "\u003cb\u003eCollision theory:\u003c/b\u003e Reactions occur when reacting particles collide with kinetic energy \u0026ge; activation energy (E\u003csub\u003ea\u003c/sub\u003e) and with correct collision orientation.",
+                                                      "\u003cb\u003eActivation Energy (E\u003csub\u003ea\u003c/sub\u003e):\u003c/b\u003e The minimum energy required for colliding particles to react.",
+                                                      "\u003cb\u003eMaxwell-Boltzmann curve features:\u003c/b\u003e",
+                                                      "• Starts at origin (no molecules have zero energy).",
+                                                      "• Peak represents \u003cb\u003emost probable energy (E\u003csub\u003emp\u003c/sub\u003e)\u003c/b\u003e.",
+                                                      "• Mean energy is to the right of the peak.",
+                                                      "• Asymptotic: never touches x-axis at high energies (no theoretical maximum energy).",
+                                                      "• Total area under curve equals total number of gas molecules."
+                                                  ]
+                                   },
+                                   {
+                                       "heading":  "Effect of Temperature, Concentration \u0026 Catalysts",
+                                       "points":  [
+                                                      "\u003cb\u003eEffect of higher temperature:\u003c/b\u003e",
+                                                      "• Curve peak shifts to the right and lowers; distribution broadens.",
+                                                      "• Area under curve remains constant.",
+                                                      "• A significantly larger fraction of molecules have energy \u0026ge; E\u003csub\u003ea\u003c/sub\u003e.",
+                                                      "• Collision frequency increases slightly, but the main factor causing rapid rate increase is the greater proportion of successful collisions.",
+                                                      "\u003cb\u003eEffect of concentration / pressure:\u003c/b\u003e More particles per unit volume \u0026rarr; collision frequency increases \u0026rarr; rate increases proportionally.",
+                                                      "\u003cb\u003eCatalysts:\u003c/b\u003e Increase the rate of reaction by providing an alternative reaction pathway with a lower activation energy. Catalyst is unchanged at end. On Maxwell-Boltzmann, E\u003csub\u003ea\u003c/sub\u003e line shifts to the left, meaning a greater fraction of molecules have energy \u0026ge; E\u003csub\u003ecat\u003c/sub\u003e."
+                                                  ]
+                                   }
+                               ]
+              },
+    "3.1.6":  {
+                  "title":  "Topic 3.1.6 · Chemical Equilibria \u0026 Kc",
+                  "group":  "Physical Chemistry",
+                  "spec":  "Dynamic equilibrium, Le Chatelier\u0027s principle, industrial compromises, equilibrium constant Kc",
+                  "sections":  [
+                                   {
+                                       "heading":  "Dynamic Equilibrium \u0026 Le Chatelier\u0027s Principle",
+                                       "points":  [
+                                                      "\u003cb\u003eDynamic equilibrium conditions:\u003c/b\u003e Closed system; forward and reverse reactions proceed at the exact same rate; concentrations of reactants and products remain constant.",
+                                                      "\u003cb\u003eLe Chatelier\u0027s Principle:\u003c/b\u003e If a system at equilibrium is subjected to a change in conditions, the position of equilibrium shifts in the direction that opposes that change.",
+                                                      "• \u003ci\u003eTemperature increase:\u003c/i\u003e Shifts in the endothermic direction (\u0026Delta;H \u0026gt; 0) to absorb heat.",
+                                                      "• \u003ci\u003eTemperature decrease:\u003c/i\u003e Shifts in the exothermic direction (\u0026Delta;H \u0026lt; 0) to release heat.",
+                                                      "• \u003ci\u003ePressure increase:\u003c/i\u003e Shifts to the side with fewer moles of gas to reduce pressure.",
+                                                      "• \u003ci\u003eCatalyst:\u003c/i\u003e Increases rates of forward and reverse reactions equally. \u003cb\u003eDoes NOT change equilibrium position or yield\u003c/b\u003e; reaches equilibrium faster."
+                                                  ]
+                                   },
+                                   {
+                                       "heading":  "Equilibrium Constant (Kc)",
+                                       "points":  [
+                                                      "For homogeneous reaction aA + bB \u0026rightleftharpoons; cC + dD:",
+                                                      "\u003cb\u003eKc expression:\u003c/b\u003e Kc = ([C]\u003csup\u003ec\u003c/sup\u003e [D]\u003csup\u003ed\u003c/sup\u003e) / ([A]\u003csup\u003ea\u003c/sup\u003e [B]\u003csup\u003eb\u003c/sup\u003e) where square brackets denote equilibrium concentration in mol dm\u003csup\u003e\u0026minus;3\u003c/sup\u003e.",
+                                                      "\u003cb\u003eUnits:\u003c/b\u003e Work out by substituting (mol dm\u003csup\u003e\u0026minus;3\u003c/sup\u003e) into expression and cancelling out powers.",
+                                                      "\u003cb\u003eCrucial rule:\u003c/b\u003e \u003cb\u003eONLY TEMPERATURE alters the value of Kc\u003c/b\u003e. Changes in concentration, pressure, or adding a catalyst do NOT alter Kc.",
+                                                      "• For exothermic reaction: increasing T shifts equilibrium left \u0026rarr; Kc decreases.",
+                                                      "• For endothermic reaction: increasing T shifts equilibrium right \u0026rarr; Kc increases."
+                                                  ]
+                                   }
+                               ]
+              },
+    "3.1.7":  {
+                  "title":  "Topic 3.1.7 · Oxidation, Reduction \u0026 Redox Equations",
+                  "group":  "Physical Chemistry",
+                  "spec":  "Oxidation states, electron transfer, half-equations, combining redox equations",
+                  "sections":  [
+                                   {
+                                       "heading":  "Oxidation States \u0026 Redox Definitions",
+                                       "points":  [
+                                                      "\u003cb\u003eOIL RIG:\u003c/b\u003e Oxidation Is Loss of electrons; Reduction Is Gain of electrons.",
+                                                      "\u003cb\u003eOxidising agent:\u003c/b\u003e Electron acceptor (gets reduced itself; causes oxidation).",
+                                                      "\u003cb\u003eReducing agent:\u003c/b\u003e Electron donor (gets oxidised itself; causes reduction).",
+                                                      "\u003cb\u003eOxidation state rules:\u003c/b\u003e",
+                                                      "• Uncombined elements = 0.",
+                                                      "• Neutral compounds sum to 0; polyatomic ions sum to overall ionic charge.",
+                                                      "• Group 1 metals = +1; Group 2 = +2; Aluminium = +3.",
+                                                      "• Fluorine is always \u0026minus;1.",
+                                                      "• Oxygen is \u0026minus;2 (except in peroxides H\u003csub\u003e2\u003c/sub\u003eO\u003csub\u003e2\u003c/sub\u003e where it is \u0026minus;1, and in OF\u003csub\u003e2\u003c/sub\u003e where it is +2).",
+                                                      "• Hydrogen is +1 (except in metal hydrides NaH where it is \u0026minus;1).",
+                                                      "• Chlorine is \u0026minus;1 (except in compounds with F or O e.g. ClO\u003csup\u003e\u0026minus;\u003c/sup\u003e where Cl is +1)."
+                                                  ]
+                                   },
+                                   {
+                                       "heading":  "Balancing Redox Half-Equations",
+                                       "points":  [
+                                                      "\u003cb\u003eStep-by-step method:\u003c/b\u003e",
+                                                      "1. Balance atoms other than H and O.",
+                                                      "2. Balance oxygen atoms by adding H\u003csub\u003e2\u003c/sub\u003eO molecules.",
+                                                      "3. Balance hydrogen atoms by adding H\u003csup\u003e+\u003c/sup\u003e ions.",
+                                                      "4. Balance electric charge by adding electrons (e\u003csup\u003e\u0026minus;\u003c/sup\u003e).",
+                                                      "\u003cb\u003eKey half-equations:\u003c/b\u003e",
+                                                      "• Manganate(VII) reduction: \u003cb\u003eMnO\u003csub\u003e4\u003c/sub\u003e\u003csup\u003e\u0026minus;\u003c/sup\u003e + 8H\u003csup\u003e+\u003c/sup\u003e + 5e\u003csup\u003e\u0026minus;\u003c/sup\u003e \u0026rarr; Mn\u003csup\u003e2+\u003c/sup\u003e + 4H\u003csub\u003e2\u003c/sub\u003eO\u003c/b\u003e.",
+                                                      "• Dichromate(VI) reduction: \u003cb\u003eCr\u003csub\u003e2\u003c/sub\u003eO\u003csub\u003e7\u003c/sub\u003e\u003csup\u003e2\u0026minus;\u003c/sup\u003e + 14H\u003csup\u003e+\u003c/sup\u003e + 6e\u003csup\u003e\u0026minus;\u003c/sup\u003e \u0026rarr; 2Cr\u003csup\u003e3+\u003c/sup\u003e + 7H\u003csub\u003e2\u003c/sub\u003eO\u003c/b\u003e.",
+                                                      "• Ethanedioate oxidation: \u003cb\u003eC\u003csub\u003e2\u003c/sub\u003eO\u003csub\u003e4\u003c/sub\u003e\u003csup\u003e2\u0026minus;\u003c/sup\u003e \u0026rarr; 2CO\u003csub\u003e2\u003c/sub\u003e + 2e\u003csup\u003e\u0026minus;\u003c/sup\u003e\u003c/b\u003e.",
+                                                      "• Iron(II) oxidation: \u003cb\u003eFe\u003csup\u003e2+\u003c/sup\u003e \u0026rarr; Fe\u003csup\u003e3+\u003c/sup\u003e + e\u003csup\u003e\u0026minus;\u003c/sup\u003e\u003c/b\u003e.",
+                                                      "• Hydrogen peroxide: \u003cb\u003eH\u003csub\u003e2\u003c/sub\u003eO\u003csub\u003e2\u003c/sub\u003e \u0026rarr; O\u003csub\u003e2\u003c/sub\u003e + 2H\u003csup\u003e+\u003c/sup\u003e + 2e\u003csup\u003e\u0026minus;\u003c/sup\u003e\u003c/b\u003e."
+                                                  ]
+                                   }
+                               ]
+              },
+    "3.1.8":  {
+                  "title":  "Topic 3.1.8 · Thermodynamics (A-Level)",
+                  "group":  "Physical Chemistry",
+                  "spec":  "Born-Haber cycles, lattice enthalpy, entropy change, Gibbs free energy, feasibility",
+                  "sections":  [
+                                   {
+                                       "heading":  "Born-Haber Cycles \u0026 Lattice Enthalpy",
+                                       "points":  [
+                                                      "\u003cb\u003eLattice enthalpy of formation:\u003c/b\u003e Enthalpy change when 1 mole of a solid ionic compound is formed from its constituent gaseous ions under standard conditions (always EXOTHERMIC, negative).",
+                                                      "\u003cb\u003eLattice enthalpy of dissociation:\u003c/b\u003e Enthalpy change when 1 mole of a solid ionic compound is completely separated into its gaseous ions (always ENDOTHERMIC, positive).",
+                                                      "\u003cb\u003eCycle enthalpy steps:\u003c/b\u003e Formation = Atomisation + Ionisation energies + Electron affinities + Lattice formation.",
+                                                      "\u003cb\u003eElectron affinity:\u003c/b\u003e 1st EA is exothermic (negative) because incoming electron is attracted by nucleus; 2nd EA (e.g. O\u003csup\u003e\u0026minus;\u003c/sup\u003e + e\u003csup\u003e\u0026minus;\u003c/sup\u003e \u0026rarr; O\u003csup\u003e2\u0026minus;\u003c/sup\u003e) is always \u003cb\u003eENDOTHERMIC (positive)\u003c/b\u003e due to strong repulsion between negative ion and incoming electron.",
+                                                      "\u003cb\u003eBorn-Haber vs Perfect Ionic Model:\u003c/b\u003e If experimental (Born-Haber) lattice enthalpy is significantly more exothermic than the theoretical value calculated assuming point charges (perfect ionic model), the compound has significant \u003cb\u003ecovalent character\u003c/b\u003e caused by cation polarisation."
+                                                  ]
+                                   },
+                                   {
+                                       "heading":  "Entropy \u0026 Gibbs Free Energy",
+                                       "points":  [
+                                                      "\u003cb\u003eEntropy (S):\u003c/b\u003e Measure of disorder of a system (in J K\u003csup\u003e\u0026minus;1\u003c/sup\u003e mol\u003csup\u003e\u0026minus;1\u003c/sup\u003e). S(gas) \u0026gt;\u0026gt; S(liquid) \u0026gt; S(solid).",
+                                                      "\u003cb\u003e\u0026Delta;S calculation:\u003c/b\u003e \u0026Delta;S = \u0026sum; S\u0026deg;(products) \u0026minus; \u0026sum; S\u0026deg;(reactants).",
+                                                      "\u003cb\u003eGibbs Free Energy Equation:\u003c/b\u003e \u003cb\u003e\u0026Delta;G = \u0026Delta;H \u0026minus; T\u0026Delta;S\u003c/b\u003e (\u0026Delta;H in kJ mol\u003csup\u003e\u0026minus;1\u003c/sup\u003e, T in Kelvin, \u0026Delta;S must be converted to kJ K\u003csup\u003e\u0026minus;1\u003c/sup\u003e mol\u003csup\u003e\u0026minus;1\u003c/sup\u003e by dividing by 1000!).",
+                                                      "\u003cb\u003eFeasibility:\u003c/b\u003e Reaction is feasible when \u003cb\u003e\u0026Delta;G \u0026le; 0\u003c/b\u003e.",
+                                                      "\u003cb\u003eFeasibility temperature:\u003c/b\u003e T = \u0026Delta;H / \u0026Delta;S (at \u0026Delta;G = 0).",
+                                                      "\u003cb\u003e\u0026Delta;G vs T graph:\u003c/b\u003e \u0026Delta;G = \u0026minus;\u0026Delta;S(T) + \u0026Delta;H. Gradient = \u0026minus;\u0026Delta;S, y-intercept = \u0026Delta;H."
+                                                  ]
+                                   }
+                               ]
+              },
+    "3.1.9":  {
+                  "title":  "Topic 3.1.9 · Rate Equations \u0026 Arrhenius (A-Level)",
+                  "group":  "Physical Chemistry",
+                  "spec":  "Rate equations, orders of reaction, rate constant, rate-determining step, Arrhenius equation",
+                  "sections":  [
+                                   {
+                                       "heading":  "Rate Equations \u0026 Orders of Reaction",
+                                       "points":  [
+                                                      "\u003cb\u003eRate equation:\u003c/b\u003e Rate = k[A]\u003csup\u003em\u003c/sup\u003e[B]\u003csup\u003en\u003c/sup\u003e where m and n are reaction orders (0, 1, or 2), and k is rate constant.",
+                                                      "• \u003cb\u003eZero order (m = 0):\u003c/b\u003e Concentration has NO effect on rate. Rate = k. [A]-time graph is linear downward slope.",
+                                                      "• \u003cb\u003eFirst order (m = 1):\u003c/b\u003e Rate is directly proportional to [A]. Constant half-life t\u003csub\u003e\u0026frac12;\u003c/sub\u003e.",
+                                                      "• \u003cb\u003eSecond order (m = 2):\u003c/b\u003e Doubling [A] quadruples the rate (2\u003csup\u003e2\u003c/sup\u003e = 4).",
+                                                      "\u003cb\u003eUnits of k:\u003c/b\u003e Units = (mol dm\u003csup\u003e\u0026minus;3\u003c/sup\u003e s\u003csup\u003e\u0026minus;1\u003c/sup\u003e) / [concentration units]\u003csup\u003eoverall order\u003c/sup\u003e. E.g. 1st order: s\u003csup\u003e\u0026minus;1\u003c/sup\u003e; 2nd order: mol\u003csup\u003e\u0026minus;1\u003c/sup\u003e dm\u003csup\u003e3\u003c/sup\u003e s\u003csup\u003e\u0026minus;1\u003c/sup\u003e; 3rd order: mol\u003csup\u003e\u0026minus;2\u003c/sup\u003e dm\u003csup\u003e6\u003c/sup\u003e s\u003csup\u003e\u0026minus;1\u003c/sup\u003e.",
+                                                      "\u003cb\u003eRate Determining Step (RDS):\u003c/b\u003e The slowest step in a reaction mechanism. Species appearing in the rate equation must participate in the RDS or steps preceding it."
+                                                  ]
+                                   },
+                                   {
+                                       "heading":  "The Arrhenius Equation",
+                                       "points":  [
+                                                      "\u003cb\u003eEquation:\u003c/b\u003e k = A e\u003csup\u003e\u0026minus;E\u003csub\u003ea\u003c/sub\u003e / RT\u003c/sup\u003e.",
+                                                      "\u003cb\u003eLogarithmic form:\u003c/b\u003e \u003cb\u003eln k = \u0026minus;(E\u003csub\u003ea\u003c/sub\u003e / R)(1/T) + ln A\u003c/b\u003e.",
+                                                      "\u003cb\u003eGraphical analysis:\u003c/b\u003e Plot ln k (y-axis) against 1/T (x-axis, in K\u003csup\u003e\u0026minus;1\u003c/sup\u003e).",
+                                                      "• \u003cb\u003eGradient = \u0026minus;E\u003csub\u003ea\u003c/sub\u003e / R\u003c/b\u003e \u0026rarr; E\u003csub\u003ea\u003c/sub\u003e = \u0026minus;gradient \u0026times; 8.31 J mol\u003csup\u003e\u0026minus;1\u003c/sup\u003e (divide by 1000 for kJ mol\u003csup\u003e\u0026minus;1\u003c/sup\u003e).",
+                                                      "• \u003cb\u003ey-intercept = ln A\u003c/b\u003e \u0026rarr; A = e\u003csup\u003eintercept\u003c/sup\u003e."
+                                                  ]
+                                   }
+                               ]
+              },
+    "3.1.10":  {
+                   "title":  "Topic 3.1.10 · Equilibrium Constant Kp (A-Level)",
+                   "group":  "Physical Chemistry",
+                   "spec":  "Mole fractions, partial pressures, expressions for Kp, calculation of Kp, effect of temperature and pressure",
+                   "sections":  [
+                                    {
+                                        "heading":  "Mole Fractions \u0026 Partial Pressures",
+                                        "points":  [
+                                                       "\u003cb\u003eMole fraction (x\u003csub\u003eA\u003c/sub\u003e):\u003c/b\u003e x\u003csub\u003eA\u003c/sub\u003e = (moles of gas A) / (total moles of all gases). Sum of mole fractions = 1.0.",
+                                                       "\u003cb\u003ePartial pressure (p\u003csub\u003eA\u003c/sub\u003e):\u003c/b\u003e p\u003csub\u003eA\u003c/sub\u003e = x\u003csub\u003eA\u003c/sub\u003e \u0026times; P\u003csub\u003etotal\u003c/sub\u003e.",
+                                                       "\u003cb\u003eTotal pressure:\u003c/b\u003e P\u003csub\u003etotal\u003c/sub\u003e = \u0026sum; p\u003csub\u003ei\u003c/sub\u003e (Dalton\u0027s Law)."
+                                                   ]
+                                    },
+                                    {
+                                        "heading":  "Kp Expressions \u0026 Temperature Effect",
+                                        "points":  [
+                                                       "For aA(g) + bB(g) \u0026rightleftharpoons; cC(g) + dD(g):",
+                                                       "\u003cb\u003eKp expression:\u003c/b\u003e Kp = (pC\u003csup\u003ec\u003c/sup\u003e \u0026times; pD\u003csup\u003ed\u003c/sup\u003e) / (pA\u003csup\u003ea\u003c/sup\u003e \u0026times; pB\u003csup\u003eb\u003c/sup\u003e). Use round brackets and partial pressures, NOT square concentration brackets!",
+                                                       "\u003cb\u003eKp Units:\u003c/b\u003e Substitute pressure unit (kPa or Pa) and cancel.",
+                                                       "\u003cb\u003eKey principles:\u003c/b\u003e",
+                                                       "• \u003cb\u003eONLY temperature changes Kp\u003c/b\u003e.",
+                                                       "• Changing pressure causes the system to adjust partial pressures so the quotient returns to the constant Kp value at that temperature.",
+                                                       "• Adding a catalyst has NO effect on Kp or position of equilibrium."
+                                                   ]
+                                    }
+                                ]
+               },
+    "3.1.11":  {
+                   "title":  "Topic 3.1.11 · Electrode Potentials \u0026 Cells (A-Level)",
+                   "group":  "Physical Chemistry",
+                   "spec":  "Standard hydrogen electrode, IUPAC cell conventions, EMF calculations, commercial cells, fuel cells",
+                   "sections":  [
+                                    {
+                                        "heading":  "Standard Hydrogen Electrode (SHE) \u0026 Cell Conventions",
+                                        "points":  [
+                                                       "\u003cb\u003eStandard Hydrogen Electrode (SHE):\u003c/b\u003e Reference electrode assigned 0.00 V under standard conditions: 298 K, 100 kPa H\u003csub\u003e2\u003c/sub\u003e gas, 1.00 mol dm\u003csup\u003e\u0026minus;3\u003c/sup\u003e H\u003csup\u003e+\u003c/sup\u003e ions, platinised Pt electrode (inert catalyst).",
+                                                       "\u003cb\u003eIUPAC Cell Convention:\u003c/b\u003e",
+                                                       "• Single line | indicates phase boundary (e.g. solid to aqueous).",
+                                                       "• Double line || indicates salt bridge (filter paper soaked in saturated KNO\u003csub\u003e3\u003c/sub\u003e or KCl).",
+                                                       "• Left electrode is oxidation (more negative E\u0026deg;); Right electrode is reduction (more positive E\u0026deg;).",
+                                                       "• Example: \u003cb\u003eZn(s) | Zn\u003csup\u003e2+\u003c/sup\u003e(aq) || Cu\u003csup\u003e2+\u003c/sup\u003e(aq) | Cu(s)\u003c/b\u003e.",
+                                                       "\u003cb\u003eEMF Calculation:\u003c/b\u003e \u003cb\u003eE\u0026deg;\u003csub\u003ecell\u003c/sub\u003e = E\u0026deg;\u003csub\u003eright\u003c/sub\u003e \u0026minus; E\u0026deg;\u003csub\u003eleft\u003c/sub\u003e\u003c/b\u003e. Reaction is feasible if E\u0026deg;\u003csub\u003ecell\u003c/sub\u003e \u0026gt; 0."
+                                                   ]
+                                    },
+                                    {
+                                        "heading":  "Commercial Cells \u0026 Hydrogen Fuel Cells",
+                                        "points":  [
+                                                       "\u003cb\u003eLithium-ion secondary (rechargeable) cell:\u003c/b\u003e",
+                                                       "• Positive electrode: Li\u003csup\u003e+\u003c/sup\u003e + CoO\u003csub\u003e2\u003c/sub\u003e + e\u003csup\u003e\u0026minus;\u003c/sup\u003e \u0026rarr; Li\u003csup\u003e+\u003c/sup\u003e[CoO\u003csub\u003e2\u003c/sub\u003e]\u003csup\u003e\u0026minus;\u003c/sup\u003e.",
+                                                       "• Negative electrode: Li \u0026rarr; Li\u003csup\u003e+\u003c/sup\u003e + e\u003csup\u003e\u0026minus;\u003c/sup\u003e.",
+                                                       "\u003cb\u003eAlkaline Hydrogen-Oxygen Fuel Cell:\u003c/b\u003e",
+                                                       "• Negative electrode (anode): \u003cb\u003e2H\u003csub\u003e2\u003c/sub\u003e + 4OH\u003csup\u003e\u0026minus;\u003c/sup\u003e \u0026rarr; 4H\u003csub\u003e2\u003c/sub\u003eO + 4e\u003csup\u003e\u0026minus;\u003c/sup\u003e\u003c/b\u003e.",
+                                                       "• Positive electrode (cathode): \u003cb\u003eO\u003csub\u003e2\u003c/sub\u003e + 2H\u003csub\u003e2\u003c/sub\u003eO + 4e\u003csup\u003e\u0026minus;\u003c/sup\u003e \u0026rarr; 4OH\u003csup\u003e\u0026minus;\u003c/sup\u003e\u003c/b\u003e.",
+                                                       "• Overall: \u003cb\u003e2H\u003csub\u003e2\u003c/sub\u003e + O\u003csub\u003e2\u003c/sub\u003e \u0026rarr; 2H\u003csub\u003e2\u003c/sub\u003eO\u003c/b\u003e (E\u0026deg; = +1.23 V).",
+                                                       "\u003cb\u003eAdvantages:\u003c/b\u003e Only water produced (zero emissions at point of use), higher energy efficiency than combustion.",
+                                                       "\u003cb\u003eDisadvantages:\u003c/b\u003e Hydrogen storage under high pressure, hydrogen currently made from fossil methane."
+                                                   ]
+                                    }
+                                ]
+               },
+    "3.1.12":  {
+                   "title":  "Topic 3.1.12 · Acids, Bases \u0026 Buffers (A-Level)",
+                   "group":  "Physical Chemistry",
+                   "spec":  "Brønsted-Lowry theory, pH, Kw, weak acids Ka, titration curves, indicators, buffer solutions",
+                   "sections":  [
+                                    {
+                                        "heading":  "pH, Kw \u0026 Strong Acids/Bases",
+                                        "points":  [
+                                                       "\u003cb\u003eBr\u0026oslash;nsted-Lowry:\u003c/b\u003e Acid = proton donor; Base = proton acceptor.",
+                                                       "\u003cb\u003epH definition:\u003c/b\u003e \u003cb\u003epH = \u0026minus;log\u003csub\u003e10\u003c/sub\u003e[H\u003csup\u003e+\u003c/sup\u003e]\u003c/b\u003e \u0026rarr; [H\u003csup\u003e+\u003c/sup\u003e] = 10\u003csup\u003e\u0026minus;pH\u003c/sup\u003e. (Report pH to 2 decimal places!).",
+                                                       "\u003cb\u003eStrong monoprotic acid:\u003c/b\u003e Fully dissociated, so [H\u003csup\u003e+\u003c/sup\u003e] = [acid].",
+                                                       "\u003cb\u003eIonic product of water (Kw):\u003c/b\u003e Kw = [H\u003csup\u003e+\u003c/sup\u003e][OH\u003csup\u003e\u0026minus;\u003c/sup\u003e] = 1.00 \u0026times; 10\u003csup\u003e\u0026minus;14\u003c/sup\u003e mol\u003csup\u003e2\u003c/sup\u003e dm\u003csup\u003e\u0026minus;6\u003c/sup\u003e at 298 K. Dissociation is endothermic, so Kw increases as T increases \u0026rarr; pure water pH \u0026lt; 7 at higher T (still neutral as [H\u003csup\u003e+\u003c/sup\u003e] = [OH\u003csup\u003e\u0026minus;\u003c/sup\u003e]).",
+                                                       "\u003cb\u003eStrong base calculation:\u003c/b\u003e [H\u003csup\u003e+\u003c/sup\u003e] = Kw / [OH\u003csup\u003e\u0026minus;\u003c/sup\u003e] \u0026rarr; pH = \u0026minus;log\u003csub\u003e10\u003c/sub\u003e[H\u003csup\u003e+\u003c/sup\u003e]."
+                                                   ]
+                                    },
+                                    {
+                                        "heading":  "Weak Acids (Ka) \u0026 Titration Curves",
+                                        "points":  [
+                                                       "\u003cb\u003eAcid dissociation constant (Ka):\u003c/b\u003e Ka = ([H\u003csup\u003e+\u003c/sup\u003e][A\u003csup\u003e\u0026minus;\u003c/sup\u003e]) / [HA]. pKa = \u0026minus;log\u003csub\u003e10\u003c/sub\u003eKa.",
+                                                       "\u003cb\u003eWeak acid approximation:\u003c/b\u003e [H\u003csup\u003e+\u003c/sup\u003e] = \u0026radic;(Ka \u0026times; c).",
+                                                       "\u003cb\u003eHalf-neutralisation point:\u003c/b\u003e When [HA] = [A\u003csup\u003e\u0026minus;\u003c/sup\u003e], \u003cb\u003epH = pKa\u003c/b\u003e.",
+                                                       "\u003cb\u003eIndicators:\u003c/b\u003e Change colour over pH range matching the vertical equivalence steep section:",
+                                                       "• \u003ci\u003eStrong acid - Strong base:\u003c/i\u003e Vertical pH 3\u0026ndash;9. Methyl orange or Phenolphthalein.",
+                                                       "• \u003ci\u003eWeak acid - Strong base:\u003c/i\u003e Vertical pH 7\u0026ndash;10. \u003cb\u003ePhenolphthalein\u003c/b\u003e (colourless to pink).",
+                                                       "• \u003ci\u003eStrong acid - Weak base:\u003c/i\u003e Vertical pH 3\u0026ndash;7. \u003cb\u003eMethyl orange\u003c/b\u003e (red to yellow).",
+                                                       "• \u003ci\u003eWeak acid - Weak base:\u003c/i\u003e No sharp vertical break; use pH meter."
+                                                   ]
+                                    },
+                                    {
+                                        "heading":  "Buffer Solutions",
+                                        "points":  [
+                                                       "\u003cb\u003eDefinition:\u003c/b\u003e A solution that resists changes in pH when small amounts of acid or alkali are added.",
+                                                       "\u003cb\u003eAcidic buffer:\u003c/b\u003e Weak acid + salt of that weak acid (e.g. CH\u003csub\u003e3\u003c/sub\u003eCOOH and CH\u003csub\u003e3\u003c/sub\u003eCOONa).",
+                                                       "• \u003ci\u003eAdding H\u003csup\u003e+\u003c/sup\u003e:\u003c/i\u003e Reacts with salt anion: A\u003csup\u003e\u0026minus;\u003c/sup\u003e + H\u003csup\u003e+\u003c/sup\u003e \u0026rarr; HA.",
+                                                       "• \u003ci\u003eAdding OH\u003csup\u003e\u0026minus;\u003c/sup\u003e:\u003c/i\u003e Reacts with weak acid: HA + OH\u003csup\u003e\u0026minus;\u003c/sup\u003e \u0026rarr; A\u003csup\u003e\u0026minus;\u003c/sup\u003e + H\u003csub\u003e2\u003c/sub\u003eO.",
+                                                       "\u003cb\u003eBuffer calculation:\u003c/b\u003e [H\u003csup\u003e+\u003c/sup\u003e] = Ka \u0026times; ([acid] / [salt])."
+                                                   ]
+                                    }
+                                ]
+               },
+    "3.2.1":  {
+                  "title":  "Topic 3.2.1 · Periodicity",
+                  "group":  "Inorganic Chemistry",
+                  "spec":  "Classification of elements in s, p, d, f blocks; Period 3 trends in atomic radius, first IE, and melting point",
+                  "sections":  [
+                                   {
+                                       "heading":  "Classification \u0026 Period 3 Trends",
+                                       "points":  [
+                                                      "\u003cb\u003eBlocks:\u003c/b\u003e Elements classified into s, p, d, or f block depending on the sub-shell containing the highest energy electron.",
+                                                      "\u003cb\u003eAtomic radius across Period 3:\u003c/b\u003e Decreases from Na to Cl. Nuclear charge increases while shielding remains approximately constant; stronger electrostatic attraction pulls outer electrons closer to the nucleus.",
+                                                      "\u003cb\u003eFirst Ionisation Energy across Period 3:\u003c/b\u003e General increase due to increasing nuclear charge and decreasing atomic radius.",
+                                                      "• \u003ci\u003eDip at Al (Group 3):\u003c/i\u003e Outer electron is in 3p subshell, which is higher in energy and partially shielded by 3s electrons.",
+                                                      "• \u003ci\u003eDip at S (Group 6):\u003c/i\u003e Electron pair in one 3p orbital causes spin-pair repulsion, making the electron easier to remove than from phosphorus (half-filled 3p\u003csup\u003e3\u003c/sup\u003e)."
+                                                  ]
+                                   },
+                                   {
+                                       "heading":  "Melting Point Trends Across Period 3",
+                                       "points":  [
+                                                      "\u003cb\u003eNa, Mg, Al (Metallic bonding):\u003c/b\u003e Melting points increase. Ionic charge increases (Na\u003csup\u003e+\u003c/sup\u003e \u0026lt; Mg\u003csup\u003e2+\u003c/sup\u003e \u0026lt; Al\u003csup\u003e3+\u003c/sup\u003e), ionic radius decreases, and number of delocalised electrons per atom increases (1 \u0026rarr; 2 \u0026rarr; 3), leading to stronger metallic bonds.",
+                                                      "\u003cb\u003eSi (Giant macromolecular covalent):\u003c/b\u003e Highest melting point in Period 3. Many strong tetrahedral covalent bonds throughout 3D giant lattice require enormous energy to break.",
+                                                      "\u003cb\u003eP4, S8, Cl2, Ar (Simple molecular):\u003c/b\u003e Melting points depend strictly on the strength of \u003cb\u003evan der Waals (London dispersion) forces\u003c/b\u003e between molecules, which depend on molecular size / number of electrons: \u003cb\u003eS\u003csub\u003e8\u003c/sub\u003e (highest) \u0026gt; P\u003csub\u003e4\u003c/sub\u003e \u0026gt; Cl\u003csub\u003e2\u003c/sub\u003e \u0026gt; Ar (lowest)\u003c/b\u003e."
+                                                  ]
+                                   }
+                               ]
+              },
+    "3.2.2":  {
+                  "title":  "Topic 3.2.2 · Group 2, Alkaline Earth Metals",
+                  "group":  "Inorganic Chemistry",
+                  "spec":  "Trends in atomic radius, first IE, melting point, reactivity with water; solubilities of hydroxides and sulfates; uses",
+                  "sections":  [
+                                   {
+                                       "heading":  "Group 2 Trends \u0026 Reactions with Water",
+                                       "points":  [
+                                                      "\u003cb\u003eTrends down Group 2 (Mg to Ba):\u003c/b\u003e Atomic radius increases; first \u0026 second ionisation energies decrease; reactivity with water increases.",
+                                                      "\u003cb\u003eReaction with water:\u003c/b\u003e",
+                                                      "• \u003ci\u003eMg with cold water:\u003c/i\u003e Very slow: \u003cb\u003eMg + 2H\u003csub\u003e2\u003c/sub\u003eO(l) \u0026rarr; Mg(OH)\u003csub\u003e2\u003c/sub\u003e + H\u003csub\u003e2\u003c/sub\u003e\u003c/b\u003e.",
+                                                      "• \u003ci\u003eMg with steam:\u003c/i\u003e Rapid, white flame, white ash: \u003cb\u003eMg(s) + H\u003csub\u003e2\u003c/sub\u003eO(g) \u0026rarr; MgO(s) + H\u003csub\u003e2\u003c/sub\u003e(g)\u003c/b\u003e.",
+                                                      "• \u003ci\u003eCa, Sr, Ba:\u003c/i\u003e React with increasing vigour with cold water to form alkaline hydroxide solutions and effervescence of H\u003csub\u003e2\u003c/sub\u003e."
+                                                  ]
+                                   },
+                                   {
+                                       "heading":  "Solubility Trends \u0026 Real-World Uses",
+                                       "points":  [
+                                                      "\u003cb\u003eHydroxides (M(OH)\u003csub\u003e2\u003c/sub\u003e):\u003c/b\u003e Solubility \u003cb\u003eINCREASES down the group\u003c/b\u003e.",
+                                                      "• \u003cb\u003eMg(OH)\u003csub\u003e2\u003c/sub\u003e:\u003c/b\u003e Sparingly soluble. Used in medicine as \u003ci\u003eMilk of Magnesia\u003c/i\u003e (antacid for indigestion; OH\u003csup\u003e\u0026minus;\u003c/sup\u003e neutralises stomach acid; safe because low solubility prevents harmful high pH).",
+                                                      "• \u003cb\u003eCa(OH)\u003csub\u003e2\u003c/sub\u003e:\u003c/b\u003e Partially soluble (slaked lime). Used in agriculture to neutralise acidic soils.",
+                                                      "\u003cb\u003eSulfates (MSO\u003csub\u003e4\u003c/sub\u003e):\u003c/b\u003e Solubility \u003cb\u003eDECREASES down the group\u003c/b\u003e.",
+                                                      "• \u003cb\u003eBaSO\u003csub\u003e4\u003c/sub\u003e:\u003c/b\u003e Completely insoluble. Used as \u003ci\u003eBarium meal\u003c/i\u003e in medicine for X-ray imaging of digestive tract (safe despite toxic Ba\u003csup\u003e2+\u003c/sup\u003e because its extreme insolubility prevents absorption into bloodstream).",
+                                                      "\u003cb\u003eTest for Sulfate ions:\u003c/b\u003e Add dilute HCl (to remove interfering CO\u003csub\u003e3\u003c/sub\u003e\u003csup\u003e2\u0026minus;\u003c/sup\u003e ions), then add \u003cb\u003eBaCl\u003csub\u003e2\u003c/sub\u003e(aq)\u003c/b\u003e. Positive result: thick \u003cb\u003ewhite precipitate of BaSO\u003csub\u003e4\u003c/sub\u003e\u003c/b\u003e.",
+                                                      "\u003cb\u003eExtraction of Titanium:\u003c/b\u003e Mg acts as reducing agent: \u003cb\u003eTiCl\u003csub\u003e4\u003c/sub\u003e + 2Mg \u0026rarr; Ti + 2MgCl\u003csub\u003e2\u003c/sub\u003e\u003c/b\u003e (high temp, argon atmosphere).",
+                                                      "\u003cb\u003eFlue Gas Desulfurisation:\u003c/b\u003e CaO or CaCO\u003csub\u003e3\u003c/sub\u003e slurry sprayed into chimney emissions to react with acidic SO\u003csub\u003e2\u003c/sub\u003e: \u003cb\u003eCaO + SO\u003csub\u003e2\u003c/sub\u003e \u0026rarr; CaSO\u003csub\u003e3\u003c/sub\u003e\u003c/b\u003e."
+                                                  ]
+                                   }
+                               ]
+              },
+    "3.2.3":  {
+                  "title":  "Topic 3.2.3 · Group 7(17), The Halogens",
+                  "group":  "Inorganic Chemistry",
+                  "spec":  "Trends in electronegativity, boiling point, oxidising and reducing abilities; halide tests with silver nitrate and ammonia; chlorine chemistry",
+                  "sections":  [
+                                   {
+                                       "heading":  "Trends in Physical Properties \u0026 Oxidising Power",
+                                       "points":  [
+                                                      "\u003cb\u003eElectronegativity:\u003c/b\u003e Decreases down group (F \u0026gt; Cl \u0026gt; Br \u0026gt; I) due to increased shielding and atomic radius.",
+                                                      "\u003cb\u003eBoiling points:\u003c/b\u003e Increase down group (F\u003csub\u003e2\u003c/sub\u003e gas \u0026lt; Cl\u003csub\u003e2\u003c/sub\u003e gas \u0026lt; Br\u003csub\u003e2\u003c/sub\u003e liquid \u0026lt; I\u003csub\u003e2\u003c/sub\u003e solid) due to stronger van der Waals forces between larger molecules.",
+                                                      "\u003cb\u003eOxidising ability:\u003c/b\u003e \u003cb\u003eDECREASES down group\u003c/b\u003e (Cl\u003csub\u003e2\u003c/sub\u003e \u0026gt; Br\u003csub\u003e2\u003c/sub\u003e \u0026gt; I\u003csub\u003e2\u003c/sub\u003e). Fluorine is the most powerful oxidiser.",
+                                                      "• Cl\u003csub\u003e2\u003c/sub\u003e displaces Br\u003csup\u003e\u0026minus;\u003c/sup\u003e (orange solution formed) and I\u003csup\u003e\u0026minus;\u003c/sup\u003e (brown solution formed).",
+                                                      "• Br\u003csub\u003e2\u003c/sub\u003e displaces I\u003csup\u003e\u0026minus;\u003c/sup\u003e only.",
+                                                      "• I\u003csub\u003e2\u003c/sub\u003e displaces neither."
+                                                  ]
+                                   },
+                                   {
+                                       "heading":  "Reducing Ability of Halides with Conc H2SO4",
+                                       "points":  [
+                                                      "\u003cb\u003eReducing power:\u003c/b\u003e \u003cb\u003eINCREASES down group: F\u003csup\u003e\u0026minus;\u003c/sup\u003e \u0026lt; Cl\u003csup\u003e\u0026minus;\u003c/sup\u003e \u0026lt; Br\u003csup\u003e\u0026minus;\u003c/sup\u003e \u0026lt; I\u003csup\u003e\u0026minus;\u003c/sup\u003e\u003c/b\u003e (larger ionic radius, electron more easily lost).",
+                                                      "• \u003cb\u003eNaCl + H\u003csub\u003e2\u003c/sub\u003eSO\u003csub\u003e4\u003c/sub\u003e:\u003c/b\u003e Acid-base only: \u003cb\u003eNaCl + H\u003csub\u003e2\u003c/sub\u003eSO\u003csub\u003e4\u003c/sub\u003e \u0026rarr; NaHSO\u003csub\u003e4\u003c/sub\u003e + HCl\u003c/b\u003e (steamy fumes of HCl). No redox.",
+                                                      "• \u003cb\u003eNaBr + H\u003csub\u003e2\u003c/sub\u003eSO\u003csub\u003e4\u003c/sub\u003e:\u003c/b\u003e Redox occurs: forms \u003cb\u003eorange fumes of Br\u003csub\u003e2\u003c/sub\u003e\u003c/b\u003e and choking toxic gas \u003cb\u003eSO\u003csub\u003e2\u003c/sub\u003e\u003c/b\u003e (sulfur reduced from +6 to +4).",
+                                                      "• \u003cb\u003eNaI + H\u003csub\u003e2\u003c/sub\u003eSO\u003csub\u003e4\u003c/sub\u003e:\u003c/b\u003e Powerful reduction: forms \u003cb\u003epurple fumes / black solid of I\u003csub\u003e2\u003c/sub\u003e\u003c/b\u003e, choking \u003cb\u003eSO\u003csub\u003e2\u003c/sub\u003e\u003c/b\u003e, yellow solid sulfur \u003cb\u003eS\u003c/b\u003e (+6 to 0), and rotten-egg gas \u003cb\u003eH\u003csub\u003e2\u003c/sub\u003eS\u003c/b\u003e (+6 to \u0026minus;2)."
+                                                  ]
+                                   },
+                                   {
+                                       "heading":  "Halide Ion Testing \u0026 Disproportionation of Chlorine",
+                                       "points":  [
+                                                      "\u003cb\u003eTesting for Halides:\u003c/b\u003e Acidify with dilute \u003cb\u003eHNO\u003csub\u003e3\u003c/sub\u003e\u003c/b\u003e (removes CO\u003csub\u003e3\u003c/sub\u003e\u003csup\u003e2\u0026minus;\u003c/sup\u003e or OH\u003csup\u003e\u0026minus;\u003c/sup\u003e which would form false ppts), then add \u003cb\u003eAgNO\u003csub\u003e3\u003c/sub\u003e(aq)\u003c/b\u003e:",
+                                                      "• \u003cb\u003eChloride (Cl\u003csup\u003e\u0026minus;\u003c/sup\u003e):\u003c/b\u003e White precipitate (AgCl). Dissolves in \u003cb\u003edilute NH\u003csub\u003e3\u003c/sub\u003e\u003c/b\u003e.",
+                                                      "• \u003cb\u003eBromide (Br\u003csup\u003e\u0026minus;\u003c/sup\u003e):\u003c/b\u003e Cream precipitate (AgBr). Insoluble in dilute NH\u003csub\u003e3\u003c/sub\u003e; dissolves in \u003cb\u003econcentrated NH\u003csub\u003e3\u003c/sub\u003e\u003c/b\u003e.",
+                                                      "• \u003cb\u003eIodide (I\u003csup\u003e\u0026minus;\u003c/sup\u003e):\u003c/b\u003e Yellow precipitate (AgI). \u003cb\u003eInsoluble in concentrated NH\u003csub\u003e3\u003c/sub\u003e\u003c/b\u003e.",
+                                                      "\u003cb\u003eDisproportionation of Chlorine:\u003c/b\u003e",
+                                                      "• \u003ci\u003eWith water (water treatment):\u003c/i\u003e \u003cb\u003eCl\u003csub\u003e2\u003c/sub\u003e + H\u003csub\u003e2\u003c/sub\u003eO \u0026rightleftharpoons; HClO + HCl\u003c/b\u003e. Chloric(I) acid (HClO) sterilises drinking water. Health benefits far outweigh toxic risks.",
+                                                      "• \u003ci\u003eIn sunlight:\u003c/i\u003e 2Cl\u003csub\u003e2\u003c/sub\u003e + 2H\u003csub\u003e2\u003c/sub\u003eO \u0026rarr; 4HCl + O\u003csub\u003e2\u003c/sub\u003e.",
+                                                      "• \u003ci\u003eWith cold dilute NaOH (bleach):\u003c/i\u003e \u003cb\u003eCl\u003csub\u003e2\u003c/sub\u003e + 2NaOH \u0026rarr; NaClO + NaCl + H\u003csub\u003e2\u003c/sub\u003eO\u003c/b\u003e (sodium chlorate(I) is active bleach)."
+                                                  ]
+                                   }
+                               ]
+              },
+    "3.2.4":  {
+                  "title":  "Topic 3.2.4 · Period 3 Elements \u0026 Their Oxides (A-Level)",
+                  "group":  "Inorganic Chemistry",
+                  "spec":  "Reactions of Period 3 with O2, structures, melting points, reactions with water and pH, acidic/basic/amphoteric behavior",
+                  "sections":  [
+                                   {
+                                       "heading":  "Oxides Formation, Structures \u0026 Melting Points",
+                                       "points":  [
+                                                      "\u003cb\u003eReactions with Oxygen:\u003c/b\u003e",
+                                                      "• 2Na + \u0026frac12;O\u003csub\u003e2\u003c/sub\u003e \u0026rarr; Na\u003csub\u003e2\u003c/sub\u003eO (yellow flame, white solid)",
+                                                      "• Mg + \u0026frac12;O\u003csub\u003e2\u003c/sub\u003e \u0026rarr; MgO (brilliant white flame, white solid)",
+                                                      "• 4Al + 3O\u003csub\u003e2\u003c/sub\u003e \u0026rarr; 2Al\u003csub\u003e2\u003c/sub\u003eO\u003csub\u003e3\u003c/sub\u003e (bright white sparks)",
+                                                      "• Si + O\u003csub\u003e2\u003c/sub\u003e \u0026rarr; SiO\u003csub\u003e2\u003c/sub\u003e (slow reaction)",
+                                                      "• P\u003csub\u003e4\u003c/sub\u003e + 5O\u003csub\u003e2\u003c/sub\u003e \u0026rarr; P\u003csub\u003e4\u003c/sub\u003eO\u003csub\u003e10\u003c/sub\u003e (vigorous white flame, dense white smoke)",
+                                                      "• S + O\u003csub\u003e2\u003c/sub\u003e \u0026rarr; SO\u003csub\u003e2\u003c/sub\u003e (blue flame, choking gas); 2SO\u003csub\u003e2\u003c/sub\u003e + O\u003csub\u003e2\u003c/sub\u003e \u0026rightleftharpoons; 2SO\u003csub\u003e3\u003c/sub\u003e",
+                                                      "\u003cb\u003eStructure \u0026 mp:\u003c/b\u003e Na\u003csub\u003e2\u003c/sub\u003eO, MgO, Al\u003csub\u003e2\u003c/sub\u003eO\u003csub\u003e3\u003c/sub\u003e have giant ionic lattices (high mp; MgO highest due to Mg\u003csup\u003e2+\u003c/sup\u003e and O\u003csup\u003e2\u0026minus;\u003c/sup\u003e high charge density). SiO\u003csub\u003e2\u003c/sub\u003e is giant covalent (very high mp). P\u003csub\u003e4\u003c/sub\u003eO\u003csub\u003e10\u003c/sub\u003e, SO\u003csub\u003e2\u003c/sub\u003e, SO\u003csub\u003e3\u003c/sub\u003e are simple molecular with weak van der Waals (low mp)."
+                                                  ]
+                                   },
+                                   {
+                                       "heading":  "Reactions with Water \u0026 Acid-Base Character",
+                                       "points":  [
+                                                      "\u003cb\u003eReactions with Water:\u003c/b\u003e",
+                                                      "• Na\u003csub\u003e2\u003c/sub\u003eO(s) + H\u003csub\u003e2\u003c/sub\u003eO(l) \u0026rarr; 2NaOH(aq) (strongly alkaline, pH ~14)",
+                                                      "• MgO(s) + H\u003csub\u003e2\u003c/sub\u003eO(l) \u0026rightleftharpoons; Mg(OH)\u003csub\u003e2\u003c/sub\u003e(aq) (sparingly soluble, pH ~9)",
+                                                      "• Al\u003csub\u003e2\u003c/sub\u003eO\u003csub\u003e3\u003c/sub\u003e and SiO\u003csub\u003e2\u003c/sub\u003e: Insoluble in water due to high lattice/covalent energy (pH 7).",
+                                                      "• P\u003csub\u003e4\u003c/sub\u003eO\u003csub\u003e10\u003c/sub\u003e(s) + 6H\u003csub\u003e2\u003c/sub\u003eO(l) \u0026rarr; 4H\u003csub\u003e3\u003c/sub\u003ePO\u003csub\u003e4\u003c/sub\u003e(aq) (phosphoric(V) acid, pH 0\u0026ndash;1)",
+                                                      "• SO\u003csub\u003e2\u003c/sub\u003e(g) + H\u003csub\u003e2\u003c/sub\u003eO(l) \u0026rightleftharpoons; H\u003csub\u003e2\u003c/sub\u003eSO\u003csub\u003e3\u003c/sub\u003e(aq) (sulfuric(IV) acid, pH 2\u0026ndash;3)",
+                                                      "• SO\u003csub\u003e3\u003c/sub\u003e(l) + H\u003csub\u003e2\u003c/sub\u003eO(l) \u0026rarr; H\u003csub\u003e2\u003c/sub\u003eSO\u003csub\u003e4\u003c/sub\u003e(aq) (sulfuric(VI) acid, pH 0)",
+                                                      "\u003cb\u003eAmphoteric nature of Al\u003csub\u003e2\u003c/sub\u003eO\u003csub\u003e3\u003c/sub\u003e:\u003c/b\u003e",
+                                                      "• Acts as base: Al\u003csub\u003e2\u003c/sub\u003eO\u003csub\u003e3\u003c/sub\u003e + 6HCl \u0026rarr; 2AlCl\u003csub\u003e3\u003c/sub\u003e + 3H\u003csub\u003e2\u003c/sub\u003eO",
+                                                      "• Acts as acid: Al\u003csub\u003e2\u003c/sub\u003eO\u003csub\u003e3\u003c/sub\u003e + 2NaOH + 3H\u003csub\u003e2\u003c/sub\u003eO \u0026rarr; 2Na[Al(OH)\u003csub\u003e4\u003c/sub\u003e]"
+                                                  ]
+                                   }
+                               ]
+              },
+    "3.2.5":  {
+                  "title":  "Topic 3.2.5 · Transition Metals (A-Level)",
+                  "group":  "Inorganic Chemistry",
+                  "spec":  "Transition metal characteristics, complexes, ligands, isomerism, origin of colour, variable oxidation states, catalysts",
+                  "sections":  [
+                                   {
+                                       "heading":  "Characteristics \u0026 Ligand Substitution",
+                                       "points":  [
+                                                      "\u003cb\u003eDefinition:\u003c/b\u003e A transition element forms at least one stable ion with a partially filled d sub-level (Sc and Zn are not transition metals).",
+                                                      "\u003cb\u003eProperties:\u003c/b\u003e Variable oxidation states, complex formation, coloured ions, catalytic activity.",
+                                                      "\u003cb\u003eLigands:\u003c/b\u003e Monodentate (H\u003csub\u003e2\u003c/sub\u003eO, NH\u003csub\u003e3\u003c/sub\u003e, Cl\u003csup\u003e\u0026minus;\u003c/sup\u003e), Bidentate (1,2-diaminoethane \u0027en\u0027, C\u003csub\u003e2\u003c/sub\u003eO\u003csub\u003e4\u003c/sub\u003e\u003csup\u003e2\u0026minus;\u003c/sup\u003e), Multidentate (EDTA\u003csup\u003e4\u0026minus;\u003c/sup\u003e, haem).",
+                                                      "\u003cb\u003eChelate Effect:\u003c/b\u003e Substitution of monodentate ligands by multidentate ligands produces more product particles than reactants \u0026rarr; \u003cb\u003e\u0026Delta;S is positive\u003c/b\u003e \u0026rarr; \u0026Delta;G \u0026lt; 0, making the complex far more stable.",
+                                                      "\u003cb\u003eShapes of complexes:\u003c/b\u003e Octahedral (6-coord with small ligands H\u003csub\u003e2\u003c/sub\u003eO, NH\u003csub\u003e3\u003c/sub\u003e, 90\u0026deg;), Tetrahedral (4-coord with large Cl\u003csup\u003e\u0026minus;\u003c/sup\u003e, 109.5\u0026deg; e.g. [CuCl\u003csub\u003e4\u003c/sub\u003e]\u003csup\u003e2\u0026minus;\u003c/sup\u003e), Square planar (cisplatin [Pt(NH\u003csub\u003e3\u003c/sub\u003e)\u003csub\u003e2\u003c/sub\u003eCl\u003csub\u003e2\u003c/sub\u003e]), Linear (Tollens\u0027 [Ag(NH\u003csub\u003e3\u003c/sub\u003e)\u003csub\u003e2\u003c/sub\u003e]\u003csup\u003e+\u003c/sup\u003e)."
+                                                  ]
+                                   },
+                                   {
+                                       "heading":  "Coloured Ions \u0026 Catalysis",
+                                       "points":  [
+                                                      "\u003cb\u003eOrigin of Colour:\u003c/b\u003e Ligands cause 3d orbitals to split into two different energy levels. Electrons absorb specific frequencies of visible light (\u0026Delta;E = h\u0026nu; = hc/\u0026lambda;) to promote an electron from ground state to excited state. Transmitted/reflected light is the complementary colour.",
+                                                      "\u003cb\u003eFactors affecting colour (\u0026Delta;E):\u003c/b\u003e Central metal ion, oxidation state, coordination number, and ligand identity.",
+                                                      "\u003cb\u003eCatalysts:\u003c/b\u003e",
+                                                      "• \u003ci\u003eHeterogeneous (Contact process):\u003c/i\u003e V\u003csub\u003e2\u003c/sub\u003eO\u003csub\u003e5\u003c/sub\u003e + SO\u003csub\u003e2\u003c/sub\u003e \u0026rarr; V\u003csub\u003e2\u003c/sub\u003eO\u003csub\u003e4\u003c/sub\u003e + SO\u003csub\u003e3\u003c/sub\u003e, then V\u003csub\u003e2\u003c/sub\u003eO\u003csub\u003e4\u003c/sub\u003e + \u0026frac12;O\u003csub\u003e2\u003c/sub\u003e \u0026rarr; V\u003csub\u003e2\u003c/sub\u003eO\u003csub\u003e5\u003c/sub\u003e.",
+                                                      "• \u003ci\u003eHomogeneous (S\u003csub\u003e2\u003c/sub\u003eO\u003csub\u003e8\u003c/sub\u003e\u003csup\u003e2\u0026minus;\u003c/sup\u003e + 2I\u003csup\u003e\u0026minus;\u003c/sup\u003e):\u003c/i\u003e Catalysed by Fe\u003csup\u003e2+\u003c/sup\u003e: S\u003csub\u003e2\u003c/sub\u003eO\u003csub\u003e8\u003c/sub\u003e\u003csup\u003e2\u0026minus;\u003c/sup\u003e + 2Fe\u003csup\u003e2+\u003c/sup\u003e \u0026rarr; 2SO\u003csub\u003e4\u003c/sub\u003e\u003csup\u003e2\u0026minus;\u003c/sup\u003e + 2Fe\u003csup\u003e3+\u003c/sup\u003e, then 2Fe\u003csup\u003e3+\u003c/sup\u003e + 2I\u003csup\u003e\u0026minus;\u003c/sup\u003e \u0026rarr; 2Fe\u003csup\u003e2+\u003c/sup\u003e + I\u003csub\u003e2\u003c/sub\u003e.",
+                                                      "• \u003ci\u003eAutocatalysis (MnO\u003csub\u003e4\u003c/sub\u003e\u003csup\u003e\u0026minus;\u003c/sup\u003e + C\u003csub\u003e2\u003c/sub\u003eO\u003csub\u003e4\u003c/sub\u003e\u003csup\u003e2\u0026minus;\u003c/sup\u003e):\u003c/i\u003e Mn\u003csup\u003e2+\u003c/sup\u003e ions produced catalyse the reaction."
+                                                  ]
+                                   }
+                               ]
+              },
+    "3.2.6":  {
+                  "title":  "Topic 3.2.6 · Reactions of Ions in Aqueous Solution (A-Level)",
+                  "group":  "Inorganic Chemistry",
+                  "spec":  "Metal-aqua ions, acidity of 2+ vs 3+ ions, test-tube reactions with NaOH, NH3, and Na2CO3",
+                  "sections":  [
+                                   {
+                                       "heading":  "Acidity of Metal-Aqua Ions",
+                                       "points":  [
+                                                      "\u003cb\u003eMetal-aqua ions:\u003c/b\u003e [Fe(H\u003csub\u003e2\u003c/sub\u003eO)\u003csub\u003e6\u003c/sub\u003e]\u003csup\u003e2+\u003c/sup\u003e (pale green), [Cu(H\u003csub\u003e2\u003c/sub\u003eO)\u003csub\u003e6\u003c/sub\u003e]\u003csup\u003e2+\u003c/sup\u003e (blue), [Fe(H\u003csub\u003e2\u003c/sub\u003eO)\u003csub\u003e6\u003c/sub\u003e]\u003csup\u003e3+\u003c/sup\u003e (purple/yellow-brown), [Al(H\u003csub\u003e2\u003c/sub\u003eO)\u003csub\u003e6\u003c/sub\u003e]\u003csup\u003e3+\u003c/sup\u003e (colourless).",
+                                                      "\u003cb\u003eWhy 3+ ions are more acidic than 2+ ions:\u003c/b\u003e 3+ ions have a higher charge and smaller ionic radius (greater charge/size ratio). They polarise the O\u0026minus;H bonds in coordinated water molecules more strongly, weakening the O\u0026minus;H bond and releasing H\u003csup\u003e+\u003c/sup\u003e into solution."
+                                                  ]
+                                   },
+                                   {
+                                       "heading":  "Test-Tube Observations (Essential Summary Table)",
+                                       "points":  [
+                                                      "\u003cb\u003e[Fe(H\u003csub\u003e2\u003c/sub\u003eO)\u003csub\u003e6\u003c/sub\u003e]\u003csup\u003e2+\u003c/sup\u003e:\u003c/b\u003e +NaOH \u0026rarr; green ppt Fe(H\u003csub\u003e2\u003c/sub\u003eO)\u003csub\u003e4\u003c/sub\u003e(OH)\u003csub\u003e2\u003c/sub\u003e (turns brown in air). +excess NH\u003csub\u003e3\u003c/sub\u003e \u0026rarr; green ppt (insoluble in excess). +Na\u003csub\u003e2\u003c/sub\u003eCO\u003csub\u003e3\u003c/sub\u003e \u0026rarr; green ppt of FeCO\u003csub\u003e3\u003c/sub\u003e (no gas).",
+                                                      "\u003cb\u003e[Cu(H\u003csub\u003e2\u003c/sub\u003eO)\u003csub\u003e6\u003c/sub\u003e]\u003csup\u003e2+\u003c/sup\u003e:\u003c/b\u003e +NaOH \u0026rarr; blue ppt Cu(H\u003csub\u003e2\u003c/sub\u003eO)\u003csub\u003e4\u003c/sub\u003e(OH)\u003csub\u003e2\u003c/sub\u003e. +excess NH\u003csub\u003e3\u003c/sub\u003e \u0026rarr; \u003cb\u003edeep blue solution [Cu(NH\u003csub\u003e3\u003c/sub\u003e)\u003csub\u003e4\u003c/sub\u003e(H\u003csub\u003e2\u003c/sub\u003eO)\u003csub\u003e2\u003c/sub\u003e]\u003csup\u003e2+\u003c/sup\u003e\u003c/b\u003e. +Na\u003csub\u003e2\u003c/sub\u003eCO\u003csub\u003e3\u003c/sub\u003e \u0026rarr; blue-green ppt of CuCO\u003csub\u003e3\u003c/sub\u003e (no gas).",
+                                                      "\u003cb\u003e[Fe(H\u003csub\u003e2\u003c/sub\u003eO)\u003csub\u003e6\u003c/sub\u003e]\u003csup\u003e3+\u003c/sup\u003e:\u003c/b\u003e +NaOH \u0026rarr; brown ppt Fe(H\u003csub\u003e2\u003c/sub\u003eO)\u003csub\u003e3\u003c/sub\u003e(OH)\u003csub\u003e3\u003c/sub\u003e. +NH\u003csub\u003e3\u003c/sub\u003e \u0026rarr; brown ppt. +Na\u003csub\u003e2\u003c/sub\u003eCO\u003csub\u003e3\u003c/sub\u003e \u0026rarr; \u003cb\u003ebrown ppt AND effervescence of CO\u003csub\u003e2\u003c/sub\u003e gas\u003c/b\u003e (3+ ion is acidic enough to liberate CO\u003csub\u003e2\u003c/sub\u003e from carbonate).",
+                                                      "\u003cb\u003e[Al(H\u003csub\u003e2\u003c/sub\u003eO)\u003csub\u003e6\u003c/sub\u003e]\u003csup\u003e3+\u003c/sup\u003e:\u003c/b\u003e +NaOH \u0026rarr; white ppt Al(H\u003csub\u003e2\u003c/sub\u003eO)\u003csub\u003e3\u003c/sub\u003e(OH)\u003csub\u003e3\u003c/sub\u003e; \u003cb\u003eredissolves in excess NaOH to colourless [Al(OH)\u003csub\u003e4\u003c/sub\u003e]\u003csup\u003e\u0026minus;\u003c/sup\u003e\u003c/b\u003e (amphoteric!). +NH\u003csub\u003e3\u003c/sub\u003e \u0026rarr; white ppt (insoluble in excess). +Na\u003csub\u003e2\u003c/sub\u003eCO\u003csub\u003e3\u003c/sub\u003e \u0026rarr; \u003cb\u003ewhite ppt AND effervescence of CO\u003csub\u003e2\u003c/sub\u003e gas\u003c/b\u003e."
+                                                  ]
+                                   }
+                               ]
+              },
+    "3.3.1":  {
+                  "title":  "Topic 3.3.1 · Introduction to Organic Chemistry",
+                  "group":  "Organic Chemistry",
+                  "spec":  "Nomenclature, formulas (empirical, molecular, structural, displayed, skeletal), curly arrow mechanisms, isomerism (structural, E/Z, CIP rules)",
+                  "sections":  [
+                                   {
+                                       "heading":  "Formulas \u0026 IUPAC Rules",
+                                       "points":  [
+                                                      "\u003cb\u003eFormulas:\u003c/b\u003e Empirical (simplest ratio), Molecular (actual count), General (e.g. C\u003csub\u003en\u003c/sub\u003eH\u003csub\u003e2n+2\u003c/sub\u003e), Structural (e.g. CH\u003csub\u003e3\u003c/sub\u003eCH\u003csub\u003e2\u003c/sub\u003eOH), Displayed (all bonds and atoms shown), Skeletal (carbon backbone zigzag, heteroatoms and functional groups explicitly shown).",
+                                                      "\u003cb\u003eIUPAC Nomenclature:\u003c/b\u003e Identify longest continuous carbon chain (stem: meth, eth, prop, but, pent, hex); number chain from end giving lowest locator numbers to functional groups; list substituents alphabetically (ignoring di-, tri- prefixes)."
+                                                  ]
+                                   },
+                                   {
+                                       "heading":  "Reaction Mechanisms \u0026 Isomerism",
+                                       "points":  [
+                                                      "\u003cb\u003eCurly arrows:\u003c/b\u003e Always represent the movement of an \u003cb\u003eelectron pair\u003c/b\u003e. Starts at a lone pair or covalent bond; points to an electron-deficient atom or the site where a new bond is formed.",
+                                                      "\u003cb\u003eStructural Isomerism:\u003c/b\u003e Same molecular formula, different structural formula:",
+                                                      "• \u003ci\u003eChain:\u003c/i\u003e Different carbon skeleton arrangement.",
+                                                      "• \u003ci\u003ePosition:\u003c/i\u003e Same functional group at different positions on carbon skeleton.",
+                                                      "• \u003ci\u003eFunctional group:\u003c/i\u003e Different functional group (e.g. alkene vs cycloalkane, alcohol vs ether, aldehyde vs ketone, carboxylic acid vs ester).",
+                                                      "\u003cb\u003eStereoisomerism:\u003c/b\u003e Same structural formula, different arrangement of atoms in 3D space.",
+                                                      "\u003cb\u003eE/Z Isomerism:\u003c/b\u003e Arises from restricted rotation about planar C=C double bond, and each C atom having two different groups attached. \u003cb\u003eCahn-Ingold-Prelog (CIP) priority:\u003c/b\u003e Higher atomic number gets higher priority on each double-bonded carbon. Z = high priority on same side (z-zame zide); E = high priority on opposite sides."
+                                                  ]
+                                   }
+                               ]
+              },
+    "3.3.2":  {
+                  "title":  "Topic 3.3.2 · Alkanes",
+                  "group":  "Organic Chemistry",
+                  "spec":  "Fractional distillation of crude oil, cracking, combustion, pollution, free-radical chlorination mechanism",
+                  "sections":  [
+                                   {
+                                       "heading":  "Fractional Distillation \u0026 Cracking",
+                                       "points":  [
+                                                      "\u003cb\u003eAlkanes:\u003c/b\u003e Saturated hydrocarbons with general formula C\u003csub\u003en\u003c/sub\u003eH\u003csub\u003e2n+2\u003c/sub\u003e. Non-polar, held by weak van der Waals forces.",
+                                                      "\u003cb\u003eFractional distillation:\u003c/b\u003e Fractionating column has temperature gradient (hot at bottom, cool at top). Hydrocarbons vaporised; separate by boiling point (smaller molecules condense near top).",
+                                                      "\u003cb\u003eThermal Cracking:\u003c/b\u003e High temperature (700\u0026ndash;1200 K) and high pressure (up to 7000 kPa). Produces high percentage of \u003cb\u003ealkenes\u003c/b\u003e (used for polymers).",
+                                                      "\u003cb\u003eCatalytic Cracking:\u003c/b\u003e Slight pressure, high temperature (720 K), \u003cb\u003ezeolite catalyst\u003c/b\u003e. Produces branched alkanes, cycloalkanes, and aromatic hydrocarbons (used for motor fuels)."
+                                                  ]
+                                   },
+                                   {
+                                       "heading":  "Combustion \u0026 Free-Radical Substitution",
+                                       "points":  [
+                                                      "\u003cb\u003ePollutants:\u003c/b\u003e Complete combustion gives CO\u003csub\u003e2\u003c/sub\u003e and H\u003csub\u003e2\u003c/sub\u003eO. Incomplete combustion gives toxic CO and carbon soot. High temperatures in internal combustion engines cause N\u003csub\u003e2\u003c/sub\u003e and O\u003csub\u003e2\u003c/sub\u003e to react forming NO\u003csub\u003ex\u003c/sub\u003e.",
+                                                      "\u003cb\u003eCatalytic converters:\u003c/b\u003e Platinum/rhodium catalyst: \u003cb\u003e2NO + 2CO \u0026rarr; N\u003csub\u003e2\u003c/sub\u003e + 2CO\u003csub\u003e2\u003c/sub\u003e\u003c/b\u003e.",
+                                                      "\u003cb\u003eFree-Radical Substitution of Methane (CH\u003csub\u003e4\u003c/sub\u003e + Cl\u003csub\u003e2\u003c/sub\u003e):\u003c/b\u003e",
+                                                      "• \u003ci\u003eInitiation:\u003c/i\u003e Cl\u003csub\u003e2\u003c/sub\u003e \u0026rarr; 2Cl\u003csup\u003e\u0026bull;\u003c/sup\u003e (homolytic fission triggered by UV light).",
+                                                      "• \u003ci\u003ePropagation 1:\u003c/i\u003e Cl\u003csup\u003e\u0026bull;\u003c/sup\u003e + CH\u003csub\u003e4\u003c/sub\u003e \u0026rarr; \u003csup\u003e\u0026bull;\u003c/sup\u003eCH\u003csub\u003e3\u003c/sub\u003e + HCl.",
+                                                      "• \u003ci\u003ePropagation 2:\u003c/i\u003e \u003csup\u003e\u0026bull;\u003c/sup\u003eCH\u003csub\u003e3\u003c/sub\u003e + Cl\u003csub\u003e2\u003c/sub\u003e \u0026rarr; CH\u003csub\u003e3\u003c/sub\u003eCl + Cl\u003csup\u003e\u0026bull;\u003c/sup\u003e.",
+                                                      "• \u003ci\u003eTermination:\u003c/i\u003e \u003csup\u003e\u0026bull;\u003c/sup\u003eCH\u003csub\u003e3\u003c/sub\u003e + Cl\u003csup\u003e\u0026bull;\u003c/sup\u003e \u0026rarr; CH\u003csub\u003e3\u003c/sub\u003eCl; \u003csup\u003e\u0026bull;\u003c/sup\u003eCH\u003csub\u003e3\u003c/sub\u003e + \u003csup\u003e\u0026bull;\u003c/sup\u003eCH\u003csub\u003e3\u003c/sub\u003e \u0026rarr; C\u003csub\u003e2\u003c/sub\u003eH\u003csub\u003e6\u003c/sub\u003e; Cl\u003csup\u003e\u0026bull;\u003c/sup\u003e + Cl\u003csup\u003e\u0026bull;\u003c/sup\u003e \u0026rarr; Cl\u003csub\u003e2\u003c/sub\u003e."
+                                                  ]
+                                   }
+                               ]
+              },
+    "3.3.3":  {
+                  "title":  "Topic 3.3.3 · Halogenoalkanes",
+                  "group":  "Organic Chemistry",
+                  "spec":  "Nucleophilic substitution mechanisms, bond enthalpy vs polarity, elimination reactions, ozone depletion by CFCs",
+                  "sections":  [
+                                   {
+                                       "heading":  "Nucleophilic Substitution Mechanisms",
+                                       "points":  [
+                                                      "\u003cb\u003ePolar C\u0026minus;X bond:\u003c/b\u003e Carbon has partial positive charge (\u0026delta;+) attacked by electron-rich nucleophiles.",
+                                                      "• \u003cb\u003eWarm aqueous NaOH:\u003c/b\u003e Nucleophile :OH\u003csup\u003e\u0026minus;\u003c/sup\u003e replaces X to form \u003cb\u003ealcohols\u003c/b\u003e.",
+                                                      "• \u003cb\u003eEthanolic KCN:\u003c/b\u003e Nucleophile :CN\u003csup\u003e\u0026minus;\u003c/sup\u003e forms \u003cb\u003enitriles\u003c/b\u003e (extends carbon chain by one carbon atom).",
+                                                      "• \u003cb\u003eExcess ethanolic NH\u003csub\u003e3\u003c/sub\u003e under pressure:\u003c/b\u003e Nucleophile :NH\u003csub\u003e3\u003c/sub\u003e forms \u003cb\u003eprimary amines\u003c/b\u003e (excess NH\u003csub\u003e3\u003c/sub\u003e prevents further substitution).",
+                                                      "\u003cb\u003eReactivity order:\u003c/b\u003e \u003cb\u003eR\u0026minus;I \u0026gt; R\u0026minus;Br \u0026gt; R\u0026minus;Cl \u0026gt; R\u0026minus;F\u003c/b\u003e. The \u003cb\u003eC\u0026minus;I bond enthalpy is the lowest\u003c/b\u003e and easiest to break, so iodoalkanes react fastest regardless of bond polarity."
+                                                  ]
+                                   },
+                                   {
+                                       "heading":  "Elimination vs Substitution \u0026 Ozone Layer",
+                                       "points":  [
+                                                      "\u003cb\u003eElimination:\u003c/b\u003e Reagent: \u003cb\u003ehot ethanolic KOH\u003c/b\u003e. The OH\u003csup\u003e\u0026minus;\u003c/sup\u003e acts as a \u003cb\u003ebase\u003c/b\u003e, abstracting a proton from an adjacent carbon atom, forming an \u003cb\u003ealkene\u003c/b\u003e + H\u003csub\u003e2\u003c/sub\u003eO + X\u003csup\u003e\u0026minus;\u003c/sup\u003e.",
+                                                      "\u003cb\u003eCondition comparison:\u003c/b\u003e Aqueous + warm \u0026rarr; substitution. Ethanolic + hot reflux \u0026rarr; elimination.",
+                                                      "\u003cb\u003eOzone Depletion by CFCs:\u003c/b\u003e",
+                                                      "• UV photolysis: \u003cb\u003eCF\u003csub\u003e2\u003c/sub\u003eCl\u003csub\u003e2\u003c/sub\u003e \u0026rarr; \u003csup\u003e\u0026bull;\u003c/sup\u003eCF\u003csub\u003e2\u003c/sub\u003eCl + Cl\u003csup\u003e\u0026bull;\u003c/sup\u003e\u003c/b\u003e",
+                                                      "• Catalytic destruction: \u003cb\u003eCl\u003csup\u003e\u0026bull;\u003c/sup\u003e + O\u003csub\u003e3\u003c/sub\u003e \u0026rarr; ClO\u003csup\u003e\u0026bull;\u003c/sup\u003e + O\u003csub\u003e2\u003c/sub\u003e\u003c/b\u003e and \u003cb\u003eClO\u003csup\u003e\u0026bull;\u003c/sup\u003e + O\u003csub\u003e3\u003c/sub\u003e \u0026rarr; Cl\u003csup\u003e\u0026bull;\u003c/sup\u003e + 2O\u003csub\u003e2\u003c/sub\u003e\u003c/b\u003e (overall 2O\u003csub\u003e3\u003c/sub\u003e \u0026rarr; 3O\u003csub\u003e2\u003c/sub\u003e). Chlorine radicals are regenerated to destroy thousands of ozone molecules."
+                                                  ]
+                                   }
+                               ]
+              },
+    "3.3.4":  {
+                  "title":  "Topic 3.3.4 · Alkenes",
+                  "group":  "Organic Chemistry",
+                  "spec":  "Electrophilic addition reactions with HBr, H2SO4, Br2; carbocation stabilities, addition polymers",
+                  "sections":  [
+                                   {
+                                       "heading":  "Electrophilic Addition Reactions \u0026 Mechanisms",
+                                       "points":  [
+                                                      "\u003cb\u003eReactivity:\u003c/b\u003e C=C double bond consists of a \u0026sigma; bond and an exposed \u0026pi; bond of high electron density, attracting electrophiles.",
+                                                      "• \u003cb\u003eWith Br\u003csub\u003e2\u003c/sub\u003e:\u003c/b\u003e Induced dipole on Br\u003csub\u003e2\u003c/sub\u003e. Carbocation intermediate formed. Forms 1,2-dibromoalkane. \u003cb\u003eBromine water test:\u003c/b\u003e Orange to colourless confirms unsaturation.",
+                                                      "• \u003cb\u003eWith HBr:\u003c/b\u003e Forms bromoalkane.",
+                                                      "• \u003cb\u003eWith conc H\u003csub\u003e2\u003c/sub\u003eSO\u003csub\u003e4\u003c/sub\u003e:\u003c/b\u003e Forms alkyl hydrogen sulfate, which upon adding water and warming hydrolyses to an \u003cb\u003ealcohol\u003c/b\u003e (regeneration of H\u003csub\u003e2\u003c/sub\u003eSO\u003csub\u003e4\u003c/sub\u003e catalyst).",
+                                                      "\u003cb\u003eMajor vs Minor Products (Markovnikov\u0027s Rule):\u003c/b\u003e In unsymmetrical alkenes, the electrophile H\u003csup\u003e+\u003c/sup\u003e attaches to the carbon with more hydrogens, creating the \u003cb\u003emore stable carbocation intermediate\u003c/b\u003e (stability: \u003cb\u003etertiary \u0026gt; secondary \u0026gt; primary\u003c/b\u003e due to positive inductive effect of alkyl groups)."
+                                                  ]
+                                   },
+                                   {
+                                       "heading":  "Addition Polymers",
+                                       "points":  [
+                                                      "\u003cb\u003eFormation:\u003c/b\u003e Alkenes join together with no other product. \u0026pi; bond breaks to link monomer units.",
+                                                      "\u003cb\u003ePoly(chloroethene) (PVC):\u003c/b\u003e Rigid and waterproof; used for drainpipes and window frames. Addition of \u003cb\u003eplasticisers\u003c/b\u003e pushes chains apart, allowing them to slide, making PVC flexible (used for electrical cable insulation and clothing).",
+                                                      "\u003cb\u003eProperties:\u003c/b\u003e Saturated non-polar carbon backbone makes polyalkenes chemically inert and non-biodegradable."
+                                                  ]
+                                   }
+                               ]
+              },
+    "3.3.5":  {
+                  "title":  "Topic 3.3.5 · Alcohols",
+                  "group":  "Organic Chemistry",
+                  "spec":  "Industrial production (fermentation vs hydration), biofuels, oxidation of alcohols, elimination/dehydration",
+                  "sections":  [
+                                   {
+                                       "heading":  "Production of Ethanol \u0026 Biofuels",
+                                       "points":  [
+                                                      "\u003cb\u003e1. Hydration of Ethene:\u003c/b\u003e CH\u003csub\u003e2\u003c/sub\u003e=CH\u003csub\u003e2\u003c/sub\u003e + H\u003csub\u003e2\u003c/sub\u003eO(g) \u0026rightleftharpoons; CH\u003csub\u003e3\u003c/sub\u003eCH\u003csub\u003e2\u003c/sub\u003eOH. Conditions: conc \u003cb\u003eH\u003csub\u003e3\u003c/sub\u003ePO\u003csub\u003e4\u003c/sub\u003e catalyst\u003c/b\u003e, 300\u0026deg;C, 60 atm. Continuous, pure product, fast, but uses non-renewable crude oil.",
+                                                      "\u003cb\u003e2. Fermentation of Glucose:\u003c/b\u003e C\u003csub\u003e6\u003c/sub\u003eH\u003csub\u003e12\u003c/sub\u003eO\u003csub\u003e6\u003c/sub\u003e \u0026rarr; 2C\u003csub\u003e2\u003c/sub\u003eH\u003csub\u003e5\u003c/sub\u003eOH + 2CO\u003csub\u003e2\u003c/sub\u003e. Conditions: yeast enzyme, 35\u0026deg;C, \u003cb\u003eanaerobic\u003c/b\u003e. Batch process, slow, impure (needs fractional distillation), but uses renewable sugar cane/corn.",
+                                                      "\u003cb\u003eBiofuel \u0026 Carbon Neutrality:\u003c/b\u003e",
+                                                      "• Photosynthesis: 6CO\u003csub\u003e2\u003c/sub\u003e + 6H\u003csub\u003e2\u003c/sub\u003eO \u0026rarr; C\u003csub\u003e6\u003c/sub\u003eH\u003csub\u003e12\u003c/sub\u003eO\u003csub\u003e6\u003c/sub\u003e + 6O\u003csub\u003e2\u003c/sub\u003e (absorbs 6 CO\u003csub\u003e2\u003c/sub\u003e).",
+                                                      "• Fermentation: C\u003csub\u003e6\u003c/sub\u003eH\u003csub\u003e12\u003c/sub\u003eO\u003csub\u003e6\u003c/sub\u003e \u0026rarr; 2C\u003csub\u003e2\u003c/sub\u003eH\u003csub\u003e5\u003c/sub\u003eOH + 2CO\u003csub\u003e2\u003c/sub\u003e (releases 2 CO\u003csub\u003e2\u003c/sub\u003e).",
+                                                      "• Combustion: 2C\u003csub\u003e2\u003c/sub\u003eH\u003csub\u003e5\u003c/sub\u003eOH + 6O\u003csub\u003e2\u003c/sub\u003e \u0026rarr; 4CO\u003csub\u003e2\u003c/sub\u003e + 6H\u003csub\u003e2\u003c/sub\u003eO (releases 4 CO\u003csub\u003e2\u003c/sub\u003e).",
+                                                      "• Theoretically zero net CO\u003csub\u003e2\u003c/sub\u003e, but in practice \u003cb\u003enot carbon neutral\u003c/b\u003e due to fossil fuels burned in transport, farming machinery, fertiliser production, and distillation."
+                                                  ]
+                                   },
+                                   {
+                                       "heading":  "Oxidation \u0026 Elimination of Alcohols",
+                                       "points":  [
+                                                      "\u003cb\u003eOxidising agent:\u003c/b\u003e Acidified potassium dichromate(VI) (K\u003csub\u003e2\u003c/sub\u003eCr\u003csub\u003e2\u003c/sub\u003eO\u003csub\u003e7\u003c/sub\u003e / H\u003csub\u003e2\u003c/sub\u003eSO\u003csub\u003e4\u003c/sub\u003e). Orange Cr\u003csub\u003e2\u003c/sub\u003eO\u003csub\u003e7\u003c/sub\u003e\u003csup\u003e2\u0026minus;\u003c/sup\u003e reduced to green Cr\u003csup\u003e3+\u003c/sup\u003e.",
+                                                      "• \u003cb\u003ePrimary alcohol:\u003c/b\u003e Distil off immediately \u0026rarr; \u003cb\u003eAldehyde\u003c/b\u003e. Reflux with excess oxidiser \u0026rarr; \u003cb\u003eCarboxylic acid\u003c/b\u003e.",
+                                                      "• \u003cb\u003eSecondary alcohol:\u003c/b\u003e Reflux \u0026rarr; \u003cb\u003eKetone\u003c/b\u003e.",
+                                                      "• \u003cb\u003eTertiary alcohol:\u003c/b\u003e \u003cb\u003eCannot be oxidised\u003c/b\u003e (no hydrogen on the carbon bearing the \u0026minus;OH group; solution stays orange).",
+                                                      "\u003cb\u003eElimination (Dehydration):\u003c/b\u003e Heat with conc \u003cb\u003eH\u003csub\u003e2\u003c/sub\u003eSO\u003csub\u003e4\u003c/sub\u003e\u003c/b\u003e or conc \u003cb\u003eH\u003csub\u003e3\u003c/sub\u003ePO\u003csub\u003e4\u003c/sub\u003e\u003c/b\u003e at 170\u0026deg;C: Alcohol \u0026rarr; Alkene + H\u003csub\u003e2\u003c/sub\u003eO. (Produces addition polymers without crude oil)."
+                                                  ]
+                                   }
+                               ]
+              },
+    "3.3.6":  {
+                  "title":  "Topic 3.3.6 · Organic Analysis",
+                  "group":  "Organic Chemistry",
+                  "spec":  "Functional group test-tube reactions, high resolution mass spectrometry, infrared spectroscopy",
+                  "sections":  [
+                                   {
+                                       "heading":  "Chemical Tests for Functional Groups",
+                                       "points":  [
+                                                      "• \u003cb\u003eAlkene:\u003c/b\u003e Shake with bromine water \u0026rarr; \u003cb\u003eOrange to colourless\u003c/b\u003e.",
+                                                      "• \u003cb\u003eHalogenoalkane:\u003c/b\u003e Warm with aqueous NaOH, acidify with HNO\u003csub\u003e3\u003c/sub\u003e, add AgNO\u003csub\u003e3\u003c/sub\u003e \u0026rarr; AgCl white ppt, AgBr cream ppt, AgI yellow ppt.",
+                                                      "• \u003cb\u003e1\u0026deg; and 2\u0026deg; Alcohol:\u003c/b\u003e Warm with acidified K\u003csub\u003e2\u003c/sub\u003eCr\u003csub\u003e2\u003c/sub\u003eO\u003csub\u003e7\u003c/sub\u003e \u0026rarr; \u003cb\u003eOrange to green\u003c/b\u003e.",
+                                                      "• \u003cb\u003eAldehyde vs Ketone:\u003c/b\u003e",
+                                                      "  - \u003ci\u003eTollens\u0027 reagent ([Ag(NH\u003csub\u003e3\u003c/sub\u003e)\u003csub\u003e2\u003c/sub\u003e]\u003csup\u003e+\u003c/sup\u003e):\u003c/i\u003e Warm \u0026rarr; \u003cb\u003eSilver mirror\u003c/b\u003e with aldehyde; no reaction with ketone.",
+                                                      "  - \u003ci\u003eFehling\u0027s solution:\u003c/i\u003e Warm \u0026rarr; \u003cb\u003eBlue solution to brick red precipitate (Cu\u003csub\u003e2\u003c/sub\u003eO)\u003c/b\u003e with aldehyde; stays blue with ketone.",
+                                                      "• \u003cb\u003eCarboxylic acid:\u003c/b\u003e Add Na\u003csub\u003e2\u003c/sub\u003eCO\u003csub\u003e3\u003c/sub\u003e(s) or NaHCO\u003csub\u003e3\u003c/sub\u003e(aq) \u0026rarr; \u003cb\u003eEffervescence of CO\u003csub\u003e2\u003c/sub\u003e gas\u003c/b\u003e (turns limewater cloudy)."
+                                                  ]
+                                   },
+                                   {
+                                       "heading":  "High-Res Mass Spectrometry \u0026 Infrared (IR) Spectroscopy",
+                                       "points":  [
+                                                      "\u003cb\u003eHigh Resolution MS:\u003c/b\u003e Measures molecular ion m/z to 4 or 5 decimal places. Enables distinguishing between molecules with identical integer masses (e.g. C\u003csub\u003e3\u003c/sub\u003eH\u003csub\u003e6\u003c/sub\u003eO = 58.0419 vs C\u003csub\u003e4\u003c/sub\u003eH\u003csub\u003e10\u003c/sub\u003e = 58.0782) using precise isotopic masses.",
+                                                      "\u003cb\u003eInfrared Spectroscopy:\u003c/b\u003e Covalent bonds vibrate and absorb specific IR frequencies corresponding to bond wavenumber.",
+                                                      "• \u003cb\u003eO\u0026minus;H (alcohols):\u003c/b\u003e Broad absorption at \u003cb\u003e3230\u0026ndash;3550 cm\u003csup\u003e\u0026minus;1\u003c/sup\u003e\u003c/b\u003e.",
+                                                      "• \u003cb\u003eO\u0026minus;H (carboxylic acids):\u003c/b\u003e Very broad absorption overlapping C\u0026minus;H at \u003cb\u003e2500\u0026ndash;3000 cm\u003csup\u003e\u0026minus;1\u003c/sup\u003e\u003c/b\u003e.",
+                                                      "• \u003cb\u003eC=O (carbonyl):\u003c/b\u003e Strong sharp peak at \u003cb\u003e1680\u0026ndash;1750 cm\u003csup\u003e\u0026minus;1\u003c/sup\u003e\u003c/b\u003e.",
+                                                      "• \u003cb\u003eC=C (alkene):\u003c/b\u003e Peak at \u003cb\u003e1620\u0026ndash;1680 cm\u003csup\u003e\u0026minus;1\u003c/sup\u003e\u003c/b\u003e.",
+                                                      "\u003cb\u003eFingerprint region (\u0026lt;1500 cm\u003csup\u003e\u0026minus;1\u003c/sup\u003e):\u003c/b\u003e Unique pattern of complex bending vibrations; compare against computer library to identify exact molecule and check purity."
+                                                  ]
+                                   }
+                               ]
+              },
+    "3.3.7":  {
+                  "title":  "Topic 3.3.7 · Optical Isomerism (A-Level)",
+                  "group":  "Organic Chemistry",
+                  "spec":  "Asymmetric carbon atom, enantiomers, plane-polarised light, racemates",
+                  "sections":  [
+                                   {
+                                       "heading":  "Chirality \u0026 Enantiomers",
+                                       "points":  [
+                                                      "\u003cb\u003eChiral centre / Asymmetric carbon:\u003c/b\u003e A carbon atom bonded to four different groups/atoms (marked with an asterisk *C).",
+                                                      "\u003cb\u003eOptical isomers (enantiomers):\u003c/b\u003e Non-superimposable mirror images of each other.",
+                                                      "\u003cb\u003eOptical activity:\u003c/b\u003e Each enantiomer rotates plane-polarised light by equal angles in opposite directions (+ / clockwise and \u0026minus; / anticlockwise).",
+                                                      "\u003cb\u003eRacemic mixture (racemate):\u003c/b\u003e An equimolar (50:50) mixture of two enantiomers. It is \u003cb\u003eoptically inactive\u003c/b\u003e because the opposite rotations of each enantiomer cancel each other out.",
+                                                      "\u003cb\u003eOrigin of racemates:\u003c/b\u003e Formed when planar trigonal groups (e.g. C=O carbonyl or planar carbocation) are attacked by a nucleophile from either face with equal 50% probability."
+                                                  ]
+                                   }
+                               ]
+              },
+    "3.3.8":  {
+                  "title":  "Topic 3.3.8 · Aldehydes \u0026 Ketones (A-Level)",
+                  "group":  "Organic Chemistry",
+                  "spec":  "Nucleophilic addition reactions with NaBH4 and KCN, hazards of cyanide, mechanism",
+                  "sections":  [
+                                   {
+                                       "heading":  "Nucleophilic Addition Mechanisms",
+                                       "points":  [
+                                                      "\u003cb\u003eCarbonyl group polarity:\u003c/b\u003e C=\u0026delta;+ and O=\u0026delta;\u0026minus;. The planar carbon is susceptible to nucleophilic attack.",
+                                                      "\u003cb\u003e1. Reduction using NaBH\u003csub\u003e4\u003c/sub\u003e in aqueous solution:\u003c/b\u003e",
+                                                      "• Nucleophile is hydride ion \u003cb\u003e:H\u003csup\u003e\u0026minus;\u003c/sup\u003e\u003c/b\u003e.",
+                                                      "• Aldehyde \u0026rarr; Primary alcohol; Ketone \u0026rarr; Secondary alcohol.",
+                                                      "• Mechanism: :H\u003csup\u003e\u0026minus;\u003c/sup\u003e attacks C\u003csup\u003e\u0026delta;+\u003c/sup\u003e, C=O \u0026pi; electron pair moves onto O; intermediate alkoxide attacks H\u003csup\u003e\u0026delta;+\u003c/sup\u003e of H\u003csub\u003e2\u003c/sub\u003eO.",
+                                                      "\u003cb\u003e2. Addition of KCN followed by dilute acid:\u003c/b\u003e",
+                                                      "• Forms a \u003cb\u003ehydroxynitrile\u003c/b\u003e (2-hydroxyalkanenitrile). Useful in organic synthesis because it increases chain length by one carbon.",
+                                                      "• Mechanism: :CN\u003csup\u003e\u0026minus;\u003c/sup\u003e attacks planar C=O; O\u003csup\u003e\u0026minus;\u003c/sup\u003e protonated by H\u003csup\u003e+\u003c/sup\u003e.",
+                                                      "• \u003cb\u003eFormation of racemic mixture:\u003c/b\u003e Planar C=O can be attacked by :CN\u003csup\u003e\u0026minus;\u003c/sup\u003e from above or below the plane with equal probability, producing equal amounts of enantiomers.",
+                                                      "• \u003cb\u003eCyanide hazards:\u003c/b\u003e KCN is highly toxic. Acidification releases lethal HCN gas. Must use a fume cupboard."
+                                                  ]
+                                   }
+                               ]
+              },
+    "3.3.9":  {
+                  "title":  "Topic 3.3.9 · Carboxylic Acids \u0026 Derivatives (A-Level)",
+                  "group":  "Organic Chemistry",
+                  "spec":  "Esterification, uses of esters, triglycerides, soap, biodiesel, acylation mechanisms with acyl chlorides and anhydrides",
+                  "sections":  [
+                                   {
+                                       "heading":  "Esters, Fats \u0026 Biodiesel",
+                                       "points":  [
+                                                      "\u003cb\u003eEsterification:\u003c/b\u003e Carboxylic acid + alcohol \u0026rightleftharpoons; Ester + water (conc H\u003csub\u003e2\u003c/sub\u003eSO\u003csub\u003e4\u003c/sub\u003e catalyst, heat under reflux). Sweet smelling, used in perfumes, solvents, food flavourings.",
+                                                      "\u003cb\u003eHydrolysis of esters:\u003c/b\u003e",
+                                                      "• \u003ci\u003eAcid hydrolysis:\u003c/i\u003e Reflux with dilute acid \u0026rightleftharpoons; Carboxylic acid + alcohol (reversible).",
+                                                      "• \u003ci\u003eAlkaline hydrolysis (saponification):\u003c/i\u003e Reflux with aqueous NaOH \u0026rarr; \u003cb\u003eCarboxylate salt + alcohol\u003c/b\u003e (irreversible, higher yield).",
+                                                      "\u003cb\u003eVegetable oils \u0026 fats:\u003c/b\u003e Triesters of propane-1,2,3-triol (glycerol) and long-chain fatty acids. Alkaline hydrolysis produces \u003cb\u003esoap\u003c/b\u003e (sodium salts of fatty acids) and glycerol.",
+                                                      "\u003cb\u003eBiodiesel:\u003c/b\u003e Mixture of methyl esters of fatty acids made by reacting vegetable oils with methanol using a KOH catalyst."
+                                                  ]
+                                   },
+                                   {
+                                       "heading":  "Acylation (Nucleophilic Addition-Elimination)",
+                                       "points":  [
+                                                      "\u003cb\u003eAcylating agents:\u003c/b\u003e Acyl chlorides (RCOCl) and Acid anhydrides ((RCO)\u003csub\u003e2\u003c/sub\u003eO).",
+                                                      "\u003cb\u003eReactions with nucleophiles:\u003c/b\u003e",
+                                                      "• + H\u003csub\u003e2\u003c/sub\u003eO \u0026rarr; Carboxylic acid + HCl / RCOOH (steamy fumes)",
+                                                      "• + Alcohol \u0026rarr; Ester + HCl / RCOOH",
+                                                      "• + NH\u003csub\u003e3\u003c/sub\u003e \u0026rarr; Primary amide + NH\u003csub\u003e4\u003c/sub\u003eCl / RCOONH\u003csub\u003e4\u003c/sub\u003e",
+                                                      "• + Primary amine \u0026rarr; N-substituted amide + R\u0027NH\u003csub\u003e3\u003c/sub\u003eCl",
+                                                      "\u003cb\u003eManufacture of Aspirin:\u003c/b\u003e Salicylic acid (2-hydroxybenzoic acid) + ethanoic anhydride \u0026rarr; Aspirin + ethanoic acid.",
+                                                      "\u003cb\u003eWhy ethanoic anhydride is preferred industrially:\u003c/b\u003e Cheaper; less corrosive; slower and less violent reaction; does not produce dangerous toxic fumes of HCl gas."
+                                                  ]
+                                   }
+                               ]
+              },
+    "3.3.10":  {
+                   "title":  "Topic 3.3.10 · Aromatic Chemistry (A-Level)",
+                   "group":  "Organic Chemistry",
+                   "spec":  "Structure and bonding of benzene, enthalpy of hydrogenation evidence, electrophilic substitution (nitration, Friedel-Crafts)",
+                   "sections":  [
+                                    {
+                                        "heading":  "Structure \u0026 Stability of Benzene",
+                                        "points":  [
+                                                       "\u003cb\u003eBenzene structure:\u003c/b\u003e Planar hexagonal ring (C\u003csub\u003e6\u003c/sub\u003eH\u003csub\u003e6\u003c/sub\u003e). Each C is bonded to 2 other carbons and 1 hydrogen. The remaining p orbital on each carbon overlaps sideways to form a delocalised \u0026pi; electron system above and below the ring. All carbon-carbon bond lengths are identical (0.139 nm, between single and double).",
+                                                       "\u003cb\u003eThermochemical evidence for delocalisation:\u003c/b\u003e",
+                                                       "• Enthalpy of hydrogenation of cyclohexene is \u0026minus;120 kJ mol\u003csup\u003e\u0026minus;1\u003c/sup\u003e.",
+                                                       "• Theoretical cyclohexa-1,3,5-triene (Kekulé model) would be 3 \u0026times; (\u0026minus;120) = \u0026minus;360 kJ mol\u003csup\u003e\u0026minus;1\u003c/sup\u003e.",
+                                                       "• Experimental enthalpy of hydrogenation of benzene is only \u003cb\u003e\u0026minus;208 kJ mol\u003csup\u003e\u0026minus;1\u003c/sup\u003e\u003c/b\u003e.",
+                                                       "• Benzene is \u003cb\u003e152 kJ mol\u003csup\u003e\u0026minus;1\u003c/sup\u003e more stable\u003c/b\u003e than predicted due to delocalisation energy."
+                                                   ]
+                                    },
+                                    {
+                                        "heading":  "Electrophilic Substitution Mechanisms",
+                                        "points":  [
+                                                       "Benzene undergoes substitution rather than addition in order to preserve its stable aromatic \u0026pi; system.",
+                                                       "\u003cb\u003e1. Nitration:\u003c/b\u003e",
+                                                       "• Electrophile generation: \u003cb\u003eHNO\u003csub\u003e3\u003c/sub\u003e + 2H\u003csub\u003e2\u003c/sub\u003eSO\u003csub\u003e4\u003c/sub\u003e \u0026rarr; NO\u003csub\u003e2\u003c/sub\u003e\u003csup\u003e+\u003c/sup\u003e + 2HSO\u003csub\u003e4\u003c/sub\u003e\u003csup\u003e\u0026minus;\u003c/sup\u003e + H\u003csub\u003e3\u003c/sub\u003eO\u003csup\u003e+\u003c/sup\u003e\u003c/b\u003e.",
+                                                       "• Electrophile is the \u003cb\u003enitronium ion (NO\u003csub\u003e2\u003c/sub\u003e\u003csup\u003e+\u003c/sup\u003e)\u003c/b\u003e.",
+                                                       "• Maintain temperature below 55\u0026deg;C to prevent multiple substitutions.",
+                                                       "• Nitrobenzene is reduced to phenylamine for azo dye manufacture.",
+                                                       "\u003cb\u003e2. Friedel-Crafts Acylation:\u003c/b\u003e",
+                                                       "• Electrophile generation: \u003cb\u003eRCOCl + AlCl\u003csub\u003e3\u003c/sub\u003e \u0026rarr; RCO\u003csup\u003e+\u003c/sup\u003e + AlCl\u003csub\u003e4\u003c/sub\u003e\u003csup\u003e\u0026minus;\u003c/sup\u003e\u003c/b\u003e (AlCl\u003csub\u003e3\u003c/sub\u003e is a Lewis acid catalyst).",
+                                                       "• Electrophile is acylium ion (RCO\u003csup\u003e+\u003c/sup\u003e). Product is an aromatic ketone.",
+                                                       "• Catalyst regeneration: AlCl\u003csub\u003e4\u003c/sub\u003e\u003csup\u003e\u0026minus;\u003c/sup\u003e + H\u003csup\u003e+\u003c/sup\u003e \u0026rarr; AlCl\u003csub\u003e3\u003c/sub\u003e + HCl."
+                                                   ]
+                                    }
+                                ]
+               },
+    "3.3.11":  {
+                   "title":  "Topic 3.3.11 · Amines (A-Level)",
+                   "group":  "Organic Chemistry",
+                   "spec":  "Preparation of amines, base properties, nucleophilic substitution with haloalkanes, cationic surfactants",
+                   "sections":  [
+                                    {
+                                        "heading":  "Preparation \u0026 Base Strength",
+                                        "points":  [
+                                                       "\u003cb\u003ePreparation:\u003c/b\u003e",
+                                                       "• \u003ci\u003eFrom halogenoalkanes:\u003c/i\u003e Warm with excess ethanolic NH\u003csub\u003e3\u003c/sub\u003e under pressure.",
+                                                       "• \u003ci\u003eReduction of nitriles:\u003c/i\u003e R\u0026minus;CN + 4[H] \u0026rarr; R\u0026minus;CH\u003csub\u003e2\u003c/sub\u003eNH\u003csub\u003e2\u003c/sub\u003e using LiAlH\u003csub\u003e4\u003c/sub\u003e in dry ether or H\u003csub\u003e2\u003c/sub\u003e / Ni catalyst.",
+                                                       "• \u003ci\u003eAromatic amines:\u003c/i\u003e Reduce nitrobenzene using \u003cb\u003etin (Sn) and concentrated HCl\u003c/b\u003e, then add NaOH to release free phenylamine.",
+                                                       "\u003cb\u003eBase Strength (lone pair availability on N):\u003c/b\u003e",
+                                                       "• \u003cb\u003eSecondary aliphatic \u0026gt; Primary aliphatic \u0026gt; Ammonia \u0026gt; Aromatic amine\u003c/b\u003e.",
+                                                       "• Alkyl groups have positive inductive effect (+I), pushing electron density onto N, making lone pair more available to accept H\u003csup\u003e+\u003c/sup\u003e.",
+                                                       "• In phenylamine, the N lone pair delocalises into the aromatic \u0026pi; ring, drastically reducing availability to accept protons."
+                                                   ]
+                                    },
+                                    {
+                                        "heading":  "Amines as Nucleophiles \u0026 Cationic Surfactants",
+                                        "points":  [
+                                                       "\u003cb\u003eSuccessive substitution:\u003c/b\u003e 1\u0026deg; amine reacts with haloalkane \u0026rarr; 2\u0026deg; amine \u0026rarr; 3\u0026deg; amine \u0026rarr; \u003cb\u003equaternary ammonium salt [R\u003csub\u003e4\u003c/sub\u003eN]\u003csup\u003e+\u003c/sup\u003eX\u003csup\u003e\u0026minus;\u003c/sup\u003e\u003c/b\u003e.",
+                                                       "\u003cb\u003eCationic Surfactants:\u003c/b\u003e Quaternary ammonium salts with a long hydrocarbon tail and positive head. Positive head attracts negative surfaces (hair, fabrics), tail points outward, reducing static friction. Used in fabric softeners and hair conditioners."
+                                                   ]
+                                    }
+                                ]
+               },
+    "3.3.12":  {
+                   "title":  "Topic 3.3.12 · Polymers (A-Level)",
+                   "group":  "Organic Chemistry",
+                   "spec":  "Condensation polymers (polyesters, polyamides), repeating units, intermolecular forces, disposal \u0026 biodegradability",
+                   "sections":  [
+                                    {
+                                        "heading":  "Condensation Polymers",
+                                        "points":  [
+                                                       "\u003cb\u003eCondensation polymerisation:\u003c/b\u003e Monomers join with the elimination of a small molecule (usually H\u003csub\u003e2\u003c/sub\u003eO or HCl).",
+                                                       "\u003cb\u003e1. Polyesters:\u003c/b\u003e Formed from dicarboxylic acid + diol (or hydroxycarboxylic acid).",
+                                                       "• \u003ci\u003eTerylene (PET):\u003c/i\u003e Benzene-1,4-dicarboxylic acid + ethane-1,2-diol. Linkage: ester (\u0026minus;COO\u0026minus;). Used in clothing and drink bottles.",
+                                                       "\u003cb\u003e2. Polyamides:\u003c/b\u003e Formed from dicarboxylic acid + diamine (or amino acid).",
+                                                       "• \u003ci\u003eNylon 6,6:\u003c/i\u003e Hexanedioic acid + hexane-1,6-diamine. Linkage: peptide/amide (\u0026minus;CONH\u0026minus;). Used in ropes and carpets.",
+                                                       "• \u003ci\u003eKevlar:\u003c/i\u003e Benzene-1,4-dicarboxylic acid + benzene-1,4-diamine. Strong rigid chains with \u003cb\u003eextensive intermolecular hydrogen bonding\u003c/b\u003e; used in bulletproof vests and fire protection gear."
+                                                   ]
+                                    },
+                                    {
+                                        "heading":  "Disposal \u0026 Biodegradability",
+                                        "points":  [
+                                                       "\u003cb\u003eAddition polymers (polyalkenes):\u003c/b\u003e Non-polar, chemically inert C\u0026minus;C backbone. Non-biodegradable; persist in landfills for centuries.",
+                                                       "\u003cb\u003eCondensation polymers:\u003c/b\u003e Contain polar ester and amide bonds susceptible to \u003cb\u003ehydrolysis by acid or alkali\u003c/b\u003e; they are \u003cb\u003ebiodegradable\u003c/b\u003e.",
+                                                       "\u003cb\u003eRecycling:\u003c/b\u003e Reduces landfill waste and conserves fossil fuels, but requires sorting and cleaning, which is labour intensive and costly."
+                                                   ]
+                                    }
+                                ]
+               },
+    "3.3.13":  {
+                   "title":  "Topic 3.3.13 · Amino Acids, Proteins \u0026 DNA (A-Level)",
+                   "group":  "Organic Chemistry",
+                   "spec":  "Amino acid zwitterions, peptide links, protein structure, enzymes, DNA structure and base pairing, cisplatin anticancer drug",
+                   "sections":  [
+                                    {
+                                        "heading":  "Amino Acids \u0026 Zwitterions",
+                                        "points":  [
+                                                       "\u003cb\u003eStructure:\u003c/b\u003e 2-amino acids contain both \u0026minus;NH\u003csub\u003e2\u003c/sub\u003e and \u0026minus;COOH on the same carbon: H\u003csub\u003e2\u003c/sub\u003eN\u0026minus;CHR\u0026minus;COOH.",
+                                                       "\u003cb\u003eZwitterion:\u003c/b\u003e Dipolar ion formed by internal acid-base transfer: \u003csup\u003e+\u003c/sup\u003eH\u003csub\u003e3\u003c/sub\u003eN\u0026minus;CHR\u0026minus;COO\u003csup\u003e\u0026minus;\u003c/sup\u003e. High melting points due to ionic attraction.",
+                                                       "• \u003ci\u003eIn acidic solution (low pH):\u003c/i\u003e \u0026minus;COO\u003csup\u003e\u0026minus;\u003c/sup\u003e gains H\u003csup\u003e+\u003c/sup\u003e \u0026rarr; cation \u003csup\u003e+\u003c/sup\u003eH\u003csub\u003e3\u003c/sub\u003eN\u0026minus;CHR\u0026minus;COOH.",
+                                                       "• \u003ci\u003eIn alkaline solution (high pH):\u003c/i\u003e \u003csup\u003e+\u003c/sup\u003eH\u003csub\u003e3\u003c/sub\u003eN\u0026minus; loses H\u003csup\u003e+\u003c/sup\u003e \u0026rarr; anion H\u003csub\u003e2\u003c/sub\u003eN\u0026minus;CHR\u0026minus;COO\u003csup\u003e\u0026minus;\u003c/sup\u003e."
+                                                   ]
+                                    },
+                                    {
+                                        "heading":  "Proteins, Enzymes, DNA \u0026 Cisplatin",
+                                        "points":  [
+                                                       "\u003cb\u003eProtein structure:\u003c/b\u003e Primary (amino acid sequence), Secondary (\u0026alpha;-helix and \u0026beta;-pleated sheets stabilized by hydrogen bonds), Tertiary (3D folding stabilized by H-bonds, ionic bonds, and disulfide \u0026minus;S\u0026minus;S\u0026minus; bridges).",
+                                                       "\u003cb\u003eEnzymes:\u003c/b\u003e Protein catalysts with \u003cb\u003estereospecific active sites\u003c/b\u003e that bind only one optical enantiomer of a substrate. Drugs act as competitive inhibitors.",
+                                                       "\u003cb\u003eDNA (Deoxyribonucleic acid):\u003c/b\u003e Nucleotide = phosphate group + 2-deoxyribose + base (A, T, C, G). Two complementary anti-parallel strands in double helix held by \u003cb\u003ehydrogen bonds between base pairs: A pairs with T (2 H-bonds); C pairs with G (3 H-bonds)\u003c/b\u003e.",
+                                                       "\u003cb\u003eCisplatin:\u003c/b\u003e Platinum(II) complex [Pt(NH\u003csub\u003e3\u003c/sub\u003e)\u003csub\u003e2\u003c/sub\u003eCl\u003csub\u003e2\u003c/sub\u003e]. Acts as anticancer drug: undergoes ligand substitution with N atom on guanine in DNA, kinking the DNA double helix and preventing replication. Side effects: hair loss and kidney damage."
+                                                   ]
+                                    }
+                                ]
+               },
+    "3.3.14":  {
+                   "title":  "Topic 3.3.14 · Organic Synthesis (A-Level)",
+                   "group":  "Organic Chemistry",
+                   "spec":  "Designing multi-step synthetic routes (up to 4 steps), atom economy, avoiding hazardous solvents",
+                   "sections":  [
+                                    {
+                                        "heading":  "Synthetic Strategy \u0026 Green Chemistry",
+                                        "points":  [
+                                                       "\u003cb\u003eMulti-step strategy:\u003c/b\u003e Work backwards (retrosynthesis) identifying required functional group interconversions (FGIs).",
+                                                       "\u003cb\u003eKey synthetic interconversions:\u003c/b\u003e",
+                                                       "• Alkene \u0026rarr; Haloalkane (HX) \u0026rarr; Nitrile (KCN) \u0026rarr; Primary amine (LiAlH\u003csub\u003e4\u003c/sub\u003e) or Carboxylic acid (acid hydrolysis).",
+                                                       "• Alcohol \u0026rarr; Aldehyde / Ketone \u0026rarr; Hydroxynitrile.",
+                                                       "• Benzene \u0026rarr; Nitrobenzene \u0026rarr; Phenylamine \u0026rarr; N-phenylethanamide.",
+                                                       "\u003cb\u003eGreen chemistry goals:\u003c/b\u003e Maximize atom economy, minimize number of reaction steps, avoid toxic solvents and reagents, use renewable feedstocks."
+                                                   ]
+                                    }
+                                ]
+               },
+    "3.3.15":  {
+                   "title":  "Topic 3.3.15 · NMR Spectroscopy (A-Level)",
+                   "group":  "Organic Chemistry",
+                   "spec":  "13C NMR, 1H NMR, chemical shift, integration, splitting patterns (n+1 rule), TMS standard, solvents",
+                   "sections":  [
+                                    {
+                                        "heading":  "Principles \u0026 Reference Standard",
+                                        "points":  [
+                                                       "\u003cb\u003eTetramethylsilane (TMS):\u003c/b\u003e Standard reference assigned \u0026delta; = 0 ppm. Inert, volatile (easily removed), produces a single sharp intense peak with 12 equivalent protons, non-toxic.",
+                                                       "\u003cb\u003eSolvents:\u003c/b\u003e Must not contain protons (1H). Commonly \u003cb\u003eCDCl\u003csub\u003e3\u003c/sub\u003e\u003c/b\u003e (deuterated chloroform) or CCl\u003csub\u003e4\u003c/sub\u003e.",
+                                                       "\u003cb\u003e13C NMR:\u003c/b\u003e Number of peaks = number of distinct carbon environments. Chemical shift (\u0026delta;) indicates environment type (carbonyl C=O at 160\u0026ndash;220 ppm)."
+                                                   ]
+                                    },
+                                    {
+                                        "heading":  "1H NMR Interpretation \u0026 Splitting (n+1 Rule)",
+                                        "points":  [
+                                                       "1. \u003cb\u003eNumber of peaks:\u003c/b\u003e Number of non-equivalent proton environments.",
+                                                       "2. \u003cb\u003eChemical shift (\u0026delta;):\u003c/b\u003e Type of environment (alkyl 0.5\u0026ndash;2, \u0026minus;O\u0026minus;CH\u003csub\u003e3\u003c/sub\u003e 3.5\u0026ndash;4, aromatic 7\u0026ndash;8, aldehyde 9\u0026ndash;10, carboxylic acid 10\u0026ndash;12 ppm).",
+                                                       "3. \u003cb\u003eIntegration trace:\u003c/b\u003e Ratio of protons in each environment.",
+                                                       "4. \u003cb\u003eSpin-spin splitting (n+1 rule):\u003c/b\u003e Peak splits into n+1 sub-peaks, where n is the number of non-equivalent protons on ADJACENT carbons:",
+                                                       "• Singlet (0 neighbours), Doublet (1 neighbour), Triplet (2 neighbours), Quartet (3 neighbours).",
+                                                       "• Protons on \u0026minus;OH and \u0026minus;NH typically do not split adjacent protons and appear as singlets."
+                                                   ]
+                                    }
+                                ]
+               },
+    "3.3.16":  {
+                   "title":  "Topic 3.3.16 · Chromatography (A-Level)",
+                   "group":  "Organic Chemistry",
+                   "spec":  "Thin-layer chromatography (TLC), column chromatography (CC), gas chromatography (GC), Rf values, GC-MS",
+                   "sections":  [
+                                    {
+                                        "heading":  "Chromatographic Principles \u0026 Techniques",
+                                        "points":  [
+                                                       "\u003cb\u003eSeparation mechanism:\u003c/b\u003e Separation depends on the balance between solubility in the moving phase and retention/adsorption by the stationary phase.",
+                                                       "• \u003cb\u003eThin-Layer Chromatography (TLC):\u003c/b\u003e Stationary phase is solid silica or alumina plate; mobile phase is liquid solvent. \u003cb\u003eRetention factor: Rf = (distance by spot) / (distance by solvent front)\u003c/b\u003e.",
+                                                       "• \u003cb\u003eColumn Chromatography (CC):\u003c/b\u003e Used to purify and separate preparative quantities of mixtures. Stationary phase packed into glass column; solvent washes through.",
+                                                       "• \u003cb\u003eGas Chromatography (GC):\u003c/b\u003e Stationary phase is liquid or solid coating in long capillary column; mobile phase is inert carrier gas (He, N\u003csub\u003e2\u003c/sub\u003e). Substances identified by \u003cb\u003eretention time\u003c/b\u003e. Area under peak is proportional to quantity.",
+                                                       "• \u003cb\u003eGC-MS:\u003c/b\u003e GC separates components; MS immediately analyzes each to determine precise molecular mass and fragmentation pattern."
+                                                   ]
+                                    }
+                                ]
+               },
+    "RP":  {
+               "title":  "Topic RP · Required Practicals 1 to 12",
+               "group":  "Practical Assessment",
+               "spec":  "The 12 AQA Required Practicals: apparatus, volumetric techniques, enthalpy, rates, tests for ions, distillation, organic synthesis, electrochemistry, pH curves, TLC",
+               "sections":  [
+                                {
+                                    "heading":  "Physical \u0026 Inorganic Practicals (RP1 – RP6)",
+                                    "points":  [
+                                                   "\u003cb\u003eRP1 (Titration):\u003c/b\u003e Make volumetric solution in volumetric flask (invert to mix), rinse burette and pipette with reagents, concordant titres within 0.10 cm\u003csup\u003e3\u003c/sup\u003e.",
+                                                   "\u003cb\u003eRP2 (Enthalpy):\u003c/b\u003e Polystyrene cup calorimeter, measure initial temp for 3 mins, mix at min 4, record temp every min to min 10. Extrapolate cooling curve back to min 4 to find true \u0026Delta;T. Calculate q = mc\u0026Delta;T.",
+                                                   "\u003cb\u003eRP3 (Rates \u0026 Temp):\u003c/b\u003e Disappearing cross reaction (Na\u003csub\u003e2\u003c/sub\u003eS\u003csub\u003e2\u003c/sub\u003eO\u003csub\u003e3\u003c/sub\u003e + 2HCl \u0026rarr; 2NaCl + SO\u003csub\u003e2\u003c/sub\u003e + S + H\u003csub\u003e2\u003c/sub\u003eO). 1/time is proportional to rate. Plot ln(1/t) vs 1/T for Arrhenius.",
+                                                   "\u003cb\u003eRP4 (Qualitative Analysis):\u003c/b\u003e Test for Group 2 cations with NaOH/H\u003csub\u003e2\u003c/sub\u003eSO\u003csub\u003e4\u003c/sub\u003e; test for NH\u003csub\u003e4\u003c/sub\u003e\u003csup\u003e+\u003c/sup\u003e with warm NaOH and damp red litmus (turns blue); test for halides with acidified AgNO\u003csub\u003e3\u003c/sub\u003e; test for SO\u003csub\u003e4\u003c/sub\u003e\u003csup\u003e2\u0026minus;\u003c/sup\u003e with acidified BaCl\u003csub\u003e2\u003c/sub\u003e; test for CO\u003csub\u003e3\u003c/sub\u003e\u003csup\u003e2\u0026minus;\u003c/sup\u003e with acid (CO\u003csub\u003e2\u003c/sub\u003e turns limewater cloudy).",
+                                                   "\u003cb\u003eRP5 (Distillation):\u003c/b\u003e Distil ethanal from oxidation of ethanol using anti-bumping granules, thermometer bulb level with condenser side-arm, water in at bottom of condenser.",
+                                                   "\u003cb\u003eRP6 (Organic Tests):\u003c/b\u003e Alkene (bromine water), 1\u0026deg;/2\u0026deg; alcohol (acidified dichromate), aldehyde (Tollens\u0027 silver mirror / Fehling\u0027s red ppt), carboxylic acid (Na\u003csub\u003e2\u003c/sub\u003eCO\u003csub\u003e3\u003c/sub\u003e effervescence)."
+                                               ]
+                                },
+                                {
+                                    "heading":  "A-Level Advanced Practicals (RP7 – RP12)",
+                                    "points":  [
+                                                   "\u003cb\u003eRP7 (Rate determination):\u003c/b\u003e Initial rate by clock reaction (e.g. iodine clock) or continuous monitoring (gas syringe volume vs time; tangent to curve gives rate).",
+                                                   "\u003cb\u003eRP8 (Electrochemical Cells):\u003c/b\u003e Clean metal strips with emery paper, degrease, potassium nitrate salt bridge connecting half-cells, high resistance voltmeter.",
+                                                   "\u003cb\u003eRP9 (pH Curves):\u003c/b\u003e Calibrate pH meter using standard buffer solutions (pH 4, 7, 10). Add base in small portions (0.2 cm\u003csup\u003e3\u003c/sup\u003e near equivalence point), plot pH vs volume.",
+                                                   "\u003cb\u003eRP10 (Organic Synthesis \u0026 Purification):\u003c/b\u003e",
+                                                   "• \u003ci\u003eLiquid:\u003c/i\u003e Reflux, separating funnel (wash with NaHCO\u003csub\u003e3\u003c/sub\u003e to remove acid, run off aqueous layer), dry with anhydrous CaCl\u003csub\u003e2\u003c/sub\u003e/MgSO\u003csub\u003e4\u003c/sub\u003e, redistil.",
+                                                   "• \u003ci\u003eSolid (Aspirin):\u003c/i\u003e Dissolve in minimum volume of hot solvent, hot filtration, cool to crystallise, Büchner vacuum filtration, wash with ice-cold solvent, dry in oven. Test purity with melting point apparatus (sharp mp matching literature indicates purity; impurities lower and broaden mp range).",
+                                                   "\u003cb\u003eRP11 (Transition Metal Ions):\u003c/b\u003e Test [Fe(H\u003csub\u003e2\u003c/sub\u003eO)\u003csub\u003e6\u003c/sub\u003e]\u003csup\u003e2+\u003c/sup\u003e, [Cu(H\u003csub\u003e2\u003c/sub\u003eO)\u003csub\u003e6\u003c/sub\u003e]\u003csup\u003e2+\u003c/sup\u003e, [Fe(H\u003csub\u003e2\u003c/sub\u003eO)\u003csub\u003e6\u003c/sub\u003e]\u003csup\u003e3+\u003c/sup\u003e, [Al(H\u003csub\u003e2\u003c/sub\u003eO)\u003csub\u003e6\u003c/sub\u003e]\u003csup\u003e3+\u003c/sup\u003e with NaOH, NH\u003csub\u003e3\u003c/sub\u003e, and Na\u003csub\u003e2\u003c/sub\u003eCO\u003csub\u003e3\u003c/sub\u003e.",
+                                                   "\u003cb\u003eRP12 (Thin-Layer Chromatography):\u003c/b\u003e Spot mixture on pencil line above solvent level, develop in sealed chamber with solvent vapor, visualize with ninhydrin or UV light, calculate Rf values."
+                                               ]
+                                }
+                            ]
+           }
+}

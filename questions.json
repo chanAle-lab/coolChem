@@ -1,0 +1,731 @@
+﻿{
+    "topics":  [
+                   {
+                       "group":  "Physical Chemistry (AS \u0026 A-Level)",
+                       "name":  "Atomic structure",
+                       "id":  "3.1.1"
+                   },
+                   {
+                       "group":  "Physical Chemistry (AS \u0026 A-Level)",
+                       "name":  "Amount of substance",
+                       "id":  "3.1.2"
+                   },
+                   {
+                       "group":  "Physical Chemistry (AS \u0026 A-Level)",
+                       "name":  "Bonding",
+                       "id":  "3.1.3"
+                   },
+                   {
+                       "group":  "Physical Chemistry (AS \u0026 A-Level)",
+                       "name":  "Energetics",
+                       "id":  "3.1.4"
+                   },
+                   {
+                       "group":  "Physical Chemistry (AS \u0026 A-Level)",
+                       "name":  "Kinetics",
+                       "id":  "3.1.5"
+                   },
+                   {
+                       "group":  "Physical Chemistry (AS \u0026 A-Level)",
+                       "name":  "Chemical equilibria \u0026 Kc",
+                       "id":  "3.1.6"
+                   },
+                   {
+                       "group":  "Physical Chemistry (AS \u0026 A-Level)",
+                       "name":  "Redox equations",
+                       "id":  "3.1.7"
+                   },
+                   {
+                       "group":  "Physical Chemistry (A-Level Only)",
+                       "name":  "Thermodynamics",
+                       "id":  "3.1.8"
+                   },
+                   {
+                       "group":  "Physical Chemistry (A-Level Only)",
+                       "name":  "Rate equations \u0026 Arrhenius",
+                       "id":  "3.1.9"
+                   },
+                   {
+                       "group":  "Physical Chemistry (A-Level Only)",
+                       "name":  "Equilibrium constant Kp",
+                       "id":  "3.1.10"
+                   },
+                   {
+                       "group":  "Physical Chemistry (A-Level Only)",
+                       "name":  "Electrode potentials \u0026 cells",
+                       "id":  "3.1.11"
+                   },
+                   {
+                       "group":  "Physical Chemistry (A-Level Only)",
+                       "name":  "Acids, bases \u0026 buffers",
+                       "id":  "3.1.12"
+                   },
+                   {
+                       "group":  "Inorganic Chemistry (AS \u0026 A-Level)",
+                       "name":  "Periodicity",
+                       "id":  "3.2.1"
+                   },
+                   {
+                       "group":  "Inorganic Chemistry (AS \u0026 A-Level)",
+                       "name":  "Group 2, the alkaline earth metals",
+                       "id":  "3.2.2"
+                   },
+                   {
+                       "group":  "Inorganic Chemistry (AS \u0026 A-Level)",
+                       "name":  "Group 7(17), the halogens",
+                       "id":  "3.2.3"
+                   },
+                   {
+                       "group":  "Inorganic Chemistry (A-Level Only)",
+                       "name":  "Period 3 elements \u0026 their oxides",
+                       "id":  "3.2.4"
+                   },
+                   {
+                       "group":  "Inorganic Chemistry (A-Level Only)",
+                       "name":  "Transition metals \u0026 complexes",
+                       "id":  "3.2.5"
+                   },
+                   {
+                       "group":  "Inorganic Chemistry (A-Level Only)",
+                       "name":  "Reactions of ions in aqueous solution",
+                       "id":  "3.2.6"
+                   },
+                   {
+                       "group":  "Organic Chemistry (AS \u0026 A-Level)",
+                       "name":  "Introduction to organic chemistry",
+                       "id":  "3.3.1"
+                   },
+                   {
+                       "group":  "Organic Chemistry (AS \u0026 A-Level)",
+                       "name":  "Alkanes \u0026 fractional distillation",
+                       "id":  "3.3.2"
+                   },
+                   {
+                       "group":  "Organic Chemistry (AS \u0026 A-Level)",
+                       "name":  "Halogenoalkanes",
+                       "id":  "3.3.3"
+                   },
+                   {
+                       "group":  "Organic Chemistry (AS \u0026 A-Level)",
+                       "name":  "Alkenes \u0026 addition polymers",
+                       "id":  "3.3.4"
+                   },
+                   {
+                       "group":  "Organic Chemistry (AS \u0026 A-Level)",
+                       "name":  "Alcohols \u0026 biofuels",
+                       "id":  "3.3.5"
+                   },
+                   {
+                       "group":  "Organic Chemistry (AS \u0026 A-Level)",
+                       "name":  "Organic analysis",
+                       "id":  "3.3.6"
+                   },
+                   {
+                       "group":  "Organic Chemistry (A-Level Only)",
+                       "name":  "Optical isomerism",
+                       "id":  "3.3.7"
+                   },
+                   {
+                       "group":  "Organic Chemistry (A-Level Only)",
+                       "name":  "Aldehydes \u0026 ketones",
+                       "id":  "3.3.8"
+                   },
+                   {
+                       "group":  "Organic Chemistry (A-Level Only)",
+                       "name":  "Carboxylic acids, esters \u0026 acylation",
+                       "id":  "3.3.9"
+                   },
+                   {
+                       "group":  "Organic Chemistry (A-Level Only)",
+                       "name":  "Aromatic chemistry",
+                       "id":  "3.3.10"
+                   },
+                   {
+                       "group":  "Organic Chemistry (A-Level Only)",
+                       "name":  "Amines",
+                       "id":  "3.3.11"
+                   },
+                   {
+                       "group":  "Organic Chemistry (A-Level Only)",
+                       "name":  "Polymers",
+                       "id":  "3.3.12"
+                   },
+                   {
+                       "group":  "Organic Chemistry (A-Level Only)",
+                       "name":  "Amino acids, proteins \u0026 DNA",
+                       "id":  "3.3.13"
+                   },
+                   {
+                       "group":  "Organic Chemistry (A-Level Only)",
+                       "name":  "Organic synthesis",
+                       "id":  "3.3.14"
+                   },
+                   {
+                       "group":  "Organic Chemistry (A-Level Only)",
+                       "name":  "Nuclear magnetic resonance (NMR)",
+                       "id":  "3.3.15"
+                   },
+                   {
+                       "group":  "Organic Chemistry (A-Level Only)",
+                       "name":  "Chromatography",
+                       "id":  "3.3.16"
+                   },
+                   {
+                       "group":  "Practical Assessment \u0026 Skills",
+                       "name":  "Required Practicals (RP1 – RP12)",
+                       "id":  "RP"
+                   }
+               ],
+    "skills":  [
+                   {
+                       "id":  "maths",
+                       "name":  "Maths skills"
+                   },
+                   {
+                       "id":  "practical",
+                       "name":  "Practical skills"
+                   },
+                   {
+                       "id":  "mechanism",
+                       "name":  "Reaction mechanisms"
+                   },
+                   {
+                       "id":  "analysis",
+                       "name":  "Spectroscopy \u0026 analysis"
+                   }
+               ],
+    "levels":  [
+                   {
+                       "id":  "AS",
+                       "name":  "AS Level"
+                   },
+                   {
+                       "id":  "A",
+                       "name":  "A Level"
+                   }
+               ],
+    "papers":  [
+                   {
+                       "year":  2023,
+                       "totalMarks":  105,
+                       "id":  "2023-paper1",
+                       "series":  "Summer",
+                       "level":  "A",
+                       "date":  "2023-06-12",
+                       "spec":  "7405",
+                       "code":  "7405/1",
+                       "duration":  "2 hours",
+                       "unit":  "Paper 1: Inorganic \u0026 Physical"
+                   },
+                   {
+                       "year":  2023,
+                       "totalMarks":  105,
+                       "id":  "2023-paper2",
+                       "series":  "Summer",
+                       "level":  "A",
+                       "date":  "2023-06-19",
+                       "spec":  "7405",
+                       "code":  "7405/2",
+                       "duration":  "2 hours",
+                       "unit":  "Paper 2: Organic \u0026 Physical"
+                   },
+                   {
+                       "year":  2023,
+                       "totalMarks":  90,
+                       "id":  "2023-paper3",
+                       "series":  "Summer",
+                       "level":  "A",
+                       "date":  "2023-06-23",
+                       "spec":  "7405",
+                       "code":  "7405/3",
+                       "duration":  "2 hours",
+                       "unit":  "Paper 3: Practical \u0026 Synoptic"
+                   },
+                   {
+                       "year":  2023,
+                       "totalMarks":  80,
+                       "id":  "2023-as-paper1",
+                       "series":  "Summer",
+                       "level":  "AS",
+                       "date":  "2023-05-18",
+                       "spec":  "7404",
+                       "code":  "7404/1",
+                       "duration":  "1 hour 30 mins",
+                       "unit":  "AS Paper 1: Inorganic \u0026 Physical"
+                   },
+                   {
+                       "year":  2023,
+                       "totalMarks":  80,
+                       "id":  "2023-as-paper2",
+                       "series":  "Summer",
+                       "level":  "AS",
+                       "date":  "2023-05-25",
+                       "spec":  "7404",
+                       "code":  "7404/2",
+                       "duration":  "1 hour 30 mins",
+                       "unit":  "AS Paper 2: Organic \u0026 Physical"
+                   },
+                   {
+                       "year":  2022,
+                       "totalMarks":  105,
+                       "id":  "specimen-paper1",
+                       "series":  "Specimen",
+                       "level":  "A",
+                       "date":  "2022-01-01",
+                       "spec":  "7405",
+                       "code":  "7405/1",
+                       "duration":  "2 hours",
+                       "unit":  "Specimen Paper 1: Inorganic \u0026 Physical"
+                   },
+                   {
+                       "year":  2022,
+                       "totalMarks":  105,
+                       "id":  "specimen-paper2",
+                       "series":  "Specimen",
+                       "level":  "A",
+                       "date":  "2022-01-01",
+                       "spec":  "7405",
+                       "code":  "7405/2",
+                       "duration":  "2 hours",
+                       "unit":  "Specimen Paper 2: Organic \u0026 Physical"
+                   },
+                   {
+                       "year":  2022,
+                       "totalMarks":  90,
+                       "id":  "specimen-paper3",
+                       "series":  "Specimen",
+                       "level":  "A",
+                       "date":  "2022-01-01",
+                       "spec":  "7405",
+                       "code":  "7405/3",
+                       "duration":  "2 hours",
+                       "unit":  "Specimen Paper 3: Practical Skills"
+                   }
+               ],
+    "questions":  [
+                      {
+                          "id":  "2023-p1-q1a",
+                          "paper":  "2023-paper1",
+                          "question":  "1(a)",
+                          "marks":  3,
+                          "page":  2,
+                          "topics":  [
+                                         "3.1.1"
+                                     ],
+                          "skills":  [
+                                         "practical",
+                                         "analysis"
+                                     ],
+                          "summary":  "Explain the principles of operation of a Time of Flight (TOF) mass spectrometer during ionisation, acceleration, and detection.",
+                          "question_text":  "A sample of titanium was analysed in a time of flight (TOF) mass spectrometer. Describe how titanium atoms are ionised, accelerated, and detected in the spectrometer, stating the role of the detector in determining abundance.",
+                          "markscheme_text":  "• Ionisation: Vaporised sample is bombarded with high-energy electrons from an electron gun (or dissolved in volatile solvent and vaporised with high voltage needle) knocking out an electron to form 1+ ions [1 mark].\n• Acceleration: Positive ions are accelerated by an electric field to give all ions the same kinetic energy [1 mark].\n• Detection: Positive ions hit a negatively charged detector plate, gain electrons, and create a current; the current size is proportional to isotopic abundance [1 mark].",
+                          "image":  "",
+                          "figures":  [
+
+                                      ],
+                          "markscheme":  ""
+                      },
+                      {
+                          "id":  "2023-p1-q1b",
+                          "paper":  "2023-paper1",
+                          "question":  "1(b)",
+                          "marks":  4,
+                          "page":  3,
+                          "topics":  [
+                                         "3.1.1"
+                                     ],
+                          "skills":  [
+                                         "maths"
+                                     ],
+                          "summary":  "Calculate the relative atomic mass of titanium from given isotopic abundance data.",
+                          "question_text":  "A sample of titanium contains the isotopes 46Ti (8.0%), 47Ti (7.3%), 48Ti (73.8%), 49Ti (5.5%), and 50Ti (5.4%). Calculate the relative atomic mass (Ar) of this sample of titanium to 1 decimal place.",
+                          "markscheme_text":  "• Ar = ((46*8.0) + (47*7.3) + (48*73.8) + (49*5.5) + (50*5.4)) / 100 [1 mark]\n• Ar = (368.0 + 343.1 + 3542.4 + 269.5 + 270.0) / 100 [1 mark]\n• Ar = 4793 / 100 = 47.93 [1 mark]\n• Final answer to 1 decimal place: 47.9 [1 mark].",
+                          "image":  "",
+                          "figures":  [
+
+                                      ],
+                          "markscheme":  ""
+                      },
+                      {
+                          "id":  "2023-p1-q2a",
+                          "paper":  "2023-paper1",
+                          "question":  "2(a)",
+                          "marks":  3,
+                          "page":  4,
+                          "topics":  [
+                                         "3.1.1"
+                                     ],
+                          "skills":  [
+                                         "practical"
+                                     ],
+                          "summary":  "Explain why the first ionisation energy of sulfur is lower than that of phosphorus.",
+                          "question_text":  "State the electron configurations of phosphorus and sulfur. Explain why the first ionisation energy of sulfur is lower than that of phosphorus despite sulfur having a higher nuclear charge.",
+                          "markscheme_text":  "• Configurations: P = 1s2 2s2 2p6 3s2 3p3 and S = 1s2 2s2 2p6 3s2 3p4 [1 mark].\n• In P, all 3p orbitals are singly occupied [1 mark].\n• In S, one 3p orbital contains a pair of electrons; the repulsion between these paired electrons lowers the energy required to remove one electron [1 mark].",
+                          "image":  "",
+                          "figures":  [
+
+                                      ],
+                          "markscheme":  ""
+                      },
+                      {
+                          "id":  "2023-p1-q3",
+                          "paper":  "2023-paper1",
+                          "question":  "3",
+                          "marks":  5,
+                          "page":  6,
+                          "topics":  [
+                                         "3.1.2"
+                                     ],
+                          "skills":  [
+                                         "maths"
+                                     ],
+                          "summary":  "Calculate the Mr of an unknown volatile liquid hydrocarbon using pV = nRT.",
+                          "question_text":  "In an experiment, 0.220 g of a volatile liquid hydrocarbon was vaporised in a gas syringe at 370 K and 101 kPa pressure. The volume of gas produced was 68.0 cm3. Calculate the relative molecular mass (Mr) of the hydrocarbon. (R = 8.31 J K-1 mol-1).",
+                          "markscheme_text":  "• Convert units: p = 101,000 Pa; V = 68.0 * 10^-6 m3; T = 370 K [1 mark].\n• n = pV / RT [1 mark].\n• n = (101,000 * 68.0 * 10^-6) / (8.31 * 370) = 6.868 / 3074.7 = 0.002234 mol [1 mark].\n• Mr = mass / n = 0.220 / 0.002234 [1 mark].\n• Mr = 98.5 (allow 98.4 - 98.6) [1 mark].",
+                          "image":  "",
+                          "figures":  [
+
+                                      ],
+                          "markscheme":  ""
+                      },
+                      {
+                          "id":  "2023-p1-q4",
+                          "paper":  "2023-paper1",
+                          "question":  "4",
+                          "marks":  4,
+                          "page":  8,
+                          "topics":  [
+                                         "3.1.3"
+                                     ],
+                          "skills":  [
+                                         "practical"
+                                     ],
+                          "summary":  "Predict the shape and bond angle of [XeF4] and explain using VSEPR theory.",
+                          "question_text":  "Deduce the shape and bond angle of a molecule of xenon tetrafluoride (XeF4). Explain your answer using Valence Shell Electron Pair Repulsion (VSEPR) theory.",
+                          "markscheme_text":  "• Central Xe atom has 8 valence electrons + 4 electrons from F = 12 electrons = 6 electron pairs [1 mark].\n• 4 bonding pairs and 2 lone pairs [1 mark].\n• Electron pairs repel to positions of minimum repulsion; lone pairs repel more than bonding pairs and occupy opposite axial positions [1 mark].\n• Shape: Square planar [1 mark]; Bond angle: 90° [1 mark].",
+                          "image":  "",
+                          "figures":  [
+
+                                      ],
+                          "markscheme":  ""
+                      },
+                      {
+                          "id":  "2023-p1-q5",
+                          "paper":  "2023-paper1",
+                          "question":  "5",
+                          "marks":  4,
+                          "page":  10,
+                          "topics":  [
+                                         "3.1.4"
+                                     ],
+                          "skills":  [
+                                         "maths",
+                                         "practical"
+                                     ],
+                          "summary":  "Calculate standard enthalpy of formation using Hess\u0027s Law and combustion enthalpies.",
+                          "question_text":  "Given standard enthalpies of combustion: ΔcH°(C, graphite) = -393.5 kJ mol-1; ΔcH°(H2, g) = -285.8 kJ mol-1; ΔcH°(C3H8, g) = -2219.2 kJ mol-1. Calculate the standard enthalpy of formation of propane, C3H8(g).",
+                          "markscheme_text":  "• Equation: 3C(s) + 4H2(g) -\u003e C3H8(g) [1 mark].\n• Hess\u0027s Law: ΔfH° = SUM(ΔcH° reactants) - SUM(ΔcH° products) [1 mark].\n• ΔfH° = [3*(-393.5) + 4*(-285.8)] - (-2219.2) [1 mark].\n• ΔfH° = [-1180.5 - 1143.2] + 2219.2 = -2323.7 + 2219.2 = -104.5 kJ mol-1 [1 mark].",
+                          "image":  "",
+                          "figures":  [
+
+                                      ],
+                          "markscheme":  ""
+                      },
+                      {
+                          "id":  "2023-p1-q6",
+                          "paper":  "2023-paper1",
+                          "question":  "6",
+                          "marks":  4,
+                          "page":  12,
+                          "topics":  [
+                                         "3.1.8"
+                                     ],
+                          "skills":  [
+                                         "maths"
+                                     ],
+                          "summary":  "Determine the temperature at which the decomposition of CaCO3 becomes feasible using ΔG = ΔH - TΔS.",
+                          "question_text":  "For the reaction CaCO3(s) -\u003e CaO(s) + CO2(g), ΔH° = +178 kJ mol-1 and ΔS° = +161 J K-1 mol-1. Calculate the minimum temperature, in Kelvin, at which this reaction becomes feasible.",
+                          "markscheme_text":  "• State condition for feasibility: ΔG \u003c= 0 [1 mark].\n• Convert ΔS to kJ K-1 mol-1: ΔS = 161 / 1000 = +0.161 kJ K-1 mol-1 [1 mark].\n• At ΔG = 0, T = ΔH / ΔS [1 mark].\n• T = 178 / 0.161 = 1105.6 K (or 1106 K / 833°C) [1 mark].",
+                          "image":  "",
+                          "figures":  [
+
+                                      ],
+                          "markscheme":  ""
+                      },
+                      {
+                          "id":  "2023-p1-q7",
+                          "paper":  "2023-paper1",
+                          "question":  "7",
+                          "marks":  6,
+                          "page":  14,
+                          "topics":  [
+                                         "3.1.12"
+                                     ],
+                          "skills":  [
+                                         "maths"
+                                     ],
+                          "summary":  "Calculate the pH of an acidic buffer solution made from ethanoic acid and sodium ethanoate.",
+                          "question_text":  "A buffer solution is prepared by mixing 250 cm3 of 0.400 mol dm-3 ethanoic acid (Ka = 1.74 * 10^-5 mol dm-3) with 500 cm3 of 0.150 mol dm-3 sodium ethanoate. Calculate the pH of this buffer solution.",
+                          "markscheme_text":  "• Moles of ethanoic acid (HA) = 0.250 * 0.400 = 0.100 mol [1 mark].\n• Moles of sodium ethanoate (A-) = 0.500 * 0.150 = 0.0750 mol [1 mark].\n• Expression: [H+] = Ka * ([HA] / [A-]) or moles ratio [1 mark].\n• [H+] = (1.74 * 10^-5) * (0.100 / 0.0750) = 2.32 * 10^-5 mol dm-3 [1 mark].\n• pH = -log10(2.32 * 10^-5) [1 mark].\n• pH = 4.63 (to 2 decimal places) [1 mark].",
+                          "image":  "",
+                          "figures":  [
+
+                                      ],
+                          "markscheme":  ""
+                      },
+                      {
+                          "id":  "2023-p1-q8",
+                          "paper":  "2023-paper1",
+                          "question":  "8",
+                          "marks":  3,
+                          "page":  16,
+                          "topics":  [
+                                         "3.2.1"
+                                     ],
+                          "skills":  [
+                                         "practical"
+                                     ],
+                          "summary":  "Explain the trend in melting point from sodium to aluminium across Period 3.",
+                          "question_text":  "State and explain the trend in melting points of the metals sodium, magnesium, and aluminium.",
+                          "markscheme_text":  "• Melting point increases from Na to Al [1 mark].\n• Ionic charge increases (Na+ \u003c Mg2+ \u003c Al3+) and ionic radius decreases [1 mark].\n• Number of delocalised electrons per atom increases (1 -\u003e 2 -\u003e 3), leading to stronger metallic bonding (stronger electrostatic attraction between cations and delocalised electrons) [1 mark].",
+                          "image":  "",
+                          "figures":  [
+
+                                      ],
+                          "markscheme":  ""
+                      },
+                      {
+                          "id":  "2023-p1-q9",
+                          "paper":  "2023-paper1",
+                          "question":  "9",
+                          "marks":  4,
+                          "page":  18,
+                          "topics":  [
+                                         "3.2.2"
+                                     ],
+                          "skills":  [
+                                         "practical"
+                                     ],
+                          "summary":  "Explain the trends in solubility of Group 2 hydroxides and sulfates and give their clinical/industrial uses.",
+                          "question_text":  "Describe the trends in solubility of the hydroxides and sulfates of Group 2 elements down the group, and state one medical use of magnesium hydroxide and one use of barium sulfate.",
+                          "markscheme_text":  "• Hydroxides: Solubility increases down the group [1 mark].\n• Sulfates: Solubility decreases down the group [1 mark].\n• Magnesium hydroxide: Used as an antacid in Milk of Magnesia to neutralise excess stomach acid [1 mark].\n• Barium sulfate: Used as a barium meal / X-ray contrast medium because it is insoluble and opaque to X-rays [1 mark].",
+                          "image":  "",
+                          "figures":  [
+
+                                      ],
+                          "markscheme":  ""
+                      },
+                      {
+                          "id":  "2023-p1-q10",
+                          "paper":  "2023-paper1",
+                          "question":  "10",
+                          "marks":  5,
+                          "page":  20,
+                          "topics":  [
+                                         "3.2.3"
+                                     ],
+                          "skills":  [
+                                         "practical"
+                                     ],
+                          "summary":  "Explain observations when solid sodium halides react with concentrated sulfuric acid.",
+                          "question_text":  "State what is observed when concentrated sulfuric acid is added separately to solid sodium chloride and solid sodium iodide. Identify all sulfur-containing reduction products formed in the reaction with sodium iodide.",
+                          "markscheme_text":  "• NaCl: Steamy fumes of HCl gas (acid-base reaction only, no redox) [1 mark].\n• NaI: Purple fumes / black solid of I2 formed [1 mark].\n• Yellow solid sulfur formed [1 mark].\n• Rotten-egg smell of H2S gas and choking gas SO2 [1 mark].\n• Sulfur-containing reduction products: SO2 (+4), S (0), and H2S (-2) [1 mark].",
+                          "image":  "",
+                          "figures":  [
+
+                                      ],
+                          "markscheme":  ""
+                      },
+                      {
+                          "id":  "2023-p1-q11",
+                          "paper":  "2023-paper1",
+                          "question":  "11",
+                          "marks":  5,
+                          "page":  22,
+                          "topics":  [
+                                         "3.2.5"
+                                     ],
+                          "skills":  [
+                                         "practical",
+                                         "analysis"
+                                     ],
+                          "summary":  "Explain the chelate effect in terms of enthalpy and entropy changes.",
+                          "question_text":  "Hexaaquacopper(II) ions react with EDTA4- ions in aqueous solution: [Cu(H2O)6]2+ + EDTA4- -\u003e [Cu(EDTA)]2- + 6H2O. Explain why this reaction has a very large equilibrium constant, referring to enthalpy and entropy changes.",
+                          "markscheme_text":  "• Enthalpy change (ΔH) is close to zero because the same number and type of coordinate bonds (Cu-O and Cu-N) are broken and formed [1 mark].\n• Total number of independent particles increases from 2 on left to 7 on right [1 mark].\n• This results in a large increase in disorder, so entropy change (ΔS) is significantly positive [1 mark].\n• Since ΔG = ΔH - TΔS, a large positive ΔS makes ΔG very negative [1 mark].\n• A highly negative ΔG corresponds to an exceptionally large equilibrium constant (chelate effect) [1 mark].",
+                          "image":  "",
+                          "figures":  [
+
+                                      ],
+                          "markscheme":  ""
+                      },
+                      {
+                          "id":  "2023-p1-q12",
+                          "paper":  "2023-paper1",
+                          "question":  "12",
+                          "marks":  4,
+                          "page":  24,
+                          "topics":  [
+                                         "3.2.6"
+                                     ],
+                          "skills":  [
+                                         "practical"
+                                     ],
+                          "summary":  "Describe and explain observations when aqueous sodium carbonate is added to [Fe(H2O)6]3+ vs [Fe(H2O)6]2+.",
+                          "question_text":  "Compare the observations when aqueous sodium carbonate is added to solutions containing [Fe(H2O)6]2+ and [Fe(H2O)6]3+ ions, and write an ionic equation for the reaction with [Fe(H2O)6]3+.",
+                          "markscheme_text":  "• With Fe2+: Green precipitate of FeCO3 formed; no effervescence [1 mark].\n• With Fe3+: Brown precipitate of Fe(H2O)3(OH)3 formed AND effervescence of CO2 gas [1 mark].\n• Explanation: Fe3+ has a higher charge/size ratio than Fe2+, making [Fe(H2O)6]3+ sufficiently acidic to react with carbonate ions to liberate CO2 [1 mark].\n• Equation: 2[Fe(H2O)6]3+ + 3CO3^2- -\u003e 2Fe(H2O)3(OH)3 + 3CO2 + 3H2O [1 mark].",
+                          "image":  "",
+                          "figures":  [
+
+                                      ],
+                          "markscheme":  ""
+                      },
+                      {
+                          "id":  "2023-p2-q1",
+                          "paper":  "2023-paper2",
+                          "question":  "1",
+                          "marks":  4,
+                          "page":  2,
+                          "topics":  [
+                                         "3.3.3"
+                                     ],
+                          "skills":  [
+                                         "mechanism"
+                                     ],
+                          "summary":  "Outline the mechanism for the nucleophilic substitution of 1-bromobutane with aqueous sodium hydroxide.",
+                          "question_text":  "Outline the mechanism for the reaction between 1-bromobutane and aqueous sodium hydroxide to form butan-1-ol. Include dipole charges, curly arrows, and lone pairs.",
+                          "markscheme_text":  "• Curly arrow from lone pair on :OH- ion to the δ+ carbon atom bonded to Br [1 mark].\n• Dipole indicated correctly: C(δ+) - Br(δ-) [1 mark].\n• Curly arrow from the C-Br bond to the Br atom [1 mark].\n• Correct structures of organic product butan-1-ol and bromide ion :Br- formed [1 mark].",
+                          "image":  "",
+                          "figures":  [
+
+                                      ],
+                          "markscheme":  ""
+                      },
+                      {
+                          "id":  "2023-p2-q2",
+                          "paper":  "2023-paper2",
+                          "question":  "2",
+                          "marks":  4,
+                          "page":  4,
+                          "topics":  [
+                                         "3.3.4"
+                                     ],
+                          "skills":  [
+                                         "mechanism"
+                                     ],
+                          "summary":  "Outline the mechanism for the electrophilic addition of hydrogen bromide to propene.",
+                          "question_text":  "Outline the mechanism for the reaction of propene with hydrogen bromide to form 2-bromopropane as the major product. Explain why 2-bromopropane is formed in higher yield than 1-bromopropane.",
+                          "markscheme_text":  "• Curly arrow from C=C double bond to H(δ+) of H-Br [1 mark].\n• Curly arrow from H-Br bond to Br [1 mark].\n• Structure of secondary carbocation intermediate (CH3-CH+-CH3) [1 mark].\n• Curly arrow from lone pair on :Br- to positive carbon [1 mark].\n• Major product reason: Secondary carbocation is more stable than primary carbocation due to inductive electron-releasing effect of two alkyl groups [1 mark].",
+                          "image":  "",
+                          "figures":  [
+
+                                      ],
+                          "markscheme":  ""
+                      },
+                      {
+                          "id":  "2023-p2-q3",
+                          "paper":  "2023-paper2",
+                          "question":  "3",
+                          "marks":  4,
+                          "page":  6,
+                          "topics":  [
+                                         "3.3.5"
+                                     ],
+                          "skills":  [
+                                         "practical"
+                                     ],
+                          "summary":  "Describe the practical procedure to prepare and purify ethanal from ethanol.",
+                          "question_text":  "Describe how you would prepare ethanal by oxidising ethanol, explaining why immediate distillation is necessary, and describe a chemical test to confirm that ethanal was produced rather than ethanoic acid.",
+                          "markscheme_text":  "• Heat ethanol with acidified potassium dichromate(VI) in distillation apparatus with delivery tube [1 mark].\n• Distil off ethanal immediately as it forms because ethanal has a lower boiling point than ethanol/ethanoic acid; immediate distillation prevents further oxidation to ethanoic acid [1 mark].\n• Test: Add Tollens\u0027 reagent and warm gently in water bath [1 mark].\n• Observation: Silver mirror formed with ethanal (ethanoic acid gives no reaction) [1 mark].",
+                          "image":  "",
+                          "figures":  [
+
+                                      ],
+                          "markscheme":  ""
+                      },
+                      {
+                          "id":  "2023-p2-q4",
+                          "paper":  "2023-paper2",
+                          "question":  "4",
+                          "marks":  4,
+                          "page":  8,
+                          "topics":  [
+                                         "3.3.8"
+                                     ],
+                          "skills":  [
+                                         "mechanism"
+                                     ],
+                          "summary":  "Outline the nucleophilic addition mechanism of propanone with sodium borohydride (NaBH4).",
+                          "question_text":  "Outline the mechanism for the reduction of propanone to propan-2-ol using NaBH4 in aqueous solution. Show the nucleophile as H-.",
+                          "markscheme_text":  "• Curly arrow from lone pair on :H- to the δ+ carbonyl carbon atom [1 mark].\n• Curly arrow from C=O bond to the oxygen atom [1 mark].\n• Structure of intermediate alkoxide ion (CH3)2CH-O- [1 mark].\n• Curly arrow from lone pair on O- to H of H2O and from O-H bond to OH [1 mark].",
+                          "image":  "",
+                          "figures":  [
+
+                                      ],
+                          "markscheme":  ""
+                      },
+                      {
+                          "id":  "2023-p2-q5",
+                          "paper":  "2023-paper2",
+                          "question":  "5",
+                          "marks":  5,
+                          "page":  10,
+                          "topics":  [
+                                         "3.3.10"
+                                     ],
+                          "skills":  [
+                                         "mechanism"
+                                     ],
+                          "summary":  "Outline the mechanism for the nitration of benzene, including generation of the electrophile.",
+                          "question_text":  "Write an equation to show how the electrophile is generated for the nitration of benzene from concentrated nitric and sulfuric acids. Outline the mechanism for the reaction between benzene and this electrophile.",
+                          "markscheme_text":  "• Electrophile equation: HNO3 + 2H2SO4 -\u003e NO2+ + 2HSO4- + H3O+ [1 mark].\n• Curly arrow from benzene delocalised ring to NO2+ ion [1 mark].\n• Structure of intermediate with horseshoe containing positive charge across 5 carbons [1 mark].\n• Curly arrow from C-H bond into ring to restore aromaticity [1 mark].\n• Nitrobenzene and H+ produced [1 mark].",
+                          "image":  "",
+                          "figures":  [
+
+                                      ],
+                          "markscheme":  ""
+                      },
+                      {
+                          "id":  "2023-p2-q6",
+                          "paper":  "2023-paper2",
+                          "question":  "6",
+                          "marks":  5,
+                          "page":  12,
+                          "topics":  [
+                                         "3.3.15"
+                                     ],
+                          "skills":  [
+                                         "analysis"
+                                     ],
+                          "summary":  "Deduce the structure of an organic compound C4H8O2 from its 1H NMR and 13C NMR spectra.",
+                          "question_text":  "An ester with molecular formula C4H8O2 has the following NMR data:\n1H NMR: singlet at δ 2.0 ppm (3H); doublet at δ 1.2 ppm (6H); septet at δ 5.0 ppm (1H).\n13C NMR: 3 peaks.\nDeduce the structure of this ester and justify your answer using the splitting patterns and chemical shifts.",
+                          "markscheme_text":  "• Singlet at δ 2.0 (3H) corresponds to a CH3-C(=O) acetyl group with no neighbouring protons [1 mark].\n• Septet at δ 5.0 (1H) and doublet at δ 1.2 (6H) indicate an isopropyl group -CH(CH3)2 (1H split by 6 neighbours = septet; 6H split by 1 neighbour = doublet) [1 mark].\n• High chemical shift of CH (δ 5.0) shows it is directly bonded to ester oxygen (-COO-CH-) [1 mark].\n• Structure: Isopropyl ethanoate, CH3COOCH(CH3)2 [1 mark].\n• 13C NMR confirms 3 carbon environments: CH3CO, C=O, and -CH(CH3)2 [1 mark].",
+                          "image":  "",
+                          "figures":  [
+
+                                      ],
+                          "markscheme":  ""
+                      },
+                      {
+                          "id":  "2023-p3-q1",
+                          "paper":  "2023-paper3",
+                          "question":  "1",
+                          "marks":  6,
+                          "page":  2,
+                          "topics":  [
+                                         "RP"
+                                     ],
+                          "skills":  [
+                                         "practical",
+                                         "analysis"
+                                     ],
+                          "summary":  "Describe the procedure to recrystallise impure benzoic acid and test its purity.",
+                          "question_text":  "Describe the practical steps involved in purifying a sample of crude benzoic acid by recrystallisation, and explain how the melting point of the product can be determined to confirm its purity.",
+                          "markscheme_text":  "• Dissolve crude sample in the minimum volume of hot solvent [1 mark].\n• Hot filtration through fluted filter paper to remove insoluble impurities [1 mark].\n• Cool filtrate slowly to room temperature / ice bath to allow crystals to reform [1 mark].\n• Filter under reduced pressure using a Buchner funnel and suction flask [1 mark].\n• Wash crystals with ice-cold solvent and dry [1 mark].\n• Purity: Measure melting point using capillary tube apparatus; pure benzoic acid has a sharp melting point matching the literature value (122°C), whereas impurities lower and broaden the melting range [1 mark].",
+                          "image":  "",
+                          "figures":  [
+
+                                      ],
+                          "markscheme":  ""
+                      }
+                  ]
+}
