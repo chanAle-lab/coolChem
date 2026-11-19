@@ -200,9 +200,9 @@ def parse_paper_section_a(qp_doc, ms_doc, paper_id, base_dir):
             # Compute QP vertical bounds
             crop_y0 = max(70, y0 - 8)
             if s_i + 1 < len(subq_indices):
-                crop_y1 = subq_indices[s_i + 1][3] - 6
+                crop_y1 = subq_indices[s_i + 1][1] - 6
             else:
-                crop_y1 = min(qp_page.rect.height - 40, sorted_blocks[-1][3] + 15)
+                crop_y1 = min(qp_page.rect.height - 35, sorted_blocks[-1][3] + 12)
 
             # Combined question label, e.g. "1(a)" or "1(b)(i)"
             full_label = f"{q_num}{sub_lbl}" if q_num and not sub_lbl.startswith(q_num) else sub_lbl
