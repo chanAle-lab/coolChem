@@ -1930,7 +1930,8 @@
       "summary": "Define the terms mass number and atomic number of an atom.",
       "image": "img/2001-june-chm1/q_q1a.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm1/ms_q1a.jpg"
+      "markscheme": "img/2001-june-chm1/ms_q1a.jpg",
+      "markscheme_text": "• Mass number: (number of) protons + (number of) neutrons (1)\n• Atomic number: (number of) protons (1)"
     },
     {
       "id": "2001-june-chm1-q1b",
@@ -1947,7 +1948,8 @@
       "summary": "Symbol, mass number and atomic number for atom with 3 fewer neutrons and 2 fewer protons than 14N.",
       "image": "img/2001-june-chm1/q_q1b.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm1/ms_q1b.jpg"
+      "markscheme": "img/2001-june-chm1/ms_q1b.jpg",
+      "markscheme_text": "^9_5B\n\n• B (or Boron) (1)\n• 9 (mass number) and 5 (atomic number) (1)"
     },
     {
       "id": "2001-june-chm1-q1c",
@@ -1964,7 +1966,8 @@
       "summary": "Electronic configurations of nitrogen atom N and nitride ion N3-.",
       "image": "img/2001-june-chm1/q_q1c.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm1/ms_q1c.jpg"
+      "markscheme": "img/2001-june-chm1/ms_q1c.jpg",
+      "markscheme_text": "• N: 1s^2 2s^2 2p^3 (1)\n• N^3-: 1s^2 2s^2 2p^6 (1)"
     },
     {
       "id": "2001-june-chm1-q1d",
@@ -1981,7 +1984,8 @@
       "summary": "Define the term relative atomic mass of an element.",
       "image": "img/2001-june-chm1/q_q1d.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm1/ms_q1d.jpg"
+      "markscheme": "img/2001-june-chm1/ms_q1d.jpg",
+      "markscheme_text": "• (mean / average) mass of an atom (of an element) (1)\n• / 1/12th of the mass of an atom of ^12C (1)\n\nOR\n\n• [mass of 1 mole of atoms (1)\n• / 1/12th of the mass of 1 mole of ^12C atoms (1)]"
     },
     {
       "id": "2001-june-chm1-q1ei",
@@ -2000,7 +2004,8 @@
       "figures": [
         "img/2001-june-chm1/fig-q1e-spectrum.jpg"
       ],
-      "markscheme": "img/2001-june-chm1/ms_q1ei.jpg"
+      "markscheme": "img/2001-june-chm1/ms_q1ei.jpg",
+      "markscheme_text": "• high speed / beam of electrons from an electron gun (1)\n• knock out an electron from X / forms X^+ (1)"
     },
     {
       "id": "2001-june-chm1-q1eii",
@@ -2019,7 +2024,8 @@
       "figures": [
         "img/2001-june-chm1/fig-q1e-spectrum.jpg"
       ],
-      "markscheme": "img/2001-june-chm1/ms_q1eii.jpg"
+      "markscheme": "img/2001-june-chm1/ms_q1eii.jpg",
+      "markscheme_text": "alter / change / vary magnetic field (or electric field / accelerating potential) (1)"
     },
     {
       "id": "2001-june-chm1-q1eiii",
@@ -2038,7 +2044,8 @@
       "figures": [
         "img/2001-june-chm1/fig-q1e-spectrum.jpg"
       ],
-      "markscheme": "img/2001-june-chm1/ms_q1eiii.jpg"
+      "markscheme": "img/2001-june-chm1/ms_q1eiii.jpg",
+      "markscheme_text": "• [(1 x 82) + (1 x 83) + (6 x 84) + (2 x 86)] / 10 (1)\n• = 84.1 (1)"
     },
     {
       "id": "2001-june-chm1-q1eiv",
@@ -2057,7 +2064,8 @@
       "figures": [
         "img/2001-june-chm1/fig-q1e-spectrum.jpg"
       ],
-      "markscheme": "img/2001-june-chm1/ms_q1eiv.jpg"
+      "markscheme": "img/2001-june-chm1/ms_q1eiv.jpg",
+      "markscheme_text": "Kr / krypton (2)"
     },
     {
       "id": "2001-june-chm1-q2a",
@@ -2074,7 +2082,8 @@
       "summary": "Name given to the number of molecules in one mole of carbon dioxide (Avogadro's number).",
       "image": "img/2001-june-chm1/q_q2a.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm1/ms_q2a.jpg"
+      "markscheme": "img/2001-june-chm1/ms_q2a.jpg",
+      "markscheme_text": "Avogadro's (constant / number) (1)"
     },
     {
       "id": "2001-june-chm1-q2bi",
@@ -2091,7 +2100,8 @@
       "summary": "State the ideal gas equation.",
       "image": "img/2001-june-chm1/q_q2bi.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm1/ms_q2bi.jpg"
+      "markscheme": "img/2001-june-chm1/ms_q2bi.jpg",
+      "markscheme_text": "pV = nRT (1)"
     },
     {
       "id": "2001-june-chm1-q2bii",
@@ -2108,7 +2118,8 @@
       "summary": "Calculate the volume of 1.00 mol of CO2 gas at 298 K and 100 kPa.",
       "image": "img/2001-june-chm1/q_q2bii.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm1/ms_q2bii.jpg"
+      "markscheme": "img/2001-june-chm1/ms_q2bii.jpg",
+      "markscheme_text": "• V = nRT / p = (1.00 x 8.31 x 298) / 100000 (1)\n• = 0.0248 (1)\n• m^3 (1)"
     },
     {
       "id": "2001-june-chm1-q2biii",
@@ -2125,7 +2136,8 @@
       "summary": "Calculate the mass of CO2 gas at 273 K and 500 kPa contained in a 0.0500 m3 cylinder.",
       "image": "img/2001-june-chm1/q_q2biii.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm1/ms_q2biii.jpg"
+      "markscheme": "img/2001-june-chm1/ms_q2biii.jpg",
+      "markscheme_text": "• n = pV / RT = (500000 x 0.00500) / (8.31 x 273) = 1.10 mol (1)\n• M_r(CO_2) = 44.0 (1)\n• mass = 44.0 x 1.10 = 48.5 g (1)"
     },
     {
       "id": "2001-june-chm1-q2c",
@@ -2142,7 +2154,8 @@
       "summary": "Mass of hydrogen formed when 100 cm3 of 5.0 mol dm-3 HCl reacts with excess magnesium.",
       "image": "img/2001-june-chm1/q_q2c.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm1/ms_q2c.jpg"
+      "markscheme": "img/2001-june-chm1/ms_q2c.jpg",
+      "markscheme_text": "• moles of HCl = (100 / 1000) x 5.0 = 0.50 mol (1)\n• moles of H_2 = 0.50 / 2 = 0.25 mol (1)\n• mass of H_2 = 0.25 x 2.0 = 0.50 g (1)"
     },
     {
       "id": "2001-june-chm1-q2di",
@@ -2159,7 +2172,8 @@
       "summary": "Determine the empirical formula of the iron chloride compound from mass percentages.",
       "image": "img/2001-june-chm1/q_q2di.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm1/ms_q2di.jpg"
+      "markscheme": "img/2001-june-chm1/ms_q2di.jpg",
+      "markscheme_text": "• %O = 100 - (38.9 + 16.7) = 44.4% (1)\n• ratio Fe : C : O = (38.9 / 55.8) : (16.7 / 12.0) : (44.4 / 16.0) (1)\n  = 0.697 : 1.39 : 2.78 = 1 : 2 : 4\n• empirical formula = FeC_2O_4 (1)"
     },
     {
       "id": "2001-june-chm1-q2dii",
@@ -2176,7 +2190,8 @@
       "summary": "Balanced equation for the thermal decomposition of the iron compound.",
       "image": "img/2001-june-chm1/q_q2dii.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm1/ms_q2dii.jpg"
+      "markscheme": "img/2001-june-chm1/ms_q2dii.jpg",
+      "markscheme_text": "CO / carbon monoxide (1)"
     },
     {
       "id": "2001-june-chm1-q3a",
@@ -2193,7 +2208,8 @@
       "summary": "Name the type of force that holds particles together in an ionic crystal.",
       "image": "img/2001-june-chm1/q_q3a.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm1/ms_q3a.jpg"
+      "markscheme": "img/2001-june-chm1/ms_q3a.jpg",
+      "markscheme_text": "electrostatic (attraction between oppositely charged ions) (1)"
     },
     {
       "id": "2001-june-chm1-q3b",
@@ -2210,7 +2226,8 @@
       "summary": "What is a covalent bond?",
       "image": "img/2001-june-chm1/q_q3b.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm1/ms_q3b.jpg"
+      "markscheme": "img/2001-june-chm1/ms_q3b.jpg",
+      "markscheme_text": "shared pair of electrons (1)"
     },
     {
       "id": "2001-june-chm1-q3c",
@@ -2227,7 +2244,8 @@
       "summary": "State how a co-ordinate bond is formed.",
       "image": "img/2001-june-chm1/q_q3c.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm1/ms_q3c.jpg"
+      "markscheme": "img/2001-june-chm1/ms_q3c.jpg",
+      "markscheme_text": "• both electrons / electron pair (1)\n• (donated) from the same atom / molecule / species (1)"
     },
     {
       "id": "2001-june-chm1-q3d",
@@ -2244,7 +2262,8 @@
       "summary": "Describe the bonding in a metal.",
       "image": "img/2001-june-chm1/q_q3d.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm1/ms_q3d.jpg"
+      "markscheme": "img/2001-june-chm1/ms_q3d.jpg",
+      "markscheme_text": "• positive ions / cations / lattice of metal ions (1)\n• attracted to delocalised electrons / sea of electrons (1)"
     },
     {
       "id": "2001-june-chm1-q3ei",
@@ -2261,7 +2280,8 @@
       "summary": "What is a permanent dipole?",
       "image": "img/2001-june-chm1/q_q3ei.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm1/ms_q3ei.jpg"
+      "markscheme": "img/2001-june-chm1/ms_q3ei.jpg",
+      "markscheme_text": "• charge separation / unequal sharing of electrons (1)\n• leading to delta + and delta - ends (1)"
     },
     {
       "id": "2001-june-chm1-q3eii",
@@ -2278,7 +2298,8 @@
       "summary": "Explain why a molecule of hydrogen chloride is polar.",
       "image": "img/2001-june-chm1/q_q3eii.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm1/ms_q3eii.jpg"
+      "markscheme": "img/2001-june-chm1/ms_q3eii.jpg",
+      "markscheme_text": "• chlorine is more electronegative than hydrogen (1)\n• attracts electron density / bonding pair towards chlorine (1)"
     },
     {
       "id": "2001-june-chm1-q3eiii",
@@ -2295,7 +2316,8 @@
       "summary": "Name the type of force which exists between molecules of chlorine.",
       "image": "img/2001-june-chm1/q_q3eiii.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm1/ms_q3eiii.jpg"
+      "markscheme": "img/2001-june-chm1/ms_q3eiii.jpg",
+      "markscheme_text": "van der Waals' forces (1)"
     },
     {
       "id": "2001-june-chm1-q3f",
@@ -2312,7 +2334,8 @@
       "summary": "Diagram showing hydrogen bonding between two HF molecules.",
       "image": "img/2001-june-chm1/q_q3f.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm1/ms_q3f.jpg"
+      "markscheme": "img/2001-june-chm1/ms_q3f.jpg",
+      "markscheme_text": "Diagram showing two HF molecules:\n• 3 lone pairs on each F atom (1)\n• partial charges delta + on H and delta - on F (1)\n• hydrogen bond from lone pair on F to delta + H of adjacent molecule (1)"
     },
     {
       "id": "2001-june-chm1-q3g",
@@ -2329,7 +2352,8 @@
       "summary": "Why is there no hydrogen bonding between molecules of hydrogen bromide?",
       "image": "img/2001-june-chm1/q_q3g.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm1/ms_q3g.jpg"
+      "markscheme": "img/2001-june-chm1/ms_q3g.jpg",
+      "markscheme_text": "bromine is not sufficiently electronegative (1)"
     },
     {
       "id": "2001-june-chm1-q4a",
@@ -2346,7 +2370,8 @@
       "summary": "Describe the motion of particles in solid iodine and in iodine vapour.",
       "image": "img/2001-june-chm1/q_q4a.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm1/ms_q4a.jpg"
+      "markscheme": "img/2001-june-chm1/ms_q4a.jpg",
+      "markscheme_text": "• Solid iodine: vibration (1) about a fixed position (1)\n• Iodine vapour: random motion / free to move (1)"
     },
     {
       "id": "2001-june-chm1-q4b",
@@ -2363,7 +2388,8 @@
       "summary": "Explain why solid iodine vaporises when warmed gently.",
       "image": "img/2001-june-chm1/q_q4b.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm1/ms_q4b.jpg"
+      "markscheme": "img/2001-june-chm1/ms_q4b.jpg",
+      "markscheme_text": "• weak intermolecular forces / van der Waals' forces (1)\n• easily overcome / require little energy to break (1)"
     },
     {
       "id": "2001-june-chm1-q4c",
@@ -2380,7 +2406,8 @@
       "summary": "Two physical properties differing between silver and sodium chloride, and reasons.",
       "image": "img/2001-june-chm1/q_q4c.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm1/ms_q4c.jpg"
+      "markscheme": "img/2001-june-chm1/ms_q4c.jpg",
+      "markscheme_text": "• Property 1: silver conducts electricity (1)\n• Reason: delocalised electrons (1) [NaCl has no mobile ions in solid]\n• Property 2: silver is malleable / ductile (1)\n• Reason: layers / planes of atoms / ions can slide over each other (1) [NaCl is brittle]"
     },
     {
       "id": "2001-june-chm1-q4d",
@@ -2397,7 +2424,8 @@
       "summary": "Shapes and bond angles of BeCl2, NCl3 and BeCl4^2- with lone pairs shown.",
       "image": "img/2001-june-chm1/q_q4d.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm1/ms_q4d.jpg"
+      "markscheme": "img/2001-june-chm1/ms_q4d.jpg",
+      "markscheme_text": "• BeCl_2: linear shape Cl-Be-Cl (1), bond angle 180 deg  (1)\n• NCl_3: pyramidal shape with 1 lone pair on N (1), bond angle 106 deg  - 108 deg  (1)\n• BeCl_4^2-: tetrahedral shape [BeCl_4]^2- (1), bond angle 109 deg  - 109.5 deg  (1)"
     },
     {
       "id": "2001-june-chm2-q1a",
