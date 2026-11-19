@@ -4148,7 +4148,8 @@
       "summary": "Define the term standard molar enthalpy of formation.",
       "image": "img/2002-jan-chm2/q_q1a.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm2/ms_q1a.jpg"
+      "markscheme": "img/2002-jan-chm2/ms_q1a.jpg",
+      "markscheme_text": "- (Enthalpy change) when 1 mol of a compound is formed (1)\n- from its constituent elements (1)\n- in their standard states (1)\n\n[Extra Information]:\nmark each point independently\nallow energy or heat\nignore 'evolved or absorbed'"
     },
     {
       "id": "2002-jan-chm2-q1b",
@@ -4165,7 +4166,8 @@
       "summary": "State Hess's law.",
       "image": "img/2002-jan-chm2/q_q1b.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm2/ms_q1b.jpg"
+      "markscheme": "img/2002-jan-chm2/ms_q1b.jpg",
+      "markscheme_text": "(The enthalpy change for a reaction is) independent of the route (1)"
     },
     {
       "id": "2002-jan-chm2-q1c",
@@ -4184,7 +4186,8 @@
       "figures": [
         "img/2002-jan-chm2/fig-q1c-table.jpg"
       ],
-      "markscheme": "img/2002-jan-chm2/ms_q1c.jpg"
+      "markscheme": "img/2002-jan-chm2/ms_q1c.jpg",
+      "markscheme_text": "- &Delta;H<sub>c</sub> = &Sigma;&Delta;H<sub>f</sub>(products) &minus; &Sigma;&Delta;H<sub>f</sub>(reactants) (1)\n- = [(3 &times; &minus;286) + (3 &times; &minus;394)] &minus; (&minus;248) (1)\n- = &minus;1792 (kJ mol<sup>&minus;1</sup>) (1)\n\n[Extra Information]:\ndeduct one mark for each error to zero"
     },
     {
       "id": "2002-jan-chm2-q2a",
@@ -4201,7 +4204,8 @@
       "summary": "State what is meant by the term mean bond enthalpy.",
       "image": "img/2002-jan-chm2/q_q2a.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm2/ms_q2a.jpg"
+      "markscheme": "img/2002-jan-chm2/ms_q2a.jpg",
+      "markscheme_text": "- (Energy required) to break a given covalent bond (1)\n- averaged over a range of compounds (1)\n\n[Extra Information]:\npenalise first mark if 'energy/enthalpy evolved'"
     },
     {
       "id": "2002-jan-chm2-q2bi",
@@ -4220,7 +4224,8 @@
       "figures": [
         "img/2002-jan-chm2/fig-q2b-ethanal.jpg"
       ],
-      "markscheme": "img/2002-jan-chm2/ms_q2bi.jpg"
+      "markscheme": "img/2002-jan-chm2/ms_q2bi.jpg",
+      "markscheme_text": "- 4 &times; (C&minus;H) = 4 &times; 413 = +1652\n&nbsp;&nbsp;1 &times; (C&minus;C) = 1 &times; 347 = 347\n&nbsp;&nbsp;1 &times; (C=O) = 1 &times; 736 = 736\n&nbsp;&nbsp;21/2 &times; (O=O) = 2.5 &times; 498 = 1245\n- Reactants bonds broken: 2735 + 1245 = +3980 (kJ mol<sup>&minus;1</sup>) (1)\n\n[Extra Information]:\nfirst mark for 4 : 1 : 1 or 2735 (1) [ignore sign]"
     },
     {
       "id": "2002-jan-chm2-q2bii",
@@ -4239,7 +4244,8 @@
       "figures": [
         "img/2002-jan-chm2/fig-q2b-ethanal.jpg"
       ],
-      "markscheme": "img/2002-jan-chm2/ms_q2bii.jpg"
+      "markscheme": "img/2002-jan-chm2/ms_q2bii.jpg",
+      "markscheme_text": "- 4 &times; (H&minus;O) = &minus;4 &times; 464 = &minus;1856\n&nbsp;&nbsp;4 &times; (C=O) = &minus;4 &times; 736 = &minus;2944\n- Products bonds formed = &minus;4800 (kJ mol<sup>&minus;1</sup>) (1)\n\n[Extra Information]:\nfirst mark for 4 : 4 (1)"
     },
     {
       "id": "2002-jan-chm2-q2biii",
@@ -4258,7 +4264,8 @@
       "figures": [
         "img/2002-jan-chm2/fig-q2b-ethanal.jpg"
       ],
-      "markscheme": "img/2002-jan-chm2/ms_q2biii.jpg"
+      "markscheme": "img/2002-jan-chm2/ms_q2biii.jpg",
+      "markscheme_text": "&Delta;H = &Sigma;(Bonds broken) &minus; &Sigma;(Bonds made)\n= +3980 &minus; 4800 = &minus;820 (kJ mol<sup>&minus;1</sup>) (1)\n\n[Extra Information]:\nconsequential mark for incorrect answers in (i) and (ii) as (i) Answer + (ii) Answer"
     },
     {
       "id": "2002-jan-chm2-q3ai",
@@ -4277,7 +4284,8 @@
       "figures": [
         "img/2002-jan-chm2/fig-q3a-equation.jpg"
       ],
-      "markscheme": "img/2002-jan-chm2/ms_q3ai.jpg"
+      "markscheme": "img/2002-jan-chm2/ms_q3ai.jpg",
+      "markscheme_text": "- Rates: Rates are equal, forward and backward (1)\n- Concentrations: Concentrations are constant (1)\n\n[Extra Information]:\nQ of L mark"
     },
     {
       "id": "2002-jan-chm2-q3aii",
@@ -4296,7 +4304,8 @@
       "figures": [
         "img/2002-jan-chm2/fig-q3a-equation.jpg"
       ],
-      "markscheme": "img/2002-jan-chm2/ms_q3aii.jpg"
+      "markscheme": "img/2002-jan-chm2/ms_q3aii.jpg",
+      "markscheme_text": "- Equilibrium yield: Decreases (1)\n- Explanation: More moles / molecules of product (or 2 -> 4) (1)\n- Reaction / equilibrium moves to the left / to reduce constraint (1)\n\n[Extra Information]:\nif wrong, allow max 1 for a correct moles statement\n<b>not</b> 'volume' answers\nallow one for 'Reaction favours fewer molecules'"
     },
     {
       "id": "2002-jan-chm2-q3aiii",
@@ -4315,7 +4324,8 @@
       "figures": [
         "img/2002-jan-chm2/fig-q3a-equation.jpg"
       ],
-      "markscheme": "img/2002-jan-chm2/ms_q3aiii.jpg"
+      "markscheme": "img/2002-jan-chm2/ms_q3aiii.jpg",
+      "markscheme_text": "positive / endothermic (1)"
     },
     {
       "id": "2002-jan-chm2-q3aiv",
@@ -4334,7 +4344,8 @@
       "figures": [
         "img/2002-jan-chm2/fig-q3a-equation.jpg"
       ],
-      "markscheme": "img/2002-jan-chm2/ms_q3aiv.jpg"
+      "markscheme": "img/2002-jan-chm2/ms_q3aiv.jpg",
+      "markscheme_text": "- Both forward and backward rates increase / are changed (1)\n- by equal amount / same proportion (1)\n\n[Extra Information]:\nallow one mark for 'Ea of forward and backward reactions reduced by an equal amount'"
     },
     {
       "id": "2002-jan-chm2-q3bi",
@@ -4351,7 +4362,8 @@
       "summary": "Explain why 450 °C is a compromise temperature in the Haber Process.",
       "image": "img/2002-jan-chm2/q_q3bi.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm2/ms_q3bi.jpg"
+      "markscheme": "img/2002-jan-chm2/ms_q3bi.jpg",
+      "markscheme_text": "- The reaction is exothermic (1)\n- High temperature gives a low equilibrium yield (or low temp favours the reaction) (1)\n- Rate of reaction is higher at higher temperature (1)\n\n[Extra Information]:\ndo <b>not</b> allow answers based on cost of higher temp etc."
     },
     {
       "id": "2002-jan-chm2-q3bii",
@@ -4368,7 +4380,8 @@
       "summary": "Explain why 20 MPa is a compromise pressure in the Haber Process.",
       "image": "img/2002-jan-chm2/q_q3bii.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm2/ms_q3bii.jpg"
+      "markscheme": "img/2002-jan-chm2/ms_q3bii.jpg",
+      "markscheme_text": "- Higher pressure gives a higher yield (1)\n- 4 moles of gaseous reactant form 2 moles of gaseous product (1)\n- Higher pressure increases rate of reaction (1)\n- High pressure is expensive to produce (generation / equipment / compression cost factor) (1)\n\n[Extra Information]:\nNB <b>not</b> a safety answer\nequilibrium statement required for mark 2"
     },
     {
       "id": "2002-jan-chm2-q4ai",
@@ -4385,7 +4398,8 @@
       "summary": "Define oxidation in terms of electrons.",
       "image": "img/2002-jan-chm2/q_q4ai.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm2/ms_q4ai.jpg"
+      "markscheme": "img/2002-jan-chm2/ms_q4ai.jpg",
+      "markscheme_text": "loss (of electrons) (1)"
     },
     {
       "id": "2002-jan-chm2-q4aii",
@@ -4402,7 +4416,8 @@
       "summary": "Deduce oxidation states of nitrogen in NO and NH4+.",
       "image": "img/2002-jan-chm2/q_q4aii.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm2/ms_q4aii.jpg"
+      "markscheme": "img/2002-jan-chm2/ms_q4aii.jpg",
+      "markscheme_text": "- Oxidation state of nitrogen in NO: (+)2 (1)\n- Oxidation state of nitrogen in NH<sub>4</sub><sup>+</sup>: &minus;3 (1)"
     },
     {
       "id": "2002-jan-chm2-q4aiii",
@@ -4419,7 +4434,8 @@
       "summary": "Identify the species formed by oxidation in this redox reaction (I2).",
       "image": "img/2002-jan-chm2/q_q4aiii.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm2/ms_q4aiii.jpg"
+      "markscheme": "img/2002-jan-chm2/ms_q4aiii.jpg",
+      "markscheme_text": "I<sub>2</sub> (or iodine) (1)"
     },
     {
       "id": "2002-jan-chm2-q4bi",
@@ -4436,7 +4452,8 @@
       "summary": "Half-equation for formation of chloride ions from chlorine.",
       "image": "img/2002-jan-chm2/q_q4bi.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm2/ms_q4bi.jpg"
+      "markscheme": "img/2002-jan-chm2/ms_q4bi.jpg",
+      "markscheme_text": "Cl<sub>2</sub> + 2e<sup>&minus;</sup> -> 2Cl<sup>&minus;</sup> (1)\n\n[Extra Information]:\nignore state symbols in equations\nallow multiples"
     },
     {
       "id": "2002-jan-chm2-q4bii",
@@ -4453,7 +4470,8 @@
       "summary": "Half-equation for formation of H+ and SO4(2-) from SO2 and H2O.",
       "image": "img/2002-jan-chm2/q_q4bii.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm2/ms_q4bii.jpg"
+      "markscheme": "img/2002-jan-chm2/ms_q4bii.jpg",
+      "markscheme_text": "SO<sub>2</sub> + 2H<sub>2</sub>O -> SO<sub>4</sub><sup>2&minus;</sup> + 4H<sup>+</sup> + 2e<sup>&minus;</sup> (1)\n\n[Extra Information]:\nignore state symbols in equations\nallow multiples"
     },
     {
       "id": "2002-jan-chm2-q4biii",
@@ -4470,7 +4488,8 @@
       "summary": "Overall redox equation for chlorine bubbled into aqueous sulphur dioxide.",
       "image": "img/2002-jan-chm2/q_q4biii.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm2/ms_q4biii.jpg"
+      "markscheme": "img/2002-jan-chm2/ms_q4biii.jpg",
+      "markscheme_text": "SO<sub>2</sub> + 2H<sub>2</sub>O + Cl<sub>2</sub> -> SO<sub>4</sub><sup>2&minus;</sup> + 2Cl<sup>&minus;</sup> + 4H<sup>+</sup> (1)\n\n[Extra Information]:\nor SO<sub>2</sub> + 2H<sub>2</sub>O + Cl<sub>2</sub> &rarr; H<sub>2</sub>SO<sub>4</sub> + 2HCl\nignore state symbols in equations\nallow multiples"
     },
     {
       "id": "2002-jan-chm2-q5a",
@@ -4489,7 +4508,8 @@
       "figures": [
         "img/2002-jan-chm2/fig-q5-preamble.jpg"
       ],
-      "markscheme": "img/2002-jan-chm2/ms_q5a.jpg"
+      "markscheme": "img/2002-jan-chm2/ms_q5a.jpg",
+      "markscheme_text": "- Moles = mv / 1000 (1)\n- = 0.36 &times; 28.2 / 1000 = 0.010(2) (1)\n\n[Extra Information]:\nNB An answer of 0.01 scores one"
     },
     {
       "id": "2002-jan-chm2-q5b",
@@ -4508,7 +4528,8 @@
       "figures": [
         "img/2002-jan-chm2/fig-q5-preamble.jpg"
       ],
-      "markscheme": "img/2002-jan-chm2/ms_q5b.jpg"
+      "markscheme": "img/2002-jan-chm2/ms_q5b.jpg",
+      "markscheme_text": "I<sub>2</sub> + 2S<sub>2</sub>O<sub>3</sub><sup>2&minus;</sup> -> S<sub>4</sub>O<sub>6</sub><sup>2&minus;</sup> + 2I<sup>&minus;</sup> (1)\n\n[Extra Information]:\nallow multiples"
     },
     {
       "id": "2002-jan-chm2-q5c",
@@ -4527,7 +4548,8 @@
       "figures": [
         "img/2002-jan-chm2/fig-q5-preamble.jpg"
       ],
-      "markscheme": "img/2002-jan-chm2/ms_q5c.jpg"
+      "markscheme": "img/2002-jan-chm2/ms_q5c.jpg",
+      "markscheme_text": "(Mole ratio = 1 : 2)\nMoles of I<sub>2</sub> = Answer from (a) / 2 = 0.005(1) mol (1)"
     },
     {
       "id": "2002-jan-chm2-q5d",
@@ -4547,7 +4569,8 @@
       "figures": [
         "img/2002-jan-chm2/fig-q5-preamble.jpg"
       ],
-      "markscheme": "img/2002-jan-chm2/ms_q5d.jpg"
+      "markscheme": "img/2002-jan-chm2/ms_q5d.jpg",
+      "markscheme_text": "2KI + Cl<sub>2</sub> -> 2KCl + I<sub>2</sub> (1)\n(or ionic: 2I<sup>&minus;</sup> + Cl<sub>2</sub> -> 2Cl<sup>&minus;</sup> + I<sub>2</sub>)\n\n[Extra Information]:\nor a multiple\nignore state symbols and incorrect use of caps"
     },
     {
       "id": "2002-jan-chm2-q5e",
@@ -4566,7 +4589,8 @@
       "figures": [
         "img/2002-jan-chm2/fig-q5-preamble.jpg"
       ],
-      "markscheme": "img/2002-jan-chm2/ms_q5e.jpg"
+      "markscheme": "img/2002-jan-chm2/ms_q5e.jpg",
+      "markscheme_text": "- Moles Cl<sub>2</sub> = Moles I<sub>2</sub> = 0.0051 (1)\n- M<sub>r</sub>(Cl<sub>2</sub>) = 35.5 &times; 2 = 71 (1)\n- Mass Cl<sub>2</sub> = 0.0051 &times; 71 = 0.360 g (1)\n\n[Extra Information]:\nallow 0.36 &plusmn; 0.005\nif moles not from (c), max 1 mark if M<sub>r</sub> of chlorine given as 71\nif A<sub>r</sub> of chlorine used, score max 1\nif M<sub>r</sub>(chlorine) = 70, penalise as AE"
     },
     {
       "id": "2002-jan-chm2-q5f",
@@ -4585,7 +4609,8 @@
       "figures": [
         "img/2002-jan-chm2/fig-q5-preamble.jpg"
       ],
-      "markscheme": "img/2002-jan-chm2/ms_q5f.jpg"
+      "markscheme": "img/2002-jan-chm2/ms_q5f.jpg",
+      "markscheme_text": "- Indicator: Starch (1)\n- Colour change: Blue (or black or blue/black) to colourless (1)\n\n[Extra Information]:\nnot straw coloured\nif an indicator given, it must be correct for second mark to be awarded"
     },
     {
       "id": "2002-jan-chm2-q6ai",
@@ -4602,7 +4627,8 @@
       "summary": "Equation for reaction mainly responsible for high temperature in Blast Furnace.",
       "image": "img/2002-jan-chm2/q_q6ai.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm2/ms_q6ai.jpg"
+      "markscheme": "img/2002-jan-chm2/ms_q6ai.jpg",
+      "markscheme_text": "C + O<sub>2</sub> -> CO<sub>2</sub> (1)"
     },
     {
       "id": "2002-jan-chm2-q6aii",
@@ -4619,7 +4645,8 @@
       "summary": "Equation for iron reduction from its oxide in Blast Furnace.",
       "image": "img/2002-jan-chm2/q_q6aii.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm2/ms_q6aii.jpg"
+      "markscheme": "img/2002-jan-chm2/ms_q6aii.jpg",
+      "markscheme_text": "Fe<sub>2</sub>O<sub>3</sub> + 3CO -> 2Fe + 3CO<sub>2</sub> (1)\n(or Fe<sub>2</sub>O<sub>3</sub> + 3C -> 2Fe + 3CO)\n\n[Extra Information]:\nallow oxides FeO, Fe<sub>2</sub>O<sub>3</sub>, Fe<sub>3</sub>O<sub>4</sub>"
     },
     {
       "id": "2002-jan-chm2-q6aiii",
@@ -4636,7 +4663,8 @@
       "summary": "Equation to show how sulphur impurity is removed from Blast Furnace iron.",
       "image": "img/2002-jan-chm2/q_q6aiii.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm2/ms_q6aiii.jpg"
+      "markscheme": "img/2002-jan-chm2/ms_q6aiii.jpg",
+      "markscheme_text": "Mg + S -> MgS (1)"
     },
     {
       "id": "2002-jan-chm2-q6aiv",
@@ -4653,7 +4681,8 @@
       "summary": "How carbon is removed from iron and why this removal is necessary.",
       "image": "img/2002-jan-chm2/q_q6aiv.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm2/ms_q6aiv.jpg"
+      "markscheme": "img/2002-jan-chm2/ms_q6aiv.jpg",
+      "markscheme_text": "- Removal: Oxygen (1)\n- blown through molten iron (or liquid iron / bubbled through) (1)\n- Reason: Carbon makes iron brittle (1)"
     },
     {
       "id": "2002-jan-chm2-q6bi",
@@ -4670,7 +4699,8 @@
       "summary": "Why carbon cannot be used to reduce titanium(IV) oxide directly to titanium.",
       "image": "img/2002-jan-chm2/q_q6bi.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm2/ms_q6bi.jpg"
+      "markscheme": "img/2002-jan-chm2/ms_q6bi.jpg",
+      "markscheme_text": "(Titanium) carbide is formed (1)\n\n[Extra Information]:\nallow C bonds / reacts with Ti"
     },
     {
       "id": "2002-jan-chm2-q6bii",
@@ -4687,7 +4717,8 @@
       "summary": "Equation and condition for carbon chlorination step in titanium extraction.",
       "image": "img/2002-jan-chm2/q_q6bii.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm2/ms_q6bii.jpg"
+      "markscheme": "img/2002-jan-chm2/ms_q6bii.jpg",
+      "markscheme_text": "- Equation: TiO<sub>2</sub> + 2C + 2Cl<sub>2</sub> -> TiCl<sub>4</sub> + 2CO (or with C -> TiCl<sub>4</sub> + CO<sub>2</sub>)\n&nbsp;&nbsp;All species correct (1)\n&nbsp;&nbsp;Balanced equation (1)\n- Condition: High temperature (or 700&ndash;1100 °C) (1)\n\n[Extra Information]:\nmark independently\ncondition: <b>not</b> 'heat'"
     },
     {
       "id": "2002-jan-chm2-q6c",
@@ -4704,7 +4735,8 @@
       "summary": "Use of carbon in aluminium extraction and half-equation showing aluminium production.",
       "image": "img/2002-jan-chm2/q_q6c.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm2/ms_q6c.jpg"
+      "markscheme": "img/2002-jan-chm2/ms_q6c.jpg",
+      "markscheme_text": "- Use of carbon: As electrodes (or cathode / anode) (1)\n- Half-equation: Al<sup>3+</sup> + 3e<sup>&minus;</sup> -> Al (1)"
     },
     {
       "id": "2002-jan-chm2-q6d",
@@ -4721,7 +4753,8 @@
       "summary": "Three factors determining choice of reduction method for metal extraction.",
       "image": "img/2002-jan-chm2/q_q6d.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm2/ms_q6d.jpg"
+      "markscheme": "img/2002-jan-chm2/ms_q6d.jpg",
+      "markscheme_text": "<b>Any three factors from:</b>\n- Cost of reductant (1)\n- Cost of energy (1)\n- Purity of metal (1)\n- Reactivity of metal (1)\n\n[Extra Information]:\nMax 3 marks"
     },
     {
       "id": "2002-jan-chm3w-q1a",
