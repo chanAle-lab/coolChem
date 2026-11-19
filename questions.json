@@ -712,28 +712,112 @@
             "markscheme": ""
         },
         {
-            "id": "2001-jan-chm1-q1-part1",
+            "id": "2001-jan-chm1-q1a",
             "paper": "2001-jan-chm1",
-            "question": "1(a)\u2013(d)",
-            "marks": 11,
+            "question": "1(a)",
+            "marks": 2,
             "page": 2,
             "topics": [
                 "3.1.1"
             ],
             "skills": [
-                "analysis",
-                "practical"
+                "recall"
             ],
-            "summary": "Fundamental particles, isotopes, and principles of mass spectrometry (m/z, detector, resolution of N+ and N2(2+)).",
-            "image": "img/2001-jan-chm1/q1_part1.jpg",
+            "summary": "Relative mass and relative charge of a neutron.",
+            "image": "img/2001-jan-chm1/q_q1a.jpg",
             "figures": [],
-            "markscheme": "img/2001-jan-chm1/ms_q1_part1.jpg"
+            "markscheme": "img/2001-jan-chm1/ms_q1a.jpg"
         },
         {
-            "id": "2001-jan-chm1-q1-part2",
+            "id": "2001-jan-chm1-q1b",
             "paper": "2001-jan-chm1",
-            "question": "1(e)\u2013(f)",
-            "marks": 3,
+            "question": "1(b)",
+            "marks": 2,
+            "page": 2,
+            "topics": [
+                "3.1.1"
+            ],
+            "skills": [
+                "recall"
+            ],
+            "summary": "Fundamental particles common to and differing between isotopes.",
+            "image": "img/2001-jan-chm1/q_q1b.jpg",
+            "figures": [],
+            "markscheme": "img/2001-jan-chm1/ms_q1b.jpg"
+        },
+        {
+            "id": "2001-jan-chm1-q1c",
+            "paper": "2001-jan-chm1",
+            "question": "1(c)",
+            "marks": 2,
+            "page": 2,
+            "topics": [
+                "3.1.1"
+            ],
+            "skills": [
+                "recall"
+            ],
+            "summary": "Complete atomic symbol with 22 neutrons and 19 electrons.",
+            "image": "img/2001-jan-chm1/q_q1c.jpg",
+            "figures": [],
+            "markscheme": "img/2001-jan-chm1/ms_q1c.jpg"
+        },
+        {
+            "id": "2001-jan-chm1-q1di",
+            "paper": "2001-jan-chm1",
+            "question": "1(d)(i)",
+            "marks": 2,
+            "page": 2,
+            "topics": [
+                "3.1.1"
+            ],
+            "skills": [
+                "practical"
+            ],
+            "summary": "Two measurements made for each isotope in a mass spectrometer.",
+            "image": "img/2001-jan-chm1/q_q1di.jpg",
+            "figures": [],
+            "markscheme": "img/2001-jan-chm1/ms_q1di.jpg"
+        },
+        {
+            "id": "2001-jan-chm1-q1dii",
+            "paper": "2001-jan-chm1",
+            "question": "1(d)(ii)",
+            "marks": 2,
+            "page": 2,
+            "topics": [
+                "3.1.1"
+            ],
+            "skills": [
+                "practical"
+            ],
+            "summary": "How the detector in a mass spectrometer works.",
+            "image": "img/2001-jan-chm1/q_q1dii.jpg",
+            "figures": [],
+            "markscheme": "img/2001-jan-chm1/ms_q1dii.jpg"
+        },
+        {
+            "id": "2001-jan-chm1-q1diii",
+            "paper": "2001-jan-chm1",
+            "question": "1(d)(iii)",
+            "marks": 1,
+            "page": 2,
+            "topics": [
+                "3.1.1"
+            ],
+            "skills": [
+                "analysis"
+            ],
+            "summary": "Why a mass spectrometer cannot distinguish between 14N+ and 14N2(2+) ions.",
+            "image": "img/2001-jan-chm1/q_q1diii.jpg",
+            "figures": [],
+            "markscheme": "img/2001-jan-chm1/ms_q1diii.jpg"
+        },
+        {
+            "id": "2001-jan-chm1-q1e",
+            "paper": "2001-jan-chm1",
+            "question": "1(e)",
+            "marks": 2,
             "page": 3,
             "topics": [
                 "3.1.1"
@@ -741,16 +825,33 @@
             "skills": [
                 "recall"
             ],
-            "summary": "Orbital electron diagram for a carbon atom and sub-level electronic configuration of C2+.",
-            "image": "img/2001-jan-chm1/q1_part2.jpg",
+            "summary": "Complete the energy-level diagram for electrons in a carbon atom.",
+            "image": "img/2001-jan-chm1/q_q1e.jpg",
             "figures": [],
-            "markscheme": "img/2001-jan-chm1/ms_q1_part2.jpg"
+            "markscheme": "img/2001-jan-chm1/ms_q1e.jpg"
         },
         {
-            "id": "2001-jan-chm1-q2",
+            "id": "2001-jan-chm1-q1f",
             "paper": "2001-jan-chm1",
-            "question": "2",
-            "marks": 8,
+            "question": "1(f)",
+            "marks": 1,
+            "page": 3,
+            "topics": [
+                "3.1.1"
+            ],
+            "skills": [
+                "recall"
+            ],
+            "summary": "Sub-level electronic configuration of the carbon ion C2+.",
+            "image": "img/2001-jan-chm1/q_q1f.jpg",
+            "figures": [],
+            "markscheme": "img/2001-jan-chm1/ms_q1f.jpg"
+        },
+        {
+            "id": "2001-jan-chm1-q2a",
+            "paper": "2001-jan-chm1",
+            "question": "2(a)",
+            "marks": 2,
             "page": 4,
             "topics": [
                 "3.1.2"
@@ -758,16 +859,84 @@
             "skills": [
                 "maths"
             ],
-            "summary": "Calculating Avogadro's constant, empirical formula definition, molecular formula determination, and balanced combustion equation.",
-            "image": "img/2001-jan-chm1/q2.jpg",
+            "summary": "Calculate the Avogadro constant from the mass of one 12C atom.",
+            "image": "img/2001-jan-chm1/q_q2a.jpg",
             "figures": [],
-            "markscheme": "img/2001-jan-chm1/ms_q2.jpg"
+            "markscheme": "img/2001-jan-chm1/ms_q2a.jpg"
         },
         {
-            "id": "2001-jan-chm1-q3",
+            "id": "2001-jan-chm1-q2b",
             "paper": "2001-jan-chm1",
-            "question": "3",
-            "marks": 10,
+            "question": "2(b)",
+            "marks": 1,
+            "page": 4,
+            "topics": [
+                "3.1.2"
+            ],
+            "skills": [
+                "recall"
+            ],
+            "summary": "Give the meaning of the term empirical formula.",
+            "image": "img/2001-jan-chm1/q_q2b.jpg",
+            "figures": [],
+            "markscheme": "img/2001-jan-chm1/ms_q2b.jpg"
+        },
+        {
+            "id": "2001-jan-chm1-q2c",
+            "paper": "2001-jan-chm1",
+            "question": "2(c)",
+            "marks": 2,
+            "page": 4,
+            "topics": [
+                "3.1.2"
+            ],
+            "skills": [
+                "recall"
+            ],
+            "summary": "Define the term relative molecular mass.",
+            "image": "img/2001-jan-chm1/q_q2c.jpg",
+            "figures": [],
+            "markscheme": "img/2001-jan-chm1/ms_q2c.jpg"
+        },
+        {
+            "id": "2001-jan-chm1-q2d",
+            "paper": "2001-jan-chm1",
+            "question": "2(d)",
+            "marks": 2,
+            "page": 4,
+            "topics": [
+                "3.1.2"
+            ],
+            "skills": [
+                "maths"
+            ],
+            "summary": "Determine the molecular formula of a compound with empirical formula CHO and Mr 174.",
+            "image": "img/2001-jan-chm1/q_q2d.jpg",
+            "figures": [],
+            "markscheme": "img/2001-jan-chm1/ms_q2d.jpg"
+        },
+        {
+            "id": "2001-jan-chm1-q2e",
+            "paper": "2001-jan-chm1",
+            "question": "2(e)",
+            "marks": 1,
+            "page": 4,
+            "topics": [
+                "3.1.2"
+            ],
+            "skills": [
+                "recall"
+            ],
+            "summary": "Write a balanced equation for the combustion of CH4O.",
+            "image": "img/2001-jan-chm1/q_q2e.jpg",
+            "figures": [],
+            "markscheme": "img/2001-jan-chm1/ms_q2e.jpg"
+        },
+        {
+            "id": "2001-jan-chm1-q3a",
+            "paper": "2001-jan-chm1",
+            "question": "3(a)",
+            "marks": 4,
             "page": 5,
             "topics": [
                 "3.1.2"
@@ -776,16 +945,52 @@
                 "maths",
                 "practical"
             ],
-            "summary": "Titration stoichiometry calculation with ammonia and nitric acid, followed by ideal gas equation (pV = nRT) calculations on decomposed gas products.",
-            "image": "img/2001-jan-chm1/q3.jpg",
+            "summary": "Calculate the volume of 2.00 mol dm^-3 nitric acid required to react with 20.0 g ammonia.",
+            "image": "img/2001-jan-chm1/q_q3a.jpg",
             "figures": [],
-            "markscheme": "img/2001-jan-chm1/ms_q3.jpg"
+            "markscheme": "img/2001-jan-chm1/ms_q3a.jpg"
         },
         {
-            "id": "2001-jan-chm1-q4-part1",
+            "id": "2001-jan-chm1-q3bi",
             "paper": "2001-jan-chm1",
-            "question": "4(a)\u2013(c)",
-            "marks": 8,
+            "question": "3(b)(i)",
+            "marks": 4,
+            "page": 5,
+            "topics": [
+                "3.1.2"
+            ],
+            "skills": [
+                "maths"
+            ],
+            "summary": "State the ideal gas equation and calculate total moles of N2 and O2 formed.",
+            "image": "img/2001-jan-chm1/q_q3bi.jpg",
+            "figures": [],
+            "markscheme": "img/2001-jan-chm1/ms_q3bi.jpg"
+        },
+        {
+            "id": "2001-jan-chm1-q3bii",
+            "paper": "2001-jan-chm1",
+            "question": "3(b)(ii)",
+            "marks": 2,
+            "page": 5,
+            "topics": [
+                "3.1.2"
+            ],
+            "skills": [
+                "maths"
+            ],
+            "summary": "Deduce moles and calculate the mass of ammonium nitrate decomposed.",
+            "image": "img/2001-jan-chm1/q_q3bii.jpg",
+            "figures": [
+                "img/2001-jan-chm1/fig-q3b.jpg"
+            ],
+            "markscheme": "img/2001-jan-chm1/ms_q3bii.jpg"
+        },
+        {
+            "id": "2001-jan-chm1-q4a",
+            "paper": "2001-jan-chm1",
+            "question": "4(a)",
+            "marks": 3,
             "page": 6,
             "topics": [
                 "3.1.1",
@@ -794,47 +999,203 @@
             "skills": [
                 "analysis"
             ],
-            "summary": "First ionisation energy trend from neon to sulfur, first ionisation equation for neon, and explaining why IE of Ne and Mg exceed Na.",
-            "image": "img/2001-jan-chm1/q4_part1.jpg",
+            "summary": "Draw crosses on the graph to show the first ionisation energies of Si, P, and S.",
+            "image": "img/2001-jan-chm1/q_q4a.jpg",
             "figures": [],
-            "markscheme": "img/2001-jan-chm1/ms_q4_part1.jpg"
+            "markscheme": "img/2001-jan-chm1/ms_q4a.jpg"
         },
         {
-            "id": "2001-jan-chm1-q4-part2",
+            "id": "2001-jan-chm1-q4b",
             "paper": "2001-jan-chm1",
-            "question": "4(d)\u2013(f)",
-            "marks": 8,
+            "question": "4(b)",
+            "marks": 1,
+            "page": 6,
+            "topics": [
+                "3.1.1"
+            ],
+            "skills": [
+                "recall"
+            ],
+            "summary": "Write an equation for the first ionisation of neon.",
+            "image": "img/2001-jan-chm1/q_q4b.jpg",
+            "figures": [
+                "img/2001-jan-chm1/fig-q4-graph.jpg"
+            ],
+            "markscheme": "img/2001-jan-chm1/ms_q4b.jpg"
+        },
+        {
+            "id": "2001-jan-chm1-q4c",
+            "paper": "2001-jan-chm1",
+            "question": "4(c)",
+            "marks": 4,
+            "page": 6,
+            "topics": [
+                "3.1.1"
+            ],
+            "skills": [
+                "analysis"
+            ],
+            "summary": "Explain why the first ionisation energy of neon and magnesium are higher than sodium.",
+            "image": "img/2001-jan-chm1/q_q4c.jpg",
+            "figures": [
+                "img/2001-jan-chm1/fig-q4-graph.jpg"
+            ],
+            "markscheme": "img/2001-jan-chm1/ms_q4c.jpg"
+        },
+        {
+            "id": "2001-jan-chm1-q4d",
+            "paper": "2001-jan-chm1",
+            "question": "4(d)",
+            "marks": 2,
             "page": 7,
             "topics": [
-                "3.1.1",
+                "3.1.1"
+            ],
+            "skills": [
+                "analysis"
+            ],
+            "summary": "Explain why the first ionisation energy of aluminium is lower than magnesium.",
+            "image": "img/2001-jan-chm1/q_q4d.jpg",
+            "figures": [],
+            "markscheme": "img/2001-jan-chm1/ms_q4d.jpg"
+        },
+        {
+            "id": "2001-jan-chm1-q4e",
+            "paper": "2001-jan-chm1",
+            "question": "4(e)",
+            "marks": 3,
+            "page": 7,
+            "topics": [
                 "3.1.3",
                 "3.2.1"
             ],
             "skills": [
                 "analysis"
             ],
-            "summary": "Sub-shell shielding explanation for lower IE of Al than Mg, and structure/bonding explanations of melting point trends in neon and silicon.",
-            "image": "img/2001-jan-chm1/q4_part2.jpg",
+            "summary": "Identify the element with the lowest melting point among Ne, Na, Mg, Al, Si and explain in terms of bonding.",
+            "image": "img/2001-jan-chm1/q_q4e.jpg",
             "figures": [],
-            "markscheme": "img/2001-jan-chm1/ms_q4_part2.jpg"
+            "markscheme": "img/2001-jan-chm1/ms_q4e.jpg"
         },
         {
-            "id": "2001-jan-chm1-q5",
+            "id": "2001-jan-chm1-q4f",
             "paper": "2001-jan-chm1",
-            "question": "5",
-            "marks": 12,
+            "question": "4(f)",
+            "marks": 3,
+            "page": 7,
+            "topics": [
+                "3.1.3",
+                "3.2.1"
+            ],
+            "skills": [
+                "analysis"
+            ],
+            "summary": "Identify the element with the highest melting point among Ne, Na, Mg, Al, Si and explain in terms of bonding.",
+            "image": "img/2001-jan-chm1/q_q4f.jpg",
+            "figures": [],
+            "markscheme": "img/2001-jan-chm1/ms_q4f.jpg"
+        },
+        {
+            "id": "2001-jan-chm1-q5a",
+            "paper": "2001-jan-chm1",
+            "question": "5(a)",
+            "marks": 2,
+            "page": 8,
+            "topics": [
+                "3.1.3"
+            ],
+            "skills": [
+                "recall"
+            ],
+            "summary": "Define the term electronegativity.",
+            "image": "img/2001-jan-chm1/q_q5a.jpg",
+            "figures": [],
+            "markscheme": "img/2001-jan-chm1/ms_q5a.jpg"
+        },
+        {
+            "id": "2001-jan-chm1-q5b",
+            "paper": "2001-jan-chm1",
+            "question": "5(b)",
+            "marks": 3,
             "page": 8,
             "topics": [
                 "3.2.2"
             ],
             "skills": [
-                "recall",
+                "recall"
+            ],
+            "summary": "State and explain the trend in electronegativity down Group 2.",
+            "image": "img/2001-jan-chm1/q_q5b.jpg",
+            "figures": [],
+            "markscheme": "img/2001-jan-chm1/ms_q5b.jpg"
+        },
+        {
+            "id": "2001-jan-chm1-q5c",
+            "paper": "2001-jan-chm1",
+            "question": "5(c)",
+            "marks": 2,
+            "page": 8,
+            "topics": [
+                "3.2.2"
+            ],
+            "skills": [
+                "recall"
+            ],
+            "summary": "Equation for strontium reacting with water and approximate pH of the resulting solution.",
+            "image": "img/2001-jan-chm1/q_q5c.jpg",
+            "figures": [],
+            "markscheme": "img/2001-jan-chm1/ms_q5c.jpg"
+        },
+        {
+            "id": "2001-jan-chm1-q5d",
+            "paper": "2001-jan-chm1",
+            "question": "5(d)",
+            "marks": 2,
+            "page": 8,
+            "topics": [
+                "3.2.2"
+            ],
+            "skills": [
                 "practical"
             ],
-            "summary": "Electronegativity definition and trend down Group 2, strontium reaction with water, barium sulfate precipitation test, and atypical properties of beryllium.",
-            "image": "img/2001-jan-chm1/q5.jpg",
+            "summary": "Observation and equation when aqueous barium chloride is added to dilute sulfuric acid.",
+            "image": "img/2001-jan-chm1/q_q5d.jpg",
             "figures": [],
-            "markscheme": "img/2001-jan-chm1/ms_q5.jpg"
+            "markscheme": "img/2001-jan-chm1/ms_q5d.jpg"
+        },
+        {
+            "id": "2001-jan-chm1-q5e",
+            "paper": "2001-jan-chm1",
+            "question": "5(e)",
+            "marks": 2,
+            "page": 8,
+            "topics": [
+                "3.2.2"
+            ],
+            "skills": [
+                "recall"
+            ],
+            "summary": "Give two examples illustrating atypical properties of beryllium compounds in Group 2.",
+            "image": "img/2001-jan-chm1/q_q5e.jpg",
+            "figures": [],
+            "markscheme": "img/2001-jan-chm1/ms_q5e.jpg"
+        },
+        {
+            "id": "2001-jan-chm1-q5f",
+            "paper": "2001-jan-chm1",
+            "question": "5(f)",
+            "marks": 1,
+            "page": 8,
+            "topics": [
+                "3.2.2"
+            ],
+            "skills": [
+                "recall"
+            ],
+            "summary": "Feature of the beryllium ion that causes atypical properties of beryllium compounds.",
+            "image": "img/2001-jan-chm1/q_q5f.jpg",
+            "figures": [],
+            "markscheme": "img/2001-jan-chm1/ms_q5f.jpg"
         },
         {
             "id": "2001-jan-chm1-q6a",
@@ -848,8 +1209,8 @@
             "skills": [
                 "analysis"
             ],
-            "summary": "Structure, bonding, melting points and electrical conductivity in crystals of sodium chloride, graphite, and magnesium.",
-            "image": "img/2001-jan-chm1/q6a.jpg",
+            "summary": "Structure, bonding, melting points and electrical conductivity in crystals of NaCl, graphite, and magnesium.",
+            "image": "img/2001-jan-chm1/q_q6a.jpg",
             "figures": [],
             "markscheme": "img/2001-jan-chm1/ms_q6a.jpg"
         },
@@ -865,128 +1226,441 @@
             "skills": [
                 "analysis"
             ],
-            "summary": "Electron-pair repulsion theory (VSEPR) shapes and bond angles for H2O (non-linear, 104.5\u00b0) and PF5 (trigonal bipyramidal, 90\u00b0 and 120\u00b0).",
-            "image": "img/2001-jan-chm1/q6b.jpg",
+            "summary": "VSEPR theory shapes and bond angles for H2O and PF5 with illustrated diagrams.",
+            "image": "img/2001-jan-chm1/q_q6b.jpg",
             "figures": [],
             "markscheme": "img/2001-jan-chm1/ms_q6b.jpg"
         },
         {
-            "id": "2001-jan-chm2-q1",
+            "id": "2001-jan-chm2-q1a",
             "paper": "2001-jan-chm2",
-            "question": "1",
-            "marks": 9,
+            "question": "1(a)",
+            "marks": 1,
             "page": 3,
             "topics": [
-                "3.2.3",
+                "3.2.3"
+            ],
+            "skills": [
+                "recall"
+            ],
+            "summary": "State the trend in oxidising power of chlorine, bromine, and iodine.",
+            "image": "img/2001-jan-chm2/q_q1a.jpg",
+            "figures": [],
+            "markscheme": "img/2001-jan-chm2/ms_q1a.jpg"
+        },
+        {
+            "id": "2001-jan-chm2-q1b",
+            "paper": "2001-jan-chm2",
+            "question": "1(b)",
+            "marks": 3,
+            "page": 3,
+            "topics": [
+                "3.2.3"
+            ],
+            "skills": [
+                "practical"
+            ],
+            "summary": "Observations and ionic equation when aqueous bromine is added to KCl and KI.",
+            "image": "img/2001-jan-chm2/q_q1b.jpg",
+            "figures": [],
+            "markscheme": "img/2001-jan-chm2/ms_q1b.jpg"
+        },
+        {
+            "id": "2001-jan-chm2-q1ci",
+            "paper": "2001-jan-chm2",
+            "question": "1(c)(i)",
+            "marks": 1,
+            "page": 3,
+            "topics": [
+                "3.2.3"
+            ],
+            "skills": [
+                "recall"
+            ],
+            "summary": "Species responsible for the pale-green colour of chlorine water.",
+            "image": "img/2001-jan-chm2/q_q1ci.jpg",
+            "figures": [],
+            "markscheme": "img/2001-jan-chm2/ms_q1ci.jpg"
+        },
+        {
+            "id": "2001-jan-chm2-q1cii",
+            "paper": "2001-jan-chm2",
+            "question": "1(c)(ii)",
+            "marks": 1,
+            "page": 3,
+            "topics": [
+                "3.2.3"
+            ],
+            "skills": [
+                "recall"
+            ],
+            "summary": "Equation for the reaction between chlorine and cold water.",
+            "image": "img/2001-jan-chm2/q_q1cii.jpg",
+            "figures": [
+                "img/2001-jan-chm2/fig-q1c.jpg"
+            ],
+            "markscheme": "img/2001-jan-chm2/ms_q1cii.jpg"
+        },
+        {
+            "id": "2001-jan-chm2-q1ciii",
+            "paper": "2001-jan-chm2",
+            "question": "1(c)(iii)",
+            "marks": 2,
+            "page": 3,
+            "topics": [
+                "3.2.3"
+            ],
+            "skills": [
+                "analysis"
+            ],
+            "summary": "Explain the colour changes when universal indicator paper is dipped into chlorine water.",
+            "image": "img/2001-jan-chm2/q_q1ciii.jpg",
+            "figures": [
+                "img/2001-jan-chm2/fig-q1c.jpg"
+            ],
+            "markscheme": "img/2001-jan-chm2/ms_q1ciii.jpg"
+        },
+        {
+            "id": "2001-jan-chm2-q1d",
+            "paper": "2001-jan-chm2",
+            "question": "1(d)",
+            "marks": 1,
+            "page": 3,
+            "topics": [
+                "3.2.3"
+            ],
+            "skills": [
+                "recall"
+            ],
+            "summary": "Equation for chlorine bubbled into cold, dilute aqueous sodium hydroxide.",
+            "image": "img/2001-jan-chm2/q_q1d.jpg",
+            "figures": [],
+            "markscheme": "img/2001-jan-chm2/ms_q1d.jpg"
+        },
+        {
+            "id": "2001-jan-chm2-q2ai",
+            "paper": "2001-jan-chm2",
+            "question": "2(a)(i)",
+            "marks": 1,
+            "page": 4,
+            "topics": [
                 "3.1.7"
             ],
             "skills": [
-                "practical",
-                "analysis"
+                "recall"
             ],
-            "summary": "Halogen oxidising power trends, displacement reactions, chlorine water colour/bleaching, and disproportionation in cold dilute NaOH.",
-            "image": "img/2001-jan-chm2/q1.jpg",
+            "summary": "Define oxidation in terms of electrons.",
+            "image": "img/2001-jan-chm2/q_q2ai.jpg",
             "figures": [],
-            "markscheme": "img/2001-jan-chm2/ms_q1.jpg"
+            "markscheme": "img/2001-jan-chm2/ms_q2ai.jpg"
         },
         {
-            "id": "2001-jan-chm2-q2-part1",
+            "id": "2001-jan-chm2-q2aii",
             "paper": "2001-jan-chm2",
-            "question": "2(a)\u2013(c)(iii)",
-            "marks": 6,
+            "question": "2(a)(ii)",
+            "marks": 1,
             "page": 4,
             "topics": [
-                "3.1.7",
+                "3.1.7"
+            ],
+            "skills": [
+                "recall"
+            ],
+            "summary": "Give the oxidation state of chlorine in ClO-.",
+            "image": "img/2001-jan-chm2/q_q2aii.jpg",
+            "figures": [],
+            "markscheme": "img/2001-jan-chm2/ms_q2aii.jpg"
+        },
+        {
+            "id": "2001-jan-chm2-q2b",
+            "paper": "2001-jan-chm2",
+            "question": "2(b)",
+            "marks": 2,
+            "page": 4,
+            "topics": [
+                "3.1.7"
+            ],
+            "skills": [
+                "recall"
+            ],
+            "summary": "Equation for the reaction between thiosulphate ions and iodine.",
+            "image": "img/2001-jan-chm2/q_q2b.jpg",
+            "figures": [],
+            "markscheme": "img/2001-jan-chm2/ms_q2b.jpg"
+        },
+        {
+            "id": "2001-jan-chm2-q2ci",
+            "paper": "2001-jan-chm2",
+            "question": "2(c)(i)",
+            "marks": 1,
+            "page": 4,
+            "topics": [
                 "3.1.2"
             ],
             "skills": [
                 "maths",
                 "practical"
             ],
-            "summary": "Redox definitions, oxidation state of Cl in ClO-, thiosulfate-iodine reaction equation, and stoichiometry of bleach-iodide reaction.",
-            "image": "img/2001-jan-chm2/q2_part1.jpg",
+            "summary": "Calculate moles of S2O3(2-) present in 24.4 cm^3 of 0.100 mol dm^-3 thiosulphate.",
+            "image": "img/2001-jan-chm2/q_q2ci.jpg",
             "figures": [],
-            "markscheme": "img/2001-jan-chm2/ms_q2_part1.jpg"
+            "markscheme": "img/2001-jan-chm2/ms_q2ci.jpg"
         },
         {
-            "id": "2001-jan-chm2-q2-part2",
+            "id": "2001-jan-chm2-q2cii",
             "paper": "2001-jan-chm2",
-            "question": "2(c)(iv)\u2013(v)",
-            "marks": 7,
+            "question": "2(c)(ii)",
+            "marks": 1,
+            "page": 4,
+            "topics": [
+                "3.1.2"
+            ],
+            "skills": [
+                "maths"
+            ],
+            "summary": "Calculate the number of moles of I2 liberated in the bleach reaction.",
+            "image": "img/2001-jan-chm2/q_q2cii.jpg",
+            "figures": [
+                "img/2001-jan-chm2/fig-q2c-bleach.jpg"
+            ],
+            "markscheme": "img/2001-jan-chm2/ms_q2cii.jpg"
+        },
+        {
+            "id": "2001-jan-chm2-q2ciii",
+            "paper": "2001-jan-chm2",
+            "question": "2(c)(iii)",
+            "marks": 2,
+            "page": 4,
+            "topics": [
+                "3.1.7"
+            ],
+            "skills": [
+                "recall"
+            ],
+            "summary": "Ionic equation for reaction between ClO- and I- in acid to form I2 and Cl-.",
+            "image": "img/2001-jan-chm2/q_q2ciii.jpg",
+            "figures": [
+                "img/2001-jan-chm2/fig-q2c-bleach.jpg"
+            ],
+            "markscheme": "img/2001-jan-chm2/ms_q2ciii.jpg"
+        },
+        {
+            "id": "2001-jan-chm2-q2civ",
+            "paper": "2001-jan-chm2",
+            "question": "2(c)(iv)",
+            "marks": 3,
+            "page": 5,
+            "topics": [
+                "3.1.2"
+            ],
+            "skills": [
+                "maths"
+            ],
+            "summary": "Calculate the concentration in mol dm^-3 of ClO- in the bleach solution.",
+            "image": "img/2001-jan-chm2/q_q2civ.jpg",
+            "figures": [
+                "img/2001-jan-chm2/fig-q2c-bleach.jpg"
+            ],
+            "markscheme": "img/2001-jan-chm2/ms_q2civ.jpg"
+        },
+        {
+            "id": "2001-jan-chm2-q2cv",
+            "paper": "2001-jan-chm2",
+            "question": "2(c)(v)",
+            "marks": 2,
             "page": 5,
             "topics": [
                 "3.1.2",
                 "3.1.7"
             ],
             "skills": [
-                "maths",
                 "practical"
             ],
-            "summary": "Calculating concentration of ClO- in bleach solution from titration data, and naming starch indicator with blue to colourless end-point.",
-            "image": "img/2001-jan-chm2/q2_part2.jpg",
+            "summary": "Name the indicator used in iodine/thiosulphate titration and colour change at end-point.",
+            "image": "img/2001-jan-chm2/q_q2cv.jpg",
             "figures": [],
-            "markscheme": "img/2001-jan-chm2/ms_q2_part2.jpg"
+            "markscheme": "img/2001-jan-chm2/ms_q2cv.jpg"
         },
         {
-            "id": "2001-jan-chm2-q3-part1",
+            "id": "2001-jan-chm2-q3a",
             "paper": "2001-jan-chm2",
-            "question": "3(a)\u2013(b)",
-            "marks": 9,
+            "question": "3(a)",
+            "marks": 6,
             "page": 6,
             "topics": [
                 "3.1.4"
             ],
             "skills": [
-                "maths",
                 "recall"
             ],
-            "summary": "Standard enthalpy of formation & combustion definitions, and Hess's law cycle calculating combustion enthalpy of propanol (-2022 kJ/mol).",
-            "image": "img/2001-jan-chm2/q3_part1.jpg",
+            "summary": "Define standard enthalpy of formation and standard enthalpy of combustion.",
+            "image": "img/2001-jan-chm2/q_q3a.jpg",
             "figures": [],
-            "markscheme": "img/2001-jan-chm2/ms_q3_part1.jpg"
+            "markscheme": "img/2001-jan-chm2/ms_q3a.jpg"
         },
         {
-            "id": "2001-jan-chm2-q3-part2",
+            "id": "2001-jan-chm2-q3b",
             "paper": "2001-jan-chm2",
-            "question": "3(c)",
-            "marks": 8,
+            "question": "3(b)",
+            "marks": 3,
+            "page": 6,
+            "topics": [
+                "3.1.4"
+            ],
+            "skills": [
+                "maths"
+            ],
+            "summary": "Calculate standard enthalpy of combustion of C3H7OH using formation enthalpies.",
+            "image": "img/2001-jan-chm2/q_q3b.jpg",
+            "figures": [],
+            "markscheme": "img/2001-jan-chm2/ms_q3b.jpg"
+        },
+        {
+            "id": "2001-jan-chm2-q3ci",
+            "paper": "2001-jan-chm2",
+            "question": "3(c)(i)",
+            "marks": 2,
             "page": 7,
             "topics": [
                 "3.1.4"
             ],
             "skills": [
-                "practical",
                 "maths",
-                "analysis"
+                "practical"
             ],
-            "summary": "Calorimetry experiment with copper calorimeter: heat energy calculation (q = mc\u0394T), alcohol moles burned, and reasons for experimental discrepancy.",
-            "image": "img/2001-jan-chm2/q3_part2.jpg",
+            "summary": "Calculate heat energy required to raise the temperature of water from 15\u00b0C to 30\u00b0C.",
+            "image": "img/2001-jan-chm2/q_q3ci.jpg",
             "figures": [],
-            "markscheme": "img/2001-jan-chm2/ms_q3_part2.jpg"
+            "markscheme": "img/2001-jan-chm2/ms_q3ci.jpg"
         },
         {
-            "id": "2001-jan-chm2-q4-part1",
+            "id": "2001-jan-chm2-q3cii",
             "paper": "2001-jan-chm2",
-            "question": "4(a)\u2013(b)",
-            "marks": 10,
+            "question": "3(c)(ii)",
+            "marks": 2,
+            "page": 7,
+            "topics": [
+                "3.1.4"
+            ],
+            "skills": [
+                "maths"
+            ],
+            "summary": "Calculate number of moles of alcohol C3H7OH burned.",
+            "image": "img/2001-jan-chm2/q_q3cii.jpg",
+            "figures": [
+                "img/2001-jan-chm2/fig-q3c-calorimeter.jpg"
+            ],
+            "markscheme": "img/2001-jan-chm2/ms_q3cii.jpg"
+        },
+        {
+            "id": "2001-jan-chm2-q3ciii",
+            "paper": "2001-jan-chm2",
+            "question": "3(c)(iii)",
+            "marks": 2,
+            "page": 7,
+            "topics": [
+                "3.1.4"
+            ],
+            "skills": [
+                "maths"
+            ],
+            "summary": "Calculate enthalpy of combustion of 1.0 mol of C3H7OH from experimental results.",
+            "image": "img/2001-jan-chm2/q_q3ciii.jpg",
+            "figures": [
+                "img/2001-jan-chm2/fig-q3c-calorimeter.jpg"
+            ],
+            "markscheme": "img/2001-jan-chm2/ms_q3ciii.jpg"
+        },
+        {
+            "id": "2001-jan-chm2-q3civ",
+            "paper": "2001-jan-chm2",
+            "question": "3(c)(iv)",
+            "marks": 2,
+            "page": 7,
+            "topics": [
+                "3.1.4"
+            ],
+            "skills": [
+                "analysis"
+            ],
+            "summary": "Give two reasons why experimental enthalpy of combustion differs from standard enthalpy.",
+            "image": "img/2001-jan-chm2/q_q3civ.jpg",
+            "figures": [],
+            "markscheme": "img/2001-jan-chm2/ms_q3civ.jpg"
+        },
+        {
+            "id": "2001-jan-chm2-q4ai",
+            "paper": "2001-jan-chm2",
+            "question": "4(a)(i)",
+            "marks": 2,
             "page": 8,
             "topics": [
                 "3.2.1"
             ],
             "skills": [
-                "recall",
-                "practical"
+                "recall"
             ],
-            "summary": "Blast furnace reactions: carbon monoxide production, reduction of Fe2O3, limestone slag removal of SiO2, and carbon removal for steel.",
-            "image": "img/2001-jan-chm2/q4_part1.jpg",
+            "summary": "Equations showing two stages in producing carbon monoxide from carbon in a Blast Furnace.",
+            "image": "img/2001-jan-chm2/q_q4ai.jpg",
             "figures": [],
-            "markscheme": "img/2001-jan-chm2/ms_q4_part1.jpg"
+            "markscheme": "img/2001-jan-chm2/ms_q4ai.jpg"
         },
         {
-            "id": "2001-jan-chm2-q4-part2",
+            "id": "2001-jan-chm2-q4aii",
             "paper": "2001-jan-chm2",
-            "question": "4(c)\u2013(d)",
-            "marks": 4,
+            "question": "4(a)(ii)",
+            "marks": 2,
+            "page": 8,
+            "topics": [
+                "3.2.1"
+            ],
+            "skills": [
+                "recall"
+            ],
+            "summary": "Equations for reduction of Fe2O3 by carbon and by carbon monoxide.",
+            "image": "img/2001-jan-chm2/q_q4aii.jpg",
+            "figures": [],
+            "markscheme": "img/2001-jan-chm2/ms_q4aii.jpg"
+        },
+        {
+            "id": "2001-jan-chm2-q4aiii",
+            "paper": "2001-jan-chm2",
+            "question": "4(a)(iii)",
+            "marks": 3,
+            "page": 8,
+            "topics": [
+                "3.2.1"
+            ],
+            "skills": [
+                "recall"
+            ],
+            "summary": "Identify main impurity removed by limestone in Blast Furnace and write removal equations.",
+            "image": "img/2001-jan-chm2/q_q4aiii.jpg",
+            "figures": [],
+            "markscheme": "img/2001-jan-chm2/ms_q4aiii.jpg"
+        },
+        {
+            "id": "2001-jan-chm2-q4b",
+            "paper": "2001-jan-chm2",
+            "question": "4(b)",
+            "marks": 3,
+            "page": 8,
+            "topics": [
+                "3.2.1"
+            ],
+            "skills": [
+                "recall"
+            ],
+            "summary": "Main impurity in iron from Blast Furnace and how it is removed to make steel.",
+            "image": "img/2001-jan-chm2/q_q4b.jpg",
+            "figures": [],
+            "markscheme": "img/2001-jan-chm2/ms_q4b.jpg"
+        },
+        {
+            "id": "2001-jan-chm2-q4c",
+            "paper": "2001-jan-chm2",
+            "question": "4(c)",
+            "marks": 2,
             "page": 9,
             "topics": [
                 "3.2.1"
@@ -994,16 +1668,51 @@
             "skills": [
                 "recall"
             ],
-            "summary": "Environmental impact of metal extraction: greenhouse effect of CO2 and acid rain formation from SO2 emissions.",
-            "image": "img/2001-jan-chm2/q4_part2.jpg",
+            "summary": "Gas released from Blast Furnace leading to environmental problems (CO2 / global warming).",
+            "image": "img/2001-jan-chm2/q_q4c.jpg",
             "figures": [],
-            "markscheme": "img/2001-jan-chm2/ms_q4_part2.jpg"
+            "markscheme": "img/2001-jan-chm2/ms_q4c.jpg"
         },
         {
-            "id": "2001-jan-chm2-q5",
+            "id": "2001-jan-chm2-q4d",
             "paper": "2001-jan-chm2",
-            "question": "5",
-            "marks": 7,
+            "question": "4(d)",
+            "marks": 2,
+            "page": 9,
+            "topics": [
+                "3.2.1"
+            ],
+            "skills": [
+                "recall"
+            ],
+            "summary": "Gas leading to environmental problems when sulphide ores are used (SO2 / acid rain).",
+            "image": "img/2001-jan-chm2/q_q4d.jpg",
+            "figures": [],
+            "markscheme": "img/2001-jan-chm2/ms_q4d.jpg"
+        },
+        {
+            "id": "2001-jan-chm2-q5a",
+            "paper": "2001-jan-chm2",
+            "question": "5(a)",
+            "marks": 2,
+            "page": 10,
+            "topics": [
+                "3.2.1",
+                "3.2.5"
+            ],
+            "skills": [
+                "recall"
+            ],
+            "summary": "Equation to show how TiCl4 is obtained from TiO2.",
+            "image": "img/2001-jan-chm2/q_q5a.jpg",
+            "figures": [],
+            "markscheme": "img/2001-jan-chm2/ms_q5a.jpg"
+        },
+        {
+            "id": "2001-jan-chm2-q5b",
+            "paper": "2001-jan-chm2",
+            "question": "5(b)",
+            "marks": 4,
             "page": 10,
             "topics": [
                 "3.2.1",
@@ -1013,28 +1722,61 @@
                 "recall",
                 "practical"
             ],
-            "summary": "Titanium extraction via Kroll process: chlorination to TiCl4, reduction by Na or Mg under argon atmosphere, and why carbon forms carbide.",
-            "image": "img/2001-jan-chm2/q5.jpg",
+            "summary": "Method to obtain titanium from TiCl4: reducing agent, conditions, and reduction equation.",
+            "image": "img/2001-jan-chm2/q_q5b.jpg",
             "figures": [],
-            "markscheme": "img/2001-jan-chm2/ms_q5.jpg"
+            "markscheme": "img/2001-jan-chm2/ms_q5b.jpg"
         },
         {
-            "id": "2001-jan-chm2-q6",
+            "id": "2001-jan-chm2-q5c",
             "paper": "2001-jan-chm2",
-            "question": "6",
-            "marks": 21,
+            "question": "5(c)",
+            "marks": 1,
+            "page": 10,
+            "topics": [
+                "3.2.1"
+            ],
+            "skills": [
+                "recall"
+            ],
+            "summary": "Why titanium cannot be extracted directly from TiO2 using carbon.",
+            "image": "img/2001-jan-chm2/q_q5c.jpg",
+            "figures": [],
+            "markscheme": "img/2001-jan-chm2/ms_q5c.jpg"
+        },
+        {
+            "id": "2001-jan-chm2-q6a",
+            "paper": "2001-jan-chm2",
+            "question": "6(a)",
+            "marks": 10,
             "page": 11,
             "topics": [
-                "3.1.5",
+                "3.1.5"
+            ],
+            "skills": [
+                "analysis"
+            ],
+            "summary": "State and explain using collision theory the effect of concentration, temperature, and catalysts.",
+            "image": "img/2001-jan-chm2/q_q6a.jpg",
+            "figures": [],
+            "markscheme": "img/2001-jan-chm2/ms_q6a.jpg"
+        },
+        {
+            "id": "2001-jan-chm2-q6b",
+            "paper": "2001-jan-chm2",
+            "question": "6(b)",
+            "marks": 11,
+            "page": 11,
+            "topics": [
                 "3.1.6"
             ],
             "skills": [
                 "analysis"
             ],
-            "summary": "Collision theory principles (concentration, temperature, catalyst) and Le Chatelier analysis of Haber process equilibrium yield.",
-            "image": "img/2001-jan-chm2/q6.jpg",
+            "summary": "Explain how equilibrium yield of ammonia in Haber Process is affected by pressure, temperature, catalyst.",
+            "image": "img/2001-jan-chm2/q_q6b.jpg",
             "figures": [],
-            "markscheme": "img/2001-jan-chm2/ms_q6.jpg"
+            "markscheme": "img/2001-jan-chm2/ms_q6b.jpg"
         },
         {
             "id": "2001-jan-chm2-q7",
@@ -1049,8 +1791,8 @@
                 "practical",
                 "analysis"
             ],
-            "summary": "Distinguishing halide solutions (F-, Cl-, Br-, I-) with silver nitrate and aqueous ammonia, and predicting silver astatide (AgAt) solubility.",
-            "image": "img/2001-jan-chm2/q7.jpg",
+            "summary": "Distinguish separate solutions of NaF, NaCl, NaBr, NaI using AgNO3 and ammonia, and predict AgAt solubility.",
+            "image": "img/2001-jan-chm2/q_q7.jpg",
             "figures": [],
             "markscheme": "img/2001-jan-chm2/ms_q7.jpg"
         }
