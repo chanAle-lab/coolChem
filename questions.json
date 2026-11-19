@@ -8183,7 +8183,8 @@
       "figures": [
         "img/2002-june-chm5/fig-q1a-table.jpg"
       ],
-      "markscheme": "img/2002-june-chm5/ms_q1ai.jpg"
+      "markscheme": "img/2002-june-chm5/ms_q1ai.jpg",
+      "markscheme_text": "<b>Standard enthalpy change:</b>\n- &Delta;<i>H</i><sub>R</sub> = &Sigma;&Delta;<i>H</i><sub>f</sub>(products) - &Sigma;&Delta;<i>H</i><sub>f</sub>(reactants) (1)\n- &Delta;<i>H</i><sub>R</sub> = (-804 - 394) - (-940) (1)\n- = <b>-258</b> (kJ mol<sup>-1</sup>; ignore units completely) (1)\n\n<b>Standard entropy change:</b>\n- &Delta;<i>S</i> = &Sigma;<i>S</i>(products) - &Sigma;<i>S</i>(reactants) (1)\n- &Delta;<i>S</i> = (252 + 214) - (49.9 + 5.7 + [2 &times; 223]) (1)\n- = <b>-35.6</b> (J K<sup>-1</sup> mol<sup>-1</sup>; ignore units completely) (1)\n\n[Extra Information]:\nFor &Delta;<i>H</i>: allow +258 (2 marks); formula statement worth (2) if answer wrong.\nFor &Delta;<i>S</i>: allow +35.6 (2 marks); -36 AE -1; allow max 1 for +187; statement worth (2) if answer wrong."
     },
     {
       "id": "2002-june-chm5-q1aii",
@@ -8202,7 +8203,8 @@
       "figures": [
         "img/2002-june-chm5/fig-q1a-table.jpg"
       ],
-      "markscheme": "img/2002-june-chm5/ms_q1aii.jpg"
+      "markscheme": "img/2002-june-chm5/ms_q1aii.jpg",
+      "markscheme_text": "- <i>T</i> = &Delta;<i>H</i> / &Delta;<i>S</i> (or &Delta;<i>H</i> value / &Delta;<i>S</i> value from (a)(i)) (1)\n- <i>T</i> = (-258 &times; 1000) / (-35.6) (1)\n- = <b>7245 to 7250</b> (K) (1)\n\n[Extra Information]:\npenalise wrong sign in formula\nconsequential to &Delta;<i>H</i> and &Delta;<i>S</i> values from above\nif negative temperature given max 2\nif &deg;C used incorrectly max 2\nignore letter after value"
     },
     {
       "id": "2002-june-chm5-q1bi",
@@ -8219,7 +8221,8 @@
       "summary": "Write equation for industrial reduction of TiCl4 to titanium.",
       "image": "img/2002-june-chm5/q_q1bi.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm5/ms_q1bi.jpg"
+      "markscheme": "img/2002-june-chm5/ms_q1bi.jpg",
+      "markscheme_text": "<b>TiCl<sub>4</sub> + 4Na -> 4NaCl + Ti</b>\n<b>OR</b> <b>TiCl<sub>4</sub> + 2Mg -> 2MgCl<sub>2</sub> + Ti</b>\n(1 mark for correct species, 1 mark for balanced)\n\n[Extra Information]:\npenalise (aq) by one mark\nignore other state symbols\nCE if species incorrect"
     },
     {
       "id": "2002-june-chm5-q1bii",
@@ -8236,7 +8239,8 @@
       "summary": "Explain why air must be excluded during titanium extraction.",
       "image": "img/2002-june-chm5/q_q1bii.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm5/ms_q1bii.jpg"
+      "markscheme": "img/2002-june-chm5/ms_q1bii.jpg",
+      "markscheme_text": "<b>Any one from:</b>\n- Ti reacts with oxygen / air <b>OR</b> Ti is oxidised / an oxide formed (allow any oxide) (1)\n- Ti reacts with nitrogen <b>OR</b> nitride formed (allow formula of any nitride) (1)\n- Na or Mg reacts with oxygen, nitrogen or air (1)\n\n[Extra Information]:\ndo not allow hydrolysis\npenalise if other products given, e.g. carbide"
     },
     {
       "id": "2002-june-chm5-q1c",
@@ -8253,7 +8257,8 @@
       "summary": "Write equation for reaction of TiCl4 with water.",
       "image": "img/2002-june-chm5/q_q1c.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm5/ms_q1c.jpg"
+      "markscheme": "img/2002-june-chm5/ms_q1c.jpg",
+      "markscheme_text": "<b>TiCl<sub>4</sub> + 2H<sub>2</sub>O -> TiO<sub>2</sub> + 4HCl</b> (1)\n\n[Extra Information]:\nignore state symbols\nallow Ti(OH)<sub>4</sub> when 4H<sub>2</sub>O used\nor Ti(OH)<sub>4</sub>(H<sub>2</sub>O)<sub>2</sub> when 6H<sub>2</sub>O used\nor TiO<sub>2</sub>&middot;<i>x</i>H<sub>2</sub>O where <i>x</i> &le; 6, but must be balanced"
     },
     {
       "id": "2002-june-chm5-q2a",
@@ -8273,7 +8278,8 @@
       "figures": [
         "img/2002-june-chm5/fig-q2-potentials.jpg"
       ],
-      "markscheme": "img/2002-june-chm5/ms_q2a.jpg"
+      "markscheme": "img/2002-june-chm5/ms_q2a.jpg",
+      "markscheme_text": "- Cell e.m.f.: <b>1.93 (V)</b> (1)\n- Half-equation: <b>Mg -> Mg<sup>2+</sup> + 2e<sup>-</sup></b> (or &rightleftharpoons;) (1)\n\n[Extra Information]:\nCE if a negative value given for e.m.f.\nignore state symbols\nmark on after an AE"
     },
     {
       "id": "2002-june-chm5-q2b",
@@ -8293,7 +8299,8 @@
       "figures": [
         "img/2002-june-chm5/fig-q2-potentials.jpg"
       ],
-      "markscheme": "img/2002-june-chm5/ms_q2b.jpg"
+      "markscheme": "img/2002-june-chm5/ms_q2b.jpg",
+      "markscheme_text": "- Change in e.m.f.: <b>Increases</b> (1)\n- Explanation:\n&nbsp;&nbsp;&ndash; Equilibrium displaced to Mg<sup>2+</sup> / to the left (or cell / overall reaction goes to right) (1)\n&nbsp;&nbsp;&ndash; Electrode is more negative <b>OR</b> <i>E</i> decreases / gives more electrons / forms more Mg<sup>2+</sup> ions (1)\n\n[Extra Information]:\nmark on even if direction incorrect\nmark points separately"
     },
     {
       "id": "2002-june-chm5-q2c",
@@ -8313,7 +8320,8 @@
       "figures": [
         "img/2002-june-chm5/fig-q2-potentials.jpg"
       ],
-      "markscheme": "img/2002-june-chm5/ms_q2c.jpg"
+      "markscheme": "img/2002-june-chm5/ms_q2c.jpg",
+      "markscheme_text": "- Cell e.m.f.: <b>-0.84 (V)</b> (1)\n- Explanation: <b>Fe gives electrons</b> OR <b>forms Fe<sup>2+</sup></b> OR <b>reaction goes in reverse direction</b> (1)\n\n[Extra Information]:\nCE if positive value given for e.m.f.\nmark on after an AE\nNB in (a) and (c) mark on if no value given, but CE if emf = 0"
     },
     {
       "id": "2002-june-chm5-q3a",
@@ -8330,7 +8338,8 @@
       "summary": "State origin of colour in transition-metal complexes (d-d transitions).",
       "image": "img/2002-june-chm5/q_q3a.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm5/ms_q3a.jpg"
+      "markscheme": "img/2002-june-chm5/ms_q3a.jpg",
+      "markscheme_text": "- (Electrons excited /) <b>Electron transitions in d shell / d-d transition</b> (1)\n- (Energy absorbed in) <b>visible range</b> (1)\n\n[Extra Information]:\ndo not allow charge transfer\ndo not accept 'emits in visible region'"
     },
     {
       "id": "2002-june-chm5-q3b",
@@ -8347,7 +8356,8 @@
       "summary": "Give three changes to complex resulting in colour change (oxidation state, ligand, coordination).",
       "image": "img/2002-june-chm5/q_q3b.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm5/ms_q3b.jpg"
+      "markscheme": "img/2002-june-chm5/ms_q3b.jpg",
+      "markscheme_text": "- Change 1: (Different) <b>oxidation states</b> (1)\n- Change 2: (Different) <b>ligands</b> (1)\n- Change 3: (Different) <b>co-ordination number</b> (1)\n\n[Extra Information]:\ndo not allow 'shape' as an answer"
     },
     {
       "id": "2002-june-chm5-q3c",
@@ -8364,7 +8374,8 @@
       "summary": "Outline plan using colorimeter to determine unknown iron(III) concentration.",
       "image": "img/2002-june-chm5/q_q3c.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm5/ms_q3c.jpg"
+      "markscheme": "img/2002-june-chm5/ms_q3c.jpg",
+      "markscheme_text": "- Add an appropriate (or given correct) ligand to intensify colour [e.g. thiocyanate (CNS<sup>-</sup>) or bipyridyl] (1)\n- Make up solutions of known concentration (1)\n- Measure absorption(s) OR transmission (1)\n- Plot graph of results OR calibration curve (1)\n- Measure absorption of unknown and compare / read concentration from curve (1)\n\n[Extra Information]:\nAllow concentration statement if included in graph statement\nallow adsorption but circle d\nsketch graph of Absorption vs Concentration scores 3 marks"
     },
     {
       "id": "2002-june-chm5-q4a",
@@ -8384,7 +8395,8 @@
       "figures": [
         "img/2002-june-chm5/fig-q4-sequence.jpg"
       ],
-      "markscheme": "img/2002-june-chm5/ms_q4a.jpg"
+      "markscheme": "img/2002-june-chm5/ms_q4a.jpg",
+      "markscheme_text": "- Species: <b>[Ag(NH<sub>3</sub>)<sub>2</sub>]<sup>+</sup></b> (1)\n- Shape: <b>Linear</b> (1)\n- Use: To distinguish between (or identify) <b>aldehydes and ketones</b> OR <b>Tollens' reagent</b> OR in <b>silver mirror test</b> (1)\n\n[Extra Information]:\nallow name for species but penalise contradictions\nmark species, shape and use separately"
     },
     {
       "id": "2002-june-chm5-q4bi",
@@ -8403,7 +8415,8 @@
       "figures": [
         "img/2002-june-chm5/fig-q4-sequence.jpg"
       ],
-      "markscheme": "img/2002-june-chm5/ms_q4bi.jpg"
+      "markscheme": "img/2002-june-chm5/ms_q4bi.jpg",
+      "markscheme_text": "- Precipitate B: <b>AgBr</b> (or silver bromide) (1)\n- Silver-containing species in C: <b>[Ag(S<sub>2</sub>O<sub>3</sub>)<sub>2</sub>]<sup>3-</sup></b> (1)"
     },
     {
       "id": "2002-june-chm5-q4bii",
@@ -8423,7 +8436,8 @@
       "figures": [
         "img/2002-june-chm5/fig-q4-sequence.jpg"
       ],
-      "markscheme": "img/2002-june-chm5/ms_q4bii.jpg"
+      "markscheme": "img/2002-june-chm5/ms_q4bii.jpg",
+      "markscheme_text": "- Equation: <b>AgBr + 2S<sub>2</sub>O<sub>3</sub><sup>2-</sup> -> [Ag(S<sub>2</sub>O<sub>3</sub>)<sub>2</sub>]<sup>3-</sup> + Br<sup>-</sup></b> (1)\n- Explanation: <b>Removes AgBr</b> (or Ag<sup>+</sup>) OR <b>\"fixer\"</b> OR <b>prevents AgX darkening / reacting with light</b> (1)"
     },
     {
       "id": "2002-june-chm5-q4c",
@@ -8443,7 +8457,8 @@
       "figures": [
         "img/2002-june-chm5/fig-q4-sequence.jpg"
       ],
-      "markscheme": "img/2002-june-chm5/ms_q4c.jpg"
+      "markscheme": "img/2002-june-chm5/ms_q4c.jpg",
+      "markscheme_text": "- Species: <b>[Ag(CN)<sub>2</sub>]<sup>-</sup></b> (1)\n- Use: <b>Electroplating</b> (1)\n\n[Extra Information]:\nmark use separately"
     },
     {
       "id": "2002-june-chm5-q4d",
@@ -8462,7 +8477,8 @@
       "figures": [
         "img/2002-june-chm5/fig-q4-sequence.jpg"
       ],
-      "markscheme": "img/2002-june-chm5/ms_q4d.jpg"
+      "markscheme": "img/2002-june-chm5/ms_q4d.jpg",
+      "markscheme_text": "<b>It has a full d shell</b> OR <b>does not have a partially filled d shell</b> (1)\n\n[Extra Information]:\nignore 3d / 4d stated\nNOT 'it has a full outer shell'"
     },
     {
       "id": "2002-june-chm5-q5ai",
@@ -8479,7 +8495,8 @@
       "summary": "Write equation showing why aqueous chromium(III) chloride is acidic.",
       "image": "img/2002-june-chm5/q_q5ai.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm5/ms_q5ai.jpg"
+      "markscheme": "img/2002-june-chm5/ms_q5ai.jpg",
+      "markscheme_text": "<b>[Cr(H<sub>2</sub>O)<sub>6</sub>]<sup>3+</sup> + H<sub>2</sub>O -> [Cr(H<sub>2</sub>O)<sub>5</sub>(OH)]<sup>2+</sup> + H<sub>3</sub>O<sup>+</sup></b>\n<b>OR</b> <b>[Cr(H<sub>2</sub>O)<sub>6</sub>]<sup>3+</sup> -> [Cr(H<sub>2</sub>O)<sub>5</sub>(OH)]<sup>2+</sup> + H<sup>+</sup></b> (1)\n\n[Extra Information]:\nallow loss of up to 2H<sup>+</sup>\ndo NOT allow reactions with bases other than water"
     },
     {
       "id": "2002-june-chm5-q5aii",
@@ -8496,7 +8513,8 @@
       "summary": "Explain why aqueous Cr(III) is more acidic than Cr(II) (charge density, polarisation).",
       "image": "img/2002-june-chm5/q_q5aii.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm5/ms_q5aii.jpg"
+      "markscheme": "img/2002-june-chm5/ms_q5aii.jpg",
+      "markscheme_text": "<b>Any two from:</b>\n- Cr<sup>3+</sup> is smaller than Cr<sup>2+</sup> <b>OR</b> Cr<sup>3+</sup> has a greater charge density / greater charge-to-size ratio / surface density of charge (1)\n- Cr<sup>3+</sup> is more polarising (or draws electron density from oxygen) (1)\n- O-H bonds weakened / break more easily (1)\n\n[Extra Information]:\nMax 2 from 3"
     },
     {
       "id": "2002-june-chm5-q5bi",
@@ -8513,7 +8531,8 @@
       "summary": "Identify green precipitate Cr(H2O)3(OH)3 formed with NaOH or Na2CO3.",
       "image": "img/2002-june-chm5/q_q5bi.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm5/ms_q5bi.jpg"
+      "markscheme": "img/2002-june-chm5/ms_q5bi.jpg",
+      "markscheme_text": "<b>Cr(H<sub>2</sub>O)<sub>3</sub>(OH)<sub>3</sub></b> <b>OR</b> <b>Cr(OH)<sub>3</sub></b> <b>OR</b> <b>Cr(OH)<sub>3</sub>&middot;<i>x</i>H<sub>2</sub>O</b> (where <i>x</i> = 1, 2 or 3)\n<b>OR</b> name: <b>chromium(III) hydroxide</b> (1)"
     },
     {
       "id": "2002-june-chm5-q5bii",
@@ -8530,7 +8549,8 @@
       "summary": "State role of NaOH and Na2CO3 in precipitate formation (base / proton acceptor).",
       "image": "img/2002-june-chm5/q_q5bii.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm5/ms_q5bii.jpg"
+      "markscheme": "img/2002-june-chm5/ms_q5bii.jpg",
+      "markscheme_text": "<b>Base</b> <b>OR</b> <b>electron pair donor</b> <b>OR</b> <b>proton acceptor</b> (1)\n\n[Extra Information]:\nNOT alkali; ignore nucleophile but penalise 'ligand'"
     },
     {
       "id": "2002-june-chm5-q5biii",
@@ -8548,7 +8568,8 @@
       "summary": "Identify gas evolved with carbonate (CO2) and write balanced equation.",
       "image": "img/2002-june-chm5/q_q5biii.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm5/ms_q5biii.jpg"
+      "markscheme": "img/2002-june-chm5/ms_q5biii.jpg",
+      "markscheme_text": "- Gas evolved: <b>CO<sub>2</sub></b> (or carbon dioxide) (1)\n- Equation: <b>3CO<sub>3</sub><sup>2-</sup> + 2[Cr(H<sub>2</sub>O)<sub>6</sub>]<sup>3+</sup> -> 2[Cr(H<sub>2</sub>O)<sub>3</sub>(OH)<sub>3</sub>] + 3CO<sub>2</sub> + 3H<sub>2</sub>O</b> (1)\n\n[Extra Information]:\nIf separate equations for CO<sub>3</sub><sup>2-</sup> and Cr<sup>3+</sup>(aq) given, an overall equation must be deduced"
     },
     {
       "id": "2002-june-chm5-q5c",
@@ -8565,7 +8586,8 @@
       "summary": "State reagents used to convert aqueous Cr(III) into chromate(VI) (H2O2 + alkaline).",
       "image": "img/2002-june-chm5/q_q5c.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm5/ms_q5c.jpg"
+      "markscheme": "img/2002-june-chm5/ms_q5c.jpg",
+      "markscheme_text": "- <b>H<sub>2</sub>O<sub>2</sub> + NaOH</b> (or KOH) (scores 2 marks)\n- <i>Alternative:</i> <b>Na<sub>2</sub>O<sub>2</sub></b> (scores 2 marks)\n- H<sub>2</sub>O<sub>2</sub> alone or with anything else (scores 1 mark)\n\n[Extra Information]:\nNaOH alone scores 0\nDo not allow 'alkaline' or OH<sup>-</sup> or NH<sub>3</sub>"
     },
     {
       "id": "2002-june-chm5-q6a",
@@ -8582,7 +8604,8 @@
       "summary": "State what is meant by the term co-ordinate bond.",
       "image": "img/2002-june-chm5/q_q6a.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm5/ms_q6a.jpg"
+      "markscheme": "img/2002-june-chm5/ms_q6a.jpg",
+      "markscheme_text": "- <b>A shared electron pair</b> OR covalent bond (1)\n- <b>Both electrons from one atom</b> OR when a Lewis base reacts with a Lewis acid (1)\n\n[Extra Information]:\nmark points separately"
     },
     {
       "id": "2002-june-chm5-q6b",
@@ -8599,7 +8622,8 @@
       "summary": "Define Brønsted-Lowry acid and Lewis acid.",
       "image": "img/2002-june-chm5/q_q6b.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm5/ms_q6b.jpg"
+      "markscheme": "img/2002-june-chm5/ms_q6b.jpg",
+      "markscheme_text": "- Br&oslash;nsted&ndash;Lowry acid: <b>A proton OR H<sup>+</sup> donor</b> (1) (NOT H<sub>3</sub>O<sup>+</sup>)\n- Lewis acid: <b>A lone OR electron pair acceptor</b> (1)"
     },
     {
       "id": "2002-june-chm5-q6c",
@@ -8616,7 +8640,8 @@
       "summary": "State what is meant by the term bidentate ligand.",
       "image": "img/2002-june-chm5/q_q6c.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm5/ms_q6c.jpg"
+      "markscheme": "img/2002-june-chm5/ms_q6c.jpg",
+      "markscheme_text": "- <b>Two atoms</b> OR <b>two points of attachment</b> (1)\n- <b>Each donating a lone electron pair</b> OR forms 2 co-ordinate bonds OR donates two pairs of electrons (1)"
     },
     {
       "id": "2002-june-chm5-q6d",
@@ -8634,7 +8659,8 @@
       "summary": "State coordination number change for Co(II) with excess chloride (6 to 4) and reason.",
       "image": "img/2002-june-chm5/q_q6d.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm5/ms_q6d.jpg"
+      "markscheme": "img/2002-june-chm5/ms_q6d.jpg",
+      "markscheme_text": "- Change in co-ordination number: <b>6 to 4</b> (1)\n- Reason for change: <b>Chloride ligands are larger than water ligands</b> OR <b>greater repulsion between chloride ligands</b> (1)\n\n[Extra Information]:\ndo not allow 'chlorine' or 'Cl'"
     },
     {
       "id": "2002-june-chm5-q6e",
@@ -8652,7 +8678,8 @@
       "summary": "Suggest why enthalpy change is close to zero for ligand substitution by diamine.",
       "image": "img/2002-june-chm5/q_q6e.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm5/ms_q6e.jpg"
+      "markscheme": "img/2002-june-chm5/ms_q6e.jpg",
+      "markscheme_text": "- <b>Same number</b> (1)\n- and <b>same type of bonds</b> (1)\nbroken and made\n\n[Extra Information]:\n1 mark for same number of bonds, 1 mark for same type of bonds"
     },
     {
       "id": "2002-june-chm5-q6f",
@@ -8669,7 +8696,8 @@
       "summary": "Deduce formula of compound formed when ethane-1,2-diamine treated with excess HCl.",
       "image": "img/2002-june-chm5/q_q6f.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm5/ms_q6f.jpg"
+      "markscheme": "img/2002-june-chm5/ms_q6f.jpg",
+      "markscheme_text": "<b>Cl<sup>-</sup> H<sub>3</sub>N<sup>+</sup>CH<sub>2</sub>CH<sub>2</sub>N<sup>+</sup>H<sub>3</sub> Cl<sup>-</sup></b>\n<b>OR</b> <b>(NH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>NH<sub>3</sub>)<sup>2+</sup> 2Cl<sup>-</sup></b>\n<b>OR</b> <b>C<sub>2</sub>H<sub>10</sub>N<sub>2</sub>Cl<sub>2</sub></b>\n<b>OR</b> <b>NH<sub>3</sub>Cl CH<sub>2</sub>CH<sub>2</sub> NH<sub>3</sub>Cl</b> (1)"
     },
     {
       "id": "2002-june-chm6w-q1",
