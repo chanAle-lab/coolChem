@@ -360,6 +360,54 @@
       "spec": "AQA Chemistry",
       "totalMarks": 50,
       "duration": "1 hour 15 mins"
+    },
+    {
+      "id": "2002-jan-chm1",
+      "year": 2002,
+      "series": "January",
+      "date": "2002-01-11",
+      "code": "CHM1",
+      "unit": "Unit 1: Atomic Structure, Bonding and Periodicity",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "totalMarks": 60,
+      "duration": "1 hour 30 mins"
+    },
+    {
+      "id": "2002-jan-chm2",
+      "year": 2002,
+      "series": "January",
+      "date": "2002-01-11",
+      "code": "CHM2",
+      "unit": "Unit 2: Foundation Physical and Inorganic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "totalMarks": 60,
+      "duration": "1 hour 30 mins"
+    },
+    {
+      "id": "2002-jan-chm3w",
+      "year": 2002,
+      "series": "January",
+      "date": "2002-01-18",
+      "code": "CHM3/W",
+      "unit": "Unit 3(a): Introduction to Organic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "totalMarks": 50,
+      "duration": "1 hour 15 mins"
+    },
+    {
+      "id": "2002-jan-chm4",
+      "year": 2002,
+      "series": "January",
+      "date": "2002-01-24",
+      "code": "CHM4",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "level": "A",
+      "spec": "AQA Chemistry",
+      "totalMarks": 60,
+      "duration": "1 hour 30 mins"
     }
   ],
   "questions": [
@@ -3153,6 +3201,2331 @@
       "image": "img/2001-june-chm3w/q_q5bv.jpg",
       "figures": [],
       "markscheme": "img/2001-june-chm3w/ms_q5bv.jpg"
+    },
+    {
+      "id": "2002-jan-chm1-q1a",
+      "paper": "2002-jan-chm1",
+      "question": "1(a)",
+      "marks": 1,
+      "page": 2,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Define the term atomic number of an element.",
+      "image": "img/2002-jan-chm1/q_q1a.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm1/ms_q1a.jpg"
+    },
+    {
+      "id": "2002-jan-chm1-q1b",
+      "paper": "2002-jan-chm1",
+      "question": "1(b)",
+      "marks": 2,
+      "page": 2,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Symbol, mass number and atomic number for atom with 12 neutrons and 11 electrons.",
+      "image": "img/2002-jan-chm1/q_q1b.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm1/ms_q1b.jpg"
+    },
+    {
+      "id": "2002-jan-chm1-q1c",
+      "paper": "2002-jan-chm1",
+      "question": "1(c)",
+      "marks": 1,
+      "page": 2,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Electronic configuration of an aluminium atom in terms of s and p sub-levels.",
+      "image": "img/2002-jan-chm1/q_q1c.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm1/ms_q1c.jpg"
+    },
+    {
+      "id": "2002-jan-chm1-q1d",
+      "paper": "2002-jan-chm1",
+      "question": "1(d)",
+      "marks": 1,
+      "page": 2,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Number of neutrons in one 27Al atom.",
+      "image": "img/2002-jan-chm1/q_q1d.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm1/ms_q1d.jpg"
+    },
+    {
+      "id": "2002-jan-chm1-q1e",
+      "paper": "2002-jan-chm1",
+      "question": "1(e)",
+      "marks": 2,
+      "page": 2,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Define the term relative atomic mass of an element.",
+      "image": "img/2002-jan-chm1/q_q1e.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm1/ms_q1e.jpg"
+    },
+    {
+      "id": "2002-jan-chm1-q1fi",
+      "paper": "2002-jan-chm1",
+      "question": "1(f)(i)",
+      "marks": 1,
+      "page": 2,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [
+        "practical"
+      ],
+      "summary": "Name the device used to ionise atoms in a mass spectrometer.",
+      "image": "img/2002-jan-chm1/q_q1fi.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm1/ms_q1fi.jpg"
+    },
+    {
+      "id": "2002-jan-chm1-q1fii",
+      "paper": "2002-jan-chm1",
+      "question": "1(f)(ii)",
+      "marks": 1,
+      "page": 2,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Why is it necessary to ionise atoms before acceleration?",
+      "image": "img/2002-jan-chm1/q_q1fii.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm1/ms_q1fii.jpg"
+    },
+    {
+      "id": "2002-jan-chm1-q1fiii",
+      "paper": "2002-jan-chm1",
+      "question": "1(f)(iii)",
+      "marks": 1,
+      "page": 3,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [
+        "practical"
+      ],
+      "summary": "What deflects the ions in a mass spectrometer?",
+      "image": "img/2002-jan-chm1/q_q1fiii.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm1/ms_q1fiii.jpg"
+    },
+    {
+      "id": "2002-jan-chm1-q1fiv",
+      "paper": "2002-jan-chm1",
+      "question": "1(f)(iv)",
+      "marks": 1,
+      "page": 3,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [
+        "practical"
+      ],
+      "summary": "What is adjusted in order to direct ions of different m/z ratio onto detector?",
+      "image": "img/2002-jan-chm1/q_q1fiv.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm1/ms_q1fiv.jpg"
+    },
+    {
+      "id": "2002-jan-chm1-q1gi",
+      "paper": "2002-jan-chm1",
+      "question": "1(g)(i)",
+      "marks": 2,
+      "page": 3,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [
+        "maths"
+      ],
+      "summary": "Calculate relative atomic mass of element X from meteorite isotope data.",
+      "image": "img/2002-jan-chm1/q_q1gi.jpg",
+      "figures": [
+        "img/2002-jan-chm1/fig-q1g-table.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm1/ms_q1gi.jpg"
+    },
+    {
+      "id": "2002-jan-chm1-q1gii",
+      "paper": "2002-jan-chm1",
+      "question": "1(g)(ii)",
+      "marks": 1,
+      "page": 3,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Suggest the most likely identity of element X using the Periodic Table (Mg).",
+      "image": "img/2002-jan-chm1/q_q1gii.jpg",
+      "figures": [
+        "img/2002-jan-chm1/fig-q1g-table.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm1/ms_q1gii.jpg"
+    },
+    {
+      "id": "2002-jan-chm1-q1giii",
+      "paper": "2002-jan-chm1",
+      "question": "1(g)(iii)",
+      "marks": 2,
+      "page": 3,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Why relative atomic mass of X in Periodic Table differs from meteorite sample.",
+      "image": "img/2002-jan-chm1/q_q1giii.jpg",
+      "figures": [
+        "img/2002-jan-chm1/fig-q1g-table.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm1/ms_q1giii.jpg"
+    },
+    {
+      "id": "2002-jan-chm1-q2ai",
+      "paper": "2002-jan-chm1",
+      "question": "2(a)(i)",
+      "marks": 1,
+      "page": 4,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Mark charges on four negative ions on NaCl structure diagram.",
+      "image": "img/2002-jan-chm1/q_q2ai.jpg",
+      "figures": [
+        "img/2002-jan-chm1/fig-q2a-lattice.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm1/ms_q2ai.jpg"
+    },
+    {
+      "id": "2002-jan-chm1-q2aii",
+      "paper": "2002-jan-chm1",
+      "question": "2(a)(ii)",
+      "marks": 1,
+      "page": 4,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Change occurring to motion of ions in NaCl when heated below melting point.",
+      "image": "img/2002-jan-chm1/q_q2aii.jpg",
+      "figures": [
+        "img/2002-jan-chm1/fig-q2a-lattice.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm1/ms_q2aii.jpg"
+    },
+    {
+      "id": "2002-jan-chm1-q2bi",
+      "paper": "2002-jan-chm1",
+      "question": "2(b)(i)",
+      "marks": 1,
+      "page": 4,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Equation for formation of sodium chloride from sodium and chlorine.",
+      "image": "img/2002-jan-chm1/q_q2bi.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm1/ms_q2bi.jpg"
+    },
+    {
+      "id": "2002-jan-chm1-q2bii",
+      "paper": "2002-jan-chm1",
+      "question": "2(b)(ii)",
+      "marks": 1,
+      "page": 4,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Origin of the extra electron in a chloride ion during formation of NaCl.",
+      "image": "img/2002-jan-chm1/q_q2bii.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm1/ms_q2bii.jpg"
+    },
+    {
+      "id": "2002-jan-chm1-q2ci",
+      "paper": "2002-jan-chm1",
+      "question": "2(c)(i)",
+      "marks": 1,
+      "page": 4,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "What is a polarised chloride ion?",
+      "image": "img/2002-jan-chm1/q_q2ci.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm1/ms_q2ci.jpg"
+    },
+    {
+      "id": "2002-jan-chm1-q2cii",
+      "paper": "2002-jan-chm1",
+      "question": "2(c)(ii)",
+      "marks": 1,
+      "page": 4,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "What feature of a cation causes a chloride ion to become polarised?",
+      "image": "img/2002-jan-chm1/q_q2cii.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm1/ms_q2cii.jpg"
+    },
+    {
+      "id": "2002-jan-chm1-q2di",
+      "paper": "2002-jan-chm1",
+      "question": "2(d)(i)",
+      "marks": 2,
+      "page": 5,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "What is a covalent bond?",
+      "image": "img/2002-jan-chm1/q_q2di.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm1/ms_q2di.jpg"
+    },
+    {
+      "id": "2002-jan-chm1-q2dii",
+      "paper": "2002-jan-chm1",
+      "question": "2(d)(ii)",
+      "marks": 1,
+      "page": 5,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "What property of atoms joined by a covalent bond causes the bond to be polar?",
+      "image": "img/2002-jan-chm1/q_q2dii.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm1/ms_q2dii.jpg"
+    },
+    {
+      "id": "2002-jan-chm1-q3ai",
+      "paper": "2002-jan-chm1",
+      "question": "3(a)(i)",
+      "marks": 2,
+      "page": 6,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Why each bond angle is exactly 120\u00b0 in BCl3.",
+      "image": "img/2002-jan-chm1/q_q3ai.jpg",
+      "figures": [
+        "img/2002-jan-chm1/fig-q3a-shapes.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm1/ms_q3ai.jpg"
+    },
+    {
+      "id": "2002-jan-chm1-q3aii",
+      "paper": "2002-jan-chm1",
+      "question": "3(a)(ii)",
+      "marks": 3,
+      "page": 6,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Predict bond angle in CCl2 and explain why angle is different from BCl3.",
+      "image": "img/2002-jan-chm1/q_q3aii.jpg",
+      "figures": [
+        "img/2002-jan-chm1/fig-q3a-shapes.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm1/ms_q3aii.jpg"
+    },
+    {
+      "id": "2002-jan-chm1-q3b",
+      "paper": "2002-jan-chm1",
+      "question": "3(b)",
+      "marks": 2,
+      "page": 6,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Name of shape with bond angles of 109\u00b0 28' and example molecule.",
+      "image": "img/2002-jan-chm1/q_q3b.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm1/ms_q3b.jpg"
+    },
+    {
+      "id": "2002-jan-chm1-q3ci",
+      "paper": "2002-jan-chm1",
+      "question": "3(c)(i)",
+      "marks": 1,
+      "page": 6,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "State the bond angle in XeF4.",
+      "image": "img/2002-jan-chm1/q_q3ci.jpg",
+      "figures": [
+        "img/2002-jan-chm1/fig-q3c-xef4.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm1/ms_q3ci.jpg"
+    },
+    {
+      "id": "2002-jan-chm1-q3cii",
+      "paper": "2002-jan-chm1",
+      "question": "3(c)(ii)",
+      "marks": 2,
+      "page": 7,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Why lone pairs of electrons are opposite each other in XeF4.",
+      "image": "img/2002-jan-chm1/q_q3cii.jpg",
+      "figures": [
+        "img/2002-jan-chm1/fig-q3c-xef4.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm1/ms_q3cii.jpg"
+    },
+    {
+      "id": "2002-jan-chm1-q3ciii",
+      "paper": "2002-jan-chm1",
+      "question": "3(c)(iii)",
+      "marks": 1,
+      "page": 7,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Name the shape of XeF4 describing positions of atoms only (square planar).",
+      "image": "img/2002-jan-chm1/q_q3ciii.jpg",
+      "figures": [
+        "img/2002-jan-chm1/fig-q3c-xef4.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm1/ms_q3ciii.jpg"
+    },
+    {
+      "id": "2002-jan-chm1-q3d",
+      "paper": "2002-jan-chm1",
+      "question": "3(d)",
+      "marks": 2,
+      "page": 7,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Sketch of NF3 molecule showing lone pairs of electrons on nitrogen.",
+      "image": "img/2002-jan-chm1/q_q3d.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm1/ms_q3d.jpg"
+    },
+    {
+      "id": "2002-jan-chm1-q4a",
+      "paper": "2002-jan-chm1",
+      "question": "4(a)",
+      "marks": 2,
+      "page": 8,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "State the meaning of the term electronegativity.",
+      "image": "img/2002-jan-chm1/q_q4a.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm1/ms_q4a.jpg"
+    },
+    {
+      "id": "2002-jan-chm1-q4b",
+      "paper": "2002-jan-chm1",
+      "question": "4(b)",
+      "marks": 3,
+      "page": 8,
+      "topics": [
+        "3.1.3",
+        "3.2.1"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Trend and explanation in electronegativity across Period 3 from Na to Cl.",
+      "image": "img/2002-jan-chm1/q_q4b.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm1/ms_q4b.jpg"
+    },
+    {
+      "id": "2002-jan-chm1-q4c",
+      "paper": "2002-jan-chm1",
+      "question": "4(c)",
+      "marks": 2,
+      "page": 8,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "What is meant by the term first ionisation energy?",
+      "image": "img/2002-jan-chm1/q_q4c.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm1/ms_q4c.jpg"
+    },
+    {
+      "id": "2002-jan-chm1-q4di",
+      "paper": "2002-jan-chm1",
+      "question": "4(d)(i)",
+      "marks": 1,
+      "page": 9,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Maximum number of electrons in an s sub-level.",
+      "image": "img/2002-jan-chm1/q_q4di.jpg",
+      "figures": [
+        "img/2002-jan-chm1/fig-q4d-graph.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm1/ms_q4di.jpg"
+    },
+    {
+      "id": "2002-jan-chm1-q4dii",
+      "paper": "2002-jan-chm1",
+      "question": "4(d)(ii)",
+      "marks": 1,
+      "page": 9,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Evidence from graph supporting max electrons in s sub-level (Na, Mg).",
+      "image": "img/2002-jan-chm1/q_q4dii.jpg",
+      "figures": [
+        "img/2002-jan-chm1/fig-q4d-graph.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm1/ms_q4dii.jpg"
+    },
+    {
+      "id": "2002-jan-chm1-q4diii",
+      "paper": "2002-jan-chm1",
+      "question": "4(d)(iii)",
+      "marks": 1,
+      "page": 9,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Evidence from graph supporting that 3p sub-level is higher in energy than 3s (Al drop).",
+      "image": "img/2002-jan-chm1/q_q4diii.jpg",
+      "figures": [
+        "img/2002-jan-chm1/fig-q4d-graph.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm1/ms_q4diii.jpg"
+    },
+    {
+      "id": "2002-jan-chm1-q4div",
+      "paper": "2002-jan-chm1",
+      "question": "4(d)(iv)",
+      "marks": 2,
+      "page": 9,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Evidence from graph that no more than 3 unpaired electrons in 3p sub-level (P to S drop).",
+      "image": "img/2002-jan-chm1/q_q4div.jpg",
+      "figures": [
+        "img/2002-jan-chm1/fig-q4d-graph.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm1/ms_q4div.jpg"
+    },
+    {
+      "id": "2002-jan-chm1-q5ai",
+      "paper": "2002-jan-chm1",
+      "question": "5(a)(i)",
+      "marks": 2,
+      "page": 10,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Describe the bonding in a metal.",
+      "image": "img/2002-jan-chm1/q_q5ai.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm1/ms_q5ai.jpg"
+    },
+    {
+      "id": "2002-jan-chm1-q5aii",
+      "paper": "2002-jan-chm1",
+      "question": "5(a)(ii)",
+      "marks": 2,
+      "page": 10,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Explain why magnesium has a higher melting point than sodium.",
+      "image": "img/2002-jan-chm1/q_q5aii.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm1/ms_q5aii.jpg"
+    },
+    {
+      "id": "2002-jan-chm1-q5b",
+      "paper": "2002-jan-chm1",
+      "question": "5(b)",
+      "marks": 3,
+      "page": 10,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Why diamond and graphite both have high melting points.",
+      "image": "img/2002-jan-chm1/q_q5b.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm1/ms_q5b.jpg"
+    },
+    {
+      "id": "2002-jan-chm1-q5c",
+      "paper": "2002-jan-chm1",
+      "question": "5(c)",
+      "marks": 1,
+      "page": 10,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Why graphite is a good conductor of electricity.",
+      "image": "img/2002-jan-chm1/q_q5c.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm1/ms_q5c.jpg"
+    },
+    {
+      "id": "2002-jan-chm1-q5d",
+      "paper": "2002-jan-chm1",
+      "question": "5(d)",
+      "marks": 2,
+      "page": 10,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Why graphite is soft (weak van der Waals forces between planes).",
+      "image": "img/2002-jan-chm1/q_q5d.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm1/ms_q5d.jpg"
+    },
+    {
+      "id": "2002-jan-chm2-q1a",
+      "paper": "2002-jan-chm2",
+      "question": "1(a)",
+      "marks": 3,
+      "page": 3,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Define the term standard molar enthalpy of formation.",
+      "image": "img/2002-jan-chm2/q_q1a.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm2/ms_q1a.jpg"
+    },
+    {
+      "id": "2002-jan-chm2-q1b",
+      "paper": "2002-jan-chm2",
+      "question": "1(b)",
+      "marks": 1,
+      "page": 3,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "State Hess's law.",
+      "image": "img/2002-jan-chm2/q_q1b.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm2/ms_q1b.jpg"
+    },
+    {
+      "id": "2002-jan-chm2-q1c",
+      "paper": "2002-jan-chm2",
+      "question": "1(c)",
+      "marks": 3,
+      "page": 3,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [
+        "maths"
+      ],
+      "summary": "Calculate standard enthalpy of combustion of propanone using formation enthalpies.",
+      "image": "img/2002-jan-chm2/q_q1c.jpg",
+      "figures": [
+        "img/2002-jan-chm2/fig-q1c-table.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm2/ms_q1c.jpg"
+    },
+    {
+      "id": "2002-jan-chm2-q2a",
+      "paper": "2002-jan-chm2",
+      "question": "2(a)",
+      "marks": 2,
+      "page": 4,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "State what is meant by the term mean bond enthalpy.",
+      "image": "img/2002-jan-chm2/q_q2a.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm2/ms_q2a.jpg"
+    },
+    {
+      "id": "2002-jan-chm2-q2bi",
+      "paper": "2002-jan-chm2",
+      "question": "2(b)(i)",
+      "marks": 2,
+      "page": 4,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [
+        "maths"
+      ],
+      "summary": "Calculate enthalpy change when all bonds in reactants are broken for ethanal combustion.",
+      "image": "img/2002-jan-chm2/q_q2bi.jpg",
+      "figures": [
+        "img/2002-jan-chm2/fig-q2b-ethanal.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm2/ms_q2bi.jpg"
+    },
+    {
+      "id": "2002-jan-chm2-q2bii",
+      "paper": "2002-jan-chm2",
+      "question": "2(b)(ii)",
+      "marks": 2,
+      "page": 5,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [
+        "maths"
+      ],
+      "summary": "Calculate enthalpy change when all bonds in products are formed for ethanal combustion.",
+      "image": "img/2002-jan-chm2/q_q2bii.jpg",
+      "figures": [
+        "img/2002-jan-chm2/fig-q2b-ethanal.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm2/ms_q2bii.jpg"
+    },
+    {
+      "id": "2002-jan-chm2-q2biii",
+      "paper": "2002-jan-chm2",
+      "question": "2(b)(iii)",
+      "marks": 1,
+      "page": 5,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [
+        "maths"
+      ],
+      "summary": "Calculate enthalpy change for complete combustion of ethanal (bonds broken - bonds made).",
+      "image": "img/2002-jan-chm2/q_q2biii.jpg",
+      "figures": [
+        "img/2002-jan-chm2/fig-q2b-ethanal.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm2/ms_q2biii.jpg"
+    },
+    {
+      "id": "2002-jan-chm2-q3ai",
+      "paper": "2002-jan-chm2",
+      "question": "3(a)(i)",
+      "marks": 2,
+      "page": 6,
+      "topics": [
+        "3.1.6"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Meaning of dynamic equilibrium in terms of rates and concentrations.",
+      "image": "img/2002-jan-chm2/q_q3ai.jpg",
+      "figures": [
+        "img/2002-jan-chm2/fig-q3a-equation.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm2/ms_q3ai.jpg"
+    },
+    {
+      "id": "2002-jan-chm2-q3aii",
+      "paper": "2002-jan-chm2",
+      "question": "3(a)(ii)",
+      "marks": 2,
+      "page": 6,
+      "topics": [
+        "3.1.6"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Effect of pressure increase on equilibrium yield of hydrogen in methane steam reforming.",
+      "image": "img/2002-jan-chm2/q_q3aii.jpg",
+      "figures": [
+        "img/2002-jan-chm2/fig-q3a-equation.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm2/ms_q3aii.jpg"
+    },
+    {
+      "id": "2002-jan-chm2-q3aiii",
+      "paper": "2002-jan-chm2",
+      "question": "3(a)(iii)",
+      "marks": 1,
+      "page": 6,
+      "topics": [
+        "3.1.6"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Deduction about enthalpy change from reduced yield at lower temperature (endothermic).",
+      "image": "img/2002-jan-chm2/q_q3aiii.jpg",
+      "figures": [
+        "img/2002-jan-chm2/fig-q3a-equation.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm2/ms_q3aiii.jpg"
+    },
+    {
+      "id": "2002-jan-chm2-q3aiv",
+      "paper": "2002-jan-chm2",
+      "question": "3(a)(iv)",
+      "marks": 2,
+      "page": 6,
+      "topics": [
+        "3.1.6"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Why equilibrium yield is unchanged when a catalyst is introduced.",
+      "image": "img/2002-jan-chm2/q_q3aiv.jpg",
+      "figures": [
+        "img/2002-jan-chm2/fig-q3a-equation.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm2/ms_q3aiv.jpg"
+    },
+    {
+      "id": "2002-jan-chm2-q3bi",
+      "paper": "2002-jan-chm2",
+      "question": "3(b)(i)",
+      "marks": 3,
+      "page": 6,
+      "topics": [
+        "3.1.6"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Explain why 450 \u00b0C is a compromise temperature in the Haber Process.",
+      "image": "img/2002-jan-chm2/q_q3bi.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm2/ms_q3bi.jpg"
+    },
+    {
+      "id": "2002-jan-chm2-q3bii",
+      "paper": "2002-jan-chm2",
+      "question": "3(b)(ii)",
+      "marks": 4,
+      "page": 7,
+      "topics": [
+        "3.1.6"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Explain why 20 MPa is a compromise pressure in the Haber Process.",
+      "image": "img/2002-jan-chm2/q_q3bii.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm2/ms_q3bii.jpg"
+    },
+    {
+      "id": "2002-jan-chm2-q4ai",
+      "paper": "2002-jan-chm2",
+      "question": "4(a)(i)",
+      "marks": 1,
+      "page": 8,
+      "topics": [
+        "3.1.7"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Define oxidation in terms of electrons.",
+      "image": "img/2002-jan-chm2/q_q4ai.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm2/ms_q4ai.jpg"
+    },
+    {
+      "id": "2002-jan-chm2-q4aii",
+      "paper": "2002-jan-chm2",
+      "question": "4(a)(ii)",
+      "marks": 2,
+      "page": 8,
+      "topics": [
+        "3.1.7"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Deduce oxidation states of nitrogen in NO and NH4+.",
+      "image": "img/2002-jan-chm2/q_q4aii.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm2/ms_q4aii.jpg"
+    },
+    {
+      "id": "2002-jan-chm2-q4aiii",
+      "paper": "2002-jan-chm2",
+      "question": "4(a)(iii)",
+      "marks": 1,
+      "page": 8,
+      "topics": [
+        "3.1.7"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Identify the species formed by oxidation in this redox reaction (I2).",
+      "image": "img/2002-jan-chm2/q_q4aiii.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm2/ms_q4aiii.jpg"
+    },
+    {
+      "id": "2002-jan-chm2-q4bi",
+      "paper": "2002-jan-chm2",
+      "question": "4(b)(i)",
+      "marks": 1,
+      "page": 8,
+      "topics": [
+        "3.1.7"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Half-equation for formation of chloride ions from chlorine.",
+      "image": "img/2002-jan-chm2/q_q4bi.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm2/ms_q4bi.jpg"
+    },
+    {
+      "id": "2002-jan-chm2-q4bii",
+      "paper": "2002-jan-chm2",
+      "question": "4(b)(ii)",
+      "marks": 1,
+      "page": 8,
+      "topics": [
+        "3.1.7"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Half-equation for formation of H+ and SO4(2-) from SO2 and H2O.",
+      "image": "img/2002-jan-chm2/q_q4bii.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm2/ms_q4bii.jpg"
+    },
+    {
+      "id": "2002-jan-chm2-q4biii",
+      "paper": "2002-jan-chm2",
+      "question": "4(b)(iii)",
+      "marks": 1,
+      "page": 8,
+      "topics": [
+        "3.1.7"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Overall redox equation for chlorine bubbled into aqueous sulphur dioxide.",
+      "image": "img/2002-jan-chm2/q_q4biii.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm2/ms_q4biii.jpg"
+    },
+    {
+      "id": "2002-jan-chm2-q5a",
+      "paper": "2002-jan-chm2",
+      "question": "5(a)",
+      "marks": 2,
+      "page": 9,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [
+        "maths"
+      ],
+      "summary": "Calculate moles of sodium thiosulphate used in the titration.",
+      "image": "img/2002-jan-chm2/q_q5a.jpg",
+      "figures": [
+        "img/2002-jan-chm2/fig-q5-preamble.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm2/ms_q5a.jpg"
+    },
+    {
+      "id": "2002-jan-chm2-q5b",
+      "paper": "2002-jan-chm2",
+      "question": "5(b)",
+      "marks": 1,
+      "page": 9,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Equation for reaction between thiosulphate ions and iodine.",
+      "image": "img/2002-jan-chm2/q_q5b.jpg",
+      "figures": [
+        "img/2002-jan-chm2/fig-q5-preamble.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm2/ms_q5b.jpg"
+    },
+    {
+      "id": "2002-jan-chm2-q5c",
+      "paper": "2002-jan-chm2",
+      "question": "5(c)",
+      "marks": 1,
+      "page": 9,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [
+        "maths"
+      ],
+      "summary": "Calculate moles of iodine reacting with sodium thiosulphate.",
+      "image": "img/2002-jan-chm2/q_q5c.jpg",
+      "figures": [
+        "img/2002-jan-chm2/fig-q5-preamble.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm2/ms_q5c.jpg"
+    },
+    {
+      "id": "2002-jan-chm2-q5d",
+      "paper": "2002-jan-chm2",
+      "question": "5(d)",
+      "marks": 1,
+      "page": 9,
+      "topics": [
+        "3.1.2",
+        "3.2.3"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Equation for reaction between potassium iodide and chlorine.",
+      "image": "img/2002-jan-chm2/q_q5d.jpg",
+      "figures": [
+        "img/2002-jan-chm2/fig-q5-preamble.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm2/ms_q5d.jpg"
+    },
+    {
+      "id": "2002-jan-chm2-q5e",
+      "paper": "2002-jan-chm2",
+      "question": "5(e)",
+      "marks": 3,
+      "page": 9,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [
+        "maths"
+      ],
+      "summary": "Calculate mass of chlorine in original solution reacting with potassium iodide.",
+      "image": "img/2002-jan-chm2/q_q5e.jpg",
+      "figures": [
+        "img/2002-jan-chm2/fig-q5-preamble.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm2/ms_q5e.jpg"
+    },
+    {
+      "id": "2002-jan-chm2-q5f",
+      "paper": "2002-jan-chm2",
+      "question": "5(f)",
+      "marks": 2,
+      "page": 9,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [
+        "practical"
+      ],
+      "summary": "Indicator for iodine titration with thiosulphate and colour change at end-point.",
+      "image": "img/2002-jan-chm2/q_q5f.jpg",
+      "figures": [
+        "img/2002-jan-chm2/fig-q5-preamble.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm2/ms_q5f.jpg"
+    },
+    {
+      "id": "2002-jan-chm2-q6ai",
+      "paper": "2002-jan-chm2",
+      "question": "6(a)(i)",
+      "marks": 1,
+      "page": 10,
+      "topics": [
+        "3.2.1"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Equation for reaction mainly responsible for high temperature in Blast Furnace.",
+      "image": "img/2002-jan-chm2/q_q6ai.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm2/ms_q6ai.jpg"
+    },
+    {
+      "id": "2002-jan-chm2-q6aii",
+      "paper": "2002-jan-chm2",
+      "question": "6(a)(ii)",
+      "marks": 1,
+      "page": 10,
+      "topics": [
+        "3.2.1"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Equation for iron reduction from its oxide in Blast Furnace.",
+      "image": "img/2002-jan-chm2/q_q6aii.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm2/ms_q6aii.jpg"
+    },
+    {
+      "id": "2002-jan-chm2-q6aiii",
+      "paper": "2002-jan-chm2",
+      "question": "6(a)(iii)",
+      "marks": 1,
+      "page": 10,
+      "topics": [
+        "3.2.1"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Equation to show how sulphur impurity is removed from Blast Furnace iron.",
+      "image": "img/2002-jan-chm2/q_q6aiii.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm2/ms_q6aiii.jpg"
+    },
+    {
+      "id": "2002-jan-chm2-q6aiv",
+      "paper": "2002-jan-chm2",
+      "question": "6(a)(iv)",
+      "marks": 3,
+      "page": 10,
+      "topics": [
+        "3.2.1"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "How carbon is removed from iron and why this removal is necessary.",
+      "image": "img/2002-jan-chm2/q_q6aiv.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm2/ms_q6aiv.jpg"
+    },
+    {
+      "id": "2002-jan-chm2-q6bi",
+      "paper": "2002-jan-chm2",
+      "question": "6(b)(i)",
+      "marks": 1,
+      "page": 10,
+      "topics": [
+        "3.2.1"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Why carbon cannot be used to reduce titanium(IV) oxide directly to titanium.",
+      "image": "img/2002-jan-chm2/q_q6bi.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm2/ms_q6bi.jpg"
+    },
+    {
+      "id": "2002-jan-chm2-q6bii",
+      "paper": "2002-jan-chm2",
+      "question": "6(b)(ii)",
+      "marks": 3,
+      "page": 10,
+      "topics": [
+        "3.2.1"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Equation and condition for carbon chlorination step in titanium extraction.",
+      "image": "img/2002-jan-chm2/q_q6bii.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm2/ms_q6bii.jpg"
+    },
+    {
+      "id": "2002-jan-chm2-q6c",
+      "paper": "2002-jan-chm2",
+      "question": "6(c)",
+      "marks": 2,
+      "page": 10,
+      "topics": [
+        "3.2.1"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Use of carbon in aluminium extraction and half-equation showing aluminium production.",
+      "image": "img/2002-jan-chm2/q_q6c.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm2/ms_q6c.jpg"
+    },
+    {
+      "id": "2002-jan-chm2-q6d",
+      "paper": "2002-jan-chm2",
+      "question": "6(d)",
+      "marks": 3,
+      "page": 11,
+      "topics": [
+        "3.2.1"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Three factors determining choice of reduction method for metal extraction.",
+      "image": "img/2002-jan-chm2/q_q6d.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm2/ms_q6d.jpg"
+    },
+    {
+      "id": "2002-jan-chm3w-q1a",
+      "paper": "2002-jan-chm3w",
+      "question": "1(a)",
+      "marks": 2,
+      "page": 3,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Essential condition for methane + chlorine reaction and why it is essential.",
+      "image": "img/2002-jan-chm3w/q_q1a.jpg",
+      "figures": [
+        "img/2002-jan-chm3w/fig-q1-equation.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm3w/ms_q1a.jpg"
+    },
+    {
+      "id": "2002-jan-chm3w-q1bi",
+      "paper": "2002-jan-chm3w",
+      "question": "1(b)(i)",
+      "marks": 1,
+      "page": 3,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Type of mechanism involved in methane + chlorine (free radical substitution).",
+      "image": "img/2002-jan-chm3w/q_q1bi.jpg",
+      "figures": [
+        "img/2002-jan-chm3w/fig-q1-equation.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm3w/ms_q1bi.jpg"
+    },
+    {
+      "id": "2002-jan-chm3w-q1bii",
+      "paper": "2002-jan-chm3w",
+      "question": "1(b)(ii)",
+      "marks": 3,
+      "page": 3,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Name the three types of step involved in this mechanism (initiation, propagation, termination).",
+      "image": "img/2002-jan-chm3w/q_q1bii.jpg",
+      "figures": [
+        "img/2002-jan-chm3w/fig-q1-equation.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm3w/ms_q1bii.jpg"
+    },
+    {
+      "id": "2002-jan-chm3w-q1ci",
+      "paper": "2002-jan-chm3w",
+      "question": "1(c)(i)",
+      "marks": 2,
+      "page": 3,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Equations for two steps in mechanism by which CH2Cl2 is formed from CH3Cl.",
+      "image": "img/2002-jan-chm3w/q_q1ci.jpg",
+      "figures": [
+        "img/2002-jan-chm3w/fig-q1-equation.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm3w/ms_q1ci.jpg"
+    },
+    {
+      "id": "2002-jan-chm3w-q1cii",
+      "paper": "2002-jan-chm3w",
+      "question": "1(c)(ii)",
+      "marks": 1,
+      "page": 3,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Equation for step in mechanism in which CH3CH2Cl is formed.",
+      "image": "img/2002-jan-chm3w/q_q1cii.jpg",
+      "figures": [
+        "img/2002-jan-chm3w/fig-q1-equation.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm3w/ms_q1cii.jpg"
+    },
+    {
+      "id": "2002-jan-chm3w-q2ai",
+      "paper": "2002-jan-chm3w",
+      "question": "2(a)(i)",
+      "marks": 2,
+      "page": 4,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Reagent and conditions used to harden unsaturated vegetable oils to margarine.",
+      "image": "img/2002-jan-chm3w/q_q2ai.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm3w/ms_q2ai.jpg"
+    },
+    {
+      "id": "2002-jan-chm3w-q2aii",
+      "paper": "2002-jan-chm3w",
+      "question": "2(a)(ii)",
+      "marks": 3,
+      "page": 4,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Differences in structure and melting point between soft and hard margarine.",
+      "image": "img/2002-jan-chm3w/q_q2aii.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm3w/ms_q2aii.jpg"
+    },
+    {
+      "id": "2002-jan-chm3w-q2bi",
+      "paper": "2002-jan-chm3w",
+      "question": "2(b)(i)",
+      "marks": 1,
+      "page": 4,
+      "topics": [
+        "3.3.5"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Name 3-methylbutan-2-ol from its structural formula.",
+      "image": "img/2002-jan-chm3w/q_q2bi.jpg",
+      "figures": [
+        "img/2002-jan-chm3w/fig-q2b-structure.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm3w/ms_q2bi.jpg"
+    },
+    {
+      "id": "2002-jan-chm3w-q2bii",
+      "paper": "2002-jan-chm3w",
+      "question": "2(b)(ii)",
+      "marks": 1,
+      "page": 4,
+      "topics": [
+        "3.3.5"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Type of reaction involved in formation of alkenes from alcohol (elimination / dehydration).",
+      "image": "img/2002-jan-chm3w/q_q2bii.jpg",
+      "figures": [
+        "img/2002-jan-chm3w/fig-q2b-structure.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm3w/ms_q2bii.jpg"
+    },
+    {
+      "id": "2002-jan-chm3w-q2biii",
+      "paper": "2002-jan-chm3w",
+      "question": "2(b)(iii)",
+      "marks": 1,
+      "page": 4,
+      "topics": [
+        "3.3.5"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Identity of reagent X for alcohol elimination (conc H2SO4 / H3PO4).",
+      "image": "img/2002-jan-chm3w/q_q2biii.jpg",
+      "figures": [
+        "img/2002-jan-chm3w/fig-q2b-structure.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm3w/ms_q2biii.jpg"
+    },
+    {
+      "id": "2002-jan-chm3w-q2biv",
+      "paper": "2002-jan-chm3w",
+      "question": "2(b)(iv)",
+      "marks": 2,
+      "page": 4,
+      "topics": [
+        "3.3.4",
+        "3.3.5"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Structural formulae of the two isomeric alkenes formed by elimination.",
+      "image": "img/2002-jan-chm3w/q_q2biv.jpg",
+      "figures": [
+        "img/2002-jan-chm3w/fig-q2b-structure.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm3w/ms_q2biv.jpg"
+    },
+    {
+      "id": "2002-jan-chm3w-q3a",
+      "paper": "2002-jan-chm3w",
+      "question": "3(a)",
+      "marks": 2,
+      "page": 5,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Explain what is meant by the term electrophile and the term addition.",
+      "image": "img/2002-jan-chm3w/q_q3a.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm3w/ms_q3a.jpg"
+    },
+    {
+      "id": "2002-jan-chm3w-q3b",
+      "paper": "2002-jan-chm3w",
+      "question": "3(b)",
+      "marks": 2,
+      "page": 5,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Explain why non-polar bromine is able to react with propene (induced dipole).",
+      "image": "img/2002-jan-chm3w/q_q3b.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm3w/ms_q3b.jpg"
+    },
+    {
+      "id": "2002-jan-chm3w-q3c",
+      "paper": "2002-jan-chm3w",
+      "question": "3(c)",
+      "marks": 5,
+      "page": 5,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Mechanism for electrophilic addition of bromine to propene and name of product.",
+      "image": "img/2002-jan-chm3w/q_q3c.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm3w/ms_q3c.jpg"
+    },
+    {
+      "id": "2002-jan-chm3w-q3d",
+      "paper": "2002-jan-chm3w",
+      "question": "3(d)",
+      "marks": 1,
+      "page": 5,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Type of polymerisation involved in propene forming poly(propene) (addition).",
+      "image": "img/2002-jan-chm3w/q_q3d.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm3w/ms_q3d.jpg"
+    },
+    {
+      "id": "2002-jan-chm3w-q4ai",
+      "paper": "2002-jan-chm3w",
+      "question": "4(a)(i)",
+      "marks": 2,
+      "page": 6,
+      "topics": [
+        "3.3.8",
+        "3.3.5"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Type of reaction converting butanal into butan-1-ol and suitable reagent Y (NaBH4).",
+      "image": "img/2002-jan-chm3w/q_q4ai.jpg",
+      "figures": [
+        "img/2002-jan-chm3w/fig-q4a-scheme.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm3w/ms_q4ai.jpg"
+    },
+    {
+      "id": "2002-jan-chm3w-q4aii",
+      "paper": "2002-jan-chm3w",
+      "question": "4(a)(ii)",
+      "marks": 1,
+      "page": 6,
+      "topics": [
+        "3.3.8",
+        "3.3.9"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Equation for conversion of butanal into butanoic acid using [O].",
+      "image": "img/2002-jan-chm3w/q_q4aii.jpg",
+      "figures": [
+        "img/2002-jan-chm3w/fig-q4a-scheme.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm3w/ms_q4aii.jpg"
+    },
+    {
+      "id": "2002-jan-chm3w-q4bi",
+      "paper": "2002-jan-chm3w",
+      "question": "4(b)(i)",
+      "marks": 2,
+      "page": 6,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Explain what is meant by functional group isomerism.",
+      "image": "img/2002-jan-chm3w/q_q4bi.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm3w/ms_q4bi.jpg"
+    },
+    {
+      "id": "2002-jan-chm3w-q4bii",
+      "paper": "2002-jan-chm3w",
+      "question": "4(b)(ii)",
+      "marks": 1,
+      "page": 6,
+      "topics": [
+        "3.3.1",
+        "3.3.8"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Name or structural formula of functional group isomer of butanal (butanone).",
+      "image": "img/2002-jan-chm3w/q_q4bii.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm3w/ms_q4bii.jpg"
+    },
+    {
+      "id": "2002-jan-chm3w-q4ci",
+      "paper": "2002-jan-chm3w",
+      "question": "4(c)(i)",
+      "marks": 2,
+      "page": 7,
+      "topics": [
+        "3.1.2",
+        "3.3.1"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Definitions of empirical formula and molecular formula.",
+      "image": "img/2002-jan-chm3w/q_q4ci.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm3w/ms_q4ci.jpg"
+    },
+    {
+      "id": "2002-jan-chm3w-q4cii",
+      "paper": "2002-jan-chm3w",
+      "question": "4(c)(ii)",
+      "marks": 3,
+      "page": 7,
+      "topics": [
+        "3.1.2",
+        "3.3.1"
+      ],
+      "skills": [
+        "maths"
+      ],
+      "summary": "Deduce empirical and molecular formula of compound D (C6H12O2) from mass percentages.",
+      "image": "img/2002-jan-chm3w/q_q4cii.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm3w/ms_q4cii.jpg"
+    },
+    {
+      "id": "2002-jan-chm3w-q5a",
+      "paper": "2002-jan-chm3w",
+      "question": "5(a)",
+      "marks": 5,
+      "page": 8,
+      "topics": [
+        "3.3.3",
+        "3.3.11"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Name and mechanism for reaction of 2-bromopropane with excess ammonia.",
+      "image": "img/2002-jan-chm3w/q_q5a.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm3w/ms_q5a.jpg"
+    },
+    {
+      "id": "2002-jan-chm3w-q5b",
+      "paper": "2002-jan-chm3w",
+      "question": "5(b)",
+      "marks": 5,
+      "page": 8,
+      "topics": [
+        "3.3.3"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Role of ethanolic KOH (base) and elimination mechanism with 2-bromopropane.",
+      "image": "img/2002-jan-chm3w/q_q5b.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm3w/ms_q5b.jpg"
+    },
+    {
+      "id": "2002-jan-chm4-q1ai",
+      "paper": "2002-jan-chm4",
+      "question": "1(a)(i)",
+      "marks": 1,
+      "page": 2,
+      "topics": [
+        "3.1.9"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Show data in table deduces reaction is first-order with respect to A.",
+      "image": "img/2002-jan-chm4/q_q1ai.jpg",
+      "figures": [
+        "img/2002-jan-chm4/fig-q1a-table.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm4/ms_q1ai.jpg"
+    },
+    {
+      "id": "2002-jan-chm4-q1aii",
+      "paper": "2002-jan-chm4",
+      "question": "1(a)(ii)",
+      "marks": 1,
+      "page": 2,
+      "topics": [
+        "3.1.9"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Deduce order of reaction with respect to B (second order).",
+      "image": "img/2002-jan-chm4/q_q1aii.jpg",
+      "figures": [
+        "img/2002-jan-chm4/fig-q1a-table.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm4/ms_q1aii.jpg"
+    },
+    {
+      "id": "2002-jan-chm4-q1bi",
+      "paper": "2002-jan-chm4",
+      "question": "1(b)(i)",
+      "marks": 2,
+      "page": 3,
+      "topics": [
+        "3.1.9"
+      ],
+      "skills": [
+        "maths"
+      ],
+      "summary": "Calculate rate constant k and state units using data from Experiment 4.",
+      "image": "img/2002-jan-chm4/q_q1bi.jpg",
+      "figures": [
+        "img/2002-jan-chm4/fig-q1b-table.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm4/ms_q1bi.jpg"
+    },
+    {
+      "id": "2002-jan-chm4-q1bii",
+      "paper": "2002-jan-chm4",
+      "question": "1(b)(ii)",
+      "marks": 2,
+      "page": 3,
+      "topics": [
+        "3.1.9"
+      ],
+      "skills": [
+        "maths"
+      ],
+      "summary": "Calculate value of initial rate in Experiment 5.",
+      "image": "img/2002-jan-chm4/q_q1bii.jpg",
+      "figures": [
+        "img/2002-jan-chm4/fig-q1b-table.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm4/ms_q1bii.jpg"
+    },
+    {
+      "id": "2002-jan-chm4-q2ai",
+      "paper": "2002-jan-chm4",
+      "question": "2(a)(i)",
+      "marks": 1,
+      "page": 4,
+      "topics": [
+        "3.1.6",
+        "3.1.10"
+      ],
+      "skills": [
+        "maths"
+      ],
+      "summary": "Calculate moles of hydrogen present in equilibrium mixture.",
+      "image": "img/2002-jan-chm4/q_q2ai.jpg",
+      "figures": [
+        "img/2002-jan-chm4/fig-q2a-equation.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm4/ms_q2ai.jpg"
+    },
+    {
+      "id": "2002-jan-chm4-q2aii",
+      "paper": "2002-jan-chm4",
+      "question": "2(a)(ii)",
+      "marks": 2,
+      "page": 4,
+      "topics": [
+        "3.1.10"
+      ],
+      "skills": [
+        "maths"
+      ],
+      "summary": "Calculate mole fraction of hydrogen in equilibrium mixture.",
+      "image": "img/2002-jan-chm4/q_q2aii.jpg",
+      "figures": [
+        "img/2002-jan-chm4/fig-q2a-equation.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm4/ms_q2aii.jpg"
+    },
+    {
+      "id": "2002-jan-chm4-q2aiii",
+      "paper": "2002-jan-chm4",
+      "question": "2(a)(iii)",
+      "marks": 2,
+      "page": 4,
+      "topics": [
+        "3.1.10"
+      ],
+      "skills": [
+        "maths"
+      ],
+      "summary": "Calculate partial pressure of hydrogen in equilibrium mixture.",
+      "image": "img/2002-jan-chm4/q_q2aiii.jpg",
+      "figures": [
+        "img/2002-jan-chm4/fig-q2a-equation.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm4/ms_q2aiii.jpg"
+    },
+    {
+      "id": "2002-jan-chm4-q2bi",
+      "paper": "2002-jan-chm4",
+      "question": "2(b)(i)",
+      "marks": 1,
+      "page": 4,
+      "topics": [
+        "3.1.10"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Write an expression for equilibrium constant Kp for methanol synthesis.",
+      "image": "img/2002-jan-chm4/q_q2bi.jpg",
+      "figures": [
+        "img/2002-jan-chm4/fig-q2a-equation.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm4/ms_q2bi.jpg"
+    },
+    {
+      "id": "2002-jan-chm4-q2bii",
+      "paper": "2002-jan-chm4",
+      "question": "2(b)(ii)",
+      "marks": 2,
+      "page": 4,
+      "topics": [
+        "3.1.10"
+      ],
+      "skills": [
+        "maths"
+      ],
+      "summary": "Calculate value of equilibrium constant Kp and state its units.",
+      "image": "img/2002-jan-chm4/q_q2bii.jpg",
+      "figures": [
+        "img/2002-jan-chm4/fig-q2a-equation.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm4/ms_q2bii.jpg"
+    },
+    {
+      "id": "2002-jan-chm4-q2c",
+      "paper": "2002-jan-chm4",
+      "question": "2(c)",
+      "marks": 2,
+      "page": 5,
+      "topics": [
+        "3.3.9",
+        "3.3.15",
+        "3.3.7"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Draw structures of isomeric esters E (2 singlet NMR peaks) and F (optically active).",
+      "image": "img/2002-jan-chm4/q_q2c.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm4/ms_q2c.jpg"
+    },
+    {
+      "id": "2002-jan-chm4-q3ai",
+      "paper": "2002-jan-chm4",
+      "question": "3(a)(i)",
+      "marks": 1,
+      "page": 6,
+      "topics": [
+        "3.1.12"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Write an expression for Ka for ethanoic acid.",
+      "image": "img/2002-jan-chm4/q_q3ai.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm4/ms_q3ai.jpg"
+    },
+    {
+      "id": "2002-jan-chm4-q3aii",
+      "paper": "2002-jan-chm4",
+      "question": "3(a)(ii)",
+      "marks": 4,
+      "page": 6,
+      "topics": [
+        "3.1.12"
+      ],
+      "skills": [
+        "maths"
+      ],
+      "summary": "Calculate pH at 298 K of 0.220 mol dm-3 ethanoic acid solution.",
+      "image": "img/2002-jan-chm4/q_q3aii.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm4/ms_q3aii.jpg"
+    },
+    {
+      "id": "2002-jan-chm4-q3bi",
+      "paper": "2002-jan-chm4",
+      "question": "3(b)(i)",
+      "marks": 3,
+      "page": 6,
+      "topics": [
+        "3.1.12"
+      ],
+      "skills": [
+        "maths"
+      ],
+      "summary": "Volume of 0.150 mol dm-3 NaOH required to neutralise 25.0 cm3 ethanoic acid.",
+      "image": "img/2002-jan-chm4/q_q3bi.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm4/ms_q3bi.jpg"
+    },
+    {
+      "id": "2002-jan-chm4-q3bii",
+      "paper": "2002-jan-chm4",
+      "question": "3(b)(ii)",
+      "marks": 2,
+      "page": 7,
+      "topics": [
+        "3.1.12"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Select best indicator for ethanoic acid / NaOH titration and explain choice (thymol blue).",
+      "image": "img/2002-jan-chm4/q_q3bii.jpg",
+      "figures": [
+        "img/2002-jan-chm4/fig-q3b-indicators.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm4/ms_q3bii.jpg"
+    },
+    {
+      "id": "2002-jan-chm4-q3c",
+      "paper": "2002-jan-chm4",
+      "question": "3(c)",
+      "marks": 6,
+      "page": 7,
+      "topics": [
+        "3.1.12"
+      ],
+      "skills": [
+        "maths"
+      ],
+      "summary": "Calculate pH of buffer solution formed by adding 2.00 g NaOH to 1.00 dm3 ethanoic acid.",
+      "image": "img/2002-jan-chm4/q_q3c.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm4/ms_q3c.jpg"
+    },
+    {
+      "id": "2002-jan-chm4-q4a",
+      "paper": "2002-jan-chm4",
+      "question": "4(a)",
+      "marks": 2,
+      "page": 8,
+      "topics": [
+        "3.3.6"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Identify bond causing IR absorption R (O-H) and S (C=O) in compound Q.",
+      "image": "img/2002-jan-chm4/q_q4a.jpg",
+      "figures": [
+        "img/2002-jan-chm4/fig-q4a-ir.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm4/ms_q4a.jpg"
+    },
+    {
+      "id": "2002-jan-chm4-q4b",
+      "paper": "2002-jan-chm4",
+      "question": "4(b)",
+      "marks": 1,
+      "page": 8,
+      "topics": [
+        "3.3.8"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Identify functional group reacting with Tollens'/Fehling's absent from Q (aldehyde).",
+      "image": "img/2002-jan-chm4/q_q4b.jpg",
+      "figures": [
+        "img/2002-jan-chm4/fig-q4a-ir.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm4/ms_q4b.jpg"
+    },
+    {
+      "id": "2002-jan-chm4-q4ci",
+      "paper": "2002-jan-chm4",
+      "question": "4(c)(i)",
+      "marks": 2,
+      "page": 8,
+      "topics": [
+        "3.3.15"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Give two reasons why TMS is a suitable NMR standard.",
+      "image": "img/2002-jan-chm4/q_q4ci.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm4/ms_q4ci.jpg"
+    },
+    {
+      "id": "2002-jan-chm4-q4cii",
+      "paper": "2002-jan-chm4",
+      "question": "4(c)(ii)",
+      "marks": 2,
+      "page": 9,
+      "topics": [
+        "3.3.15"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Solvent suitable for recording proton NMR (CDCl3 / CCl4) and reason.",
+      "image": "img/2002-jan-chm4/q_q4cii.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm4/ms_q4cii.jpg"
+    },
+    {
+      "id": "2002-jan-chm4-q4di",
+      "paper": "2002-jan-chm4",
+      "question": "4(d)(i)",
+      "marks": 1,
+      "page": 9,
+      "topics": [
+        "3.3.15"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Deduce structure from singlet peak at delta = 2.20 (CH3-C=O).",
+      "image": "img/2002-jan-chm4/q_q4di.jpg",
+      "figures": [
+        "img/2002-jan-chm4/fig-q4d-nmr.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm4/ms_q4di.jpg"
+    },
+    {
+      "id": "2002-jan-chm4-q4dii",
+      "paper": "2002-jan-chm4",
+      "question": "4(d)(ii)",
+      "marks": 1,
+      "page": 9,
+      "topics": [
+        "3.3.15"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Deduce structure from singlet peak at delta = 3.40 (-OH).",
+      "image": "img/2002-jan-chm4/q_q4dii.jpg",
+      "figures": [
+        "img/2002-jan-chm4/fig-q4d-nmr.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm4/ms_q4dii.jpg"
+    },
+    {
+      "id": "2002-jan-chm4-q4diii",
+      "paper": "2002-jan-chm4",
+      "question": "4(d)(iii)",
+      "marks": 1,
+      "page": 9,
+      "topics": [
+        "3.3.15"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Deduce structure from two triplet peaks (-CH2-CH2-).",
+      "image": "img/2002-jan-chm4/q_q4diii.jpg",
+      "figures": [
+        "img/2002-jan-chm4/fig-q4d-nmr.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm4/ms_q4diii.jpg"
+    },
+    {
+      "id": "2002-jan-chm4-q4e",
+      "paper": "2002-jan-chm4",
+      "question": "4(e)",
+      "marks": 1,
+      "page": 9,
+      "topics": [
+        "3.3.15",
+        "3.3.6"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Deduce complete structural formula of compound Q (4-hydroxybutan-2-one).",
+      "image": "img/2002-jan-chm4/q_q4e.jpg",
+      "figures": [
+        "img/2002-jan-chm4/fig-q4a-ir.jpg",
+        "img/2002-jan-chm4/fig-q4d-nmr.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm4/ms_q4e.jpg"
+    },
+    {
+      "id": "2002-jan-chm4-q5ai",
+      "paper": "2002-jan-chm4",
+      "question": "5(a)(i)",
+      "marks": 1,
+      "page": 10,
+      "topics": [
+        "3.3.11"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Name the diamine H2N(CH2)6NH2 (hexane-1,6-diamine).",
+      "image": "img/2002-jan-chm4/q_q5ai.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm4/ms_q5ai.jpg"
+    },
+    {
+      "id": "2002-jan-chm4-q5aii",
+      "paper": "2002-jan-chm4",
+      "question": "5(a)(ii)",
+      "marks": 1,
+      "page": 10,
+      "topics": [
+        "3.3.12"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Give the repeating unit in polyamide nylon 6,6.",
+      "image": "img/2002-jan-chm4/q_q5aii.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm4/ms_q5aii.jpg"
+    },
+    {
+      "id": "2002-jan-chm4-q5bi",
+      "paper": "2002-jan-chm4",
+      "question": "5(b)(i)",
+      "marks": 1,
+      "page": 10,
+      "topics": [
+        "3.3.13"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Draw the structure of 2-aminopropanoic acid (alanine).",
+      "image": "img/2002-jan-chm4/q_q5bi.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm4/ms_q5bi.jpg"
+    },
+    {
+      "id": "2002-jan-chm4-q5bii",
+      "paper": "2002-jan-chm4",
+      "question": "5(b)(ii)",
+      "marks": 1,
+      "page": 10,
+      "topics": [
+        "3.3.13"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Draw the condensation dipeptide product of two 2-aminopropanoic acid molecules.",
+      "image": "img/2002-jan-chm4/q_q5bii.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm4/ms_q5bii.jpg"
+    },
+    {
+      "id": "2002-jan-chm4-q5ci",
+      "paper": "2002-jan-chm4",
+      "question": "5(c)(i)",
+      "marks": 1,
+      "page": 11,
+      "topics": [
+        "3.3.11"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Name type of compound X belongs to (quaternary ammonium salt).",
+      "image": "img/2002-jan-chm4/q_q5ci.jpg",
+      "figures": [
+        "img/2002-jan-chm4/fig-q5c-compoundx.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm4/ms_q5ci.jpg"
+    },
+    {
+      "id": "2002-jan-chm4-q5cii",
+      "paper": "2002-jan-chm4",
+      "question": "5(c)(ii)",
+      "marks": 2,
+      "page": 11,
+      "topics": [
+        "3.3.11"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Reagent (CH3Br) and condition (excess) to produce X from diamine.",
+      "image": "img/2002-jan-chm4/q_q5cii.jpg",
+      "figures": [
+        "img/2002-jan-chm4/fig-q5c-compoundx.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm4/ms_q5cii.jpg"
+    },
+    {
+      "id": "2002-jan-chm4-q5ciii",
+      "paper": "2002-jan-chm4",
+      "question": "5(c)(iii)",
+      "marks": 1,
+      "page": 11,
+      "topics": [
+        "3.3.11",
+        "3.3.3"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Name mechanism involved in formation of X (nucleophilic substitution).",
+      "image": "img/2002-jan-chm4/q_q5ciii.jpg",
+      "figures": [
+        "img/2002-jan-chm4/fig-q5c-compoundx.jpg"
+      ],
+      "markscheme": "img/2002-jan-chm4/ms_q5ciii.jpg"
+    },
+    {
+      "id": "2002-jan-chm4-q6ai",
+      "paper": "2002-jan-chm4",
+      "question": "6(a)(i)",
+      "marks": 1,
+      "page": 12,
+      "topics": [
+        "3.3.8",
+        "3.3.5"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Equation for reduction of pentan-2-one by NaBH4 to pentan-2-ol.",
+      "image": "img/2002-jan-chm4/q_q6ai.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm4/ms_q6ai.jpg"
+    },
+    {
+      "id": "2002-jan-chm4-q6aii",
+      "paper": "2002-jan-chm4",
+      "question": "6(a)(ii)",
+      "marks": 4,
+      "page": 12,
+      "topics": [
+        "3.3.8"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Name and mechanism for nucleophilic addition reduction of pentan-2-one.",
+      "image": "img/2002-jan-chm4/q_q6aii.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm4/ms_q6aii.jpg"
+    },
+    {
+      "id": "2002-jan-chm4-q6aiii",
+      "paper": "2002-jan-chm4",
+      "question": "6(a)(iii)",
+      "marks": 2,
+      "page": 12,
+      "topics": [
+        "3.3.7"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Explain why pentan-2-ol produced in this reaction is not optically active (racemic mixture).",
+      "image": "img/2002-jan-chm4/q_q6aiii.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm4/ms_q6aiii.jpg"
+    },
+    {
+      "id": "2002-jan-chm4-q6b",
+      "paper": "2002-jan-chm4",
+      "question": "6(b)",
+      "marks": 2,
+      "page": 12,
+      "topics": [
+        "3.3.6"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Predict m/z values of two most abundant fragments in mass spectrum of pentan-2-one (43, 71, 15).",
+      "image": "img/2002-jan-chm4/q_q6b.jpg",
+      "figures": [],
+      "markscheme": "img/2002-jan-chm4/ms_q6b.jpg"
     }
   ]
 }
