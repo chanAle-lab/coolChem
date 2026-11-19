@@ -122,7 +122,7 @@ def render_official_markscheme_image(
 
     # Open with PyMuPDF as HTML
     doc = fitz.open("html", html_code.encode("utf-8"))
-    doc.layout(rect=fitz.Rect(0, 0, width_pt, 600))
+    doc.layout(rect=fitz.Rect(0, 0, width_pt, 3000))
     page = doc[0]
     pix = page.get_pixmap(dpi=dpi)
     

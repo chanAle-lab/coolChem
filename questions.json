@@ -2926,7 +2926,8 @@
       "figures": [
         "img/2001-june-chm3w/fig-q1-isomers.jpg"
       ],
-      "markscheme": "img/2001-june-chm3w/ms_q1ai.jpg"
+      "markscheme": "img/2001-june-chm3w/ms_q1ai.jpg",
+      "markscheme_text": "- Isomer 3: CH<sub>3</sub>CH(CH<sub>3</sub>)CH<sub>2</sub>Br (or (CH<sub>3</sub>)<sub>2</sub>CHCH<sub>2</sub>Br) (1)\n- Isomer 4: CH<sub>3</sub>CH<sub>2</sub>CH(Br)CH<sub>3</sub> (1)\n\n[Extra Information]:\nif 'B' used in place of 'Br', allow M2"
     },
     {
       "id": "2001-june-chm3w-q1aii",
@@ -2945,7 +2946,8 @@
       "figures": [
         "img/2001-june-chm3w/fig-q1-isomers.jpg"
       ],
-      "markscheme": "img/2001-june-chm3w/ms_q1aii.jpg"
+      "markscheme": "img/2001-june-chm3w/ms_q1aii.jpg",
+      "markscheme_text": "2-bromo(-2-)methylpropane (1)\n\n[Extra Information]:\nallow (2-)methyl-2-bromopropane"
     },
     {
       "id": "2001-june-chm3w-q1bi",
@@ -2964,7 +2966,8 @@
       "figures": [
         "img/2001-june-chm3w/fig-q1-isomers.jpg"
       ],
-      "markscheme": "img/2001-june-chm3w/ms_q1bi.jpg"
+      "markscheme": "img/2001-june-chm3w/ms_q1bi.jpg",
+      "markscheme_text": "- Structural formula: CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CN (1)\n- Name: Pentanenitrile (1)\n\n[Extra Information]:\nformula: <b>not</b> C<sub>4</sub>H<sub>9</sub>CN\nname: allow pentanonitrile, ignore numbers"
     },
     {
       "id": "2001-june-chm3w-q1bii",
@@ -2983,7 +2986,8 @@
       "figures": [
         "img/2001-june-chm3w/fig-q1-isomers.jpg"
       ],
-      "markscheme": "img/2001-june-chm3w/ms_q1bii.jpg"
+      "markscheme": "img/2001-june-chm3w/ms_q1bii.jpg",
+      "markscheme_text": "- Name: Nucleophilic substitution (1)\n- Mechanism (2 marks):\n&nbsp;&nbsp;M1: curly arrow from C–Br bond to Br (or C–Br dipole C<sup>δ+</sup>–Br<sup>δ−</sup>) (1)\n&nbsp;&nbsp;M2: curly arrow from lone pair on :CN<sup>−</sup> to C (1)\n\n[Extra Information]:\nS<sub>N</sub>1 mechanism:\nM1: formation of carbocation including C–Br\nM2: attack by :CN<sup>−</sup>\nallow mechanism showing 'Cl'\nif + on C lose M1, if δ− on C and δ+ on Br lose M1\nif K–CN shown lose M2"
     },
     {
       "id": "2001-june-chm3w-q1biii",
@@ -3000,7 +3004,8 @@
       "summary": "Suggest why 1-fluorobutane reacts less rapidly than 1-bromobutane with KCN.",
       "image": "img/2001-june-chm3w/q_q1biii.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm3w/ms_q1biii.jpg"
+      "markscheme": "img/2001-june-chm3w/ms_q1biii.jpg",
+      "markscheme_text": "C–F bond is strong(er) (than C–Br bond) (1)\n\n[Extra Information]:\nmust imply C–F is stronger than C–Br bond\nignore references to electronegativity, bond polarity etc."
     },
     {
       "id": "2001-june-chm3w-q1ci",
@@ -3019,7 +3024,8 @@
       "figures": [
         "img/2001-june-chm3w/fig-q1c-hydrolysis.jpg"
       ],
-      "markscheme": "img/2001-june-chm3w/ms_q1ci.jpg"
+      "markscheme": "img/2001-june-chm3w/ms_q1ci.jpg",
+      "markscheme_text": "Idea of 'splitting by water' or reaction with water (in which OH bonds are broken) (1)\n\n[Extra Information]:\nallow adding water to break bond\n<b>not</b> addition of water"
     },
     {
       "id": "2001-june-chm3w-q1cii",
@@ -3038,7 +3044,8 @@
       "figures": [
         "img/2001-june-chm3w/fig-q1c-hydrolysis.jpg"
       ],
-      "markscheme": "img/2001-june-chm3w/ms_q1cii.jpg"
+      "markscheme": "img/2001-june-chm3w/ms_q1cii.jpg",
+      "markscheme_text": "Heat (under reflux) or hot or warm or high temperature (1)\n\n[Extra Information]:\n<b>not</b> T > 100 °C\npenalise any catalyst, high pressure but ignore 'acid catalyst'\nif list, wrong answer cancels correct one"
     },
     {
       "id": "2001-june-chm3w-q1ciii",
@@ -3057,7 +3064,8 @@
       "figures": [
         "img/2001-june-chm3w/fig-q1c-hydrolysis.jpg"
       ],
-      "markscheme": "img/2001-june-chm3w/ms_q1ciii.jpg"
+      "markscheme": "img/2001-june-chm3w/ms_q1ciii.jpg",
+      "markscheme_text": "CH<sub>3</sub>CH<sub>2</sub>COOH or propanoic acid (1)\n\n[Extra Information]:\nallow C<sub>2</sub>H<sub>5</sub>COOH, CH<sub>3</sub>CH<sub>2</sub>CO<sub>2</sub>H, C<sub>2</sub>H<sub>5</sub>CO<sub>2</sub>H\nor propanamide, CH<sub>3</sub>CH<sub>2</sub>CONH<sub>2</sub>, C<sub>2</sub>H<sub>5</sub>CONH<sub>2</sub>"
     },
     {
       "id": "2001-june-chm3w-q2ai",
@@ -3075,7 +3083,8 @@
       "summary": "Equation with structural formula for partial oxidation of pentan-1-ol to pentanal.",
       "image": "img/2001-june-chm3w/q_q2ai.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm3w/ms_q2ai.jpg"
+      "markscheme": "img/2001-june-chm3w/ms_q2ai.jpg",
+      "markscheme_text": "CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>OH + [O] -> CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CHO + H<sub>2</sub>O\n- Product: CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CHO (1)\n- Balance: + [O] -> ... + H<sub>2</sub>O (1)\n\n[Extra Information]:\nallow C<sub>4</sub>H<sub>9</sub>CH<sub>2</sub>OH or C<sub>5</sub>H<sub>11</sub>OH for reactant\nproduct must show aldehyde group e.g. C<sub>4</sub>H<sub>9</sub>CHO\nif ketone shown here, allow balance mark\nif wrong alcohol used, allow balance mark"
     },
     {
       "id": "2001-june-chm3w-q2aii",
@@ -3093,7 +3102,8 @@
       "summary": "Equation with structural formula for reflux oxidation of pentan-2-ol to pentan-2-one.",
       "image": "img/2001-june-chm3w/q_q2aii.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm3w/ms_q2aii.jpg"
+      "markscheme": "img/2001-june-chm3w/ms_q2aii.jpg",
+      "markscheme_text": "CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH(OH)CH<sub>3</sub> + [O] -> CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>COCH<sub>3</sub> + H<sub>2</sub>O\n- Product: CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>COCH<sub>3</sub> (1)\n- Balance: + [O] -> ... + H<sub>2</sub>O (1)\n\n[Extra Information]:\nallow C<sub>3</sub>H<sub>7</sub>CH(OH)CH<sub>3</sub> or C<sub>5</sub>H<sub>11</sub>OH for reactant\nproduct must show C=O in ketone e.g. C<sub>3</sub>H<sub>7</sub>COCH<sub>3</sub>\nif aldehyde shown here, allow balance mark\nif wrong alcohol used, allow balance mark"
     },
     {
       "id": "2001-june-chm3w-q2b",
@@ -3110,7 +3120,8 @@
       "summary": "Distinguish between pentanal and pentan-2-one: reagents, conditions and observations.",
       "image": "img/2001-june-chm3w/q_q2b.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm3w/ms_q2b.jpg"
+      "markscheme": "img/2001-june-chm3w/ms_q2b.jpg",
+      "markscheme_text": "<b>Any one test from:</b>\n\n<b>Option 1: Fehling's solution</b>\n- Reagent: Fehling's solution (1)\n- Conditions: boil / heat / warm (1)\n- Observation (a)(i): orange or brown or red precipitate / solid (1)\n- Observation (a)(ii): no precipitate / no reaction (1)\n\n<b>Option 2: Tollens' reagent</b>\n- Reagent: Tollens' reagent (ammoniacal silver nitrate) (1)\n- Conditions: boil / heat / warm (1)\n- Observation (a)(i): silver mirror / grey or black precipitate (1)\n- Observation (a)(ii): no silver mirror / no reaction (1)\n\n<b>Option 3: Acidified potassium dichromate</b>\n- Reagent: potassium dichromate (1)\n- Conditions: acidified (1)\n- Observation (a)(i): (orange) turns green or blue (1)\n- Observation (a)(ii): no colour change / no reaction (1)\n\n[Extra Information]:\nconditions tied to reagent\nobservation tied to reagent\n<b>not</b> 'nothing'\nif no reagent or wrong reagent quoted, mark as CE\nany appropriate reagent e.g. Benedict's, but if Cr<sub>2</sub>O<sub>7</sub><sup>2−</sup> or [Ag(NH<sub>3</sub>)<sub>2</sub>]<sup>+</sup> or MnO<sub>4</sub><sup>−</sup> given without cation, do <b>not</b> allow reagent mark"
     },
     {
       "id": "2001-june-chm3w-q3a",
@@ -3128,7 +3139,8 @@
       "summary": "Industrial production of ethanol from ethene: catalyst, conditions and equation.",
       "image": "img/2001-june-chm3w/q_q3a.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm3w/ms_q3a.jpg"
+      "markscheme": "img/2001-june-chm3w/ms_q3a.jpg",
+      "markscheme_text": "- Catalyst: (conc) phosphoric acid OR (conc) sulphuric acid (1)\n- Conditions (2 marks):\n&nbsp;&nbsp;Temp = High or 200–500 °C (1)\n&nbsp;&nbsp;Pressure = High or 5–20 MPa / 50–200 atm (1)\n&nbsp;&nbsp;(for H<sub>2</sub>SO<sub>4</sub>: 50–100 °C, 2–4 MPa / 20–40 atm)\n- Equation: CH<sub>2</sub>=CH<sub>2</sub> + H<sub>2</sub>O -> CH<sub>3</sub>CH<sub>2</sub>OH (1)\n\n[Extra Information]:\ncatalyst: accept correct formula, <b>not</b> dilute\nif no or wrong catalyst given, allow phosphoric acid conditions\nequation: allow C<sub>2</sub>H<sub>4</sub>, allow C<sub>2</sub>H<sub>5</sub>OH, <b>not</b> CH<sub>2</sub>CH<sub>2</sub>"
     },
     {
       "id": "2001-june-chm3w-q3bi",
@@ -3147,7 +3159,8 @@
       "figures": [
         "img/2001-june-chm3w/fig-q3b-scheme.jpg"
       ],
-      "markscheme": "img/2001-june-chm3w/ms_q3bi.jpg"
+      "markscheme": "img/2001-june-chm3w/ms_q3bi.jpg",
+      "markscheme_text": "- Catalyst: Silver or Ag (1)\n- Equation: CH<sub>2</sub>=CH<sub>2</sub> + 1/2O<sub>2</sub> -> C<sub>2</sub>H<sub>4</sub>O (oxirane / epoxyethane) (1)\n\n[Extra Information]:\naccept doubled equation\nallow C<sub>2</sub>H<sub>4</sub>, <b>not</b> [O], allow (CH<sub>2</sub>CH<sub>2</sub>)O"
     },
     {
       "id": "2001-june-chm3w-q3bii",
@@ -3166,7 +3179,8 @@
       "figures": [
         "img/2001-june-chm3w/fig-q3b-scheme.jpg"
       ],
-      "markscheme": "img/2001-june-chm3w/ms_q3bii.jpg"
+      "markscheme": "img/2001-june-chm3w/ms_q3bii.jpg",
+      "markscheme_text": "- Name: Epoxyethane or ethylene oxide (1)\n- Explanation: (3-membered) ring or molecule (very) strained or 60° bond angle (making molecule highly reactive) (1)\n\n[Extra Information]:\nexplanation: <b>not</b> 'stressed'"
     },
     {
       "id": "2001-june-chm3w-q3biii",
@@ -3185,7 +3199,8 @@
       "figures": [
         "img/2001-june-chm3w/fig-q3b-scheme.jpg"
       ],
-      "markscheme": "img/2001-june-chm3w/ms_q3biii.jpg"
+      "markscheme": "img/2001-june-chm3w/ms_q3biii.jpg",
+      "markscheme_text": "antifreeze or polyesters (1)\n\n[Extra Information]:\n<b>not</b> de-icers, plastics, polymers, surfactants"
     },
     {
       "id": "2001-june-chm3w-q4ai",
@@ -3202,7 +3217,8 @@
       "summary": "Outline the free-radical substitution mechanism for methane with chlorine.",
       "image": "img/2001-june-chm3w/q_q4ai.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm3w/ms_q4ai.jpg"
+      "markscheme": "img/2001-june-chm3w/ms_q4ai.jpg",
+      "markscheme_text": "- Initiation: Cl<sub>2</sub> -> 2 Cl- (1)\n- Propagation 1: CH<sub>4</sub> + Cl- -> CH<sub>3</sub>- + HCl (1)\n- Propagation 2: CH<sub>3</sub>- + Cl<sub>2</sub> -> CH<sub>3</sub>Cl + Cl- (1)\n\n[Extra Information]:\nequations must be balanced\nmissing dots '•': penalise once\ndot can be anywhere on species\nif written explanation given, must be as clear and detailed as equations\nallow termination step: Cl• + Cl• &rarr; Cl<sub>2</sub>, CH<sub>3</sub>• + CH<sub>3</sub>• &rarr; C<sub>2</sub>H<sub>6</sub>, or CH<sub>3</sub>• + Cl• &rarr; CH<sub>3</sub>Cl\nchlorine atoms or chlorine radicals, <b>not</b> just 'radicals'"
     },
     {
       "id": "2001-june-chm3w-q4aii",
@@ -3219,7 +3235,8 @@
       "summary": "Name the first step in this mechanism (initiation).",
       "image": "img/2001-june-chm3w/q_q4aii.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm3w/ms_q4aii.jpg"
+      "markscheme": "img/2001-june-chm3w/ms_q4aii.jpg",
+      "markscheme_text": "Initiation (1)"
     },
     {
       "id": "2001-june-chm3w-q4aiii",
@@ -3236,7 +3253,8 @@
       "summary": "How to carry out reaction so chloromethane is major product (excess methane) and reason.",
       "image": "img/2001-june-chm3w/q_q4aiii.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm3w/ms_q4aiii.jpg"
+      "markscheme": "img/2001-june-chm3w/ms_q4aiii.jpg",
+      "markscheme_text": "- Suggestion: Use excess methane or limit the amount of Cl<sub>2</sub> (1)\n- Reason (2 marks):\n&nbsp;&nbsp;Idea of to minimise multiple substitutions (1)\n&nbsp;&nbsp;OR to minimise / prevent further reaction or substitution (of CH<sub>3</sub>Cl) / more chance of Cl- colliding with CH<sub>4</sub> (1)"
     },
     {
       "id": "2001-june-chm3w-q4bi",
@@ -3253,7 +3271,8 @@
       "summary": "Explain why but-2-ene exhibits geometrical isomerism whereas but-1-ene does not.",
       "image": "img/2001-june-chm3w/q_q4bi.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm3w/ms_q4bi.jpg"
+      "markscheme": "img/2001-june-chm3w/ms_q4bi.jpg",
+      "markscheme_text": "- Idea that but-2-ene has different substituents / groups / atoms on each carbon of C=C (1)\n- Idea that but-1-ene has 2 H atoms (or same atoms/groups) on one carbon of C=C (1)"
     },
     {
       "id": "2001-june-chm3w-q4bii",
@@ -3270,7 +3289,8 @@
       "summary": "Draw the structural formulae of geometrical isomers of 1-bromobut-1-ene.",
       "image": "img/2001-june-chm3w/q_q4bii.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm3w/ms_q4bii.jpg"
+      "markscheme": "img/2001-june-chm3w/ms_q4bii.jpg",
+      "markscheme_text": "- Any correct structure for 1-bromobut-1-ene (1)\n- Both correct cis/trans (Z/E) isomers drawn: (Z)-1-bromobut-1-ene and (E)-1-bromobut-1-ene (1)\n\n[Extra Information]:\nconsequential: allow M2 if wrong bromoalkene used"
     },
     {
       "id": "2001-june-chm3w-q5a",
@@ -3288,7 +3308,8 @@
       "summary": "Show that molecular formula of compound A (Mr = 82) is C6H10 from mass percentages.",
       "image": "img/2001-june-chm3w/q_q5a.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm3w/ms_q5a.jpg"
+      "markscheme": "img/2001-june-chm3w/ms_q5a.jpg",
+      "markscheme_text": "- C = 87.8 / 12 = 7.32 and H = 12.2 / 1 = 12.2 (1)\n- Ratio C : H = 3 : 5 (or 1 : 1.67) &rArr; empirical formula C<sub>3</sub>H<sub>5</sub> (1)\n- Molecular mass of empirical formula = 41; 82 / 41 = 2 &rArr; molecular formula C<sub>6</sub>H<sub>10</sub> (1)\n\n<b>OR:</b>\n- C = (87.8 / 100) &times; 82 = 72 (1)\n- H = (12.2 / 100) &times; 82 = 10 (1)\n- 72 / 12 = 6 (C<sub>6</sub>) and 10 / 1 = 10 (H<sub>10</sub>) &rArr; C<sub>6</sub>H<sub>10</sub> (1)\n\n[Extra Information]:\nif (12 &times; 6) + (1 &times; 10) = 82 used to deduce C<sub>6</sub>H<sub>10</sub>, M3 may be awarded"
     },
     {
       "id": "2001-june-chm3w-q5bi",
@@ -3305,7 +3326,8 @@
       "summary": "Suitable catalyst for hydrogenation of compound A to B (Ni / Pt).",
       "image": "img/2001-june-chm3w/q_q5bi.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm3w/ms_q5bi.jpg"
+      "markscheme": "img/2001-june-chm3w/ms_q5bi.jpg",
+      "markscheme_text": "Ni or Pt or Pd (1)"
     },
     {
       "id": "2001-june-chm3w-q5bii",
@@ -3322,7 +3344,8 @@
       "summary": "Deduction from hydrogenation of A (C6H10) to B (C6H12): contains one C=C double bond.",
       "image": "img/2001-june-chm3w/q_q5bii.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm3w/ms_q5bii.jpg"
+      "markscheme": "img/2001-june-chm3w/ms_q5bii.jpg",
+      "markscheme_text": "One / a C=C bond or double bond (1)"
     },
     {
       "id": "2001-june-chm3w-q5biii",
@@ -3339,7 +3362,8 @@
       "summary": "Deduction from compound B not reacting with aqueous bromine (saturated / no double bonds).",
       "image": "img/2001-june-chm3w/q_q5biii.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm3w/ms_q5biii.jpg"
+      "markscheme": "img/2001-june-chm3w/ms_q5biii.jpg",
+      "markscheme_text": "B is saturated or is an alkane or has no C=C (1)\n\n[Extra Information]:\nor not unsaturated or not an alkene or has only C–C single bonds"
     },
     {
       "id": "2001-june-chm3w-q5biv",
@@ -3356,7 +3380,8 @@
       "summary": "Explain why formula C6H12 shows compound B must have a ring structure.",
       "image": "img/2001-june-chm3w/q_q5biv.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm3w/ms_q5biv.jpg"
+      "markscheme": "img/2001-june-chm3w/ms_q5biv.jpg",
+      "markscheme_text": "- Recognises that B is saturated / has no C=C (1)\n- but has too few H atoms for chain alkane (C<sub>n</sub>H<sub>2n+2</sub>) / cyclic alkane formula = C<sub>n</sub>H<sub>2n</sub> / ring needs fewer H atoms (1)"
     },
     {
       "id": "2001-june-chm3w-q5bv",
@@ -3374,7 +3399,8 @@
       "summary": "Name compound A (cyclohexene) and draw its structural formula.",
       "image": "img/2001-june-chm3w/q_q5bv.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm3w/ms_q5bv.jpg"
+      "markscheme": "img/2001-june-chm3w/ms_q5bv.jpg",
+      "markscheme_text": "- Name: Cyclohexene (1)\n- Structural formula: drawn structure of cyclohexene (six-membered carbon ring with one double bond) (1)\n\n[Extra Information]:\nname: accept cyclichexene\nstructural formula: not tied to name\n<b>not</b> -H<sub>2</sub> structures"
     },
     {
       "id": "2002-jan-chm1-q1a",
