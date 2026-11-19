@@ -310,7 +310,7 @@
       "unit": "Unit 1: Atomic Structure, Bonding and Periodicity",
       "level": "AS",
       "spec": "AQA Chemistry",
-      "totalMarks": 90,
+      "totalMarks": 60,
       "duration": "1 hour 30 mins"
     },
     {
@@ -322,7 +322,7 @@
       "unit": "Unit 2: Foundation Physical and Inorganic Chemistry",
       "level": "AS",
       "spec": "AQA Chemistry",
-      "totalMarks": 90,
+      "totalMarks": 60,
       "duration": "1 hour 30 mins"
     },
     {
@@ -334,7 +334,7 @@
       "unit": "Unit 1: Atomic Structure, Bonding and Periodicity",
       "level": "AS",
       "spec": "AQA Chemistry",
-      "totalMarks": 90,
+      "totalMarks": 60,
       "duration": "1 hour 30 mins"
     },
     {
@@ -346,7 +346,7 @@
       "unit": "Unit 2: Foundation Physical and Inorganic Chemistry",
       "level": "AS",
       "spec": "AQA Chemistry",
-      "totalMarks": 90,
+      "totalMarks": 60,
       "duration": "1 hour 30 mins"
     },
     {
@@ -358,7 +358,7 @@
       "unit": "Unit 3(a): Introduction to Organic Chemistry",
       "level": "AS",
       "spec": "AQA Chemistry",
-      "totalMarks": 75,
+      "totalMarks": 50,
       "duration": "1 hour 15 mins"
     }
   ],
@@ -1234,40 +1234,6 @@
       "markscheme": "img/2001-jan-chm1/ms_q5f.jpg"
     },
     {
-      "id": "2001-jan-chm1-q6a",
-      "paper": "2001-jan-chm1",
-      "question": "6(a)",
-      "marks": 23,
-      "page": 9,
-      "topics": [
-        "3.1.3"
-      ],
-      "skills": [
-        "analysis"
-      ],
-      "summary": "Structure, bonding, melting points and electrical conductivity in crystals of NaCl, graphite, and magnesium.",
-      "image": "img/2001-jan-chm1/q_q6a.jpg",
-      "figures": [],
-      "markscheme": "img/2001-jan-chm1/ms_q6a.jpg"
-    },
-    {
-      "id": "2001-jan-chm1-q6b",
-      "paper": "2001-jan-chm1",
-      "question": "6(b)",
-      "marks": 7,
-      "page": 9,
-      "topics": [
-        "3.1.3"
-      ],
-      "skills": [
-        "analysis"
-      ],
-      "summary": "VSEPR theory shapes and bond angles for H2O and PF5 with illustrated diagrams.",
-      "image": "img/2001-jan-chm1/q_q6b.jpg",
-      "figures": [],
-      "markscheme": "img/2001-jan-chm1/ms_q6b.jpg"
-    },
-    {
       "id": "2001-jan-chm2-q1a",
       "paper": "2001-jan-chm2",
       "question": "1(a)",
@@ -1781,58 +1747,6 @@
       "markscheme": "img/2001-jan-chm2/ms_q5c.jpg"
     },
     {
-      "id": "2001-jan-chm2-q6a",
-      "paper": "2001-jan-chm2",
-      "question": "6(a)",
-      "marks": 10,
-      "page": 11,
-      "topics": [
-        "3.1.5"
-      ],
-      "skills": [
-        "analysis"
-      ],
-      "summary": "State and explain using collision theory the effect of concentration, temperature, and catalysts.",
-      "image": "img/2001-jan-chm2/q_q6a.jpg",
-      "figures": [],
-      "markscheme": "img/2001-jan-chm2/ms_q6a.jpg"
-    },
-    {
-      "id": "2001-jan-chm2-q6b",
-      "paper": "2001-jan-chm2",
-      "question": "6(b)",
-      "marks": 11,
-      "page": 11,
-      "topics": [
-        "3.1.6"
-      ],
-      "skills": [
-        "analysis"
-      ],
-      "summary": "Explain how equilibrium yield of ammonia in Haber Process is affected by pressure, temperature, catalyst.",
-      "image": "img/2001-jan-chm2/q_q6b.jpg",
-      "figures": [],
-      "markscheme": "img/2001-jan-chm2/ms_q6b.jpg"
-    },
-    {
-      "id": "2001-jan-chm2-q7",
-      "paper": "2001-jan-chm2",
-      "question": "7",
-      "marks": 9,
-      "page": 11,
-      "topics": [
-        "3.2.3"
-      ],
-      "skills": [
-        "practical",
-        "analysis"
-      ],
-      "summary": "Distinguish separate solutions of NaF, NaCl, NaBr, NaI using AgNO3 and ammonia, and predict AgAt solubility.",
-      "image": "img/2001-jan-chm2/q_q7.jpg",
-      "figures": [],
-      "markscheme": "img/2001-jan-chm2/ms_q7.jpg"
-    },
-    {
       "id": "2001-june-chm1-q1a",
       "paper": "2001-june-chm1",
       "question": "1(a)",
@@ -2317,76 +2231,6 @@
       "markscheme": "img/2001-june-chm1/ms_q4d.jpg"
     },
     {
-      "id": "2001-june-chm1-q5a",
-      "paper": "2001-june-chm1",
-      "question": "5(a)",
-      "marks": 12,
-      "page": 10,
-      "topics": [
-        "3.1.3",
-        "3.2.1"
-      ],
-      "skills": [
-        "analysis"
-      ],
-      "summary": "Describe and explain the difference between the melting points of Period 3 elements Al, Si and P.",
-      "image": "img/2001-june-chm1/q_q5a.jpg",
-      "figures": [],
-      "markscheme": "img/2001-june-chm1/ms_q5a.jpg"
-    },
-    {
-      "id": "2001-june-chm1-q5b",
-      "paper": "2001-june-chm1",
-      "question": "5(b)",
-      "marks": 4,
-      "page": 10,
-      "topics": [
-        "3.1.3",
-        "3.2.1"
-      ],
-      "skills": [
-        "analysis"
-      ],
-      "summary": "Describe and explain the difference between the electrical conductivities of Al, Si and P.",
-      "image": "img/2001-june-chm1/q_q5b.jpg",
-      "figures": [],
-      "markscheme": "img/2001-june-chm1/ms_q5b.jpg"
-    },
-    {
-      "id": "2001-june-chm1-q5c",
-      "paper": "2001-june-chm1",
-      "question": "5(c)",
-      "marks": 7,
-      "page": 10,
-      "topics": [
-        "3.2.2"
-      ],
-      "skills": [
-        "practical"
-      ],
-      "summary": "Conditions, equations and observations for the reactions of magnesium and calcium with water.",
-      "image": "img/2001-june-chm1/q_q5c.jpg",
-      "figures": [],
-      "markscheme": "img/2001-june-chm1/ms_q5c.jpg"
-    },
-    {
-      "id": "2001-june-chm1-q5d",
-      "paper": "2001-june-chm1",
-      "question": "5(d)",
-      "marks": 7,
-      "page": 10,
-      "topics": [
-        "3.2.2"
-      ],
-      "skills": [
-        "analysis"
-      ],
-      "summary": "Beryllium as an atypical Group II element: comparing reactions of Be(OH)2 and Mg(OH)2 with HCl and NaOH.",
-      "image": "img/2001-june-chm1/q_q5d.jpg",
-      "figures": [],
-      "markscheme": "img/2001-june-chm1/ms_q5d.jpg"
-    },
-    {
       "id": "2001-june-chm2-q1a",
       "paper": "2001-june-chm2",
       "question": "1(a)",
@@ -2842,91 +2686,6 @@
       "image": "img/2001-june-chm2/q_q6b.jpg",
       "figures": [],
       "markscheme": "img/2001-june-chm2/ms_q6b.jpg"
-    },
-    {
-      "id": "2001-june-chm2-q7a",
-      "paper": "2001-june-chm2",
-      "question": "7(a)",
-      "marks": 4,
-      "page": 9,
-      "topics": [
-        "3.2.3"
-      ],
-      "skills": [
-        "practical"
-      ],
-      "summary": "Observations and equations on adding aqueous chlorine to aqueous NaBr and NaI.",
-      "image": "img/2001-june-chm2/q_q7a.jpg",
-      "figures": [],
-      "markscheme": "img/2001-june-chm2/ms_q7a.jpg"
-    },
-    {
-      "id": "2001-june-chm2-q7b",
-      "paper": "2001-june-chm2",
-      "question": "7(b)",
-      "marks": 9,
-      "page": 9,
-      "topics": [
-        "3.2.3"
-      ],
-      "skills": [
-        "practical"
-      ],
-      "summary": "Observations, reduction products, half-equations and overall equation for conc H2SO4 + solid NaBr and NaI.",
-      "image": "img/2001-june-chm2/q_q7b.jpg",
-      "figures": [],
-      "markscheme": "img/2001-june-chm2/ms_q7b.jpg"
-    },
-    {
-      "id": "2001-june-chm2-q8a",
-      "paper": "2001-june-chm2",
-      "question": "8(a)",
-      "marks": 10,
-      "page": 9,
-      "topics": [
-        "3.2.1"
-      ],
-      "skills": [
-        "recall"
-      ],
-      "summary": "Extraction methods for aluminium (Hall-Heroult electrolysis) and titanium (Kroll process) with equations.",
-      "image": "img/2001-june-chm2/q_q8a.jpg",
-      "figures": [],
-      "markscheme": "img/2001-june-chm2/ms_q8a.jpg"
-    },
-    {
-      "id": "2001-june-chm2-q8b",
-      "paper": "2001-june-chm2",
-      "question": "8(b)",
-      "marks": 4,
-      "page": 9,
-      "topics": [
-        "3.2.1"
-      ],
-      "skills": [
-        "analysis"
-      ],
-      "summary": "Explain why each extraction method is chosen for aluminium and titanium.",
-      "image": "img/2001-june-chm2/q_q8b.jpg",
-      "figures": [],
-      "markscheme": "img/2001-june-chm2/ms_q8b.jpg"
-    },
-    {
-      "id": "2001-june-chm2-q8c",
-      "paper": "2001-june-chm2",
-      "question": "8(c)",
-      "marks": 3,
-      "page": 9,
-      "topics": [
-        "3.2.1"
-      ],
-      "skills": [
-        "analysis"
-      ],
-      "summary": "Explain why aluminium is recycled although aluminium oxide is in plentiful supply.",
-      "image": "img/2001-june-chm2/q_q8c.jpg",
-      "figures": [],
-      "markscheme": "img/2001-june-chm2/ms_q8c.jpg"
     },
     {
       "id": "2001-june-chm3w-q1ai",
@@ -3394,80 +3153,6 @@
       "image": "img/2001-june-chm3w/q_q5bv.jpg",
       "figures": [],
       "markscheme": "img/2001-june-chm3w/ms_q5bv.jpg"
-    },
-    {
-      "id": "2001-june-chm3w-q6a",
-      "paper": "2001-june-chm3w",
-      "question": "6(a)",
-      "marks": 4,
-      "page": 8,
-      "topics": [
-        "3.3.1"
-      ],
-      "skills": [
-        "recall"
-      ],
-      "summary": "Position isomerism definition, position isomer and chain isomer of compound D.",
-      "image": "img/2001-june-chm3w/q_q6a.jpg",
-      "figures": [
-        "img/2001-june-chm3w/fig-q6-scheme.jpg"
-      ],
-      "markscheme": "img/2001-june-chm3w/ms_q6a.jpg"
-    },
-    {
-      "id": "2001-june-chm3w-q6b",
-      "paper": "2001-june-chm3w",
-      "question": "6(b)",
-      "marks": 7,
-      "page": 8,
-      "topics": [
-        "3.3.4"
-      ],
-      "skills": [
-        "analysis"
-      ],
-      "summary": "Mechanism for conversion of D to E, identify minor isomer and explain why E is major product (carbocation stability).",
-      "image": "img/2001-june-chm3w/q_q6b.jpg",
-      "figures": [
-        "img/2001-june-chm3w/fig-q6-scheme.jpg"
-      ],
-      "markscheme": "img/2001-june-chm3w/ms_q6b.jpg"
-    },
-    {
-      "id": "2001-june-chm3w-q6c",
-      "paper": "2001-june-chm3w",
-      "question": "6(c)",
-      "marks": 5,
-      "page": 8,
-      "topics": [
-        "3.3.3"
-      ],
-      "skills": [
-        "analysis"
-      ],
-      "summary": "Elimination of compound E: reagents, conditions and explanation of two isomeric alkene products.",
-      "image": "img/2001-june-chm3w/q_q6c.jpg",
-      "figures": [
-        "img/2001-june-chm3w/fig-q6-scheme.jpg"
-      ],
-      "markscheme": "img/2001-june-chm3w/ms_q6c.jpg"
-    },
-    {
-      "id": "2001-june-chm3w-q7",
-      "paper": "2001-june-chm3w",
-      "question": "7",
-      "marks": 9,
-      "page": 8,
-      "topics": [
-        "3.3.2"
-      ],
-      "skills": [
-        "recall"
-      ],
-      "summary": "Discuss catalytic cracking of petroleum fractions: conditions, mechanism, products, uses and economic reasons.",
-      "image": "img/2001-june-chm3w/q_q7.jpg",
-      "figures": [],
-      "markscheme": "img/2001-june-chm3w/ms_q7.jpg"
     }
   ]
 }
