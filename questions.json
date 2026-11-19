@@ -1388,7 +1388,8 @@
       "summary": "State the trend in oxidising power of chlorine, bromine, and iodine.",
       "image": "img/2001-jan-chm2/q_q1a.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm2/ms_q1a.jpg"
+      "markscheme": "img/2001-jan-chm2/ms_q1a.jpg",
+      "markscheme_text": "decreases (down group / from chlorine to iodine) (1)"
     },
     {
       "id": "2001-jan-chm2-q1b",
@@ -1405,7 +1406,8 @@
       "summary": "Observations and ionic equation when aqueous bromine is added to KCl and KI.",
       "image": "img/2001-jan-chm2/q_q1b.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm2/ms_q1b.jpg"
+      "markscheme": "img/2001-jan-chm2/ms_q1b.jpg",
+      "markscheme_text": "• KCl: yellow solution / no reaction (1)\n• KI: brown solution / black precipitate (1)\n• Ionic equation: 2I^- + Br_2 -> 2Br^- + I_2 (1)"
     },
     {
       "id": "2001-jan-chm2-q1ci",
@@ -1422,7 +1424,8 @@
       "summary": "Species responsible for the pale-green colour of chlorine water.",
       "image": "img/2001-jan-chm2/q_q1ci.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm2/ms_q1ci.jpg"
+      "markscheme": "img/2001-jan-chm2/ms_q1ci.jpg",
+      "markscheme_text": "Cl_2 (1)"
     },
     {
       "id": "2001-jan-chm2-q1cii",
@@ -1441,7 +1444,8 @@
       "figures": [
         "img/2001-jan-chm2/fig-q1c.jpg"
       ],
-      "markscheme": "img/2001-jan-chm2/ms_q1cii.jpg"
+      "markscheme": "img/2001-jan-chm2/ms_q1cii.jpg",
+      "markscheme_text": "Cl_2 + H_2O <=> HCl + HClO (1)"
     },
     {
       "id": "2001-jan-chm2-q1ciii",
@@ -1460,7 +1464,8 @@
       "figures": [
         "img/2001-jan-chm2/fig-q1c.jpg"
       ],
-      "markscheme": "img/2001-jan-chm2/ms_q1ciii.jpg"
+      "markscheme": "img/2001-jan-chm2/ms_q1ciii.jpg",
+      "markscheme_text": "• Red colour: due to presence of acid / H^+ ions (1)\n• White: due to bleaching by HClO / chloric(I) acid (1)"
     },
     {
       "id": "2001-jan-chm2-q1d",
@@ -1477,7 +1482,8 @@
       "summary": "Equation for chlorine bubbled into cold, dilute aqueous sodium hydroxide.",
       "image": "img/2001-jan-chm2/q_q1d.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm2/ms_q1d.jpg"
+      "markscheme": "img/2001-jan-chm2/ms_q1d.jpg",
+      "markscheme_text": "2NaOH + Cl_2 -> NaCl + NaClO + H_2O (1)"
     },
     {
       "id": "2001-jan-chm2-q2ai",
@@ -1494,7 +1500,8 @@
       "summary": "Define oxidation in terms of electrons.",
       "image": "img/2001-jan-chm2/q_q2ai.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm2/ms_q2ai.jpg"
+      "markscheme": "img/2001-jan-chm2/ms_q2ai.jpg",
+      "markscheme_text": "loss of electron(s) (1)"
     },
     {
       "id": "2001-jan-chm2-q2aii",
@@ -1511,7 +1518,8 @@
       "summary": "Give the oxidation state of chlorine in ClO-.",
       "image": "img/2001-jan-chm2/q_q2aii.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm2/ms_q2aii.jpg"
+      "markscheme": "img/2001-jan-chm2/ms_q2aii.jpg",
+      "markscheme_text": "+1 (1)"
     },
     {
       "id": "2001-jan-chm2-q2b",
@@ -1528,7 +1536,8 @@
       "summary": "Equation for the reaction between thiosulphate ions and iodine.",
       "image": "img/2001-jan-chm2/q_q2b.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm2/ms_q2b.jpg"
+      "markscheme": "img/2001-jan-chm2/ms_q2b.jpg",
+      "markscheme_text": "2S_2O_3^2- + I_2 -> S_4O_6^2- + 2I^-\n\n• correct species (1)\n• correctly balanced (1)"
     },
     {
       "id": "2001-jan-chm2-q2ci",
@@ -1546,7 +1555,8 @@
       "summary": "Calculate moles of S2O3(2-) present in 24.4 cm^3 of 0.100 mol dm^-3 thiosulphate.",
       "image": "img/2001-jan-chm2/q_q2ci.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm2/ms_q2ci.jpg"
+      "markscheme": "img/2001-jan-chm2/ms_q2ci.jpg",
+      "markscheme_text": "• moles = 0.100 x (24.4 / 1000) (1)\n• = 2.44 x 10^-3 (mol)"
     },
     {
       "id": "2001-jan-chm2-q2cii",
@@ -1565,7 +1575,8 @@
       "figures": [
         "img/2001-jan-chm2/fig-q2c-bleach.jpg"
       ],
-      "markscheme": "img/2001-jan-chm2/ms_q2cii.jpg"
+      "markscheme": "img/2001-jan-chm2/ms_q2cii.jpg",
+      "markscheme_text": "• moles of I_2 = 2.44 x 10^-3 / 2 (1)\n• = 1.22 x 10^-3 (mol)"
     },
     {
       "id": "2001-jan-chm2-q2ciii",
@@ -1584,7 +1595,8 @@
       "figures": [
         "img/2001-jan-chm2/fig-q2c-bleach.jpg"
       ],
-      "markscheme": "img/2001-jan-chm2/ms_q2ciii.jpg"
+      "markscheme": "img/2001-jan-chm2/ms_q2ciii.jpg",
+      "markscheme_text": "ClO^- + 2I^- + 2H^+ -> Cl^- + I_2 + H_2O\n\n• correct species (1)\n• correctly balanced (1)"
     },
     {
       "id": "2001-jan-chm2-q2civ",
@@ -1603,7 +1615,8 @@
       "figures": [
         "img/2001-jan-chm2/fig-q2c-bleach.jpg"
       ],
-      "markscheme": "img/2001-jan-chm2/ms_q2civ.jpg"
+      "markscheme": "img/2001-jan-chm2/ms_q2civ.jpg",
+      "markscheme_text": "• moles of ClO^- in 25 cm^3 = 1.22 x 10^-3 (1)\n• concentration = (1.22 x 10^-3 x 1000) / 25.0 (1)\n• = 0.0488 mol dm^-3 (1)"
     },
     {
       "id": "2001-jan-chm2-q2cv",
@@ -1621,7 +1634,8 @@
       "summary": "Name the indicator used in iodine/thiosulphate titration and colour change at end-point.",
       "image": "img/2001-jan-chm2/q_q2cv.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm2/ms_q2cv.jpg"
+      "markscheme": "img/2001-jan-chm2/ms_q2cv.jpg",
+      "markscheme_text": "• Indicator: starch (1)\n• Colour change: blue(-black) to colourless (1)"
     },
     {
       "id": "2001-jan-chm2-q3a",
@@ -1638,7 +1652,8 @@
       "summary": "Define standard enthalpy of formation and standard enthalpy of combustion.",
       "image": "img/2001-jan-chm2/q_q3a.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm2/ms_q3a.jpg"
+      "markscheme": "img/2001-jan-chm2/ms_q3a.jpg",
+      "markscheme_text": "Standard enthalpy of formation:\n• enthalpy change when one mole of a compound (1)\n• is formed from its constituent elements (1)\n• with all substances in their standard states under standard conditions (1)\n\nStandard enthalpy of combustion:\n• enthalpy change when one mole of a substance (1)\n• is completely burned in oxygen (1)\n• under standard conditions (298 K, 100 kPa) (1)"
     },
     {
       "id": "2001-jan-chm2-q3b",
@@ -1655,7 +1670,8 @@
       "summary": "Calculate standard enthalpy of combustion of C3H7OH using formation enthalpies.",
       "image": "img/2001-jan-chm2/q_q3b.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm2/ms_q3b.jpg"
+      "markscheme": "img/2001-jan-chm2/ms_q3b.jpg",
+      "markscheme_text": "• delta H = sum delta H_f(products) - sum delta H_f(reactants) (1)\n• = [3(-394) + 4(-286)] - [-304] (1)\n• = -2022 kJ mol^-1 (1)"
     },
     {
       "id": "2001-jan-chm2-q3ci",
@@ -1673,7 +1689,8 @@
       "summary": "Calculate heat energy required to raise the temperature of water from 15°C to 30°C.",
       "image": "img/2001-jan-chm2/q_q3ci.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm2/ms_q3ci.jpg"
+      "markscheme": "img/2001-jan-chm2/ms_q3ci.jpg",
+      "markscheme_text": "• q = mcdelta T = 200 x 4.2 x 15 (1)\n• = 12.6 kJ (or 12600 J) (1)"
     },
     {
       "id": "2001-jan-chm2-q3cii",
@@ -1692,7 +1709,8 @@
       "figures": [
         "img/2001-jan-chm2/fig-q3c-calorimeter.jpg"
       ],
-      "markscheme": "img/2001-jan-chm2/ms_q3cii.jpg"
+      "markscheme": "img/2001-jan-chm2/ms_q3cii.jpg",
+      "markscheme_text": "• moles of C_3H_7OH = 0.90 / 60.0 (1)\n• = 0.015 (mol) (1)"
     },
     {
       "id": "2001-jan-chm2-q3ciii",
@@ -1711,7 +1729,8 @@
       "figures": [
         "img/2001-jan-chm2/fig-q3c-calorimeter.jpg"
       ],
-      "markscheme": "img/2001-jan-chm2/ms_q3ciii.jpg"
+      "markscheme": "img/2001-jan-chm2/ms_q3ciii.jpg",
+      "markscheme_text": "• delta H_c = -12.6 / 0.015 (1)\n• = -840 kJ mol^-1 (1)"
     },
     {
       "id": "2001-jan-chm2-q3civ",
@@ -1728,7 +1747,8 @@
       "summary": "Give two reasons why experimental enthalpy of combustion differs from standard enthalpy.",
       "image": "img/2001-jan-chm2/q_q3civ.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm2/ms_q3civ.jpg"
+      "markscheme": "img/2001-jan-chm2/ms_q3civ.jpg",
+      "markscheme_text": "any two from:\n• heat loss to surroundings / air / calorimeter (1)\n• incomplete combustion (1)\n• heat capacity of the calorimeter not included (1)\n• evaporation of alcohol from wick (1)"
     },
     {
       "id": "2001-jan-chm2-q4ai",
@@ -1745,7 +1765,8 @@
       "summary": "Equations showing two stages in producing carbon monoxide from carbon in a Blast Furnace.",
       "image": "img/2001-jan-chm2/q_q4ai.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm2/ms_q4ai.jpg"
+      "markscheme": "img/2001-jan-chm2/ms_q4ai.jpg",
+      "markscheme_text": "• Stage 1: C + O_2 -> CO_2 (1)\n• Stage 2: CO_2 + C -> 2CO (1)"
     },
     {
       "id": "2001-jan-chm2-q4aii",
@@ -1762,7 +1783,8 @@
       "summary": "Equations for reduction of Fe2O3 by carbon and by carbon monoxide.",
       "image": "img/2001-jan-chm2/q_q4aii.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm2/ms_q4aii.jpg"
+      "markscheme": "img/2001-jan-chm2/ms_q4aii.jpg",
+      "markscheme_text": "• By carbon: Fe_2O_3 + 3C -> 2Fe + 3CO (1)\n  (or 2Fe_2O_3 + 3C -> 4Fe + 3CO_2)\n• By CO: Fe_2O_3 + 3CO -> 2Fe + 3CO_2 (1)"
     },
     {
       "id": "2001-jan-chm2-q4aiii",
@@ -1779,7 +1801,8 @@
       "summary": "Identify main impurity removed by limestone in Blast Furnace and write removal equations.",
       "image": "img/2001-jan-chm2/q_q4aiii.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm2/ms_q4aiii.jpg"
+      "markscheme": "img/2001-jan-chm2/ms_q4aiii.jpg",
+      "markscheme_text": "• Impurity: SiO_2 / silicon dioxide / sand (1)\n• CaCO_3 -> CaO + CO_2 (1)\n• CaO + SiO_2 -> CaSiO_3 (1)"
     },
     {
       "id": "2001-jan-chm2-q4b",
@@ -1796,7 +1819,8 @@
       "summary": "Main impurity in iron from Blast Furnace and how it is removed to make steel.",
       "image": "img/2001-jan-chm2/q_q4b.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm2/ms_q4b.jpg"
+      "markscheme": "img/2001-jan-chm2/ms_q4b.jpg",
+      "markscheme_text": "• Main impurity: carbon (1)\n• Explanation: oxygen blown / injected into molten iron (1)\n• carbon oxidised to CO / CO_2 (gases escape) (1)"
     },
     {
       "id": "2001-jan-chm2-q4c",
@@ -1813,7 +1837,8 @@
       "summary": "Gas released from Blast Furnace leading to environmental problems (CO2 / global warming).",
       "image": "img/2001-jan-chm2/q_q4c.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm2/ms_q4c.jpg"
+      "markscheme": "img/2001-jan-chm2/ms_q4c.jpg",
+      "markscheme_text": "• Gas: CO_2 / carbon dioxide (1)\n• Environmental problem: global warming / greenhouse effect (1)\n\nOR\n\n• Gas: CO / carbon monoxide (1)\n• Environmental problem: toxic / poisonous (1)"
     },
     {
       "id": "2001-jan-chm2-q4d",
@@ -1830,7 +1855,8 @@
       "summary": "Gas leading to environmental problems when sulphide ores are used (SO2 / acid rain).",
       "image": "img/2001-jan-chm2/q_q4d.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm2/ms_q4d.jpg"
+      "markscheme": "img/2001-jan-chm2/ms_q4d.jpg",
+      "markscheme_text": "• Gas: SO_2 / sulfur dioxide (1)\n• Environmental problem: acid rain (1)"
     },
     {
       "id": "2001-jan-chm2-q5a",
@@ -1848,7 +1874,8 @@
       "summary": "Equation to show how TiCl4 is obtained from TiO2.",
       "image": "img/2001-jan-chm2/q_q5a.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm2/ms_q5a.jpg"
+      "markscheme": "img/2001-jan-chm2/ms_q5a.jpg",
+      "markscheme_text": "TiO_2 + 2C + 2Cl_2 -> TiCl_4 + 2CO\n\n• correct species (1)\n• correctly balanced (1)"
     },
     {
       "id": "2001-jan-chm2-q5b",
@@ -1867,7 +1894,8 @@
       "summary": "Method to obtain titanium from TiCl4: reducing agent, conditions, and reduction equation.",
       "image": "img/2001-jan-chm2/q_q5b.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm2/ms_q5b.jpg"
+      "markscheme": "img/2001-jan-chm2/ms_q5b.jpg",
+      "markscheme_text": "• Reducing agent: Na or Mg (1)\n• Conditions: high temperature / heat (1)\n• argon atmosphere / inert atmosphere (1)\n• Equation: TiCl_4 + 4Na -> Ti + 4NaCl (1)\n  (or TiCl_4 + 2Mg -> Ti + 2MgCl_2)"
     },
     {
       "id": "2001-jan-chm2-q5c",
@@ -1884,7 +1912,8 @@
       "summary": "Why titanium cannot be extracted directly from TiO2 using carbon.",
       "image": "img/2001-jan-chm2/q_q5c.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm2/ms_q5c.jpg"
+      "markscheme": "img/2001-jan-chm2/ms_q5c.jpg",
+      "markscheme_text": "titanium carbide is formed (1)"
     },
     {
       "id": "2001-june-chm1-q1a",
