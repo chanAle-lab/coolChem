@@ -380,7 +380,7 @@ body {
 }
 
 /* ========================================================
-   Stratigraphic Column (Clean Cross-Section Style)
+   Specification Curriculum Topics
    ======================================================== */
 .strata-wrap {
   display: flex;
@@ -1318,516 +1318,6 @@ footer {
 
 
 /* ========================================================
-   GEOLLION: DEEP EARTH TRIVIA GAME STYLES (Krillion-inspired)
-   ======================================================== */
-.geollion-panel {
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: var(--radius-lg);
-  padding: 24px;
-  display: flex;
-  flex-direction: column;
-  gap: 20px;
-}
-.geollion-banner {
-  background: linear-gradient(135deg, rgba(220, 38, 38, 0.08) 0%, rgba(245, 158, 11, 0.08) 100%);
-  border: 1px solid var(--border);
-  border-radius: var(--radius-lg);
-  padding: 20px 24px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  flex-wrap: wrap;
-  gap: 16px;
-}
-.geollion-banner-title {
-  font-size: 1.45rem;
-  font-weight: 800;
-  color: var(--ink);
-  display: flex;
-  align-items: center;
-  gap: 10px;
-}
-.geollion-banner-desc {
-  font-size: 0.9rem;
-  color: var(--ink-secondary);
-  max-width: 660px;
-  margin-top: 4px;
-  line-height: 1.45;
-}
-
-/* Earth Depth Meter */
-.geollion-meter-card {
-  background: var(--surface-hover);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  padding: 14px 18px;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-}
-.geollion-meter-top {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  font-size: 0.88rem;
-  font-weight: 700;
-  color: var(--ink);
-}
-.geollion-meter-bar {
-  display: flex;
-  width: 100%;
-  height: 22px;
-  border-radius: 11px;
-  overflow: hidden;
-  border: 1px solid var(--border);
-  box-shadow: inset 0 2px 4px rgba(0,0,0,0.1);
-  position: relative;
-}
-.geollion-meter-seg {
-  height: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 0.65rem;
-  font-weight: 800;
-  color: #fff;
-  text-shadow: 0 1px 2px rgba(0,0,0,0.6);
-  transition: all 0.3s ease;
-  overflow: hidden;
-  white-space: nowrap;
-}
-.geollion-meter-seg.active-tier {
-  filter: brightness(1.35);
-  box-shadow: inset 0 0 6px #fff;
-  transform: scaleY(1.15);
-  z-index: 2;
-}
-
-/* Stage Box */
-.geollion-stage {
-  background: var(--surface);
-  border: 2px solid var(--border);
-  border-radius: var(--radius-lg);
-  padding: 36px 24px;
-  text-align: center;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 16px;
-  position: relative;
-}
-.geollion-cat-badge {
-  font-size: 0.76rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  padding: 4px 12px;
-  border-radius: 20px;
-  background: var(--surface-hover);
-  border: 1px solid var(--border);
-  color: var(--ink-secondary);
-}
-.geollion-prompt-text {
-  font-size: 2rem;
-  font-weight: 800;
-  color: var(--ink);
-  line-height: 1.25;
-  margin: 0;
-  max-width: 740px;
-}
-.geollion-prompt-sub {
-  font-size: 1rem;
-  color: var(--muted);
-  margin-top: -6px;
-}
-.geollion-input-wrap {
-  display: flex;
-  gap: 10px;
-  width: 100%;
-  max-width: 580px;
-  margin-top: 10px;
-}
-.geollion-input {
-  flex: 1;
-  padding: 13px 18px;
-  font-size: 1.15rem;
-  font-weight: 600;
-  border-radius: var(--radius);
-  border: 2px solid var(--border);
-  background: var(--surface);
-  color: var(--ink);
-  outline: none;
-  transition: border-color 0.2s, box-shadow 0.2s;
-}
-.geollion-input:focus {
-  border-color: #dc2626;
-  box-shadow: 0 0 0 3px rgba(220, 38, 38, 0.15);
-}
-.btn-geollion-drill {
-  background: #dc2626;
-  color: #fff;
-  border: none;
-  border-radius: var(--radius);
-  padding: 13px 26px;
-  font-size: 1.05rem;
-  font-weight: 700;
-  cursor: pointer;
-  transition: background 0.15s, transform 0.1s;
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-}
-.btn-geollion-drill:hover {
-  background: #b91c1c;
-  transform: translateY(-1px);
-}
-.btn-geollion-skip {
-  background: transparent;
-  color: var(--muted);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  padding: 7px 16px;
-  font-size: 0.82rem;
-  cursor: pointer;
-  margin-top: 6px;
-}
-.btn-geollion-skip:hover {
-  color: var(--ink);
-  background: var(--surface-hover);
-}
-
-/* Reveal styling */
-.geollion-reveal-box {
-  padding: 24px;
-  border-radius: var(--radius-lg);
-  border: 2px solid var(--border);
-  text-align: center;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 14px;
-  width: 100%;
-  animation: geollionPop 0.35s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-}
-@keyframes geollionPop {
-  0% { transform: scale(0.92); opacity: 0; }
-  100% { transform: scale(1); opacity: 1; }
-}
-.geollion-tier-title {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-  font-size: 1.25rem;
-  font-weight: 800;
-  padding: 8px 22px;
-  border-radius: 30px;
-}
-.geollion-depth-callout {
-  font-size: 2.3rem;
-  font-weight: 900;
-  line-height: 1;
-}
-.geollion-all-tiers-box {
-  width: 100%;
-  max-width: 820px;
-  text-align: left;
-  margin-top: 10px;
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  overflow: hidden;
-}
-.geollion-tier-header {
-  padding: 10px 14px;
-  background: var(--surface-hover);
-  font-size: 0.82rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-  color: var(--ink);
-  border-bottom: 1px solid var(--border);
-}
-.geollion-tier-row {
-  display: flex;
-  align-items: flex-start;
-  gap: 12px;
-  padding: 10px 14px;
-  border-bottom: 1px solid var(--border);
-  font-size: 0.86rem;
-}
-.geollion-tier-row:last-child {
-  border-bottom: none;
-}
-.geollion-tier-row.hit-tier {
-  background: rgba(220, 38, 38, 0.09);
-  font-weight: 700;
-}
-.geollion-tier-label {
-  width: 140px;
-  flex-shrink: 0;
-  font-weight: 700;
-  display: flex;
-  align-items: center;
-  gap: 6px;
-}
-.geollion-tier-items {
-  color: var(--ink-secondary);
-  line-height: 1.45;
-}
-
-/* Quiz Generator UI */
-.quiz-panel {
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: var(--radius-lg);
-  padding: 24px;
-  display: flex;
-  flex-direction: column;
-  gap: 20px;
-}
-.quiz-config-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 16px;
-  padding: 16px;
-  background: var(--surface-hover);
-  border-radius: var(--radius);
-  border: 1px solid var(--border);
-}
-.quiz-field {
-  display: flex;
-  flex-direction: column;
-  gap: 6px;
-}
-.quiz-field label {
-  font-size: 0.8rem;
-  font-weight: 600;
-  color: var(--ink-secondary);
-}
-.quiz-field select, .quiz-field input[type="text"] {
-  background: var(--surface);
-  border: 1px solid var(--border);
-  color: var(--ink);
-  padding: 7px 10px;
-  border-radius: var(--radius);
-  font-family: inherit;
-  font-size: 0.85rem;
-}
-
-/* Live Quiz */
-.quiz-live-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  flex-wrap: wrap;
-  gap: 12px;
-  border-bottom: 1px solid var(--border);
-  padding-bottom: 12px;
-}
-.quiz-live-progress {
-  font-size: 0.88rem;
-  font-weight: 600;
-  color: var(--ink);
-}
-.quiz-timer-box {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  font-size: 0.88rem;
-  font-weight: 700;
-  padding: 4px 10px;
-  border-radius: var(--radius);
-  background: var(--surface-hover);
-  border: 1px solid var(--border);
-}
-.quiz-timer-box.urgent {
-  color: #dc2626;
-  border-color: #f87171;
-  background: rgba(239, 68, 68, 0.08);
-  animation: pulseTimer 1s infinite alternate;
-}
-@keyframes pulseTimer {
-  from { transform: scale(1); }
-  to { transform: scale(1.05); }
-}
-
-.quiz-scoreboard-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 14px;
-}
-.team-score-card {
-  background: var(--surface-hover);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  padding: 12px 16px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-.team-name {
-  font-size: 0.95rem;
-  font-weight: 600;
-  color: var(--ink);
-}
-.team-score-controls {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-}
-.team-score-num {
-  font-size: 1.4rem;
-  font-weight: 700;
-  color: var(--ink);
-  min-width: 32px;
-  text-align: center;
-}
-.btn-score-adjust {
-  background: var(--surface);
-  border: 1px solid var(--border);
-  color: var(--ink);
-  width: 28px;
-  height: 28px;
-  border-radius: var(--radius);
-  cursor: pointer;
-  font-size: 1rem;
-  font-weight: 600;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  transition: all 0.15s;
-}
-.btn-score-adjust:hover {
-  background: var(--border);
-}
-
-.quiz-stage {
-  min-height: 260px;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  gap: 20px;
-}
-.quiz-q-meta {
-  font-size: 0.8rem;
-  color: var(--muted);
-  display: flex;
-  align-items: center;
-  gap: 8px;
-}
-.quiz-q-title {
-  font-size: 1.35rem;
-  font-weight: 600;
-  line-height: 1.4;
-  margin: 8px 0 16px;
-  color: var(--ink);
-}
-.quiz-img-box {
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  background: #ffffff;
-  padding: 8px;
-  text-align: center;
-  max-width: 100%;
-  margin-bottom: 16px;
-}
-.quiz-img-box img {
-  max-width: 100%;
-  max-height: 350px;
-  object-fit: contain;
-}
-
-/* Multiple choice */
-.quiz-mc-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 12px;
-}
-.quiz-mc-btn {
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  padding: 14px 18px;
-  text-align: left;
-  font-family: inherit;
-  font-size: 0.92rem;
-  color: var(--ink);
-  cursor: pointer;
-  transition: all 0.15s;
-  display: flex;
-  align-items: flex-start;
-  gap: 10px;
-}
-.quiz-mc-btn:hover:not(:disabled) {
-  border-color: var(--border-strong);
-  background: var(--surface-hover);
-}
-.quiz-mc-btn.correct {
-  border-color: #16a34a !important;
-  background: rgba(22, 163, 74, 0.1) !important;
-  color: #15803d !important;
-  font-weight: 600;
-}
-.quiz-mc-btn.wrong {
-  border-color: #dc2626 !important;
-  background: rgba(239, 68, 68, 0.08) !important;
-  color: #b91c1c !important;
-}
-.mc-letter {
-  font-weight: 700;
-  font-size: 0.85rem;
-  color: var(--muted);
-  width: 20px;
-}
-
-/* Reveal Mode */
-.quiz-reveal-box {
-  background: var(--surface-hover);
-  border-left: 3px solid var(--ink);
-  border-radius: var(--radius);
-  padding: 16px 20px;
-  animation: fadeInAns 0.15s ease-out;
-}
-.quiz-reveal-title {
-  font-size: 0.8rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-  color: var(--muted);
-  margin-bottom: 6px;
-}
-.quiz-reveal-text {
-  font-size: 0.95rem;
-  line-height: 1.6;
-  color: var(--ink);
-}
-.quiz-scoring-row {
-  display: flex;
-  gap: 10px;
-  margin-top: 14px;
-  flex-wrap: wrap;
-}
-
-/* Quiz End Summary */
-.quiz-summary-box {
-  text-align: center;
-  padding: 30px 10px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 14px;
-}
-.quiz-winner-badge {
-  font-size: 1.7rem;
-  font-weight: 700;
-  color: var(--ink);
-}
-.quiz-result-score {
-  font-size: 1.05rem;
-  color: var(--ink-secondary);
-}
-
-/* ========================================================
    Worksheet & Assessment Generator UI
    ======================================================== */
 .ws-wrap {
@@ -2159,7 +1649,7 @@ footer {
       <div class="header-right">
         <button class="btn-minimal" id="btn-data-sheet" onclick="openDataSheetModal()" title="View AQA Periodic Table & Data Sheet">⚛ Periodic Table</button>
         <span class="stats-badge" id="stats-pill" title="Filter by mastered questions">
-          Mastered: <b id="mastery-count-txt">0</b> / <span id="mastery-total-txt">1,830</span>m
+          Mastered: <b id="mastery-count-txt">0</b> / <span id="mastery-total-txt">105</span>m
         </span>
         <button class="btn-minimal" id="theme-toggle" title="Toggle theme">Theme</button>
         <button class="btn-minimal" id="btn-lock-site" title="Lock portal">Lock</button>
@@ -2272,7 +1762,7 @@ const $$ = s => document.querySelectorAll(s);
 const esc = s => String(s || '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 
 /* ========================================================
-   Password Gate (Passcode: "geology")
+   Password Gate (Passcode: "chemistry")
    ======================================================== */
 const PASS_HASH = '1cfe1c910983119342c466a3954eac2b38c70c784d670045d882a39abf7aabc9';
 
@@ -2322,7 +1812,7 @@ async function handleUnlockSubmit(e) {
     return false;
   }
 
-  // Allow case-insensitive "geology" or exact hash match
+  // Allow case-insensitive "chemistry", "coolchem", or "aqa"
   let isValid = (pwdLower === 'chemistry' || pwdLower === 'coolchem' || pwdLower === 'aqa');
   if (!isValid) {
     try {
@@ -2675,7 +2165,7 @@ if (isAuthorized()) {
   $('#lock-password').focus();
 }
 
-let QUIZ_BANK = [{"id": "1.1-01", "topic": "1.1", "question": "What is the fundamental building block of all silicate minerals?", "options": ["Silicon-oxygen tetrahedron [SiO4]4-", "Carbonate ion [CO3]2-", "Sulphate tetrahedron [SO4]2-", "Iron-magnesium octahedron"], "answer": 0, "explanation": "The fundamental building unit of all silicate minerals is the [SiO4]4- tetrahedron (1 central Si4+ coordinated with 4 O2- ions)."}, {"id": "1.1-02", "topic": "1.1", "question": "Which silicate mineral structure consists of independent, isolated tetrahedra bonded only by cations?", "options": ["Olivine", "Augite", "Hornblende", "Biotite"], "answer": 0, "explanation": "Olivine consists of isolated [SiO4]4- tetrahedra bonded to Fe2+ and Mg2+ cations, accounting for its absence of cleavage and high density."}, {"id": "1.1-03", "topic": "1.1", "question": "Which mineral exhibits two cleavage planes intersecting at approximately 90° (87°/93°)?", "options": ["Augite (Pyroxene)", "Hornblende (Amphibole)", "Biotite Mica", "Quartz"], "answer": 0, "explanation": "Augite is a single-chain inosilicate with two prismatic cleavages intersecting at nearly 90° (87° and 93°)."}, {"id": "1.1-04", "topic": "1.1", "question": "Which mineral exhibits two cleavage planes intersecting at approximately 60° and 120° (56°/124°)?", "options": ["Hornblende (Amphibole)", "Augite (Pyroxene)", "Olivine", "Plagioclase"], "answer": 0, "explanation": "Hornblende is a double-chain inosilicate whose cleavage planes intersect at 56° and 124° (commonly cited as ~60° and 120°)."}, {"id": "1.1-05", "topic": "1.1", "question": "What type of cleavage is characteristic of sheet silicates like Biotite and Muscovite?", "options": ["One perfect basal cleavage", "Two cleavages at 90°", "Three rhombohedral cleavages", "Conchoidal fracture only"], "answer": 0, "explanation": "Sheet silicates (phyllosilicates) have weak van der Waals forces between sheets, giving one perfect basal cleavage plane."}, {"id": "1.1-06", "topic": "1.1", "question": "What is the hardness of Quartz on Mohs scale?", "options": ["7", "3", "5", "9"], "answer": 0, "explanation": "Quartz has a Mohs hardness of 7, easily scratching window glass (5.5) and steel knives."}, {"id": "1.1-07", "topic": "1.1", "question": "Which diagnostic field test immediately distinguishes Calcite from Quartz?", "options": ["Effervescence with cold dilute HCl", "Streak on porcelain", "Specific gravity in hand", "Colour in sunlight"], "answer": 0, "explanation": "Calcite (CaCO3) effervesces vigorously in cold 0.5M HCl releasing CO2. Quartz is completely non-reactive."}, {"id": "1.1-08", "topic": "1.1", "question": "According to the Goldich weathering series, which mineral is the MOST resistant to chemical weathering?", "options": ["Quartz", "Olivine", "Augite", "Ca-plagioclase"], "answer": 0, "explanation": "Quartz crystallises at the lowest temperatures and has a fully polymerised framework of strong covalent Si-O bonds, making it most stable at surface conditions."}, {"id": "1.1-09", "topic": "1.1", "question": "What optical feature appears under crossed polars (XPL) as repeated zebra-like parallel stripes in plagioclase?", "options": ["Polysynthetic (albite) twinning", "Carlsbad simple twinning", "Tartan cross-hatch twinning", "Undulose extinction"], "answer": 0, "explanation": "Polysynthetic (albite) twinning is diagnostic of plagioclase feldspar in thin section under XPL."}, {"id": "1.1-10", "topic": "1.1", "question": "Which mineral has a hardness of 3 and displays three directions of cleavage forming a rhombohedron?", "options": ["Calcite", "Halite", "Fluorite", "Gypsum"], "answer": 0, "explanation": "Calcite has a Mohs hardness of 3 and three perfect cleavage planes not at 90° (rhombohedral cleavage)."}, {"id": "1.1-11", "topic": "1.1", "question": "What diagnostic streak colour is produced by the iron ore Hematite on an unglazed porcelain plate?", "options": ["Cherry red / reddish-brown", "Lead grey", "Yellow-brown", "White"], "answer": 0, "explanation": "Hematite (Fe2O3) produces a characteristic cherry-red to reddish-brown streak, regardless of whether the specimen is specular silver or earthy red."}, {"id": "1.1-12", "topic": "1.1", "question": "Which mineral crystallises with 3 directions of cubic cleavage intersecting at exactly 90°?", "options": ["Halite (NaCl)", "Calcite", "Augite", "Quartz"], "answer": 0, "explanation": "Halite crystallises in the isometric (cubic) system, yielding three directions of perfect cleavage intersecting at exactly 90°."}, {"id": "2.1-01", "topic": "2.1", "question": "What percentage volume expansion occurs when liquid water freezes into ice inside rock joints?", "options": ["9%", "2%", "18%", "25%"], "answer": 0, "explanation": "Water expands by approximately 9% upon freezing, exerting immense pressure (up to 200 MPa) on surrounding joint walls."}, {"id": "2.1-02", "topic": "2.1", "question": "What chemical weathering process transforms potassium feldspar into kaolinite clay?", "options": ["Hydrolysis", "Carbonation", "Oxidation", "Solution"], "answer": 0, "explanation": "Hydrolysis involves H+ ions in acidic water reacting with K-feldspar to form residual kaolinite clay and soluble potassium and silica."}, {"id": "2.1-03", "topic": "2.1", "question": "According to the Hjulström curve, which sediment size requires the LOWEST water velocity to be eroded?", "options": ["Medium sand (~0.2 to 0.5 mm)", "Clay (<0.002 mm)", "Coarse pebbles (>20 mm)", "Silt (0.02 mm)"], "answer": 0, "explanation": "Medium sand requires only ~20 cm/s flow velocity to entrain. Finer clays require higher velocities due to strong electrostatic cohesion."}, {"id": "2.1-04", "topic": "2.1", "question": "Which clastic sedimentary rock is characterized by coarse (>2 mm), ANGULAR rock clasts?", "options": ["Breccia", "Conglomerate", "Orthoquartzite", "Arkose"], "answer": 0, "explanation": "Breccia consists of angular fragments >2 mm, indicating minimal abrasion and very short transport distance from the source."}, {"id": "2.1-05", "topic": "2.1", "question": "What does a high abundance (>25%) of fresh, angular feldspar grains in an Arkose indicate about the paleoclimate?", "options": ["Arid or cold climate with minimal chemical weathering", "Tropical humid climate with intense rainfall", "Deep ocean abyssal plain", "Warm shallow reef lagoon"], "answer": 0, "explanation": "Feldspar decomposes rapidly under humid conditions; an arkose indicates an arid/glacial climate where chemical weathering was inhibited."}, {"id": "2.1-06", "topic": "2.1", "question": "Which sedimentary structure provides indisputable evidence of subaerial exposure (drying out)?", "options": ["Desiccation cracks (mudcracks)", "Graded bedding", "Symmetrical wave ripples", "Flute casts"], "answer": 0, "explanation": "Desiccation cracks form exclusively when fine cohesive mud shrinks as water evaporates under direct exposure to the atmosphere."}, {"id": "2.1-07", "topic": "2.1", "question": "What weathering process dissolves limestone caves and karst features in humid regions?", "options": ["Carbonation by acidic rainwater", "Hydrolysis by ground salt", "Thermal exfoliation", "Frost shattering"], "answer": 0, "explanation": "Rainwater absorbs atmospheric CO2 to form weak carbonic acid (H2CO3), which dissolves CaCO3 into soluble calcium bicarbonate Ca(HCO3)2."}, {"id": "2.2-01", "topic": "2.2", "question": "What cooling history is recorded by a PORPHYRITIC texture in igneous rocks?", "options": ["Two-stage cooling: slow cooling at depth followed by rapid cooling upon ascent", "Continuous slow cooling deep in the crust", "Instantaneous quenching in sea water", "Solid-state deformation during shearing"], "answer": 0, "explanation": "Porphyritic texture results from two-stage cooling: large phenocrysts grow during early slow cooling, and the fine groundmass crystallises rapidly upon ascent."}, {"id": "2.2-02", "topic": "2.2", "question": "What is the fine-grained extrusive (volcanic) equivalent of Granite?", "options": ["Rhyolite", "Basalt", "Andesite", "Gabbro"], "answer": 0, "explanation": "Rhyolite is the volcanic equivalent of plutonic granite; both are felsic (>66% SiO2) with matching quartz and alkali feldspar compositions."}, {"id": "2.2-03", "topic": "2.2", "question": "What is the primary mineral composition of a typical Basalt?", "options": ["Ca-rich plagioclase and augite (pyroxene)", "Quartz and orthoclase feldspar", "Hornblende and biotite mica", "Pure olivine and serpentine"], "answer": 0, "explanation": "Basalt is a mafic volcanic rock (45-52% SiO2) composed primarily of calcium-rich plagioclase feldspar and augite pyroxene."}, {"id": "2.2-04", "topic": "2.2", "question": "Which concordant tabular igneous intrusion forms parallel to surrounding sedimentary strata?", "options": ["Sill", "Dyke", "Batholith", "Volcanic neck"], "answer": 0, "explanation": "A sill is a concordant sheet intrusion that spreads parallel to the pre-existing bedding planes."}, {"id": "2.2-05", "topic": "2.2", "question": "How can a geologist distinguish a subsurface sill from a surface lava flow in the field?", "options": ["A sill produces baked and chilled margins on BOTH upper and lower contacts", "A sill always has a vesicular frothy upper crust", "A lava flow bakes the overlying sediment layer", "A sill shows weathered fragments on its upper surface"], "answer": 0, "explanation": "A sill intrudes into pre-existing rock, creating baked country rock and chilled margins on both top and bottom contacts. Lava flows only bake underneath."}, {"id": "2.2-06", "topic": "2.2", "question": "What volcanic structure is diagnostic of submarine basaltic eruptions on the sea floor?", "options": ["Pillow lavas", "Columnar jointing", "Ignimbrite welded ash", "Pahoehoe ropy surface"], "answer": 0, "explanation": "Pillow lavas form exclusively when basaltic magma erupts underwater, quenching an outer glassy skin while molten lava breaks out in bulbous lobes."}, {"id": "2.2-07", "topic": "2.2", "question": "What term describes an unmelted fragment of surrounding country rock enclosed within an igneous intrusion?", "options": ["Xenolith", "Phenocryst", "Porphyroblast", "Amygdale"], "answer": 0, "explanation": "A xenolith is a piece of foreign pre-existing country rock incorporated into magma (by magmatic stoping) that failed to melt completely."}, {"id": "2.2-08", "topic": "2.2", "question": "Why is felsic (rhyolitic) magma far more viscous and explosive than mafic (basaltic) magma?", "options": ["Higher silica content forms extensive tetrahedral polymers that trap expanding gases", "Lower silica content allows gases to escape smoothly", "Higher temperature reduces internal friction", "Presence of dissolved water prevents bubbling"], "answer": 0, "explanation": "High silica content (>66% SiO2) produces extensive cross-linked Si-O tetrahedral polymers in the melt, causing high viscosity and catastrophic explosive eruptions."}, {"id": "2.3-01", "topic": "2.3", "question": "Which sedimentary environment produces large-scale dune cross-bedding (up to 30°) and well-rounded frosted sand grains?", "options": ["Hot desert (aeolian sand sea)", "Deep marine abyssal plain", "Glacial till plain", "Braided river channel"], "answer": 0, "explanation": "Large-scale cross-bedding, hematite red pigment, and well-rounded frosted grains (due to wind grain-to-grain impacts) are diagnostic of desert dunes."}, {"id": "2.3-02", "topic": "2.3", "question": "What sedimentary structure displays coarse sediment at the base grading upward into fine silt and clay within a single bed?", "options": ["Graded bedding", "Cross-bedding", "Asymmetrical current ripples", "Parting lineation"], "answer": 0, "explanation": "Graded bedding forms from decelerating turbidity currents where the coarsest, densest particles settle first, followed by progressively finer mud."}, {"id": "2.3-03", "topic": "2.3", "question": "What minerals precipitate in an evaporite sequence formed by evaporating marine water?", "options": ["Calcite, Gypsum, and Halite", "Quartz, Feldspar, and Mica", "Kaolinite, Hematite, and Goethite", "Augite, Olivine, and Pyrite"], "answer": 0, "explanation": "Evaporation of marine water precipitates calcium carbonate (calcite) first, followed by calcium sulphate (gypsum/anhydrite), and finally halite (NaCl)."}, {"id": "2.3-04", "topic": "2.3", "question": "Which limestone variety consists of small spherical grains (<2 mm) with concentric carbonate laminae formed in shallow agitated waters?", "options": ["Oolitic limestone", "Micrite (lime mudstone)", "Chalk", "Fossiliferous biosparite"], "answer": 0, "explanation": "Oolitic limestone is made of ooids: rounded spherical grains formed by precipitation of concentric calcium carbonate around a nucleus in tropical shallow currents."}, {"id": "2.3-05", "topic": "2.3", "question": "What type of ripple mark is formed by oscillating waves in shallow water and has symmetrical crests?", "options": ["Oscillation (wave) ripples", "Current (asymmetrical) ripples", "Megaripples (dunes)", "Antidunes"], "answer": 0, "explanation": "Wave ripples are symmetrical with sharp crests and rounded troughs formed by bidirectional back-and-forth orbital water motion."}, {"id": "2.3-06", "topic": "2.3", "question": "What microscopic organisms compose the pure, white biogenic limestone known as Chalk?", "options": ["Calcareous coccolith plates from planktonic algae", "Siliceous radiolaria tests", "Fragmented coral branches", "Bivalve shell hash"], "answer": 0, "explanation": "Chalk is a micritic biogenic limestone composed almost entirely of sub-microscopic calcite plates (coccoliths) shed by planktonic coccolithophores."}, {"id": "3.1-01", "topic": "3.1", "question": "What tectonic stress regime generates NORMAL faulting?", "options": ["Tensional (extensional) stress", "Compressional stress", "Shear (strike-slip) stress", "Lithostatic confining stress"], "answer": 0, "explanation": "Normal faults develop under tensional stress, allowing the hanging wall block to move down relative to the footwall."}, {"id": "3.1-02", "topic": "3.1", "question": "In a REVERSE fault or THRUST fault, how does the hanging wall move relative to the footwall?", "options": ["Upwards relative to the footwall", "Downwards relative to the footwall", "Horizontally with zero vertical displacement", "Rotates about a vertical axis"], "answer": 0, "explanation": "Compressional stress pushes the hanging wall upwards and over the footwall block along reverse and low-angle thrust faults."}, {"id": "3.1-03", "topic": "3.1", "question": "What fold geometry has strata arching upwards and dipping away from the hinge, with the OLDEST rocks in the core?", "options": ["Anticline", "Syncline", "Monocline", "Structural basin"], "answer": 0, "explanation": "An anticline is an upward-arching fold whose limbs dip away from the hinge, exposing the oldest rocks in the central eroded core."}, {"id": "3.1-04", "topic": "3.1", "question": "What fold geometry is characterized by both limbs dipping in the same direction, with one limb inverted past vertical?", "options": ["Overturned fold", "Symmetrical fold", "Isoclinal fold", "Chevron fold"], "answer": 0, "explanation": "An overturned fold has an inclined axial plane such that both limbs dip in the same direction, with one limb rotated upside-down."}, {"id": "3.1-05", "topic": "3.1", "question": "What contact represents an ancient erosion surface separating tilted older strata from horizontal younger strata?", "options": ["Angular unconformity", "Disconformity", "Conformable contact", "Fault scarp"], "answer": 0, "explanation": "An angular unconformity records deformation, uplift, erosion of older beds, followed by subsidence and deposition of horizontal younger beds."}, {"id": "3.1-06", "topic": "3.1", "question": "What term describes a down-dropped crustal valley bounded by conjugate normal faults under tension?", "options": ["Graben (rift valley)", "Horst block", "Nappe", "Anticlinorium"], "answer": 0, "explanation": "A graben is a central block lowered along boundary normal faults during crustal extension (e.g. East African Rift)."}, {"id": "3.1-07", "topic": "3.1", "question": "What linear friction scratches on a polished fault plane prove the direction of past slip movement?", "options": ["Slickensides", "Stylolites", "Joint fringe", "Cleavage refraction"], "answer": 0, "explanation": "Slickensides are polished fault planes with linear striations produced by frictional grinding of mineral grains during displacement."}, {"id": "3.2-01", "topic": "3.2", "question": "Which type of metamorphism is driven primarily by HIGH TEMPERATURE at low pressure adjacent to an igneous intrusion?", "options": ["Contact (thermal) metamorphism", "Regional (dynamothermal) metamorphism", "Dynamic cataclastic metamorphism", "Hydrothermal seafloor metamorphism"], "answer": 0, "explanation": "Contact metamorphism occurs in a thermal aureole surrounding an igneous pluton, driven by heat transfer with minimal directed stress."}, {"id": "3.2-02", "topic": "3.2", "question": "What is the correct progressive sequence of pelitic regional metamorphic rocks from LOW to HIGH grade?", "options": ["Slate -> Phyllite -> Schist -> Gneiss", "Gneiss -> Schist -> Phyllite -> Slate", "Slate -> Gneiss -> Schist -> Hornfels", "Hornfels -> Marble -> Quartzite -> Slate"], "answer": 0, "explanation": "With increasing temperature and pressure, shale/mudstone progressively recrystallises from Slate to Phyllite, Schist, and banded Gneiss."}, {"id": "3.2-03", "topic": "3.2", "question": "What non-foliated metamorphic rock forms from the contact metamorphism of a pure quartz sandstone?", "options": ["Metaquartzite", "Marble", "Hornfels", "Schist"], "answer": 0, "explanation": "Pure quartz sandstone recrystallises under contact metamorphism to form granoblastic metaquartzite with interlocking quartz grains."}, {"id": "3.2-04", "topic": "3.2", "question": "According to Barrow's metamorphic zones, which index mineral indicates the HIGHEST temperature metamorphic grade in pelites?", "options": ["Sillimanite (>600°C)", "Chlorite (~250°C)", "Biotite (~400°C)", "Garnet (~500°C)"], "answer": 0, "explanation": "Sillimanite marks the highest temperature zone (>600°C) of regional metamorphism before partial melting (anatexis) begins."}, {"id": "3.2-05", "topic": "3.2", "question": "What fine-grained, tough, non-foliated rock forms by contact metamorphism of mudstone right at the intrusion contact?", "options": ["Hornfels", "Slate", "Mylonite", "Gneiss"], "answer": 0, "explanation": "Hornfels is a hard, dense, sugary-textured rock formed by intense thermal recrystallisation of pelitic rocks in the inner contact aureole."}, {"id": "4.1-01", "topic": "4.1", "question": "What combination of biological characteristics defines an ideal index (zone) fossil?", "options": ["Rapid evolution, short geological range, and widespread geographic distribution", "Long geological lifespan and restricted to one small bay", "Soft-bodied anatomy with no mineralised skeleton", "Large adult size and very low reproduction rate"], "answer": 0, "explanation": "Good zone fossils evolved rapidly (narrow time duration), were geographically widespread, marine planktonic/pelagic, and easily preserved."}, {"id": "4.1-02", "topic": "4.1", "question": "Which fossil group underwent an evolutionary reduction in stipe (branch) count from ~64 down to 1 during the Ordovician-Silurian?", "options": ["Graptolites", "Trilobites", "Ammonites", "Brachiopods"], "answer": 0, "explanation": "Graptolites reduced their branch count from multi-stiped dendroids to 4, 2 (Didymograptus), and finally single-stiped monograptids in the Silurian."}, {"id": "4.1-03", "topic": "4.1", "question": "What progressive evolutionary trend is observed in ammonoid septal suture lines through geological time?", "options": ["Simple goniatitic -> ceratitic -> complexly frilled ammonitic sutures", "Ammonitic -> ceratitic -> goniatitic sutures", "Straightening into orthoconic smooth cylinders", "Loss of all internal shell chambers"], "answer": 0, "explanation": "Ammonoid septa became progressively more fluted and folded for structural shell strength, evolving from goniatitic to ceratitic and ammonitic."}, {"id": "4.1-04", "topic": "4.1", "question": "Which marine arthropod group is divided into a cephalon, segmented thorax, and pygidium with three longitudinal lobes?", "options": ["Trilobites", "Crinoids", "Echinoids", "Belemnites"], "answer": 0, "explanation": "Trilobites are extinct Palaeozoic marine arthropods with three body regions and an axial lobe flanked by two pleural lobes."}, {"id": "4.1-05", "topic": "4.1", "question": "How does the bilateral plane of symmetry differ between a Brachiopod and a Bivalve mollusc?", "options": ["Brachiopods have symmetry DOWN the middle of each valve; bivalves have symmetry BETWEEN the two valves", "Brachiopods have no symmetry; bivalves are radially symmetrical", "Brachiopod valves are identical left and right; bivalve valves are unequal", "Both groups share identical radial pentameral symmetry"], "answer": 0, "explanation": "A brachiopod valve is bisected symmetrically down its middle (equilateral, inequivalve). A bivalve has symmetry across the hinge between matching valves."}, {"id": "4.1-06", "topic": "4.1", "question": "What internal tube connects the chambers of a cephalopod phragmocone to regulate buoyancy with gas and liquid?", "options": ["Siphuncle", "Tabula", "Columella", "Pallial line"], "answer": 0, "explanation": "The siphuncle is the living vascular cord passing through septal necks that regulates fluid/gas osmotic balance in cephalopod shells."}, {"id": "4.2-01", "topic": "4.2", "question": "According to the 'Rule of V's', how does a horizontal bed outcrop when crossing a river valley on a topographic map?", "options": ["Parallel to contour lines (does not cross contour lines)", "V-shapes pointing upstream independent of contours", "Straight line ignoring topography", "V-shapes pointing downstream"], "answer": 0, "explanation": "Horizontal strata follow topographic contours precisely at a constant elevation, contouring parallel across river valleys."}, {"id": "4.2-02", "topic": "4.2", "question": "What is the angular relationship between the horizontal strike line of a bed and the direction of TRUE dip?", "options": ["Always exactly 90° (perpendicular)", "45°", "180° (parallel)", "Depends on the dip angle"], "answer": 0, "explanation": "True dip direction is always measured at exactly 90° (right angle) to the strike in the direction of steepest downward slope."}, {"id": "4.2-03", "topic": "4.2", "question": "What structural feature is indicated by concentric circular outcrops where the YOUNGEST beds are in the center?", "options": ["Structural basin (syncline)", "Structural dome (anticline)", "Horst block", "Inverted graben"], "answer": 0, "explanation": "In a structural basin, beds dip inwards toward the center, protecting and preserving the youngest stratigraphic layers in the middle."}, {"id": "4.2-04", "topic": "4.2", "question": "If a cross-section has a horizontal scale of 1:10,000 and a vertical scale of 1:2,000, what is the vertical exaggeration (VE)?", "options": ["5x", "2x", "0.2x", "10x"], "answer": 0, "explanation": "Vertical Exaggeration = Horizontal Scale denominator / Vertical Scale denominator = 10,000 / 2,000 = 5x."}, {"id": "T-01", "topic": "T1", "question": "What marine geophysical evidence conclusively proved seafloor spreading at mid-ocean ridges (Vine & Matthews, 1963)?", "options": ["Symmetrical magnetic zebra stripes of normal and reversed polarity", "Uniformly thick ocean floor sediment", "Continental granite cores drilled under the oceanic abyss", "Absence of volcanic activity on ridge axes"], "answer": 0, "explanation": "Geomagnetic polarity reversals are recorded symmetrically on both sides of mid-ocean ridges as new basaltic oceanic crust solidifies."}, {"id": "T-02", "topic": "T2", "question": "What is the primary driving mechanism providing the greatest net force on tectonic plates?", "options": ["Slab pull (gravitational sinking of cold, dense oceanic lithosphere)", "Ridge push only", "Tidal friction dragging continents", "Centrifugal spinning of the Earth"], "answer": 0, "explanation": "Slab pull, caused by cold, dense eclogitised oceanic lithosphere sinking into the asthenosphere at subduction zones, dominates plate motion."}, {"id": "T-03", "topic": "T3", "question": "What planar zone of dipping earthquake foci traces a subducting oceanic slab down to ~670 km depth?", "options": ["Wadati-Benioff zone", "Mohorovičić discontinuity", "Gutenberg discontinuity", "Lehmann boundary"], "answer": 0, "explanation": "The Wadati-Benioff zone is a dipping planar zone of earthquake foci marking frictional and brittle rupture within a descending cold slab."}, {"id": "T-04", "topic": "T4", "question": "Why does an S-wave shadow zone occur at angular distances greater than 104° from an earthquake epicentre?", "options": ["S-waves cannot propagate through the liquid iron outer core", "S-waves bounce off the crust-mantle boundary", "S-waves convert completely into surface Love waves", "S-waves speed up and exit through the atmosphere"], "answer": 0, "explanation": "Shear (S) waves require shear rigidity to propagate and cannot travel through the molten iron-nickel outer core, producing a shadow zone from 104° to 180°."}, {"id": "T-05", "topic": "T5", "question": "What seismic discontinuity marks the compositional boundary between the crust and the ultramafic mantle?", "options": ["Mohorovičić discontinuity (Moho)", "Gutenberg discontinuity", "Lehmann discontinuity", "Conrad discontinuity"], "answer": 0, "explanation": "The Moho marks the abrupt jump in P-wave velocity from ~6-7 km/s in the crust to ~8 km/s in peridotite mantle."}, {"id": "T-06", "topic": "T1", "question": "What type of plate boundary is the San Andreas Fault in California?", "options": ["Conservative (transform) plate boundary", "Destructive subduction zone", "Constructive divergent boundary", "Continental collision zone"], "answer": 0, "explanation": "The San Andreas Fault is a dextral strike-slip transform boundary where the Pacific and North American plates slide past each other horizontally."}, {"id": "G-01", "topic": "G1", "question": "What geological structure is the most common hydrocarbon trap in sedimentary basins?", "options": ["Anticlinal fold with an impermeable shale caprock", "Synclinal trough", "Open vertical master joint", "Granite batholith core"], "answer": 0, "explanation": "Low-density buoyant petroleum and gas migrate up through permeable reservoir rock and pool in the crest of an anticline under an impermeable seal."}, {"id": "G-02", "topic": "G2", "question": "What mineral is the primary commercial ore of aluminium, formed by extreme tropical leaching of silicate rocks?", "options": ["Bauxite", "Hematite", "Chalcopyrite", "Galena"], "answer": 0, "explanation": "Bauxite (hydrated aluminium oxide) forms as a residual soil in warm, humid tropical climates where intense leaching strips silica and soluble cations."}, {"id": "G-03", "topic": "G3", "question": "What physical hydrogeological property measures the capacity of a rock to TRANSMIT fluid through interconnected pore spaces?", "options": ["Permeability", "Porosity", "Bulk density", "Compressibility"], "answer": 0, "explanation": "Porosity measures the percentage of void space; permeability measures the interconnectedness of pore throats and the ease of fluid flow."}, {"id": "G-04", "topic": "G4", "question": "Why does native gold concentrate in river gravel bars and plunge pools as alluvial placer deposits?", "options": ["Extremely high specific gravity (~19.3) and chemical inertness", "High solubility in river water", "Low density that allows it to float to gravel banks", "Magnetic attraction to basalt boulders"], "answer": 0, "explanation": "Gold is dense (~19.3 g/cm3), malleable, and chemically unreactive, allowing water currents to winnow away lighter quartz and concentrate gold in gravels."}, {"id": "G-05", "topic": "G1", "question": "What ratio of oxygen isotopes (18O / 16O) in benthic foraminifera shells indicates a glacial period with extensive ice sheets?", "options": ["Higher 18O / 16O ratio (enriched in heavy 18O)", "Lower 18O / 16O ratio (depleted in 18O)", "Zero 18O remaining in seawater", "Equal 18O and 16O isotopes"], "answer": 0, "explanation": "Light 16O evaporates preferentially and is locked up in polar ice sheets, leaving ocean water and foraminiferal calcite enriched in heavy 18O."}];
+let QUIZ_BANK = [ { "id":  "3.1.1-01", "topic":  "3.1.1", "question":  "In a time-of-flight mass spectrometer, how are ions accelerated?", "options":  [ "By passing through a high-voltage magnetic field", "By an electric field giving all ions the same kinetic energy", "By high-energy infrared lasers", "By gravitational acceleration along a vertical tube" ], "answer":  1, "explanation":  "In TOF-MS, positive ions are accelerated by an electric field such that all ions acquire the exact same kinetic energy (KE = 1/2 mv^2)." }, { "id":  "3.1.1-02", "topic":  "3.1.1", "question":  "Which factor explains why the first ionisation energy of sulfur is lower than that of phosphorus?", "options":  [ "Sulfur has a smaller nuclear charge than phosphorus", "Sulfur\u0027s outer electron experiences greater shielding from a 4s sub-shell", "Paired electrons in a 3p orbital in sulfur experience mutual spin repulsion", "Sulfur has an extra principal quantum energy level" ], "answer":  2, "explanation":  "In phosphorus ([Ne] 3s2 3p3), each 3p orbital is singly occupied. In sulfur ([Ne] 3s2 3p4), two electrons share one 3p orbital; repulsion between these paired electrons lowers the energy required to remove one." }, { "id":  "3.1.1-03", "topic":  "3.1.1", "question":  "What is the correct ground-state electron configuration of a copper atom (Cu, Z = 29)?", "options":  [ "[Ar] 4s2 3d9", "[Ar] 4s1 3d10", "[Ar] 4s0 3d11", "[Ar] 3d10 4p1" ], "answer":  1, "explanation":  "Copper is an exception to the Aufbau principle: it promotes a 4s electron into 3d to achieve a completely filled, energetically stable 3d10 sub-shell: [Ar] 4s1 3d10." }, { "id":  "3.1.1-04", "topic":  "3.1.1", "question":  "How are ions detected at the collector of a TOF mass spectrometer?", "options":  [ "By absorbing ultraviolet light emitted from a diode", "By positive ions hitting a negative detector plate, gaining electrons to generate a current", "By magnetic deflection sensors measuring curvature", "By chemical reaction with silver nitrate solution" ], "answer":  1, "explanation":  "Positive ions strike a negatively charged detector plate, accepting electrons and inducing an electric current whose magnitude is directly proportional to isotopic abundance." }, { "id":  "3.1.2-05", "topic":  "3.1.2", "question":  "What are the correct SI units for the ideal gas equation pV = nRT?", "options":  [ "p in kPa, V in dm3, T in °C", "p in Pa, V in m3, T in K", "p in atm, V in cm3, T in K", "p in bar, V in dm3, T in K" ], "answer":  1, "explanation":  "In pV = nRT, SI units must be used: pressure in Pascals (Pa), volume in cubic metres (m3), and temperature in Kelvin (K)." }, { "id":  "3.1.2-06", "topic":  "3.1.2", "question":  "Which reaction has a 100% atom economy?", "options":  [ "Ethanol dehydration to ethene and water", "Fermentation of glucose to ethanol and carbon dioxide", "Hydration of ethene to ethanol", "Substitution of bromoethane with sodium hydroxide" ], "answer":  2, "explanation":  "Addition reactions, like the hydration of ethene (C2H4 + H2O -\u003e C2H5OH), combine all reactant atoms into a single product with zero waste, giving 100% atom economy." }, { "id":  "3.1.2-07", "topic":  "3.1.2", "question":  "A volatile liquid with mass 0.280 g produces 83.1 cm3 of vapor at 373 K and 100 kPa. What is its approximate Mr? (R = 8.31 J K-1 mol-1)", "options":  [ "52", "105", "140", "210" ], "answer":  1, "explanation":  "n = pV / RT = (100000 * 83.1e-6) / (8.31 * 373) = 8.31 / 3099.63 = 0.00268 mol. Mr = m / n = 0.280 / 0.00268 = 104.5 ~ 105." }, { "id":  "3.1.3-08", "topic":  "3.1.3", "question":  "What is the shape and bond angle of a sulfur hexafluoride (SF6) molecule?", "options":  [ "Tetrahedral, 109.5°", "Trigonal bipyramidal, 90° and 120°", "Octahedral, 90°", "Square planar, 90°" ], "answer":  2, "explanation":  "SF6 has 6 bonding pairs and 0 lone pairs around the central sulfur atom, adopting an octahedral geometry with 90° bond angles." }, { "id":  "3.1.3-09", "topic":  "3.1.3", "question":  "Which molecule possesses polar bonds but has NO overall permanent dipole?", "options":  [ "H2O", "NH3", "CH3Cl", "CCl4" ], "answer":  3, "explanation":  "CCl4 contains 4 polar C-Cl bonds arranged symmetrically in a tetrahedral geometry; the individual bond dipoles cancel out completely." }, { "id":  "3.1.3-10", "topic":  "3.1.3", "question":  "Which crystal structure best describes solid iodine (I2)?", "options":  [ "Giant covalent / macromolecular", "Simple molecular", "Giant ionic lattice", "Giant metallic" ], "answer":  1, "explanation":  "Solid iodine consists of diatomic I2 molecules held together in a crystalline lattice by weak van der Waals / London dispersion forces." }, { "id":  "3.1.3-11", "topic":  "3.1.3", "question":  "Why does water have an anomalously higher boiling point than hydrogen sulfide (H2S)?", "options":  [ "H2O has stronger covalent bonds than H2S", "H2O molecules are held together by intermolecular hydrogen bonds", "H2O has a larger molecular mass than H2S", "H2O undergoes ionic dissociation in liquid phase" ], "answer":  1, "explanation":  "Oxygen is much more electronegative than sulfur, enabling water to form strong intermolecular hydrogen bonds between molecules." }, { "id":  "3.1.4-12", "topic":  "3.1.4", "question":  "Which statement correctly describes the standard enthalpy of formation of an element?", "options":  [ "It is always positive and endothermic", "It is zero for any element in its standard state under standard conditions", "It depends on whether the element is a solid, liquid or gas at 0 K", "It equals the enthalpy of atomisation" ], "answer":  1, "explanation":  "By definition, the standard enthalpy of formation (ΔfH°) of any chemical element in its standard physical state at 100 kPa and 298 K is zero." }, { "id":  "3.1.4-13", "topic":  "3.1.4", "question":  "Why do enthalpies calculated from mean bond enthalpies often differ from those calculated using Hess\u0027s Law?", "options":  [ "Bond enthalpies are measured at absolute zero rather than 298 K", "Mean bond enthalpies are averages across many different compounds, while Hess\u0027s Law uses exact experimental values", "Hess\u0027s Law ignores activation energy", "Bond enthalpies only apply to ionic lattices" ], "answer":  1, "explanation":  "Mean bond enthalpies are averaged across various chemical environments; Hess\u0027s Law uses actual experimental enthalpies of formation/combustion for that specific compound." }, { "id":  "3.1.5-14", "topic":  "3.1.5", "question":  "What does the peak of a Maxwell-Boltzmann distribution curve represent?", "options":  [ "The mean kinetic energy of the molecules", "The activation energy of the reaction", "The most probable kinetic energy (Emp) of the molecules", "The total number of reacting gas molecules" ], "answer":  2, "explanation":  "The peak represents the most probable energy (Emp) — the specific kinetic energy possessed by the greatest number of molecules." }, { "id":  "3.1.5-15", "topic":  "3.1.5", "question":  "How does adding a catalyst alter the position of a chemical equilibrium?", "options":  [ "It shifts equilibrium towards the products", "It shifts equilibrium towards the endothermic side", "It does not change the position of equilibrium at all", "It increases Kc" ], "answer":  2, "explanation":  "A catalyst increases the rates of both the forward and reverse reactions by the exact same proportion; it speeds up the approach to equilibrium but does not alter the equilibrium position or yield." }, { "id":  "3.1.6-16", "topic":  "3.1.6", "question":  "For an exothermic reversible reaction at equilibrium, what effect does an increase in temperature have on Kc?", "options":  [ "Kc increases", "Kc decreases", "Kc remains unchanged", "Kc becomes zero" ], "answer":  1, "explanation":  "By Le Chatelier\u0027s principle, increasing temperature shifts the equilibrium in the endothermic (reverse) direction to absorb heat. This decreases product concentrations, lowering Kc." }, { "id":  "3.1.7-17", "topic":  "3.1.7", "question":  "What is the oxidation state of chlorine in sodium chlorate(I), NaClO?", "options":  [ "-1", "0", "+1", "+5" ], "answer":  2, "explanation":  "In NaClO, Na is +1 and O is -2. To make a neutral compound: (+1) + Cl + (-2) = 0 =\u003e Cl = +1." }, { "id":  "3.1.7-18", "topic":  "3.1.7", "question":  "How many moles of electrons are transferred when one mole of acidified MnO4- is reduced to Mn2+?", "options":  [ "1 mole", "3 moles", "5 moles", "7 moles" ], "answer":  2, "explanation":  "In the half-equation MnO4- + 8H+ + 5e- -\u003e Mn2+ + 4H2O, manganese is reduced from +7 to +2, requiring 5 moles of electrons per mole of MnO4-." }, { "id":  "3.1.8-19", "topic":  "3.1.8", "question":  "Why is the second electron affinity of oxygen (O- + e- -\u003e O2-) an endothermic process?", "options":  [ "Oxygen has reached a stable octet configuration", "Energy is required to overcome electrostatic repulsion between the negative O- ion and the incoming electron", "The 2p orbital is larger than the 2s orbital", "Nuclear charge decreases when an electron is added" ], "answer":  1, "explanation":  "The incoming electron is repelled by the negative charge of the O- ion, requiring significant energy input to force the electron into the orbital." }, { "id":  "3.1.8-20", "topic":  "3.1.8", "question":  "Under what thermodynamic conditions is a chemical reaction feasible?", "options":  [ "ΔG \u003e 0", "ΔG \u003c= 0", "ΔH must be negative", "ΔS must be positive" ], "answer":  1, "explanation":  "Feasibility requires Gibbs free energy change ΔG \u003c= 0 (ΔG = ΔH - TΔS)." }, { "id":  "3.1.9-21", "topic":  "3.1.9", "question":  "If doubling the concentration of reactant B quadruples the rate of reaction, what is the order with respect to B?", "options":  [ "Zero order", "First order", "Second order", "Third order" ], "answer":  2, "explanation":  "2^order = 4 =\u003e order = 2 (second order)." }, { "id":  "3.1.9-22", "topic":  "3.1.9", "question":  "In an Arrhenius plot of ln k against 1/T, what does the gradient of the straight line represent?", "options":  [ "Ea / R", "-Ea / R", "ln A", "-Ea" ], "answer":  1, "explanation":  "From ln k = -Ea/(RT) + ln A, plotting ln k vs 1/T gives a straight line with gradient = -Ea / R." }, { "id":  "3.1.10-23", "topic":  "3.1.10", "question":  "What is the partial pressure of gas A in a mixture where the mole fraction of A is 0.25 and total pressure is 200 kPa?", "options":  [ "25 kPa", "50 kPa", "100 kPa", "800 kPa" ], "answer":  1, "explanation":  "pA = xA * Ptotal = 0.25 * 200 kPa = 50 kPa." }, { "id":  "3.1.11-24", "topic":  "3.1.11", "question":  "What is the standard potential E° of the Standard Hydrogen Electrode (SHE)?", "options":  [ "+1.00 V", "0.00 V", "-0.76 V", "+0.34 V" ], "answer":  1, "explanation":  "The Standard Hydrogen Electrode is the universal primary standard assigned exactly 0.00 V under standard conditions (298 K, 100 kPa H2, 1.00 mol dm^-3 H+)." }, { "id":  "3.1.12-25", "topic":  "3.1.12", "question":  "What is the pH of a 0.025 mol dm^-3 solution of hydrochloric acid (HCl)?", "options":  [ "1.30", "1.60", "2.10", "3.60" ], "answer":  1, "explanation":  "HCl is a strong monoprotic acid, so [H+] = 0.025 mol dm^-3. pH = -log10(0.025) = 1.60." }, { "id":  "3.1.12-26", "topic":  "3.1.12", "question":  "At the half-neutralisation point in a titration of a weak monoprotic acid with a strong base, which relationship holds?", "options":  [ "pH = 7.00", "[H+] = 0", "pH = pKa", "Ka = 1.0 * 10^-14" ], "answer":  2, "explanation":  "At half-neutralisation, [HA] = [A-]. In Ka = ([H+][A-])/[HA], the concentrations cancel, giving Ka = [H+] and therefore pH = pKa." }, { "id":  "3.2.1-27", "topic":  "3.2.1", "question":  "Which Period 3 element has the highest melting point?", "options":  [ "Sodium", "Aluminium", "Silicon", "Sulfur" ], "answer":  2, "explanation":  "Silicon has a giant macromolecular structure with an extensive 3D network of strong covalent bonds, requiring the highest temperature to melt." }, { "id":  "3.2.2-28", "topic":  "3.2.2", "question":  "Which Group 2 sulfate is the LEAST soluble in water?", "options":  [ "Magnesium sulfate (MgSO4)", "Calcium sulfate (CaSO4)", "Strontium sulfate (SrSO4)", "Barium sulfate (BaSO4)" ], "answer":  3, "explanation":  "The solubility of Group 2 sulfates decreases down the group; BaSO4 is insoluble and forms a dense white precipitate." }, { "id":  "3.2.2-29", "topic":  "3.2.2", "question":  "Why can barium sulfate be safely ingested as a medical barium meal despite barium ions being toxic?", "options":  [ "Barium sulfate is rapidly broken down by stomach acid", "Barium sulfate is so insoluble that virtually no Ba2+ ions dissolve into the bloodstream", "Barium ions are non-toxic at room temperature", "Barium sulfate is an alkaline antacid" ], "answer":  1, "explanation":  "BaSO4 has extremely low solubility (Ksp ~ 10^-10), ensuring no toxic free Ba2+ ions enter the body." }, { "id":  "3.2.3-30", "topic":  "3.2.3", "question":  "Which silver halide precipitate is soluble in DILUTE aqueous ammonia?", "options":  [ "Silver fluoride (AgF)", "Silver chloride (AgCl)", "Silver bromide (AgBr)", "Silver iodide (AgI)" ], "answer":  1, "explanation":  "AgCl (white) dissolves in dilute ammonia; AgBr requires concentrated ammonia; AgI is insoluble even in concentrated ammonia." }, { "id":  "3.2.3-31", "topic":  "3.2.3", "question":  "What is the active disinfectant chemical formed when chlorine dissolves in water?", "options":  [ "Chloric(I) acid (HClO)", "Hydrochloric acid (HCl)", "Sodium chlorate(V) (NaClO3)", "Dichlorine monoxide (Cl2O)" ], "answer":  0, "explanation":  "Cl2 + H2O \u003c=\u003e HClO + HCl. Chloric(I) acid (HClO) is a potent oxidising agent that kills bacteria and viruses." }, { "id":  "3.2.5-32", "topic":  "3.2.5", "question":  "Why does ligand substitution of monodentate ligands by EDTA4- proceed so readily?", "options":  [ "Enthalpy of reaction is extremely negative", "The chelate effect causes a large increase in entropy (ΔS \u003e 0)", "Coordination number changes from 6 to 4", "EDTA forms weaker bonds than water" ], "answer":  1, "explanation":  "1 complex + 1 EDTA4- -\u003e 1 EDTA complex + 6 H2O molecules: the number of independent particles increases from 2 to 7, leading to a large positive entropy change (ΔS \u003e 0) making ΔG highly negative." }, { "id":  "3.2.5-33", "topic":  "3.2.5", "question":  "What causes the characteristic colours of transition metal complex ions?", "options":  [ "Electrons emitting light as they drop from 4s to 3d orbitals", "Absorption of visible light when d electrons are excited between split 3d energy levels", "Refraction of light through the cubic crystal lattice", "Chemical emission of photons during coordinate bond vibration" ], "answer":  1, "explanation":  "Ligands cause 3d orbitals to split in energy; d electrons absorb specific frequencies of visible light corresponding to ΔE = hc/λ to be promoted. Transmitted light produces the complementary colour." }, { "id":  "3.2.6-34", "topic":  "3.2.6", "question":  "What is observed when excess aqueous ammonia is added to a solution of copper(II) sulfate?", "options":  [ "A permanent green precipitate", "A deep blue solution of [Cu(NH3)4(H2O)2]2+", "A white precipitate that redissolves to colourless", "Bubbles of CO2 gas and a brown precipitate" ], "answer":  1, "explanation":  "A light blue precipitate of Cu(OH)2 forms initially, which redissolves in excess NH3 to form a deep blue solution of [Cu(NH3)4(H2O)2]2+." }, { "id":  "3.3.1-35", "topic":  "3.3.1", "question":  "What type of isomerism is exhibited by but-1-ene and but-2-ene?", "options":  [ "Chain isomerism", "Position isomerism", "Functional group isomerism", "Optical isomerism" ], "answer":  1, "explanation":  "They have the same carbon skeleton and the same functional group (alkene), but the double bond is in a different position on the chain." }, { "id":  "3.3.2-36", "topic":  "3.3.2", "question":  "Which catalyst is used in catalytic cracking in petroleum refineries?", "options":  [ "Zeolite", "Vanadium(V) oxide", "Nickel", "Phosphoric acid" ], "answer":  0, "explanation":  "Catalytic cracking uses a synthetic zeolite catalyst (aluminosilicate) at ~720 K under slight pressure." }, { "id":  "3.3.3-37", "topic":  "3.3.3", "question":  "What reagent and conditions convert 1-bromobutane into pentanenitrile?", "options":  [ "Aqueous NaOH under reflux", "KCN in ethanol / water, heated under reflux", "Concentrated NH3 in sealed tube", "Acidified potassium dichromate" ], "answer":  1, "explanation":  "Ethanolic potassium cyanide (KCN) provides :CN- for nucleophilic substitution, extending the carbon chain from 4 to 5 carbons." }, { "id":  "3.3.4-38", "topic":  "3.3.4", "question":  "What is the major organic product formed when propene reacts with hydrogen bromide?", "options":  [ "1-bromopropane", "2-bromopropane", "1,2-dibromopropane", "Cyclopropane" ], "answer":  1, "explanation":  "Electrophilic addition proceeds via the more stable secondary carbocation (Markovnikov\u0027s rule), yielding 2-bromopropane as the major product." }, { "id":  "3.3.5-39", "topic":  "3.3.5", "question":  "What product is formed when propan-2-ol is heated with acidified potassium dichromate(VI)?", "options":  [ "Propanal", "Propanone", "Propanoic acid", "Propene" ], "answer":  1, "explanation":  "Propan-2-ol is a secondary alcohol; oxidation of secondary alcohols yields ketones (propanone)." }, { "id":  "3.3.6-40", "topic":  "3.3.6", "question":  "Which functional group produces a very broad IR absorption between 2500 and 3000 cm^-1?", "options":  [ "Alcohol O-H", "Carboxylic acid O-H", "Amine N-H", "Carbonyl C=O" ], "answer":  1, "explanation":  "Carboxylic acid O-H produces a distinctive very broad absorption band between 2500-3000 cm^-1 that overlaps the C-H stretching region." }, { "id":  "3.3.7-41", "topic":  "3.3.7", "question":  "Which molecule contains a chiral centre and exhibits optical isomerism?", "options":  [ "Propan-2-ol", "Butan-2-ol", "Propene", "Ethanol" ], "answer":  1, "explanation":  "In butan-2-ol (CH3-CH(OH)-CH2CH3), carbon-2 is bonded to 4 different groups: -H, -OH, -CH3, and -CH2CH3, making it chiral." }, { "id":  "3.3.8-42", "topic":  "3.3.8", "question":  "What observation confirms the presence of an aldehyde using Tollens\u0027 reagent?", "options":  [ "A bright orange precipitate forms", "The blue solution turns colourless", "A silver mirror forms on the inner wall of the test tube", "Effervescence of carbon dioxide" ], "answer":  2, "explanation":  "Aldehydes reduce Tollens\u0027 reagent ([Ag(NH3)2]+) to metallic silver, forming a silver mirror. Ketones cannot be oxidised and give no reaction." }, { "id":  "3.3.9-43", "topic":  "3.3.9", "question":  "What type of mechanism takes place when ethanoyl chloride reacts with water?", "options":  [ "Electrophilic addition", "Nucleophilic addition-elimination", "Free-radical substitution", "Electrophilic substitution" ], "answer":  1, "explanation":  "Acyl chlorides undergo nucleophilic addition-elimination (acylation) with electron-rich nucleophiles like water." }, { "id":  "3.3.10-44", "topic":  "3.3.10", "question":  "What is the reactive electrophile in the nitration of benzene?", "options":  [ "NO2-", "NO2+", "HNO3", "NO3-" ], "answer":  1, "explanation":  "The nitronium ion (NO2+), generated by the reaction of concentrated nitric and sulfuric acids: HNO3 + 2H2SO4 -\u003e NO2+ + 2HSO4- + H3O+." }, { "id":  "3.3.11-45", "topic":  "3.3.11", "question":  "Why is ethylamine a stronger base than ammonia?", "options":  [ "Ethylamine has a larger molecular mass", "The ethyl group exerts a positive inductive (+I) effect, increasing electron density on nitrogen", "Ethylamine has more hydrogen bonds", "Nitrogen is more electronegative in ethylamine" ], "answer":  1, "explanation":  "The alkyl ethyl group releases electron density (+I effect) toward the nitrogen atom, making its lone pair more available to accept a proton." }, { "id":  "3.3.12-46", "topic":  "3.3.12", "question":  "Which polymer is formed from hexanedioic acid and hexane-1,6-diamine?", "options":  [ "Terylene", "Nylon 6,6", "Kevlar", "Polystyrene" ], "answer":  1, "explanation":  "Nylon 6,6 is a polyamide formed by condensation polymerisation of hexanedioic acid and hexane-1,6-diamine with the elimination of water." }, { "id":  "3.3.13-47", "topic":  "3.3.13", "question":  "How many hydrogen bonds form between Guanine and Cytosine in the DNA double helix?", "options":  [ "1", "2", "3", "4" ], "answer":  2, "explanation":  "In DNA, Adenine pairs with Thymine via 2 hydrogen bonds, while Guanine pairs with Cytosine via 3 hydrogen bonds." }, { "id":  "3.3.15-48", "topic":  "3.3.15", "question":  "What splitting pattern does the CH3 group in bromoethane (CH3CH2Br) exhibit in 1H NMR?", "options":  [ "Singlet", "Doublet", "Triplet", "Quartet" ], "answer":  2, "explanation":  "The CH3 protons are adjacent to a CH2 group (2 neighbouring protons). By the n+1 rule, 2 + 1 = 3 (triplet)." }, { "id":  "RP-49", "topic":  "RP", "question":  "In Required Practical 10, how is the purity of synthesised aspirin confirmed?", "options":  [ "Testing with universal indicator paper", "Measuring its melting point and comparing with data book value", "Adding sodium hydroxide to check solubility", "Determining its refractive index with a laser" ], "answer":  1, "explanation":  "A sharp, narrow melting point range agreeing closely with the literature value (138-140°C) confirms high purity. Impurities lower and broaden the melting range." } ];
 
 function loadQuestionBank() {
   if (D) return;
@@ -2940,7 +2430,7 @@ function render() {
 }
 
 /* ========================================================
-   VIEW 1: STRATIGRAPHY COLUMN (MINIMALIST)
+   VIEW 1: SPECIFICATION CURRICULUM (MINIMALIST)
    ======================================================== */
 function renderStrata() {
   const inLevel = x => !state.level || D.P[x.paper].level === state.level;
@@ -3087,16 +2577,13 @@ function renderCard(x) {
 }
 
 function figLabel(f) {
-  if (f.includes('datasheet')) return 'Mineral Data Sheet';
-  if (f.includes('map1')) return 'Map 1';
-  if (f.includes('specimens')) return 'Specimen photographs';
-  if (f.includes('photos23')) return 'Photographs 2 and 3';
-  if (f.includes('photo4')) return 'Photograph 4';
-  if (f.includes('photo1')) return 'Photograph 1';
-  if (f.includes('photo2')) return 'Photograph 2';
-  if (f.includes('photo3')) return 'Photograph 3';
-  if (f.includes('photos')) return 'Photographs 1 and 2';
-  return 'Resource figure';
+  if (f.includes('datasheet') || f.includes('periodic')) return 'Periodic Table & Data Sheet';
+  if (f.includes('spectrum') || f.includes('nmr') || f.includes('ir')) return 'NMR / IR Spectrum';
+  if (f.includes('graph') || f.includes('curve')) return 'Graph / Reaction Curve';
+  if (f.includes('apparatus') || f.includes('setup')) return 'Apparatus Diagram';
+  if (f.includes('table') || f.includes('data')) return 'Data Table';
+  const m = f.match(/fig-q?([0-9a-z]+)/i);
+  return m ? `Figure ${m[1].toUpperCase()}` : 'Resource Figure';
 }
 
 function toggleMastered(id, btn) {
@@ -3209,7 +2696,7 @@ function getPracticeCards() {
 
 function renderFlashcardPractice() {
   const cards = getPracticeCards();
-  const totalInBank = FLASHCARDS ? FLASHCARDS.length : 307;
+  const totalInBank = FLASHCARDS ? FLASHCARDS.length : 82;
   const totalMasteredCount = sheetMastered.size;
 
   if (!cards.length) {
@@ -3393,7 +2880,7 @@ function renderFlashcardPractice() {
 }
 
 function buildPracticeTopicOpts() {
-  const tids = CHEATS ? Object.keys(CHEATS) : ['1.1','2.1','2.2','2.3','3.1','3.2','4.1','4.2'];
+  const tids = (CHEATS && Object.keys(CHEATS).length) ? Object.keys(CHEATS) : (D && D.topics ? D.topics.map(t => t.id) : ['3.1.1','3.1.2','3.1.3','3.1.4','3.1.5','3.1.6','3.1.7','3.1.8','3.1.9','3.1.10','3.1.11','3.1.12','3.2.1','3.2.2','3.2.3','3.2.4','3.2.5','3.2.6','3.3.1','3.3.2','3.3.3','3.3.4','3.3.5','3.3.6','3.3.7','3.3.8','3.3.9','3.3.10','3.3.11','3.3.12','3.3.13','3.3.14','3.3.15','3.3.16','RP']);
   let html = `<option value="">All Topics (${FLASHCARDS?FLASHCARDS.length:307} cards)</option>`;
   tids.forEach(t => {
     const title = CHEATS && CHEATS[t] ? CHEATS[t].title.replace(/^Topic |^Theme /, '') : t;
@@ -3732,8 +3219,8 @@ let quizState = {
   questionCount: 10,
   timerSeconds: 30,
   soundEnabled: true,
-  team1Name: 'Team Ammonites',
-  team2Name: 'Team Trilobites',
+  team1Name: 'Team Cations',
+  team2Name: 'Team Anions',
   team1Score: 0,
   team2Score: 0,
   soloScore: 0,
@@ -3748,7 +3235,7 @@ let quizState = {
 };
 
 let wsState = {
-  title: 'AQA Chemistry Geology Revision Assessment',
+  title: 'AQA Chemistry Revision Assessment',
   subtitle: 'Complete all questions. Marks are indicated in brackets. Show all calculations clearly.',
   topic: '',
   level: '',
@@ -3818,9 +3305,7 @@ function cleanAnswerText(html) {
 
 function renderTeachersHub() {
   const tab = state.teacherTab || 'hub';
-  if (tab === 'geollion') {
-    renderGeollionGenerator();
-  } else if (tab === 'quiz') {
+   if (tab === 'quiz') {
     renderQuizGenerator();
   } else if (tab === 'worksheet') {
     renderWorksheetGenerator();
@@ -3840,7 +3325,7 @@ function renderTeacherDashboard() {
     <div class="teacher-hub-wrap">
       <nav class="teacher-nav">
         <button type="button" class="teacher-nav-btn active" onclick="switchTeacherTab('hub')">🎓 Overview & Presets</button>
-        <button type="button" class="teacher-nav-btn" onclick="switchTeacherTab('geollion')">🌋 Geollion: Deep Earth Trivia</button>
+        
         <button type="button" class="teacher-nav-btn" onclick="switchTeacherTab('quiz')">🎮 Fun Quiz Generator</button>
         <button type="button" class="teacher-nav-btn" onclick="switchTeacherTab('worksheet')">📝 Question & Worksheet Generator</button>
       </nav>
@@ -3851,21 +3336,7 @@ function renderTeacherDashboard() {
       </div>
 
       <div class="teacher-gateway-grid">
-        <article class="teacher-card" style="border-top: 3px solid #dc2626;">
-          <div>
-            <span class="teacher-card-badge" style="color: #dc2626; border-color: rgba(220, 38, 38, 0.3); background: rgba(220, 38, 38, 0.08);">Classroom Hit · Inspired by Krillion</span>
-            <h2 class="teacher-card-title">🌋 Geollion: The Deep Earth Trivia Dive</h2>
-            <p class="teacher-card-desc">The rarer and more obscure your answer, the deeper you drill into the Earth! Students race against the clock to name the rarest rocks, minerals, landforms, and fossils to plunge towards the Core.</p>
-            <ul class="teacher-card-features">
-              <li>6 real Earth layers: Crust (0 km), Lithosphere, Transition Zone, Lower Mantle, Outer Core & Inner Core (6,371 km)</li>
-              <li>Live animated Earth Cross-Section Depth Meter & drilling sound effects</li>
-              <li>AQA Chemistry aligned prompts with 700+ categorized geological answers</li>
-              <li>Solo challenge or Team Face-Off mode (Team Lithosphere vs Team Asthenosphere)</li>
-              <li>Printable classroom drill sheets with complete teacher depth tier guide</li>
-            </ul>
-          </div>
-          <button type="button" class="btn-gateway" style="background:#dc2626;" onclick="switchTeacherTab('geollion')">Play Geollion Generator →</button>
-        </article>
+        
         <article class="teacher-card">
           <div>
             <span class="teacher-card-badge">Classroom Gamification</span>
@@ -3885,7 +3356,7 @@ function renderTeacherDashboard() {
           <div>
             <span class="teacher-card-badge">Assessment Creator</span>
             <h2 class="teacher-card-title">📝 Question & Worksheet Generator</h2>
-            <p class="teacher-card-desc">Assemble tailored, printable assessment papers and homework booklets from all 813 official WJEC past paper questions with diagrams and figures.</p>
+            <p class="teacher-card-desc">Assemble tailored, printable assessment papers and homework booklets from official AQA past paper questions with diagrams and mark schemes.</p>
             <ul class="teacher-card-features">
               <li>Target specific mark totals (10m, 20m, 30m, 50m) or custom topics</li>
               <li>Authentic exam cover table (Name, Date, Score) and ruled response lines</li>
@@ -3900,19 +3371,11 @@ function renderTeacherDashboard() {
       <div>
         <h2 class="teacher-section-title">⚡ Quick-Start Lesson Presets</h2>
         <div class="teacher-presets-grid">
-          <div class="preset-card" onclick="launchGeollionPreset('classic7')">
-            <div>
-              <h3 class="preset-title">🌋 7-Prompt Geollion Drill</h3>
-              <p class="preset-sub">Classic 25-second rarity dive across petrology, index minerals, and tectonic landforms.</p>
-            </div>
+          
             <span class="preset-action" style="color:#dc2626">Launch Drill →</span>
           </div>
 
-          <div class="preset-card" onclick="launchGeollionPreset('teamdrill')">
-            <div>
-              <h3 class="preset-title">⚔️ Team Core Race (Showdown)</h3>
-              <p class="preset-sub">Team Lithosphere vs Team Asthenosphere competing for deepest cumulative Earth depth.</p>
-            </div>
+          
             <span class="preset-action" style="color:#dc2626">Start Match →</span>
           </div>
           <div class="preset-card" onclick="launchQuizPreset('bellringer')">
@@ -3988,942 +3451,7 @@ function launchWorksheetPreset(type) {
   renderWorksheetGenerator();
 }
 
-/* ========================================================
-   CHEMILLION: The Chemical Depth Trivia Game IMPLEMENTATION
-   ======================================================== */
-const GEOLLION_PROMPTS = [
-  {
-    "id": "elements",
-    "category": "periodicity",
-    "prompt": "Name a chemical element in the Periodic Table",
-    "hint": "Any chemical element from Hydrogen to Oganesson",
-    "tiers": {
-      "crust": ["hydrogen", "carbon", "oxygen", "nitrogen", "iron", "gold", "silver", "copper", "chlorine", "sodium"],
-      "lithosphere": ["calcium", "magnesium", "aluminium", "aluminum", "potassium", "sulfur", "phosphorus", "zinc", "lead", "tin", "neon"],
-      "transition": ["titanium", "chromium", "manganese", "cobalt", "nickel", "bromine", "iodine", "argon", "helium", "lithium", "fluorine"],
-      "lower_mantle": ["vanadium", "scandium", "gallium", "germanium", "selenium", "rubidium", "strontium", "barium", "tungsten", "platinum"],
-      "outer_core": ["palladium", "rhodium", "ruthenium", "osmium", "iridium", "bismuth", "tellurium", "antimony", "cadmium", "molybdenum"],
-      "inner_core": ["technetium", "francium", "promethium", "astatine", "berkelium", "californium", "oganesson", "tennessine", "polonium"]
-    }
-  },
-  {
-    "id": "transition-metals",
-    "category": "inorganic",
-    "prompt": "Name a transition metal (d-block element)",
-    "hint": "Forms at least one stable ion with an incomplete d sub-level",
-    "tiers": {
-      "crust": ["iron", "copper", "nickel", "gold", "silver"],
-      "lithosphere": ["zinc", "titanium", "chromium", "cobalt", "manganese"],
-      "transition": ["vanadium", "tungsten", "platinum", "palladium", "molybdenum"],
-      "lower_mantle": ["ruthenium", "rhodium", "cadmium", "zirconium", "niobium"],
-      "outer_core": ["osmium", "iridium", "tantalum", "rhenium", "hafnium"],
-      "inner_core": ["technetium", "scandium", "yttrium", "dubnium", "bohrium"]
-    }
-  },
-  {
-    "id": "organic-groups",
-    "category": "organic",
-    "prompt": "Name an organic functional group or homologous series",
-    "hint": "Alkanes, alkenes, carbonyls, derivatives, etc.",
-    "tiers": {
-      "crust": ["alkane", "alkene", "alcohol", "carboxylic acid", "ester"],
-      "lithosphere": ["aldehyde", "ketone", "haloalkane", "halogenoalkane", "amine", "amide"],
-      "transition": ["alkyne", "cycloalkane", "arene", "benzene", "ether", "nitrile"],
-      "lower_mantle": ["acyl chloride", "acid anhydride", "hydroxynitrile", "amino acid", "polyester"],
-      "outer_core": ["polyamide", "quaternary ammonium salt", "phenol", "epoxide", "thiol"],
-      "inner_core": ["hemiacetal", "imine", "enol", "lactone", "diazonium salt"]
-    }
-  },
-  {
-    "id": "chemical-compounds",
-    "category": "compounds",
-    "prompt": "Name an essential chemical compound or laboratory reagent",
-    "hint": "Inorganic salts, acids, bases, or common organic reagents",
-    "tiers": {
-      "crust": ["water", "carbon dioxide", "sodium chloride", "methane", "ethanol"],
-      "lithosphere": ["sulfuric acid", "hydrochloric acid", "nitric acid", "sodium hydroxide", "ammonia"],
-      "transition": ["calcium carbonate", "glucose", "potassium manganate", "copper sulfate", "ethanoic acid"],
-      "lower_mantle": ["potassium dichromate", "sodium thiosulfate", "barium sulfate", "aluminium oxide", "tetramethylsilane"],
-      "outer_core": ["cisplatin", "tollens reagent", "fehling solution", "sodium borohydride", "potassium cyanide"],
-      "inner_core": ["hexachloroplatinate", "nylon 66", "phosphorus pentachloride", "benzoic acid", "terylene"]
-    }
-  },
-  {
-    "id": "catalysts",
-    "category": "kinetics",
-    "prompt": "Name a catalyst used in industrial or laboratory chemistry",
-    "hint": "Homogeneous, heterogeneous, or enzymatic catalyst",
-    "tiers": {
-      "crust": ["iron", "nickel", "platinum", "copper", "enzyme"],
-      "lithosphere": ["vanadium oxide", "vanadium pentoxide", "phosphoric acid", "sulfuric acid", "aluminium oxide"],
-      "transition": ["zeolite", "aluminium chloride", "manganese dioxide", "palladium", "rhodium"],
-      "lower_mantle": ["fe2+", "mn2+", "tin", "titanium chloride", "potassium hydroxide"],
-      "outer_core": ["lindlar catalyst", "raney nickel", "wilkinson catalyst", "silver", "yeast"],
-      "inner_core": ["ziegler natta catalyst", "catalase", "cobalamin", "iron(ii)", "manganese(ii)"]
-    }
-  },
-  {
-    "id": "techniques",
-    "category": "practical",
-    "prompt": "Name a chemical analytical or experimental technique",
-    "hint": "Titration, spectroscopy, chromatography, synthesis steps, etc.",
-    "tiers": {
-      "crust": ["titration", "filtration", "distillation", "chromatography", "evaporation"],
-      "lithosphere": ["calorimetry", "reflux", "recrystallisation", "recrystallization", "melting point determination", "separating funnel"],
-      "transition": ["thin layer chromatography", "tlc", "gas chromatography", "infrared spectroscopy", "mass spectrometry", "colorimetry"],
-      "lower_mantle": ["nmr spectroscopy", "1h nmr", "13c nmr", "column chromatography", "electrospray ionisation"],
-      "outer_core": ["time of flight mass spectrometry", "tof ms", "high resolution mass spectrometry", "buchner filtration", "iodine clock"],
-      "inner_core": ["x-ray crystallography", "potentiometry", "gc-ms", "polarimetry", "spectrophotometry"]
-    }
-  }
-];
 
-const GEOLLION_TIERS = {
-  crust: {
-    name: 'Crustal (Common)',
-    icon: '🪨',
-    depth: 25,
-    points: 100,
-    color: '#78716c',
-    bg: '#f5f5f4',
-    border: '#d6d3d1',
-    desc: 'Surface & shallow continental crust'
-  },
-  lithosphere: {
-    name: 'Lithosphere (Uncommon)',
-    icon: '🌋',
-    depth: 180,
-    points: 350,
-    color: '#65a30d',
-    bg: '#f7fee7',
-    border: '#bef264',
-    desc: 'Rigid lithosphere & uppermost mantle'
-  },
-  transition: {
-    name: 'Transition Zone (Rare)',
-    icon: '💎',
-    depth: 550,
-    points: 750,
-    color: '#0891b2',
-    bg: '#ecfeff',
-    border: '#a5f3fc',
-    desc: 'High-pressure phase transformation zone'
-  },
-  lower_mantle: {
-    name: 'Lower Mantle (Deep Cut)',
-    icon: '⚡',
-    depth: 1750,
-    points: 1350,
-    color: '#d97706',
-    bg: '#fffbeb',
-    border: '#fde68a',
-    desc: 'Deep convective lower mantle (mesosphere)'
-  },
-  outer_core: {
-    name: 'Outer Core (Ultra Rare)',
-    icon: '🌊',
-    depth: 4000,
-    points: 2000,
-    color: '#ea580c',
-    bg: '#fff7ed',
-    border: '#fed7aa',
-    desc: 'Liquid iron-nickel core geodynamo'
-  },
-  inner_core: {
-    name: 'Inner Core (ONE IN A GEOLLION!)',
-    icon: '🔥',
-    depth: 6371,
-    points: 3000,
-    color: '#dc2626',
-    bg: '#fef2f2',
-    border: '#fca5a5',
-    desc: 'The center of the Earth — legendary rarity!'
-  }
-};
-
-const geollionState = {
-  screen: 'setup', // 'setup', 'playing', 'reveal', 'summary'
-  mode: 'solo', // 'solo', 'team'
-  promptCount: 7,
-  timerSeconds: 25,
-  topic: 'all', // 'all', 'petrology', 'minerals', 'tectonics', 'fossils', 'hazards'
-  soundEnabled: true,
-  fuzzyTolerance: true,
-
-  // Runtime
-  prompts: [],
-  currentIdx: 0,
-  timerRemaining: 25,
-  timerInterval: null,
-
-  // Last evaluated result
-  currentAnswer: '',
-  lastResult: null,
-
-  // History & cumulative stats
-  history: [],
-  team1Score: 0,
-  team1Depth: 0,
-  team2Score: 0,
-  team2Depth: 0,
-  currentTeam: 1,
-  team1Name: 'Team Lithosphere',
-  team2Name: 'Team Asthenosphere'
-};
-
-function normalizeChemTerm(s) {
-  if (!s) return '';
-  return s.toLowerCase()
-    .replace(/[.,\/#!$%\^&\*;:{}=\-_`~()'"?]/g, ' ')
-    .replace(/\s+/g, ' ')
-    .trim();
-}
-
-function levenshteinDistance(s1, s2) {
-  if (s1 === s2) return 0;
-  if (!s1.length) return s2.length;
-  if (!s2.length) return s1.length;
-  const v0 = new Array(s2.length + 1);
-  const v1 = new Array(s2.length + 1);
-  for (let i = 0; i <= s2.length; i++) v0[i] = i;
-  for (let i = 0; i < s1.length; i++) {
-    v1[0] = i + 1;
-    for (let j = 0; j < s2.length; j++) {
-      const cost = s1[i] === s2[j] ? 0 : 1;
-      v1[j + 1] = Math.min(v1[j] + 1, v0[j + 1] + 1, v0[j] + cost);
-    }
-    for (let j = 0; j <= s2.length; j++) v0[j] = v1[j];
-  }
-  return v1[s2.length];
-}
-
-function evaluateGeollionAnswer(userInput, prompt) {
-  const normInput = normalizeChemTerm(userInput);
-  if (!normInput) return null;
-
-  const tierOrder = ['inner_core', 'outer_core', 'lower_mantle', 'transition', 'lithosphere', 'crust'];
-  const singular = normInput.endsWith('s') && !normInput.endsWith('ss') ? normInput.slice(0, -1) : normInput;
-
-  for (const tierKey of tierOrder) {
-    const wordList = prompt.tiers[tierKey] || [];
-    for (const term of wordList) {
-      const normTerm = normalizeChemTerm(term);
-      const normTermSingular = normTerm.endsWith('s') && !normTerm.endsWith('ss') ? normTerm.slice(0, -1) : normTerm;
-
-      if (normInput === normTerm || singular === normTerm || normInput === normTermSingular) {
-        return { matched: true, matchedTerm: term, tierKey: tierKey, typo: false };
-      }
-
-      if (geollionState.fuzzyTolerance && normInput.length >= 4 && normTerm.length >= 4) {
-        const dist = levenshteinDistance(normInput, normTerm);
-        const maxDist = normTerm.length >= 8 ? 2 : 1;
-        if (dist <= maxDist) {
-          return { matched: true, matchedTerm: term, tierKey: tierKey, typo: true };
-        }
-      }
-    }
-  }
-
-  return { matched: false };
-}
-
-function renderGeollionGenerator() {
-  if (geollionState.screen === 'playing') {
-    renderGeollionLive();
-  } else if (geollionState.screen === 'reveal') {
-    renderGeollionReveal();
-  } else if (geollionState.screen === 'summary') {
-    renderGeollionSummary();
-  } else {
-    renderGeollionSetup();
-  }
-}
-
-function renderGeollionSetup() {
-  const html = `
-    <div class="teacher-hub-wrap">
-      <nav class="teacher-nav">
-        <button type="button" class="teacher-nav-btn" onclick="switchTeacherTab('hub')">🎓 Overview & Presets</button>
-        <button type="button" class="teacher-nav-btn active" onclick="switchTeacherTab('geollion')">🌋 Geollion: Deep Earth Trivia</button>
-        <button type="button" class="teacher-nav-btn" onclick="switchTeacherTab('quiz')">🎮 Fun Quiz Generator</button>
-        <button type="button" class="teacher-nav-btn" onclick="switchTeacherTab('worksheet')">📝 Question & Worksheet Generator</button>
-      </nav>
-
-      <div class="geollion-panel">
-        <div class="geollion-banner">
-          <div>
-            <div class="geollion-banner-title">🌋 GEOLLION: The Deep Earth Trivia Dive</div>
-            <div class="geollion-banner-desc">
-              Inspired by <i>Krillion</i> — the rarer your answer, the deeper you drill into the Earth!
-              Common answers stay in the shallow crust, while deep-cut specialist geology terms plunge you straight through the Mantle to the <b>Inner Core</b>.
-            </div>
-          </div>
-          <button type="button" class="btn-minimal" onclick="printGeollionHandout()">📄 Print Classroom Handout</button>
-        </div>
-
-        <div class="quiz-config-grid">
-          <div class="quiz-field">
-            <label>Game Mode</label>
-            <select id="cfg-geo-mode" onchange="geollionState.mode=this.value;renderGeollionSetup()">
-              <option value="solo" ${geollionState.mode==='solo'?'selected':''}>Single Device / Solo Drill</option>
-              <option value="team" ${geollionState.mode==='team'?'selected':''}>Team Showdown (Lithosphere vs Asthenosphere)</option>
-            </select>
-          </div>
-
-          <div class="quiz-field">
-            <label>Number of Prompts</label>
-            <select id="cfg-geo-count" onchange="geollionState.promptCount=+this.value">
-              <option value="5" ${geollionState.promptCount===5?'selected':''}>5 Prompts (Quick Drill - 2 mins)</option>
-              <option value="7" ${geollionState.promptCount===7?'selected':''}>7 Prompts (Classic Krillion - 3.5 mins)</option>
-              <option value="10" ${geollionState.promptCount===10?'selected':''}>10 Prompts (Mantle Deep Dive - 5 mins)</option>
-            </select>
-          </div>
-
-          <div class="quiz-field">
-            <label>Curriculum Theme</label>
-            <select id="cfg-geo-topic" onchange="geollionState.topic=this.value">
-              <option value="all" ${geollionState.topic==='all'?'selected':''}>All AQA Chemistry Topics (Physical, Inorganic, Organic)</option>
-              <option value="petrology" ${geollionState.topic==='petrology'?'selected':''}>Petrology (Igneous, Sedimentary, Metamorphic)</option>
-              <option value="minerals" ${geollionState.topic==='minerals'?'selected':''}>Minerals & Geochemistry</option>
-              <option value="tectonics" ${geollionState.topic==='tectonics'?'selected':''}>Tectonics, Structures & Seismology</option>
-              <option value="hazards" ${geollionState.topic==='hazards'?'selected':''}>Geological Hazards & Surface Processes</option>
-              <option value="fossils" ${geollionState.topic==='fossils'?'selected':''}>Fossils, Time Scale & Extinctions</option>
-            </select>
-          </div>
-
-          <div class="quiz-field">
-            <label>Timer per Prompt</label>
-            <select id="cfg-geo-timer" onchange="geollionState.timerSeconds=+this.value">
-              <option value="15" ${geollionState.timerSeconds===15?'selected':''}>15 seconds (Lightning Rapid)</option>
-              <option value="25" ${geollionState.timerSeconds===25?'selected':''}>25 seconds (Classic Krillion standard)</option>
-              <option value="40" ${geollionState.timerSeconds===40?'selected':''}>40 seconds (Class Discussion Friendly)</option>
-              <option value="0" ${geollionState.timerSeconds===0?'selected':''}>Untimed / Teacher Paced</option>
-            </select>
-          </div>
-
-          <div class="quiz-field" style="grid-column: 1 / -1; display:flex; flex-direction:row; gap:24px; flex-wrap:wrap">
-            <label style="display:flex;align-items:center;gap:6px;cursor:pointer">
-              <input type="checkbox" ${geollionState.soundEnabled?'checked':''} onchange="geollionState.soundEnabled=this.checked">
-              <span>🔊 Audio Sound Effects (ticks, rumbles & chimes)</span>
-            </label>
-            <label style="display:flex;align-items:center;gap:6px;cursor:pointer">
-              <input type="checkbox" ${geollionState.fuzzyTolerance?'checked':''} onchange="geollionState.fuzzyTolerance=this.checked">
-              <span>✨ Spelling & Typo Tolerance (accepts close spellings)</span>
-            </label>
-          </div>
-        </div>
-
-        <div style="background:var(--surface-hover);padding:16px;border-radius:var(--radius);border:1px solid var(--border)">
-          <div style="font-size:0.85rem;font-weight:700;margin-bottom:8px;color:var(--ink)">Earth Layer Depth Ranks:</div>
-          <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:8px">
-            <div style="background:#f5f5f4;padding:8px 10px;border-radius:6px;border:1px solid #d6d3d1;font-size:0.75rem;color:#44403c">
-              <b>🪨 Crustal (Common)</b><br>0–35 km · 100 pts
-            </div>
-            <div style="background:#f7fee7;padding:8px 10px;border-radius:6px;border:1px solid #bef264;font-size:0.75rem;color:#365314">
-              <b>🌋 Lithosphere</b><br>35–410 km · 350 pts
-            </div>
-            <div style="background:#ecfeff;padding:8px 10px;border-radius:6px;border:1px solid #a5f3fc;font-size:0.75rem;color:#155e75">
-              <b>💎 Transition Zone</b><br>410–660 km · 750 pts
-            </div>
-            <div style="background:#fffbeb;padding:8px 10px;border-radius:6px;border:1px solid #fde68a;font-size:0.75rem;color:#854d0e">
-              <b>⚡ Lower Mantle</b><br>660–2,890 km · 1,350 pts
-            </div>
-            <div style="background:#fff7ed;padding:8px 10px;border-radius:6px;border:1px solid #fed7aa;font-size:0.75rem;color:#9a3412">
-              <b>🌊 Outer Core</b><br>2,890–5,150 km · 2,000 pts
-            </div>
-            <div style="background:#fef2f2;padding:8px 10px;border-radius:6px;border:1px solid #fca5a5;font-size:0.75rem;color:#991b1b">
-              <b>🔥 Inner Core</b><br>6,371 km · 3,000 pts
-            </div>
-          </div>
-        </div>
-
-        <div style="display:flex;justify-content:center;margin-top:8px">
-          <button type="button" class="btn-geollion-drill" style="font-size:1.15rem;padding:16px 36px" onclick="startGeollion()">
-            🌋 Drill to the Core! Start Game →
-          </button>
-        </div>
-      </div>
-    </div>
-  `;
-  $('#app-view').innerHTML = html;
-}
-
-function launchGeollionPreset(presetType) {
-  state.teacherTab = 'geollion';
-  if (presetType === 'classic7') {
-    geollionState.mode = 'solo';
-    geollionState.promptCount = 7;
-    geollionState.timerSeconds = 25;
-    geollionState.topic = 'all';
-  } else if (presetType === 'teamdrill') {
-    geollionState.mode = 'team';
-    geollionState.promptCount = 8;
-    geollionState.timerSeconds = 25;
-    geollionState.topic = 'all';
-  }
-  startGeollion();
-}
-
-function startGeollion() {
-  let pool = GEOLLION_PROMPTS;
-  if (geollionState.topic !== 'all') {
-    pool = pool.filter(p => p.category === geollionState.topic);
-    if (!pool.length) pool = GEOLLION_PROMPTS;
-  }
-
-  // Shuffle pool
-  const shuffled = [...pool].sort(() => 0.5 - Math.random());
-  geollionState.prompts = shuffled.slice(0, Math.min(geollionState.promptCount, shuffled.length));
-  geollionState.currentIdx = 0;
-  geollionState.history = [];
-  geollionState.team1Score = 0;
-  geollionState.team1Depth = 0;
-  geollionState.team2Score = 0;
-  geollionState.team2Depth = 0;
-  geollionState.currentTeam = 1;
-
-  geollionState.screen = 'playing';
-  renderGeollionLive();
-  startGeollionTimer();
-}
-
-function startGeollionTimer() {
-  if (geollionState.timerInterval) clearInterval(geollionState.timerInterval);
-  if (!geollionState.timerSeconds) {
-    geollionState.timerRemaining = 0;
-    return;
-  }
-  geollionState.timerRemaining = geollionState.timerSeconds;
-  updateGeollionTimerDisplay();
-
-  geollionState.timerInterval = setInterval(() => {
-    geollionState.timerRemaining--;
-    updateGeollionTimerDisplay();
-
-    if (geollionState.soundEnabled && geollionState.timerRemaining <= 5 && geollionState.timerRemaining > 0) {
-      QuizAudio.tick();
-    }
-
-    if (geollionState.timerRemaining <= 0) {
-      clearInterval(geollionState.timerInterval);
-      submitGeollionAnswer(false);
-    }
-  }, 1000);
-}
-
-function updateGeollionTimerDisplay() {
-  const el = $('#geo-timer-num');
-  const box = $('#geo-timer-box');
-  if (el) el.textContent = `${geollionState.timerRemaining}s`;
-  if (box) {
-    if (geollionState.timerRemaining <= 5) {
-      box.classList.add('urgent');
-    } else {
-      box.classList.remove('urgent');
-    }
-  }
-}
-
-function renderGeollionLive() {
-  const p = geollionState.prompts[geollionState.currentIdx];
-  const roundNum = geollionState.currentIdx + 1;
-  const totalRounds = geollionState.prompts.length;
-
-  let teamBannerHtml = '';
-  if (geollionState.mode === 'team') {
-    const isT1 = geollionState.currentTeam === 1;
-    teamBannerHtml = `
-      <div class="quiz-scoreboard-grid" style="margin-bottom:12px">
-        <div class="team-score-card ${isT1 ? 'active-team' : ''}" style="${isT1 ? 'border-color:#dc2626;background:rgba(220,38,38,0.08);' : ''}">
-          <div>
-            <div class="team-name" style="${isT1 ? 'color:#dc2626;font-weight:800' : ''}">🌋 ${geollionState.team1Name} ${isT1 ? '◀ CURRENT TURN' : ''}</div>
-            <div style="font-size:0.8rem;color:var(--muted)">Depth: ${geollionState.team1Depth.toLocaleString()} km · ${geollionState.team1Score} pts</div>
-          </div>
-        </div>
-        <div class="team-score-card ${!isT1 ? 'active-team' : ''}" style="${!isT1 ? 'border-color:#ea580c;background:rgba(234,88,12,0.08);' : ''}">
-          <div>
-            <div class="team-name" style="${!isT1 ? 'color:#ea580c;font-weight:800' : ''}">🌊 ${geollionState.team2Name} ${!isT1 ? '◀ CURRENT TURN' : ''}</div>
-            <div style="font-size:0.8rem;color:var(--muted)">Depth: ${geollionState.team2Depth.toLocaleString()} km · ${geollionState.team2Score} pts</div>
-          </div>
-        </div>
-      </div>
-    `;
-  }
-
-  const totalCumulativeDepth = geollionState.mode === 'team' 
-    ? (geollionState.team1Depth + geollionState.team2Depth)
-    : geollionState.history.reduce((sum, h) => sum + h.depth, 0);
-
-  const html = `
-    <div class="teacher-hub-wrap">
-      <div class="geollion-panel">
-        <div class="quiz-live-header">
-          <div class="quiz-live-progress">
-            PROMPT <b>${roundNum}</b> OF <b>${totalRounds}</b> · DRILL EXPEDITION
-          </div>
-          <div style="display:flex;align-items:center;gap:12px">
-            ${geollionState.timerSeconds ? `
-              <div class="quiz-timer-box" id="geo-timer-box">
-                ⏱️ <span id="geo-timer-num">${geollionState.timerRemaining}s</span>
-              </div>
-            ` : '<div class="quiz-timer-box">⏱️ Untimed</div>'}
-            <button type="button" class="btn-minimal" onclick="geollionState.soundEnabled=!geollionState.soundEnabled;this.textContent=geollionState.soundEnabled?'🔊 Sound':'🔇 Mute'">
-              ${geollionState.soundEnabled ? '🔊 Sound' : '🔇 Mute'}
-            </button>
-            <button type="button" class="btn-minimal" onclick="abandonGeollion()">✕ Exit</button>
-          </div>
-        </div>
-
-        ${teamBannerHtml}
-
-        <div class="geollion-meter-card">
-          <div class="geollion-meter-top">
-            <span>EARTH STRATIGRAPHY & CORE METER</span>
-            <span>Total Drilled: <span style="color:#dc2626">${totalCumulativeDepth.toLocaleString()} km</span></span>
-          </div>
-          <div class="geollion-meter-bar">
-            <div class="geollion-meter-seg" style="width:12%;background:#78716c;" title="Crust (0-35km)">CRUST</div>
-            <div class="geollion-meter-seg" style="width:16%;background:#65a30d;" title="Lithosphere (35-410km)">LITHO</div>
-            <div class="geollion-meter-seg" style="width:18%;background:#0891b2;" title="Transition (410-660km)">TRANSITION</div>
-            <div class="geollion-meter-seg" style="width:24%;background:#d97706;" title="Lower Mantle (660-2890km)">LOWER MANTLE</div>
-            <div class="geollion-meter-seg" style="width:18%;background:#ea580c;" title="Outer Core (2890-5150km)">OUTER CORE</div>
-            <div class="geollion-meter-seg" style="width:12%;background:#dc2626;" title="Inner Core (5150-6371km)">CORE</div>
-          </div>
-        </div>
-
-        <div class="geollion-stage">
-          <span class="geollion-cat-badge">${p.category.toUpperCase()}</span>
-          <h2 class="geollion-prompt-text">${esc(p.prompt)}</h2>
-          ${p.hint ? `<div class="geollion-prompt-sub">${esc(p.hint)}</div>` : ''}
-
-          <div class="geollion-input-wrap">
-            <input type="text" id="geollion-input" class="geollion-input" placeholder="Type your answer (rarer is deeper)..." autocomplete="off" autofocus>
-            <button type="button" class="btn-geollion-drill" onclick="submitGeollionAnswer(false)">
-              Drill! ➔
-            </button>
-          </div>
-
-          <button type="button" class="btn-geollion-skip" onclick="submitGeollionAnswer(true)">
-            Pass / Surface (0 km)
-          </button>
-        </div>
-      </div>
-    </div>
-  `;
-  $('#app-view').innerHTML = html;
-
-  setTimeout(() => {
-    const inp = $('#geollion-input');
-    if (inp) {
-      inp.focus();
-      inp.addEventListener('keydown', e => {
-        if (e.key === 'Enter') {
-          e.preventDefault();
-          submitGeollionAnswer(false);
-        }
-      });
-    }
-  }, 50);
-}
-
-function submitGeollionAnswer(passed) {
-  if (geollionState.timerInterval) clearInterval(geollionState.timerInterval);
-
-  const inp = $('#geollion-input');
-  const userText = passed ? '' : (inp ? inp.value.trim() : '');
-  const p = geollionState.prompts[geollionState.currentIdx];
-
-  let evalResult = { matched: false };
-  if (!passed && userText) {
-    evalResult = evaluateGeollionAnswer(userText, p);
-  }
-
-  let tierKey = 'miss';
-  let tierInfo = null;
-  let depth = 0;
-  let points = 0;
-
-  if (evalResult.matched) {
-    tierKey = evalResult.tierKey;
-    tierInfo = GEOLLION_TIERS[tierKey];
-    depth = tierInfo.depth;
-    points = tierInfo.points;
-
-    if (geollionState.soundEnabled) {
-      if (tierKey === 'inner_core') {
-        QuizAudio.coreSwell();
-      } else if (tierKey === 'outer_core' || tierKey === 'lower_mantle') {
-        QuizAudio.deepRumble();
-      } else {
-        QuizAudio.correct();
-      }
-    }
-  } else {
-    if (geollionState.soundEnabled) QuizAudio.wrong();
-  }
-
-  const record = {
-    prompt: p,
-    userText: userText || '(Passed / Time Out)',
-    matched: evalResult.matched,
-    matchedTerm: evalResult.matchedTerm || '',
-    typo: !!evalResult.typo,
-    tierKey: tierKey,
-    tierInfo: tierInfo,
-    depth: depth,
-    points: points,
-    team: geollionState.currentTeam
-  };
-
-  geollionState.history.push(record);
-
-  if (geollionState.mode === 'team') {
-    if (geollionState.currentTeam === 1) {
-      geollionState.team1Score += points;
-      geollionState.team1Depth += depth;
-      geollionState.currentTeam = 2;
-    } else {
-      geollionState.team2Score += points;
-      geollionState.team2Depth += depth;
-      geollionState.currentTeam = 1;
-    }
-  }
-
-  geollionState.lastResult = record;
-  geollionState.screen = 'reveal';
-  renderGeollionReveal();
-}
-
-function renderGeollionReveal() {
-  const r = geollionState.lastResult;
-  const p = r.prompt;
-  const isHit = r.matched && r.tierInfo;
-
-  let badgeColor = isHit ? r.tierInfo.color : '#dc2626';
-  let badgeBg = isHit ? r.tierInfo.bg : '#fef2f2';
-  let badgeBorder = isHit ? r.tierInfo.border : '#fca5a5';
-
-  const tierRowsHtml = ['inner_core', 'outer_core', 'lower_mantle', 'transition', 'lithosphere', 'crust'].map(tKey => {
-    const info = GEOLLION_TIERS[tKey];
-    const words = p.tiers[tKey] || [];
-    const isThisTier = isHit && r.tierKey === tKey;
-    return `
-      <div class="geollion-tier-row ${isThisTier ? 'hit-tier' : ''}" style="${isThisTier ? `border-left: 4px solid ${info.color};` : ''}">
-        <div class="geollion-tier-label" style="color:${info.color}">
-          ${info.icon} ${info.name.split(' ')[0]}
-          <span style="font-size:0.7rem;color:var(--muted)">(${info.depth.toLocaleString()}km)</span>
-        </div>
-        <div class="geollion-tier-items">
-          ${words.map(w => {
-            const isMatch = isThisTier && (w.toLowerCase() === (r.matchedTerm||'').toLowerCase());
-            return isMatch ? `<b style="color:${info.color};text-decoration:underline;">${w}</b>` : w;
-          }).join(', ')}
-        </div>
-      </div>
-    `;
-  }).join('');
-
-  const html = `
-    <div class="teacher-hub-wrap">
-      <div class="geollion-panel">
-        <div class="geollion-reveal-box" style="border-color:${badgeBorder};">
-          ${isHit ? `
-            <div class="geollion-tier-title" style="color:${badgeColor};background:${badgeBg};border:1px solid ${badgeBorder}">
-              ${r.tierInfo.icon} ${r.tierInfo.name}
-            </div>
-            <div class="geollion-depth-callout" style="color:${badgeColor}">
-              +${r.depth.toLocaleString()} km
-            </div>
-            <div style="font-size:1.1rem;font-weight:700;color:var(--ink)">
-              Drilled into ${r.tierInfo.desc}! (+${r.points} pts)
-            </div>
-            ${r.typo ? `<div style="font-size:0.85rem;color:var(--muted)"><i>(Typo accepted for: "${r.matchedTerm}")</i></div>` : ''}
-          ` : `
-            <div class="geollion-tier-title" style="color:#dc2626;background:#fef2f2;border:1px solid #fca5a5">
-              ⚠️ Surface Strike (0 km)
-            </div>
-            <div class="geollion-depth-callout" style="color:#71717a">
-              0 km
-            </div>
-            <div style="font-size:1rem;color:var(--ink-secondary)">
-              "${esc(r.userText)}" was not recognized in the geological database for this prompt.
-            </div>
-          `}
-
-          <div class="geollion-all-tiers-box">
-            <div class="geollion-tier-header">
-              📖 Rarity Tiers & Accepted Answers for: <i>"${esc(p.prompt)}"</i>
-            </div>
-            ${tierRowsHtml}
-          </div>
-
-          <div style="margin-top:14px;display:flex;gap:12px;align-items:center">
-            <button type="button" class="btn-geollion-drill" style="padding:14px 32px" onclick="nextGeollionPrompt()">
-              Next Prompt (Space / Enter) →
-            </button>
-          </div>
-        </div>
-      </div>
-    </div>
-  `;
-  $('#app-view').innerHTML = html;
-}
-
-function nextGeollionPrompt() {
-  geollionState.currentIdx++;
-  if (geollionState.currentIdx >= geollionState.prompts.length) {
-    endGeollion();
-  } else {
-    geollionState.screen = 'playing';
-    renderGeollionLive();
-    startGeollionTimer();
-  }
-}
-
-function endGeollion() {
-  if (geollionState.timerInterval) clearInterval(geollionState.timerInterval);
-  if (geollionState.soundEnabled) QuizAudio.fanfare();
-  geollionState.screen = 'summary';
-  renderGeollionSummary();
-}
-
-function abandonGeollion() {
-  if (geollionState.timerInterval) clearInterval(geollionState.timerInterval);
-  geollionState.screen = 'setup';
-  renderGeollionSetup();
-}
-
-function renderGeollionSummary() {
-  const isTeam = geollionState.mode === 'team';
-  const totalRounds = geollionState.history.length;
-
-  let totalDepth = 0;
-  let totalScore = 0;
-  let deepestCut = null;
-
-  geollionState.history.forEach(h => {
-    totalDepth += h.depth;
-    totalScore += h.points;
-    if (h.matched && (!deepestCut || h.depth > deepestCut.depth)) {
-      deepestCut = h;
-    }
-  });
-
-  let rankBadge = '🪨 Crustal Novice';
-  let rankDesc = 'Explored the fundamental chemistry.';
-  if (totalDepth >= 25000) {
-    rankBadge = '🔥 LEGENDARY CORE BREAKER (Rank S+)';
-    rankDesc = 'Reached the deepest depths of the Earth! Outstanding mastery of AQA Chemistry!';
-  } else if (totalDepth >= 18000) {
-    rankBadge = '💎 Deep Mantle Master (Rank S)';
-    rankDesc = 'Drilled deep into the mantle transition zone and lower mesosphere!';
-  } else if (totalDepth >= 10000) {
-    rankBadge = '⚡ Upper Mantle Pioneer (Rank A)';
-    rankDesc = 'Solid exploration across the lithosphere and upper mantle.';
-  } else if (totalDepth >= 4000) {
-    rankBadge = '🌋 Lithospheric Prospector (Rank B)';
-    rankDesc = 'Ventured past the continental crust.';
-  }
-
-  let winnerBanner = '';
-  if (isTeam) {
-    const t1 = geollionState.team1Depth;
-    const t2 = geollionState.team2Depth;
-    if (t1 > t2) {
-      winnerBanner = `🏆 <b>${geollionState.team1Name}</b> wins with ${t1.toLocaleString()} km vs ${t2.toLocaleString()} km!`;
-    } else if (t2 > t1) {
-      winnerBanner = `🏆 <b>${geollionState.team2Name}</b> wins with ${t2.toLocaleString()} km vs ${t1.toLocaleString()} km!`;
-    } else {
-      winnerBanner = `🤝 It is a dead heat! Both teams drilled ${t1.toLocaleString()} km!`;
-    }
-  }
-
-  const historyRowsHtml = geollionState.history.map((h, i) => {
-    const info = h.tierInfo;
-    return `
-      <tr>
-        <td style="padding:8px 10px;border-bottom:1px solid var(--border)"><b>#${i+1}</b> ${esc(h.prompt.prompt)}</td>
-        <td style="padding:8px 10px;border-bottom:1px solid var(--border)">
-          <b>${esc(h.userText)}</b> ${h.typo ? `<i>(${h.matchedTerm})</i>` : ''}
-        </td>
-        <td style="padding:8px 10px;border-bottom:1px solid var(--border)">
-          ${info ? `<span style="color:${info.color};font-weight:700">${info.icon} ${info.name.split(' ')[0]}</span>` : '<span style="color:#dc2626">Dud</span>'}
-        </td>
-        <td style="padding:8px 10px;border-bottom:1px solid var(--border);font-weight:700;color:${info ? info.color : '#71717a'}">
-          +${h.depth.toLocaleString()} km
-        </td>
-        <td style="padding:8px 10px;border-bottom:1px solid var(--border);text-align:right">
-          +${h.points} pts
-        </td>
-      </tr>
-    `;
-  }).join('');
-
-  const html = `
-    <div class="teacher-hub-wrap">
-      <div class="geollion-panel">
-        <div style="text-align:center;padding:16px 0">
-          <div style="font-size:2.4rem;font-weight:900;color:#dc2626">EXPEDITION COMPLETE! 🌍</div>
-          <div style="font-size:1.15rem;font-weight:800;color:var(--ink);margin-top:6px">${rankBadge}</div>
-          <div style="font-size:0.9rem;color:var(--muted);margin-top:2px">${rankDesc}</div>
-
-          ${isTeam ? `
-            <div style="margin:16px auto;max-width:550px;padding:12px;border-radius:var(--radius);background:var(--surface-hover);border:1px solid var(--border);font-size:1.05rem">
-              ${winnerBanner}
-            </div>
-          ` : ''}
-
-          <div style="display:flex;justify-content:center;gap:24px;margin-top:20px;flex-wrap:wrap">
-            <div style="background:var(--surface-hover);padding:14px 24px;border-radius:var(--radius);border:1px solid var(--border)">
-              <div style="font-size:0.8rem;color:var(--muted)">TOTAL DEPTH DRILLED</div>
-              <div style="font-size:2rem;font-weight:900;color:#dc2626">${totalDepth.toLocaleString()} km</div>
-            </div>
-            <div style="background:var(--surface-hover);padding:14px 24px;border-radius:var(--radius);border:1px solid var(--border)">
-              <div style="font-size:0.8rem;color:var(--muted)">TOTAL SCORE</div>
-              <div style="font-size:2rem;font-weight:900;color:#d97706">${totalScore.toLocaleString()} pts</div>
-            </div>
-            ${deepestCut ? `
-              <div style="background:var(--surface-hover);padding:14px 24px;border-radius:var(--radius);border:1px solid var(--border)">
-                <div style="font-size:0.8rem;color:var(--muted)">DEEPEST CUT FOUND</div>
-                <div style="font-size:1.4rem;font-weight:900;color:#ea580c">${esc(deepestCut.matchedTerm)}</div>
-                <div style="font-size:0.8rem;color:var(--ink-secondary)">${deepestCut.depth.toLocaleString()} km (${deepestCut.tierInfo.name.split(' ')[0]})</div>
-              </div>
-            ` : ''}
-          </div>
-        </div>
-
-        <div style="border:1px solid var(--border);border-radius:var(--radius);overflow:hidden">
-          <div style="padding:10px 14px;background:var(--surface-hover);font-size:0.85rem;font-weight:700">
-            📋 Expedition Prompt Recap (${totalRounds} prompts)
-          </div>
-          <table style="width:100%;border-collapse:collapse;font-size:0.85rem">
-            <thead>
-              <tr style="background:var(--surface);border-bottom:1px solid var(--border);text-align:left;color:var(--muted)">
-                <th style="padding:8px 10px">Prompt</th>
-                <th style="padding:8px 10px">Answer Given</th>
-                <th style="padding:8px 10px">Layer Tier</th>
-                <th style="padding:8px 10px">Depth</th>
-                <th style="padding:8px 10px;text-align:right">Points</th>
-              </tr>
-            </thead>
-            <tbody>
-              ${historyRowsHtml}
-            </tbody>
-          </table>
-        </div>
-
-        <div style="display:flex;justify-content:center;gap:12px;flex-wrap:wrap">
-          <button type="button" class="btn-geollion-drill" onclick="startGeollion()">
-            🔄 Play Again with New Prompts
-          </button>
-          <button type="button" class="btn-minimal" onclick="geollionState.screen='setup';renderGeollionSetup()">
-            ⚙️ Change Settings
-          </button>
-          <button type="button" class="btn-minimal" onclick="switchTeacherTab('hub')">
-            ← Back to Teacher's Hub
-          </button>
-        </div>
-      </div>
-    </div>
-  `;
-  $('#app-view').innerHTML = html;
-}
-
-function printGeollionHandout() {
-  let printContainer = $('#print-container');
-  if (!printContainer) {
-    printContainer = document.createElement('div');
-    printContainer.id = 'print-container';
-    document.body.appendChild(printContainer);
-  }
-
-  let pool = GEOLLION_PROMPTS;
-  if (geollionState.topic !== 'all') {
-    pool = pool.filter(p => p.category === geollionState.topic);
-    if (!pool.length) pool = GEOLLION_PROMPTS;
-  }
-  const selected = pool.slice(0, geollionState.promptCount);
-
-  const studentItems = selected.map((p, i) => `
-    <div style="margin-bottom:16pt;page-break-inside:avoid;border:1pt solid #ccc;border-radius:4pt;padding:10pt 14pt">
-      <div style="display:flex;justify-content:space-between;align-items:baseline">
-        <h3 style="margin:0;font-size:12pt;font-weight:700">PROMPT ${i+1}: ${esc(p.prompt)}</h3>
-        <span style="font-size:9pt;font-weight:700;border:1pt solid #222;padding:2pt 6pt;border-radius:2pt">Target: Inner Core</span>
-      </div>
-      ${p.hint ? `<div style="font-size:8.5pt;color:#555;margin:3pt 0 6pt">${esc(p.hint)}</div>` : ''}
-      <div style="border-bottom:1pt dotted #888;height:24pt;margin-top:6pt"></div>
-      <div style="display:flex;justify-content:space-between;font-size:8pt;color:#777;margin-top:4pt">
-        <span>Crust (0-35km)</span>
-        <span>Lithosphere (180km)</span>
-        <span>Transition (550km)</span>
-        <span>Lower Mantle (1,750km)</span>
-        <span>Outer Core (4,000km)</span>
-        <span>Inner Core (6,371km)</span>
-      </div>
-    </div>
-  `).join('');
-
-  const answerItems = selected.map((p, i) => `
-    <div style="margin-bottom:12pt;page-break-inside:avoid;border:1pt solid #eee;border-radius:4pt;padding:8pt 12pt">
-      <div style="font-weight:700;font-size:10pt;margin-bottom:4pt">Prompt ${i+1}: ${esc(p.prompt)}</div>
-      <div style="font-size:8pt;line-height:1.4">
-        <b>🔥 Inner Core:</b> ${p.tiers.inner_core.join(', ')}<br>
-        <b>🌊 Outer Core:</b> ${p.tiers.outer_core.join(', ')}<br>
-        <b>⚡ Lower Mantle:</b> ${p.tiers.lower_mantle.join(', ')}<br>
-        <b>💎 Transition:</b> ${p.tiers.transition.join(', ')}<br>
-        <b>🌋 Lithosphere:</b> ${p.tiers.lithosphere.join(', ')}<br>
-        <b>🪨 Crustal:</b> ${p.tiers.crust.join(', ')}
-      </div>
-    </div>
-  `).join('');
-
-  printContainer.innerHTML = `
-    <div style="padding:10pt;page-break-inside:avoid">
-      <h1 style="font-size:16pt;margin:0 0 4pt">🌋 GEOLLION: The Deep Earth Trivia Dive</h1>
-      <p style="font-size:9.5pt;color:#444;margin:0 0 10pt">Rules: Write the rarest, most obscure valid answer for each prompt. Common answers stay near the surface; rare answers drill into the Earth's Inner Core!</p>
-    </div>
-
-    <table class="print-candidate-table">
-      <tr>
-        <td style="width:50%"><b>Student / Team Name:</b></td>
-        <td style="width:25%"><b>Date:</b></td>
-        <td style="width:25%"><b>Class:</b></td>
-      </tr>
-      <tr>
-        <td colspan="2"><b>Total Depth Reached:</b> ____________ km</td>
-        <td><b>Final Rank:</b> ____________</td>
-      </tr>
-    </table>
-
-    <div style="margin-top:12pt">
-      ${studentItems}
-    </div>
-
-    <div style="page-break-before:always;padding-top:14pt">
-      <h2 style="font-size:13pt;border-bottom:2pt solid #111;padding-bottom:4pt;margin-bottom:10pt">TEACHER'S GEOLLION DEPTH TIER GUIDE & ANSWER KEY</h2>
-      ${answerItems}
-    </div>
-  `;
-
-  document.body.classList.add('is-printing-pack');
-  setTimeout(() => {
-    window.print();
-  }, 100);
-}
-
-function handleGeollionKeydown(e) {
-  if (geollionState.screen === 'playing') {
-    if (e.key === 'Enter') {
-      e.preventDefault();
-      submitGeollionAnswer(false);
-    }
-  } else if (geollionState.screen === 'reveal') {
-    if (e.key === ' ' || e.code === 'Space' || e.key === 'Enter' || e.key === 'ArrowRight') {
-      e.preventDefault();
-      nextGeollionPrompt();
-    }
-  }
-}
 
 /* ========================================================
    FUN MULTIPLE-CHOICE QUIZ GENERATOR IMPLEMENTATION
@@ -4945,7 +3473,7 @@ function renderQuizSetup() {
     <div class="teacher-hub-wrap">
       <nav class="teacher-nav">
         <button type="button" class="teacher-nav-btn" onclick="switchTeacherTab('hub')">🎓 Overview & Presets</button>
-        <button type="button" class="teacher-nav-btn" onclick="switchTeacherTab('geollion')">🌋 Geollion: Deep Earth Trivia</button>
+        
         <button type="button" class="teacher-nav-btn active" onclick="switchTeacherTab('quiz')">🎮 Fun Quiz Generator</button>
         <button type="button" class="teacher-nav-btn" onclick="switchTeacherTab('worksheet')">📝 Question & Worksheet Generator</button>
       </nav>
@@ -5031,17 +3559,42 @@ function renderQuizSetup() {
 
 function buildQuizTopicOptions() {
   const topicsList = [
-    ['', 'All Geological Topics (Comprehensive)'],
-    ['1.1', 'Topic 1.1 · Minerals, Silicates & Rock Forming Minerals'],
-    ['2.1', 'Topic 2.1 · Surface Processes, Weathering & Clastic Rocks'],
-    ['2.2', 'Topic 2.2 · Igneous Petrology, Magmas & Volcanism'],
-    ['2.3', 'Topic 2.3 · Sedimentary Environments, Limestones & Facies'],
-    ['3.1', 'Topic 3.1 · Structural Geology, Folds, Faults & Unconformities'],
-    ['3.2', "Topic 3.2 · Metamorphic Petrology & Barrow's Zones"],
-    ['4.1', 'Topic 4.1 · Fossils, Evolution & Biostratigraphy'],
-    ['4.2', 'Topic 4.2 · Geological Maps, Strike/Dip & Cross-Sections'],
-    ['T1', 'Theme T1-T5 · Plate Tectonics, Earthquakes & Seismology'],
-    ['G1', 'Theme G1-G4 · Economic Resources, Karst & Quaternary']
+    ['', 'All Chemistry Topics (Physical, Inorganic, Organic)'],
+    ['3.1.1', '3.1.1 · Atomic Structure'],
+    ['3.1.2', '3.1.2 · Amount of Substance'],
+    ['3.1.3', '3.1.3 · Bonding & Structure'],
+    ['3.1.4', '3.1.4 · Energetics & Hess Law'],
+    ['3.1.5', '3.1.5 · Kinetics & Maxwell-Boltzmann'],
+    ['3.1.6', '3.1.6 · Chemical Equilibria & Kc'],
+    ['3.1.7', '3.1.7 · Oxidation, Reduction & Redox'],
+    ['3.1.8', '3.1.8 · Thermodynamics & Gibbs Free Energy'],
+    ['3.1.9', '3.1.9 · Rate Equations & Arrhenius'],
+    ['3.1.10', '3.1.10 · Equilibrium Constant Kp'],
+    ['3.1.11', '3.1.11 · Electrode Potentials & Cells'],
+    ['3.1.12', '3.1.12 · Acids, Bases, pH & Buffers'],
+    ['3.2.1', '3.2.1 · Periodicity & Period 3 Trends'],
+    ['3.2.2', '3.2.2 · Group 2, Alkaline Earth Metals'],
+    ['3.2.3', '3.2.3 · Group 7(17), The Halogens'],
+    ['3.2.4', '3.2.4 · Period 3 Elements & Oxides'],
+    ['3.2.5', '3.2.5 · Transition Metals & Complexes'],
+    ['3.2.6', '3.2.6 · Aqueous Ions & Reactions'],
+    ['3.3.1', '3.3.1 · Intro to Organic & IUPAC'],
+    ['3.3.2', '3.3.2 · Alkanes & Fractional Distillation'],
+    ['3.3.3', '3.3.3 · Halogenoalkanes'],
+    ['3.3.4', '3.3.4 · Alkenes & Addition Polymers'],
+    ['3.3.5', '3.3.5 · Alcohols & Biofuels'],
+    ['3.3.6', '3.3.6 · Organic Analysis (IR & MS)'],
+    ['3.3.7', '3.3.7 · Optical Isomerism'],
+    ['3.3.8', '3.3.8 · Aldehydes & Ketones'],
+    ['3.3.9', '3.3.9 · Carboxylic Acids, Esters & Acylation'],
+    ['3.3.10', '3.3.10 · Aromatic Chemistry (Benzene)'],
+    ['3.3.11', '3.3.11 · Amines & Base Properties'],
+    ['3.3.12', '3.3.12 · Polymers & Condensation'],
+    ['3.3.13', '3.3.13 · Amino Acids, Proteins & DNA'],
+    ['3.3.14', '3.3.14 · Organic Synthesis Routes'],
+    ['3.3.15', '3.3.15 · NMR Spectroscopy'],
+    ['3.3.16', '3.3.16 · Chromatography (TLC, CC, GC)'],
+    ['RP', 'RP · Required Practicals 1 to 12']
   ];
   return topicsList.map(([v, l]) => `<option value="${v}" ${quizState.topic===v?'selected':''}>${esc(l)}</option>`).join('');
 }
@@ -5181,7 +3734,7 @@ function renderQuizLive() {
           <div>
             <div class="quiz-q-meta">
               <span style="display:inline-block;width:8px;height:8px;border-radius:2px;background:${topicColor}"></span>
-              <span>Topic ${esc(q.topic)} · ${esc(T[q.topic]?T[q.topic].name:'Geology')}</span>
+              <span>Topic ${esc(q.topic)} · ${esc(T[q.topic]?T[q.topic].name:'Chemistry')}</span>
             </div>
 
             <h2 class="quiz-q-title">${esc(q.question)}</h2>
@@ -5307,14 +3860,14 @@ function renderQuizSummary() {
     } else if (quizState.team2Score > quizState.team1Score) {
       winnerHtml = `🏆 <b>${esc(quizState.team2Name)}</b> Wins! (${quizState.team2Score} - ${quizState.team1Score})`;
     } else {
-      winnerHtml = `🤝 It's a Geological Tie! (${quizState.team1Score} - ${quizState.team2Score})`;
+      winnerHtml = `🤝 It's a Chemistry Tie! ( - )`;
     }
   } else {
     const maxScore = quizState.questions.length * 100;
     const pct = Math.round((quizState.soloScore / maxScore) * 100) || 0;
-    let rank = 'Novice Stratigrapher';
-    if (pct >= 90) rank = '💎 Diamond Geologist';
-    else if (pct >= 70) rank = '🌋 Igneous Master';
+    let rank = 'Novice Chemist';
+    if (pct >= 90) rank = '⚗️ Master Chemist';
+    else if (pct >= 70) rank = '🧪 Senior Synthesist';
     else if (pct >= 50) rank = '⛏️ Field Specialist';
     winnerHtml = `Score: <b>${quizState.soloScore}</b> pts · ${rank} (${pct}%)`;
   }
@@ -5447,7 +4000,7 @@ function renderWorksheetGenerator() {
     <div class="teacher-hub-wrap">
       <nav class="teacher-nav">
         <button type="button" class="teacher-nav-btn" onclick="switchTeacherTab('hub')">🎓 Overview & Presets</button>
-        <button type="button" class="teacher-nav-btn" onclick="switchTeacherTab('geollion')">🌋 Geollion: Deep Earth Trivia</button>
+        
         <button type="button" class="teacher-nav-btn" onclick="switchTeacherTab('quiz')">🎮 Fun Quiz Generator</button>
         <button type="button" class="teacher-nav-btn active" onclick="switchTeacherTab('worksheet')">📝 Question & Worksheet Generator</button>
       </nav>
@@ -5455,7 +4008,7 @@ function renderWorksheetGenerator() {
       <div class="ws-controls-card">
         <div>
           <h2 style="margin:0 0 4px;font-size:1.3rem;font-weight:700;color:var(--ink)">Exam Question & Worksheet Generator</h2>
-          <p style="margin:0;font-size:0.85rem;color:var(--muted)">Assemble custom tests and practice sheets from 813 official WJEC past paper questions.</p>
+          <p style="margin:0;font-size:0.85rem;color:var(--muted)">Assemble custom tests and practice sheets from official AQA Chemistry past paper questions.</p>
         </div>
 
         <div class="ws-controls-grid">
@@ -5602,7 +4155,7 @@ function renderWorksheetGenerator() {
 }
 
 function buildWorksheetTopicOptions() {
-  const tids = CHEATS ? Object.keys(CHEATS) : ['1.1','2.1','2.2','2.3','3.1','3.2','4.1','4.2','G1','G2','G3','G4','T1','T2','T3','T4','T5'];
+  const tids = (CHEATS && Object.keys(CHEATS).length) ? Object.keys(CHEATS) : (D && D.topics ? D.topics.map(t => t.id) : ['3.1.1','3.1.2','3.1.3','3.1.4','3.1.5','3.1.6','3.1.7','3.1.8','3.1.9','3.1.10','3.1.11','3.1.12','3.2.1','3.2.2','3.2.3','3.2.4','3.2.5','3.2.6','3.3.1','3.3.2','3.3.3','3.3.4','3.3.5','3.3.6','3.3.7','3.3.8','3.3.9','3.3.10','3.3.11','3.3.12','3.3.13','3.3.14','3.3.15','3.3.16','RP']);
   let html = `<option value="" ${wsState.topic===''?'selected':''}>All Topics (Mixed Exam Paper)</option>`;
   tids.forEach(t => {
     const title = CHEATS && CHEATS[t] ? CHEATS[t].title.replace(/^Topic |^Theme /, '') : (T[t] ? T[t].name : t);
@@ -5807,10 +4360,7 @@ async function executePrintWorksheet(options = {}) {
 
 window.addEventListener('keydown', e => {
   if (state.view !== 'teachers') return;
-  if (state.teacherTab === 'geollion') {
-    handleGeollionKeydown(e);
-    return;
-  }
+  
   if (state.teacherTab !== 'quiz' || quizState.screen !== 'playing') return;
   if (document.activeElement.tagName === 'INPUT' || document.activeElement.tagName === 'SELECT') return;
 
