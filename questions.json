@@ -7628,7 +7628,8 @@
       "summary": "Deduce order of reaction with respect to iodine and overall order.",
       "image": "img/2002-june-chm4/q_q1a.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm4/ms_q1a.jpg"
+      "markscheme": "img/2002-june-chm4/ms_q1a.jpg",
+      "markscheme_text": "- Order with respect to iodine: <b>0</b> (1)\n- Overall order: <b>2</b> (1)"
     },
     {
       "id": "2002-june-chm4-q1b",
@@ -7647,7 +7648,8 @@
       "figures": [
         "img/2002-june-chm4/fig-q1-table.jpg"
       ],
-      "markscheme": "img/2002-june-chm4/ms_q1b.jpg"
+      "markscheme": "img/2002-june-chm4/ms_q1b.jpg",
+      "markscheme_text": "- <i>k</i> = <span style=\"font-family:serif;\">2 × 10<sup>-5</sup> / (1.50 × 3.00 × 10<sup>-2</sup>)</span> (1)\n- = <b>4.4(4) × 10<sup>-4</sup></b> (1)\n- Units: <b>mol<sup>-1</sup> dm<sup>3</sup> s<sup>-1</sup></b> (1)\n\n[Extra Information]:\nCan score all 3 consequential on rate equation from (a)\nIf wrong rate equation, allow units consequential"
     },
     {
       "id": "2002-june-chm4-q1c",
@@ -7664,7 +7666,8 @@
       "summary": "Explain how to tell that H+ acts as catalyst in reaction.",
       "image": "img/2002-june-chm4/q_q1c.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm4/ms_q1c.jpg"
+      "markscheme": "img/2002-june-chm4/ms_q1c.jpg",
+      "markscheme_text": "- Appears in rate equation (or implied by mention of concentration / order) (1)\n- Does not appear in (stoichiometric / overall) equation (1)"
     },
     {
       "id": "2002-june-chm4-q1d",
@@ -7683,7 +7686,8 @@
       "figures": [
         "img/2002-june-chm4/fig-q1-table.jpg"
       ],
-      "markscheme": "img/2002-june-chm4/ms_q1d.jpg"
+      "markscheme": "img/2002-june-chm4/ms_q1d.jpg",
+      "markscheme_text": "- pH = -log<sub>10</sub>[H<sup>+</sup>] = 1.25 &rArr; [H<sup>+</sup>] = <b>0.056(2)</b> (mol dm<sup>-3</sup>) (1)\n- rate = (4.44 × 10<sup>-4</sup>) × (1.50) × (0.0562) (1)\n- = <b>3.75 × 10<sup>-5</sup></b> (mol dm<sup>-3</sup> s<sup>-1</sup>) (1)\n\n[Extra Information]:\nallow 3.7 - 3.8 × 10<sup>-5</sup>\ncan score all 3 consequential on <i>k</i> from part (b)"
     },
     {
       "id": "2002-june-chm4-q2a",
@@ -7702,7 +7706,8 @@
       "figures": [
         "img/2002-june-chm4/fig-q2-reaction.jpg"
       ],
-      "markscheme": "img/2002-june-chm4/ms_q2a.jpg"
+      "markscheme": "img/2002-june-chm4/ms_q2a.jpg",
+      "markscheme_text": "<b>(1,4-)butane(ne)dioic acid</b> (1)\n\n[Extra Information]:\nNOT dibutanedioic / dibutanic\nallow butane dicarboxylic / ethane dicarboxylic\npenalise wrong numbers"
     },
     {
       "id": "2002-june-chm4-q2b",
@@ -7721,7 +7726,8 @@
       "figures": [
         "img/2002-june-chm4/fig-q2-reaction.jpg"
       ],
-      "markscheme": "img/2002-june-chm4/ms_q2b.jpg"
+      "markscheme": "img/2002-june-chm4/ms_q2b.jpg",
+      "markscheme_text": "<i>K</i><sub>c</sub> = <span style=\"font-family:serif;\">[<b>Y</b>][<b>H<sub>2</sub>O</b>]<sup>2</sup> / ([<b>X</b>][<b>CH<sub>3</sub>OH</b>]<sup>2</sup>)</span> (1)\n\n[Extra Information]:\nmust be square brackets [ ]\nif <i>K</i><sub>c</sub> expression wrong, lose units mark in (e) also"
     },
     {
       "id": "2002-june-chm4-q2c",
@@ -7740,7 +7746,8 @@
       "figures": [
         "img/2002-june-chm4/fig-q2-reaction.jpg"
       ],
-      "markscheme": "img/2002-june-chm4/ms_q2c.jpg"
+      "markscheme": "img/2002-june-chm4/ms_q2c.jpg",
+      "markscheme_text": "- Moles of <b>X</b> = 0.25 - 0.13 = <b>0.12</b> (1)\n- Moles of methanol = 0.34 - 0.26 = <b>0.08</b> (1)\n- Moles of water = <b>0.26</b> (1)"
     },
     {
       "id": "2002-june-chm4-q2d",
@@ -7759,7 +7766,8 @@
       "figures": [
         "img/2002-june-chm4/fig-q2-reaction.jpg"
       ],
-      "markscheme": "img/2002-june-chm4/ms_q2d.jpg"
+      "markscheme": "img/2002-june-chm4/ms_q2d.jpg",
+      "markscheme_text": "- Equal number of moles on each side of equation (1)\n<b>OR</b> <i>V</i> cancels (1)\n\n[Extra Information]:\nprovided not incorrectly qualified"
     },
     {
       "id": "2002-june-chm4-q2e",
@@ -7776,7 +7784,8 @@
       "summary": "Calculate value of Kc and deduce units.",
       "image": "img/2002-june-chm4/q_q2e.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm4/ms_q2e.jpg"
+      "markscheme": "img/2002-june-chm4/ms_q2e.jpg",
+      "markscheme_text": "- <i>K</i><sub>c</sub> = <span style=\"font-family:serif;\">(0.13/<i>V</i>) × (0.26/<i>V</i>)<sup>2</sup> / [(0.12/<i>V</i>) × (0.08/<i>V</i>)<sup>2</sup>]</span> (1)\n- = <b>11(.4)</b> (1)\n- Units: <b>none</b> (1)\n\n[Extra Information]:\nCan score all 3 consequential on (b) and (c)\nIf different values from (c) used, allow units only (consequential on correct <i>K</i><sub>c</sub>)\nLose units mark if <i>K</i><sub>c</sub> wrong even if none given"
     },
     {
       "id": "2002-june-chm4-q2f",
@@ -7793,7 +7802,8 @@
       "summary": "State effect of increasing temperature on value of Kc (decreases).",
       "image": "img/2002-june-chm4/q_q2f.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm4/ms_q2f.jpg"
+      "markscheme": "img/2002-june-chm4/ms_q2f.jpg",
+      "markscheme_text": "<b>decrease</b> (1)"
     },
     {
       "id": "2002-june-chm4-q3a",
@@ -7812,7 +7822,8 @@
       "figures": [
         "img/2002-june-chm4/fig-q3-reaction.jpg"
       ],
-      "markscheme": "img/2002-june-chm4/ms_q3a.jpg"
+      "markscheme": "img/2002-june-chm4/ms_q3a.jpg",
+      "markscheme_text": "- Substance 1: <b>HCl</b> or <b>HBr</b> (1)\n- Substance 2: <b>AlCl<sub>3</sub></b> / <b>AlBr<sub>3</sub></b> / <b>FeCl<sub>3</sub></b> / <b>FeBr<sub>3</sub></b> (1)"
     },
     {
       "id": "2002-june-chm4-q3b",
@@ -7831,7 +7842,8 @@
       "figures": [
         "img/2002-june-chm4/fig-q3-reaction.jpg"
       ],
-      "markscheme": "img/2002-june-chm4/ms_q3b.jpg"
+      "markscheme": "img/2002-june-chm4/ms_q3b.jpg",
+      "markscheme_text": "<b>H<sub>2</sub>C=CH<sub>2</sub> + HCl + AlCl<sub>3</sub> -> CH<sub>3</sub>CH<sub>2</sub><sup>+</sup> + AlCl<sub>4</sub><sup>-</sup></b> (1)\n\n[Extra Information]:\nallow 2 equations:\nH<sub>2</sub>C=CH<sub>2</sub> + HCl &rarr; CH<sub>3</sub>CH<sub>2</sub>Cl\nCH<sub>3</sub>CH<sub>2</sub>Cl + AlCl<sub>3</sub> &rarr; CH<sub>3</sub>CH<sub>2</sub><sup>+</sup> + AlCl<sub>4</sub><sup>-</sup>"
     },
     {
       "id": "2002-june-chm4-q3c",
@@ -7850,7 +7862,8 @@
       "figures": [
         "img/2002-june-chm4/fig-q3-reaction.jpg"
       ],
-      "markscheme": "img/2002-june-chm4/ms_q3c.jpg"
+      "markscheme": "img/2002-june-chm4/ms_q3c.jpg",
+      "markscheme_text": "- Name of mechanism: <b>electrophilic substitution</b> (1)\n- Mechanism:\n&nbsp;&nbsp;&ndash; Curly arrow from benzene ring to <sup>+</sup>CH<sub>2</sub>CH<sub>3</sub> (1)\n&nbsp;&nbsp;&ndash; Correct structure of intermediate (horseshoe with + inside, pointing towards sp<sup>3</sup> C with H and CH<sub>2</sub>CH<sub>3</sub>) (1)\n&nbsp;&nbsp;&ndash; Curly arrow from C-H bond back into ring (1)\n\n[Extra Information]:\nhorseshoe must extend over 5 carbons and open towards tetrahedral carbon; charge must be inside horseshoe"
     },
     {
       "id": "2002-june-chm4-q3d",
@@ -7867,7 +7880,8 @@
       "summary": "Draw structure of product from reaction between benzene and cyclohexene.",
       "image": "img/2002-june-chm4/q_q3d.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm4/ms_q3d.jpg"
+      "markscheme": "img/2002-june-chm4/ms_q3d.jpg",
+      "markscheme_text": "Structure of <b>cyclohexylbenzene</b>: (C<sub>6</sub>H<sub>5</sub>-C<sub>6</sub>H<sub>11</sub>) (1)\n<div style=\"margin-top:4px;\"><svg width=\"160\" height=\"55\" viewBox=\"0 0 160 55\"><polygon points=\"20,10 40,10 50,27 40,45 20,45 10,27\" fill=\"none\" stroke=\"black\" stroke-width=\"1.5\"/><circle cx=\"30\" cy=\"27\" r=\"11\" fill=\"none\" stroke=\"black\" stroke-width=\"1.5\"/><line x1=\"50\" y1=\"27\" x2=\"75\" y2=\"27\" stroke=\"black\" stroke-width=\"1.5\"/><polygon points=\"85,10 105,10 115,27 105,45 85,45 75,27\" fill=\"none\" stroke=\"black\" stroke-width=\"1.5\"/></svg></div>\n\n[Extra Information]:\nbenzene ring directly bonded to cyclohexane ring"
     },
     {
       "id": "2002-june-chm4-q3e",
@@ -7885,7 +7899,8 @@
       "summary": "Name polymerisation type and draw repeating unit of poly(phenylethene).",
       "image": "img/2002-june-chm4/q_q3e.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm4/ms_q3e.jpg"
+      "markscheme": "img/2002-june-chm4/ms_q3e.jpg",
+      "markscheme_text": "- Type of polymerisation: <b>addition</b> (1)\n- Repeating unit: <b>-[CH<sub>2</sub>-CH(C<sub>6</sub>H<sub>5</sub>)]-</b> (1)\n<div style=\"margin-top:4px;\"><svg width=\"140\" height=\"75\" viewBox=\"0 0 140 75\"><line x1=\"10\" y1=\"18\" x2=\"100\" y2=\"18\" stroke=\"black\" stroke-width=\"1.5\"/><text x=\"18\" y=\"22\" font-family=\"Arial\" font-size=\"13\">CH</text><text x=\"38\" y=\"26\" font-family=\"Arial\" font-size=\"10\">2</text><text x=\"56\" y=\"22\" font-family=\"Arial\" font-size=\"13\">CH</text><line x1=\"66\" y1=\"25\" x2=\"66\" y2=\"36\" stroke=\"black\" stroke-width=\"1.5\"/><polygon points=\"58,38 74,38 82,49 74,60 58,60 50,49\" fill=\"none\" stroke=\"black\" stroke-width=\"1.5\"/><circle cx=\"66\" cy=\"49\" r=\"6.5\" fill=\"none\" stroke=\"black\" stroke-width=\"1.5\"/></svg></div>\n\n[Extra Information]:\nopen bonds at ends required"
     },
     {
       "id": "2002-june-chm4-q4a",
@@ -7904,7 +7919,8 @@
       "figures": [
         "img/2002-june-chm4/fig-q4-nmr.jpg"
       ],
-      "markscheme": "img/2002-june-chm4/ms_q4a.jpg"
+      "markscheme": "img/2002-june-chm4/ms_q4a.jpg",
+      "markscheme_text": "<b>2-chloropropanoic acid</b> (1)"
     },
     {
       "id": "2002-june-chm4-q4b",
@@ -7923,7 +7939,8 @@
       "figures": [
         "img/2002-june-chm4/fig-q4-nmr.jpg"
       ],
-      "markscheme": "img/2002-june-chm4/ms_q4b.jpg"
+      "markscheme": "img/2002-june-chm4/ms_q4b.jpg",
+      "markscheme_text": "- &delta; 1.72: <b>Doublet</b> &ndash; (adjacent / next to) <b>CH</b> (1)\n- &delta; 4.44: <b>Quartet</b> &ndash; (adjacent / next to) <b>CH<sub>3</sub></b> (1)"
     },
     {
       "id": "2002-june-chm4-q4c",
@@ -7940,7 +7957,8 @@
       "summary": "Predict splitting pattern in proton NMR spectrum of ClCH2CH2COOH (two triplets).",
       "image": "img/2002-june-chm4/q_q4c.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm4/ms_q4c.jpg"
+      "markscheme": "img/2002-june-chm4/ms_q4c.jpg",
+      "markscheme_text": "<b>Two triplets</b> (1)"
     },
     {
       "id": "2002-june-chm4-q4d",
@@ -7957,7 +7975,8 @@
       "summary": "Outline nucleophilic substitution mechanism of CH3CHClCOOH with NH3 to form alanine.",
       "image": "img/2002-june-chm4/q_q4d.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm4/ms_q4d.jpg"
+      "markscheme": "img/2002-june-chm4/ms_q4d.jpg",
+      "markscheme_text": "- Nucleophilic substitution mechanism:\n&nbsp;&nbsp;&ndash; Curly arrow from lone pair on :NH<sub>3</sub> to C(2) (1)\n&nbsp;&nbsp;&ndash; Curly arrow from C-Cl bond to Cl (1)\n&nbsp;&nbsp;&ndash; Correct intermediate: CH<sub>3</sub>-CH(COOH)-N<sup>+</sup>H<sub>3</sub> (or -N<sup>+</sup>H<sub>2</sub>-H) (1)\n&nbsp;&nbsp;&ndash; Curly arrow from N-H bond to N<sup>+</sup> (or attack of 2nd :NH<sub>3</sub> on H) (1)\n- Structure of alanine: <b>CH<sub>3</sub>-CH(NH<sub>2</sub>)-COOH</b> (1)\n\n[Extra Information]:\nallow S<sub>N</sub>1 mechanism"
     },
     {
       "id": "2002-june-chm4-q4ei",
@@ -7976,7 +7995,8 @@
       "figures": [
         "img/2002-june-chm4/fig-q4e-lysine.jpg"
       ],
-      "markscheme": "img/2002-june-chm4/ms_q4ei.jpg"
+      "markscheme": "img/2002-june-chm4/ms_q4ei.jpg",
+      "markscheme_text": "Structure of product with excess aqueous HCl:\n<b>H<sub>3</sub>N<sup>+</sup>-(CH<sub>2</sub>)<sub>4</sub>-CH(N<sup>+</sup>H<sub>3</sub>)-COOH</b> (with 2Cl<sup>-</sup>) (1)\n\n[Extra Information]:\nboth amine groups protonated; allow without Cl<sup>-</sup>"
     },
     {
       "id": "2002-june-chm4-q4eii",
@@ -7995,7 +8015,8 @@
       "figures": [
         "img/2002-june-chm4/fig-q4e-lysine.jpg"
       ],
-      "markscheme": "img/2002-june-chm4/ms_q4eii.jpg"
+      "markscheme": "img/2002-june-chm4/ms_q4eii.jpg",
+      "markscheme_text": "Structure of product with excess aqueous NaOH:\n<b>H<sub>2</sub>N-(CH<sub>2</sub>)<sub>4</sub>-CH(NH<sub>2</sub>)-COO<sup>-</sup></b> (Na<sup>+</sup>) (1)\n\n[Extra Information]:\ncarboxylic acid group deprotonated; allow without Na<sup>+</sup>"
     },
     {
       "id": "2002-june-chm4-q4eiii",
@@ -8014,7 +8035,8 @@
       "figures": [
         "img/2002-june-chm4/fig-q4e-lysine.jpg"
       ],
-      "markscheme": "img/2002-june-chm4/ms_q4eiii.jpg"
+      "markscheme": "img/2002-june-chm4/ms_q4eiii.jpg",
+      "markscheme_text": "Structure showing peptide / amide link (<b>-CONH-</b>): (1)\n- e.g. <b>H<sub>2</sub>N-(CH<sub>2</sub>)<sub>4</sub>-CH(NH<sub>2</sub>)-CO-NH-(CH<sub>2</sub>)<sub>4</sub>-CH(NH<sub>2</sub>)-COOH</b>\n- or <b>H<sub>2</sub>N-CH(COOH)-(CH<sub>2</sub>)<sub>4</sub>-NH-CO-CH(NH<sub>2</sub>)-(CH<sub>2</sub>)<sub>4</sub>-NH<sub>2</sub></b>\n- or cyclic anhydride\n\n[Extra Information]:\nmust clearly show the -CONH- link (or anhydride)"
     },
     {
       "id": "2002-june-chm4-q5a",
@@ -8031,7 +8053,8 @@
       "summary": "Draw structures of optical isomer P and geometrical isomers Q and R of C6H12.",
       "image": "img/2002-june-chm4/q_q5a.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm4/ms_q5a.jpg"
+      "markscheme": "img/2002-june-chm4/ms_q5a.jpg",
+      "markscheme_text": "- Structure of <b>P</b>: <b>CH<sub>3</sub>-CH(CH<sub>2</sub>CH<sub>3</sub>)-CH=CH<sub>2</sub></b> (or 3-methylpent-1-ene) (1)\n- Structure of <b>Q</b>: <b>CH<sub>3</sub>-CH=C(CH<sub>3</sub>)-CH<sub>2</sub>CH<sub>3</sub></b> (or 3-methylpent-2-ene) (1)\n- Structure of <b>R</b>: <b>CH<sub>3</sub>-CH=CH-CH(CH<sub>3</sub>)<sub>2</sub></b> (or 4-methylpent-2-ene) (1)\n\n[Extra Information]:\nQ and R are interchangeable\nNOT C<sub>3</sub>H<sub>7</sub> &ndash; must show branching"
     },
     {
       "id": "2002-june-chm4-q5bi",
@@ -8049,7 +8072,8 @@
       "summary": "State meaning of racemic mixture and explain formation from planar carbonyl.",
       "image": "img/2002-june-chm4/q_q5bi.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm4/ms_q5bi.jpg"
+      "markscheme": "img/2002-june-chm4/ms_q5bi.jpg",
+      "markscheme_text": "- Racemic mixture: <b>equal mixture</b> / equimolar mixture of <b>optical isomers</b> / enantiomers (1)\n- Explanation:\n&nbsp;&nbsp;&ndash; <b>Planar carbonyl group</b> / C=O is planar (1)\n&nbsp;&nbsp;&ndash; Attack from either side / above and below is <b>equally likely</b> (1)\n\n[Extra Information]:\n'equal mixture of' can be stated in explanation"
     },
     {
       "id": "2002-june-chm4-q5bii",
@@ -8067,7 +8091,8 @@
       "summary": "Identify reagent S (HCN/KCN) and draw structures of cyanohydrin T and alkene U.",
       "image": "img/2002-june-chm4/q_q5bii.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm4/ms_q5bii.jpg"
+      "markscheme": "img/2002-june-chm4/ms_q5bii.jpg",
+      "markscheme_text": "- Reagent S: <b>HCN</b> OR <b>KCN / HCl</b> (or KCN / H<sub>2</sub>SO<sub>4</sub>) (1)\n- Compound T: <b>CH<sub>3</sub>CH<sub>2</sub>-C(OH)(CN)-CH<sub>3</sub></b> (2-hydroxy-2-methylbutanenitrile) (1)\n- Compound U: <b>CH<sub>3</sub>-CH=C(CN)-CH<sub>3</sub></b> (2-methylbut-2-enenitrile) (1)"
     },
     {
       "id": "2002-june-chm4-q6a",
@@ -8084,7 +8109,8 @@
       "summary": "Draw structure of ethyl propanoate.",
       "image": "img/2002-june-chm4/q_q6a.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm4/ms_q6a.jpg"
+      "markscheme": "img/2002-june-chm4/ms_q6a.jpg",
+      "markscheme_text": "<b>CH<sub>3</sub>CH<sub>2</sub>-COOCH<sub>2</sub>CH<sub>3</sub></b> (or CH<sub>3</sub>CH<sub>2</sub>C(=O)OCH<sub>2</sub>CH<sub>3</sub>) (1)\n\n[Extra Information]:\nallow -COO-"
     },
     {
       "id": "2002-june-chm4-q6b",
@@ -8101,7 +8127,8 @@
       "summary": "Name and outline nucleophilic addition-elimination mechanism forming ethyl propanoate.",
       "image": "img/2002-june-chm4/q_q6b.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm4/ms_q6b.jpg"
+      "markscheme": "img/2002-june-chm4/ms_q6b.jpg",
+      "markscheme_text": "- Name of mechanism: <b>(nucleophilic) addition-elimination</b> (1)\n- Mechanism:\n&nbsp;&nbsp;&ndash; Curly arrow from :O of ethanol to carbonyl C of propanoyl chloride (1)\n&nbsp;&nbsp;&ndash; Curly arrow from C=O double bond to oxygen atom (1)\n&nbsp;&nbsp;&ndash; Correct tetrahedral intermediate structure including charges: CH<sub>3</sub>CH<sub>2</sub>-C(O<sup>-</sup>)(Cl)-O<sup>+</sup>H(CH<sub>2</sub>CH<sub>3</sub>) (1)\n&nbsp;&nbsp;&ndash; 3 arrows: lone pair on O<sup>-</sup> reforming C=O, C-Cl bond breaking to form Cl<sup>-</sup>, and O-H bond breaking to O<sup>+</sup> (1)"
     },
     {
       "id": "2002-june-chm4-q6c",
@@ -8118,7 +8145,8 @@
       "summary": "Write equation for fragmentation of ethyl propanoate molecular ion to m/z = 57.",
       "image": "img/2002-june-chm4/q_q6c.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm4/ms_q6c.jpg"
+      "markscheme": "img/2002-june-chm4/ms_q6c.jpg",
+      "markscheme_text": "- Fragmentation equation:\n<b>CH<sub>3</sub>CH<sub>2</sub>COOCH<sub>2</sub>CH<sub>3</sub><sup>+&bull;</sup> -> CH<sub>3</sub>CH<sub>2</sub>C<sup>+</sup>=O + CH<sub>3</sub>CH<sub>2</sub>O<sup>&bull;</sup></b> (1)\n- Structure of species at <i>m/z</i> = 57: <b>CH<sub>3</sub>CH<sub>2</sub>C<sup>+</sup>=O</b> (or CH<sub>3</sub>CH<sub>2</sub>CO<sup>+</sup>) (1)\n\n[Extra Information]:\nequation (1), structure (1)"
     },
     {
       "id": "2002-june-chm4-q6d",
@@ -8135,7 +8163,8 @@
       "summary": "Draw structure of isomeric ester giving major peak at m/z = 71.",
       "image": "img/2002-june-chm4/q_q6d.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm4/ms_q6d.jpg"
+      "markscheme": "img/2002-june-chm4/ms_q6d.jpg",
+      "markscheme_text": "<b>CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>COOCH<sub>3</sub></b> OR <b>(CH<sub>3</sub>)<sub>2</sub>CHCOOCH<sub>3</sub></b> (1)\n\n[Extra Information]:\nallow C<sub>3</sub>H<sub>7</sub>COOCH<sub>3</sub>\n<i>m/z</i> = 71 is [C<sub>3</sub>H<sub>7</sub>CO]<sup>+</sup>"
     },
     {
       "id": "2002-june-chm5-q1ai",
