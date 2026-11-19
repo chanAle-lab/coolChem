@@ -3417,7 +3417,8 @@
       "summary": "Define the term atomic number of an element.",
       "image": "img/2002-jan-chm1/q_q1a.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm1/ms_q1a.jpg"
+      "markscheme": "img/2002-jan-chm1/ms_q1a.jpg",
+      "markscheme_text": "number of protons in one atom (or nucleus) (1)\n\n[Extra Information]:\nallow protons & electrons\ndo <b>not</b> allow protons + electrons or electrons"
     },
     {
       "id": "2002-jan-chm1-q1b",
@@ -3434,7 +3435,8 @@
       "summary": "Symbol, mass number and atomic number for atom with 12 neutrons and 11 electrons.",
       "image": "img/2002-jan-chm1/q_q1b.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm1/ms_q1b.jpg"
+      "markscheme": "img/2002-jan-chm1/ms_q1b.jpg",
+      "markscheme_text": "- Mass number: 23 (1)\n- Atomic number: 11 (1)\n(Symbol: <sup>23</sup><sub>11</sub>Na)\n\n[Extra Information]:\nor Na + unambiguous statement of mass no. & at. no."
     },
     {
       "id": "2002-jan-chm1-q1c",
@@ -3451,7 +3453,8 @@
       "summary": "Electronic configuration of an aluminium atom in terms of s and p sub-levels.",
       "image": "img/2002-jan-chm1/q_q1c.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm1/ms_q1c.jpg"
+      "markscheme": "img/2002-jan-chm1/ms_q1c.jpg",
+      "markscheme_text": "1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>1</sup> (1)\n\n[Extra Information]:\nallow [Ne] 3s<sup>2</sup> 3p<sup>1</sup>"
     },
     {
       "id": "2002-jan-chm1-q1d",
@@ -3468,7 +3471,8 @@
       "summary": "Number of neutrons in one 27Al atom.",
       "image": "img/2002-jan-chm1/q_q1d.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm1/ms_q1d.jpg"
+      "markscheme": "img/2002-jan-chm1/ms_q1d.jpg",
+      "markscheme_text": "14 (1)"
     },
     {
       "id": "2002-jan-chm1-q1e",
@@ -3485,7 +3489,8 @@
       "summary": "Define the term relative atomic mass of an element.",
       "image": "img/2002-jan-chm1/q_q1e.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm1/ms_q1e.jpg"
+      "markscheme": "img/2002-jan-chm1/ms_q1e.jpg",
+      "markscheme_text": "(average mass of an atom (or isotope) / mass of 1 atom of <sup>12</sup>C) &times; 12 (2 marks)\n\n[Extra Information]:\nor stated in moles\nor compared with 1/12th of a <sup>12</sup>C atom\nor relative to <sup>12</sup>C taken as 12\nreference to mass number (not mass) CE = 0"
     },
     {
       "id": "2002-jan-chm1-q1fi",
@@ -3502,7 +3507,8 @@
       "summary": "Name the device used to ionise atoms in a mass spectrometer.",
       "image": "img/2002-jan-chm1/q_q1fi.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm1/ms_q1fi.jpg"
+      "markscheme": "img/2002-jan-chm1/ms_q1fi.jpg",
+      "markscheme_text": "electron gun (1)"
     },
     {
       "id": "2002-jan-chm1-q1fii",
@@ -3519,7 +3525,8 @@
       "summary": "Why is it necessary to ionise atoms before acceleration?",
       "image": "img/2002-jan-chm1/q_q1fii.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm1/ms_q1fii.jpg"
+      "markscheme": "img/2002-jan-chm1/ms_q1fii.jpg",
+      "markscheme_text": "(particles must be charged / ions) before attraction to a charged plate (or electric field) (1)\n\n[Extra Information]:\nor only ions can be attracted / accelerated by an electric field\nor converse: if not charged, not attracted to electric field"
     },
     {
       "id": "2002-jan-chm1-q1fiii",
@@ -3536,7 +3543,8 @@
       "summary": "What deflects the ions in a mass spectrometer?",
       "image": "img/2002-jan-chm1/q_q1fiii.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm1/ms_q1fiii.jpg"
+      "markscheme": "img/2002-jan-chm1/ms_q1fiii.jpg",
+      "markscheme_text": "magnetic field (or magnet) (1)"
     },
     {
       "id": "2002-jan-chm1-q1fiv",
@@ -3553,7 +3561,8 @@
       "summary": "What is adjusted in order to direct ions of different m/z ratio onto detector?",
       "image": "img/2002-jan-chm1/q_q1fiv.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm1/ms_q1fiv.jpg"
+      "markscheme": "img/2002-jan-chm1/ms_q1fiv.jpg",
+      "markscheme_text": "magnetic field (or accelerating potential / strength of magnet / allow magnet) (1)"
     },
     {
       "id": "2002-jan-chm1-q1gi",
@@ -3572,7 +3581,8 @@
       "figures": [
         "img/2002-jan-chm1/fig-q1g-table.jpg"
       ],
-      "markscheme": "img/2002-jan-chm1/ms_q1gi.jpg"
+      "markscheme": "img/2002-jan-chm1/ms_q1gi.jpg",
+      "markscheme_text": "- (24.0 &times; 64.2 + 25.0 &times; 20.3 + 26.0 &times; 15.5) / 100 (1)\n- = 24.5 (1)\n\n[Extra Information]:\nallow 24.5 to 24.52\nignore units\nif numerator is correct but 100 has AE, conseq AE-1\nif AE on 100, allow conseq correct answer provided numerator is correct"
     },
     {
       "id": "2002-jan-chm1-q1gii",
@@ -3591,7 +3601,8 @@
       "figures": [
         "img/2002-jan-chm1/fig-q1g-table.jpg"
       ],
-      "markscheme": "img/2002-jan-chm1/ms_q1gii.jpg"
+      "markscheme": "img/2002-jan-chm1/ms_q1gii.jpg",
+      "markscheme_text": "magnesium (or Mg) (1)\n\n[Extra Information]:\nallow conseq on wrong A<sub>r</sub>"
     },
     {
       "id": "2002-jan-chm1-q1giii",
@@ -3610,7 +3621,8 @@
       "figures": [
         "img/2002-jan-chm1/fig-q1g-table.jpg"
       ],
-      "markscheme": "img/2002-jan-chm1/ms_q1giii.jpg"
+      "markscheme": "img/2002-jan-chm1/ms_q1giii.jpg",
+      "markscheme_text": "abundance of isotopes is different (1)\n\n[Extra Information]:\nor different isotopes present in meteorite vs terrestrial sample"
     },
     {
       "id": "2002-jan-chm1-q2ai",
@@ -3629,7 +3641,8 @@
       "figures": [
         "img/2002-jan-chm1/fig-q2a-lattice.jpg"
       ],
-      "markscheme": "img/2002-jan-chm1/ms_q2ai.jpg"
+      "markscheme": "img/2002-jan-chm1/ms_q2ai.jpg",
+      "markscheme_text": "Negative signs (−) marked on the four chloride ion positions alternating with the positive ion (1)"
     },
     {
       "id": "2002-jan-chm1-q2aii",
@@ -3648,7 +3661,8 @@
       "figures": [
         "img/2002-jan-chm1/fig-q2a-lattice.jpg"
       ],
-      "markscheme": "img/2002-jan-chm1/ms_q2aii.jpg"
+      "markscheme": "img/2002-jan-chm1/ms_q2aii.jpg",
+      "markscheme_text": "vibrate faster (or with bigger amplitude / vibrate more) (1)\n\n[Extra Information]:\n<b>not</b> start to vibrate\nor other type of motion esp. translation\nignore rotation"
     },
     {
       "id": "2002-jan-chm1-q2bi",
@@ -3665,7 +3679,8 @@
       "summary": "Equation for formation of sodium chloride from sodium and chlorine.",
       "image": "img/2002-jan-chm1/q_q2bi.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm1/ms_q2bi.jpg"
+      "markscheme": "img/2002-jan-chm1/ms_q2bi.jpg",
+      "markscheme_text": "Na + 1/2Cl<sub>2</sub> -> NaCl (or 2Na + Cl<sub>2</sub> -> 2NaCl) (1)\n\n[Extra Information]:\nallow Na<sup>+</sup>Cl<sup>−</sup>\nignore state symbols even if wrong"
     },
     {
       "id": "2002-jan-chm1-q2bii",
@@ -3682,7 +3697,8 @@
       "summary": "Origin of the extra electron in a chloride ion during formation of NaCl.",
       "image": "img/2002-jan-chm1/q_q2bii.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm1/ms_q2bii.jpg"
+      "markscheme": "img/2002-jan-chm1/ms_q2bii.jpg",
+      "markscheme_text": "from sodium (or sodium atom / sodium metal) (1)\n\n[Extra Information]:\nallow from sodium ion"
     },
     {
       "id": "2002-jan-chm1-q2ci",
@@ -3699,7 +3715,8 @@
       "summary": "What is a polarised chloride ion?",
       "image": "img/2002-jan-chm1/q_q2ci.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm1/ms_q2ci.jpg"
+      "markscheme": "img/2002-jan-chm1/ms_q2ci.jpg",
+      "markscheme_text": "not spherical / distorted / charge uneven (or diagram showing distorted electron cloud) (1)\n\n[Extra Information]:\ndo <b>not</b> allow if describe Cl<sup>−</sup> in a polarised covalent compound"
     },
     {
       "id": "2002-jan-chm1-q2cii",
@@ -3716,7 +3733,8 @@
       "summary": "What feature of a cation causes a chloride ion to become polarised?",
       "image": "img/2002-jan-chm1/q_q2cii.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm1/ms_q2cii.jpg"
+      "markscheme": "img/2002-jan-chm1/ms_q2cii.jpg",
+      "markscheme_text": "high charge / size ratio (or high charge density / high charge / small size) (1)"
     },
     {
       "id": "2002-jan-chm1-q2di",
@@ -3733,7 +3751,8 @@
       "summary": "What is a covalent bond?",
       "image": "img/2002-jan-chm1/q_q2di.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm1/ms_q2di.jpg"
+      "markscheme": "img/2002-jan-chm1/ms_q2di.jpg",
+      "markscheme_text": "shared (1) electron pair (1)"
     },
     {
       "id": "2002-jan-chm1-q2dii",
@@ -3750,7 +3769,8 @@
       "summary": "What property of atoms joined by a covalent bond causes the bond to be polar?",
       "image": "img/2002-jan-chm1/q_q2dii.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm1/ms_q2dii.jpg"
+      "markscheme": "img/2002-jan-chm1/ms_q2dii.jpg",
+      "markscheme_text": "difference in electronegativity (1)"
     },
     {
       "id": "2002-jan-chm1-q3ai",
@@ -3769,7 +3789,8 @@
       "figures": [
         "img/2002-jan-chm1/fig-q3a-shapes.jpg"
       ],
-      "markscheme": "img/2002-jan-chm1/ms_q3ai.jpg"
+      "markscheme": "img/2002-jan-chm1/ms_q3ai.jpg",
+      "markscheme_text": "- 3 (bonding) pairs of electrons (allow 3 bonds) (1)\n- repel equally (or as much as possible / get as far apart as possible) (1)"
     },
     {
       "id": "2002-jan-chm1-q3aii",
@@ -3788,7 +3809,8 @@
       "figures": [
         "img/2002-jan-chm1/fig-q3a-shapes.jpg"
       ],
-      "markscheme": "img/2002-jan-chm1/ms_q3aii.jpg"
+      "markscheme": "img/2002-jan-chm1/ms_q3aii.jpg",
+      "markscheme_text": "- Predicted bond angle: 118° (allow 117–119°) (1)\n- Explanation: lone pair (1)\n- repels more than bonding pair (1)\n\n[Extra Information]:\nallow explanation if angle < 118°\nCE = 0 if angle &ge; 120°"
     },
     {
       "id": "2002-jan-chm1-q3b",
@@ -3805,7 +3827,8 @@
       "summary": "Name of shape with bond angles of 109° 28' and example molecule.",
       "image": "img/2002-jan-chm1/q_q3b.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm1/ms_q3b.jpg"
+      "markscheme": "img/2002-jan-chm1/ms_q3b.jpg",
+      "markscheme_text": "- Name: tetrahedral (1)\n- Example: CH<sub>4</sub> (1)\n\n[Extra Information]:\nallow correct ion e.g. NH<sub>4</sub><sup>+</sup>, SO<sub>4</sub><sup>2−</sup>"
     },
     {
       "id": "2002-jan-chm1-q3ci",
@@ -3824,7 +3847,8 @@
       "figures": [
         "img/2002-jan-chm1/fig-q3c-xef4.jpg"
       ],
-      "markscheme": "img/2002-jan-chm1/ms_q3ci.jpg"
+      "markscheme": "img/2002-jan-chm1/ms_q3ci.jpg",
+      "markscheme_text": "90° (1)"
     },
     {
       "id": "2002-jan-chm1-q3cii",
@@ -3843,7 +3867,8 @@
       "figures": [
         "img/2002-jan-chm1/fig-q3c-xef4.jpg"
       ],
-      "markscheme": "img/2002-jan-chm1/ms_q3cii.jpg"
+      "markscheme": "img/2002-jan-chm1/ms_q3cii.jpg",
+      "markscheme_text": "- lone pairs (or they) repel more than bonding pairs (or repel most) (1)\n- (so are) as far apart as possible (1)\n\n[Extra Information]:\nmark independently"
     },
     {
       "id": "2002-jan-chm1-q3ciii",
@@ -3862,7 +3887,8 @@
       "figures": [
         "img/2002-jan-chm1/fig-q3c-xef4.jpg"
       ],
-      "markscheme": "img/2002-jan-chm1/ms_q3ciii.jpg"
+      "markscheme": "img/2002-jan-chm1/ms_q3ciii.jpg",
+      "markscheme_text": "square planar (allow square) (1)"
     },
     {
       "id": "2002-jan-chm1-q3d",
@@ -3879,7 +3905,8 @@
       "summary": "Sketch of NF3 molecule showing lone pairs of electrons on nitrogen.",
       "image": "img/2002-jan-chm1/q_q3d.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm1/ms_q3d.jpg"
+      "markscheme": "img/2002-jan-chm1/ms_q3d.jpg",
+      "markscheme_text": "- 3 bonds and 1 lone pair shown on nitrogen (1)\n- correct 3D pyramidal shape drawn (e.g. wedges / dashed bonds) (1)\n\n[Extra Information]:\nonly give second mark if first mark also given\npenalise sticks (i.e. N−) once but N must be shown"
     },
     {
       "id": "2002-jan-chm1-q4a",
@@ -3896,7 +3923,8 @@
       "summary": "State the meaning of the term electronegativity.",
       "image": "img/2002-jan-chm1/q_q4a.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm1/ms_q4a.jpg"
+      "markscheme": "img/2002-jan-chm1/ms_q4a.jpg",
+      "markscheme_text": "- {ability / power} (of an atom) to attract {electron density / electrons / negative charge} (1)\n- in a covalent bond (or shared pair) (1)\n\n[Extra Information]:\nif 'remove an electron' lose first mark"
     },
     {
       "id": "2002-jan-chm1-q4b",
@@ -3914,7 +3942,8 @@
       "summary": "Trend and explanation in electronegativity across Period 3 from Na to Cl.",
       "image": "img/2002-jan-chm1/q_q4b.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm1/ms_q4b.jpg"
+      "markscheme": "img/2002-jan-chm1/ms_q4b.jpg",
+      "markscheme_text": "- Trend: increases (1)\n- Explanation: nuclear charge (number of protons) increases (1)\n- electrons in same shell / similar shielding / smaller atomic radius (1)"
     },
     {
       "id": "2002-jan-chm1-q4c",
@@ -3931,7 +3960,8 @@
       "summary": "What is meant by the term first ionisation energy?",
       "image": "img/2002-jan-chm1/q_q4c.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm1/ms_q4c.jpg"
+      "markscheme": "img/2002-jan-chm1/ms_q4c.jpg",
+      "markscheme_text": "- {enthalpy / energy} for removal of one electron (or 1 mol of e<sup>−</sup>) (1)\n- from a gaseous atom (or 1 mol of gaseous atoms) (1)\n(Equation: X(g) -> X<sup>+</sup>(g) + e<sup>−</sup> scores both marks)\n\n[Extra Information]:\nmust have first mark to score second mark"
     },
     {
       "id": "2002-jan-chm1-q4di",
@@ -3950,7 +3980,8 @@
       "figures": [
         "img/2002-jan-chm1/fig-q4d-graph.jpg"
       ],
-      "markscheme": "img/2002-jan-chm1/ms_q4di.jpg"
+      "markscheme": "img/2002-jan-chm1/ms_q4di.jpg",
+      "markscheme_text": "2 (1)"
     },
     {
       "id": "2002-jan-chm1-q4dii",
@@ -3969,7 +4000,8 @@
       "figures": [
         "img/2002-jan-chm1/fig-q4d-graph.jpg"
       ],
-      "markscheme": "img/2002-jan-chm1/ms_q4dii.jpg"
+      "markscheme": "img/2002-jan-chm1/ms_q4dii.jpg",
+      "markscheme_text": "Two elements (or Na and Mg) before the drop (in energy) to Al (1)"
     },
     {
       "id": "2002-jan-chm1-q4diii",
@@ -3988,7 +4020,8 @@
       "figures": [
         "img/2002-jan-chm1/fig-q4d-graph.jpg"
       ],
-      "markscheme": "img/2002-jan-chm1/ms_q4diii.jpg"
+      "markscheme": "img/2002-jan-chm1/ms_q4diii.jpg",
+      "markscheme_text": "ionisation energy of Al &lt; that for Mg (1)"
     },
     {
       "id": "2002-jan-chm1-q4div",
@@ -4007,7 +4040,8 @@
       "figures": [
         "img/2002-jan-chm1/fig-q4d-graph.jpg"
       ],
-      "markscheme": "img/2002-jan-chm1/ms_q4div.jpg"
+      "markscheme": "img/2002-jan-chm1/ms_q4div.jpg",
+      "markscheme_text": "- fall in energy from P to S (or discontinuity in trend) (1)\n- from Al to P there are 3 additional electrons (or 3 elements) (1)\n\n[Extra Information]:\nfor second mark: idea of block of 3 elements"
     },
     {
       "id": "2002-jan-chm1-q5ai",
@@ -4024,7 +4058,8 @@
       "summary": "Describe the bonding in a metal.",
       "image": "img/2002-jan-chm1/q_q5ai.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm1/ms_q5ai.jpg"
+      "markscheme": "img/2002-jan-chm1/ms_q5ai.jpg",
+      "markscheme_text": "- positive ions (1)\n- (attract) delocalised electrons (or sea of / free / mobile electrons) (1)\n\n[Extra Information]:\nconfusion with −ve ions or ionic lattice CE = 0"
     },
     {
       "id": "2002-jan-chm1-q5aii",
@@ -4041,7 +4076,8 @@
       "summary": "Explain why magnesium has a higher melting point than sodium.",
       "image": "img/2002-jan-chm1/q_q5aii.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm1/ms_q5aii.jpg"
+      "markscheme": "img/2002-jan-chm1/ms_q5aii.jpg",
+      "markscheme_text": "- more protons (or Mg<sup>2+</sup> has higher charge than Na<sup>+</sup>) (1)\n- attracts delocalised (or bonding) electrons more strongly (or attracts positive ions more / more delocalised electrons) (1)\n\n[Extra Information]:\ncan be brought forward from (a)(i)\n'metallic bonding stronger' scores 1 mark (only given if no other marks awarded)"
     },
     {
       "id": "2002-jan-chm1-q5b",
@@ -4058,7 +4094,8 @@
       "summary": "Why diamond and graphite both have high melting points.",
       "image": "img/2002-jan-chm1/q_q5b.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm1/ms_q5b.jpg"
+      "markscheme": "img/2002-jan-chm1/ms_q5b.jpg",
+      "markscheme_text": "- macromolecular (or giant molecule / giant covalent lattice) (1)\n- covalent (1)\n- strong covalent bonds (or bonds require much energy to break) (1)"
     },
     {
       "id": "2002-jan-chm1-q5c",
@@ -4075,7 +4112,8 @@
       "summary": "Why graphite is a good conductor of electricity.",
       "image": "img/2002-jan-chm1/q_q5c.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm1/ms_q5c.jpg"
+      "markscheme": "img/2002-jan-chm1/ms_q5c.jpg",
+      "markscheme_text": "delocalised electrons (or free / mobile / sea of electrons) (1)"
     },
     {
       "id": "2002-jan-chm1-q5d",
@@ -4092,7 +4130,8 @@
       "summary": "Why graphite is soft (weak van der Waals forces between planes).",
       "image": "img/2002-jan-chm1/q_q5d.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm1/ms_q5d.jpg"
+      "markscheme": "img/2002-jan-chm1/ms_q5d.jpg",
+      "markscheme_text": "- planes (or layers) of atoms / carbon rings (1)\n- weak forces (or van der Waals' forces / weak bonds) between planes (1)"
     },
     {
       "id": "2002-jan-chm2-q1a",
