@@ -5871,7 +5871,8 @@
       "summary": "Calculate Avogadro constant accurate to 5 sig figs using 1H mass data.",
       "image": "img/2002-june-chm1/q_q1a.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm1/ms_q1a.jpg"
+      "markscheme": "img/2002-june-chm1/ms_q1a.jpg",
+      "markscheme_text": "- L = mass of 1 mol / mass of 1 atom = 1.0078 / (1.6734 &times; 10<sup>&minus;24</sup>) (1)\n- = 6.0225 &times; 10<sup>23</sup> (1)\n\n[Extra Information]:\nmust show working\nignore wrong units\nanswer only scores 1 mark"
     },
     {
       "id": "2002-june-chm1-q1b",
@@ -5888,7 +5889,8 @@
       "summary": "Compare number of atoms in 1 mol Ar with molecules in 1 mol NH3.",
       "image": "img/2002-june-chm1/q_q1b.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm1/ms_q1b.jpg"
+      "markscheme": "img/2002-june-chm1/ms_q1b.jpg",
+      "markscheme_text": "equal (or same / 1 : 1) (1)"
     },
     {
       "id": "2002-june-chm1-q1c",
@@ -5905,7 +5907,8 @@
       "summary": "Calculate number of moles of ammonia gas using pV=nRT.",
       "image": "img/2002-june-chm1/q_q1c.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm1/ms_q1c.jpg"
+      "markscheme": "img/2002-june-chm1/ms_q1c.jpg",
+      "markscheme_text": "- PV = nRT &rArr; n = PV / RT (1)\n- n = (98000 &times; 0.0352) / (8.31 &times; 298) (1)\n- n = 1.39 (mol) (1)\n\n[Extra Information]:\nallow 1.390 to 1.395\nignore units even if incorrect\nanswer = 1.4 loses last mark"
     },
     {
       "id": "2002-june-chm1-q1d",
@@ -5922,7 +5925,8 @@
       "summary": "Calculate concentration of ammonia solution made up to 250 cm3 and state units.",
       "image": "img/2002-june-chm1/q_q1d.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm1/ms_q1d.jpg"
+      "markscheme": "img/2002-june-chm1/ms_q1d.jpg",
+      "markscheme_text": "- Concentration = (0.732 &times; 1000) / 250 = 2.93 (1)\n- Units: mol dm<sup>&minus;3</sup> (or M / mol/dm<sup>3</sup> / mol l<sup>&minus;1</sup>) (1)\n\n[Extra Information]:\nallow 2.928 to 2.93\nunit mark tied to correct answer, but allow unit mark only if answer = 2.9 or 3"
     },
     {
       "id": "2002-june-chm1-q1ei",
@@ -5939,7 +5943,8 @@
       "summary": "Calculate concentration of ammonia solution in titration with sulphuric acid.",
       "image": "img/2002-june-chm1/q_q1ei.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm1/ms_q1ei.jpg"
+      "markscheme": "img/2002-june-chm1/ms_q1ei.jpg",
+      "markscheme_text": "- moles H<sub>2</sub>SO<sub>4</sub> = (25.0 / 1000) &times; 1.24 = 0.0310 (1)\n- moles NH<sub>3</sub> in 30.8 cm<sup>3</sup> = 0.0310 &times; 2 = 0.0620 (1)\n- moles NH<sub>3</sub> in 1 dm<sup>3</sup> = (0.0620 &times; 1000) / 30.8 = 2.01 (mol dm<sup>&minus;3</sup>) (1)\n\n[Extra Information]:\nallow 2.010 to 2.015\nmark 2 is for &times; 2; CE if &times; 2 not used\nif use m<sub>1</sub>v<sub>1</sub> = m<sub>2</sub>v<sub>2</sub>, scores 3 if ans correct else zero\n'no units' OK, wrong units lose last mark"
     },
     {
       "id": "2002-june-chm1-q1eii",
@@ -5956,7 +5961,8 @@
       "summary": "Calculate mass of ammonium sulphate in solution at titration end point.",
       "image": "img/2002-june-chm1/q_q1eii.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm1/ms_q1eii.jpg"
+      "markscheme": "img/2002-june-chm1/ms_q1eii.jpg",
+      "markscheme_text": "- moles (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub> = moles H<sub>2</sub>SO<sub>4</sub> = 0.0310 (1)\n- M<sub>r</sub>((NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>) = 132.1 (allow 132) (1)\n- mass = 0.0310 &times; 132.1 = 4.10 g (1)\n\n[Extra Information]:\nallow 4.09 to 4.11\nallow conseq on wrong moles in part 1 if clear H<sub>2</sub>SO<sub>4</sub> = (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>\nwrong formula for (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub> CE = 0\nif moles of (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub> not clear CE\nwrong units loses mark"
     },
     {
       "id": "2002-june-chm1-q1f",
@@ -5973,7 +5979,8 @@
       "summary": "Write equation for reaction of magnesium nitride with water to produce ammonia.",
       "image": "img/2002-june-chm1/q_q1f.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm1/ms_q1f.jpg"
+      "markscheme": "img/2002-june-chm1/ms_q1f.jpg",
+      "markscheme_text": "Mg<sub>3</sub>N<sub>2</sub> + 6H<sub>2</sub>O -> 3Mg(OH)<sub>2</sub> + 2NH<sub>3</sub>\n- Correct formulae (1)\n- Balanced equation (1)"
     },
     {
       "id": "2002-june-chm1-q2ai",
@@ -5992,7 +5999,8 @@
       "figures": [
         "img/2002-june-chm1/fig-q2a-ammonium.jpg"
       ],
-      "markscheme": "img/2002-june-chm1/ms_q2ai.jpg"
+      "markscheme": "img/2002-june-chm1/ms_q2ai.jpg",
+      "markscheme_text": "covalent (1)"
     },
     {
       "id": "2002-june-chm1-q2aii",
@@ -6011,7 +6019,8 @@
       "figures": [
         "img/2002-june-chm1/fig-q2a-ammonium.jpg"
       ],
-      "markscheme": "img/2002-june-chm1/ms_q2aii.jpg"
+      "markscheme": "img/2002-june-chm1/ms_q2aii.jpg",
+      "markscheme_text": "co-ordinate (or dative) (1)"
     },
     {
       "id": "2002-june-chm1-q2aiii",
@@ -6030,7 +6039,8 @@
       "figures": [
         "img/2002-june-chm1/fig-q2a-ammonium.jpg"
       ],
-      "markscheme": "img/2002-june-chm1/ms_q2aiii.jpg"
+      "markscheme": "img/2002-june-chm1/ms_q2aiii.jpg",
+      "markscheme_text": "both electrons (or electron pair) come from nitrogen (1)"
     },
     {
       "id": "2002-june-chm1-q2aiv",
@@ -6049,7 +6059,8 @@
       "figures": [
         "img/2002-june-chm1/fig-q2a-ammonium.jpg"
       ],
-      "markscheme": "img/2002-june-chm1/ms_q2aiv.jpg"
+      "markscheme": "img/2002-june-chm1/ms_q2aiv.jpg",
+      "markscheme_text": "- 4 (bonding) electron pairs (1)\n- repel equally / are identical (1)\n- as far apart as possible / to position of minimum repulsion (1)\n- tetrahedron (1)"
     },
     {
       "id": "2002-june-chm1-q2b",
@@ -6066,7 +6077,8 @@
       "summary": "Define the term electronegativity.",
       "image": "img/2002-june-chm1/q_q2b.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm1/ms_q2b.jpg"
+      "markscheme": "img/2002-june-chm1/ms_q2b.jpg",
+      "markscheme_text": "- power (ability) of an atom / element to attract electron density / electrons / electron pair (1)\n- in a covalent bond (1)\n\n[Extra Information]:\nallow attract from / withdraw in / withdraw from\ndo not allow remove from"
     },
     {
       "id": "2002-june-chm1-q2ci",
@@ -6083,7 +6095,8 @@
       "summary": "State meaning of symbol delta+ in N-H bond.",
       "image": "img/2002-june-chm1/q_q2ci.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm1/ms_q2ci.jpg"
+      "markscheme": "img/2002-june-chm1/ms_q2ci.jpg",
+      "markscheme_text": "electron-deficient / small (slight / partial) positive charge (1)"
     },
     {
       "id": "2002-june-chm1-q2cii",
@@ -6100,7 +6113,8 @@
       "summary": "Deduce electronegativity of hydrogen relative to nitrogen from bond representation.",
       "image": "img/2002-june-chm1/q_q2cii.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm1/ms_q2cii.jpg"
+      "markscheme": "img/2002-june-chm1/ms_q2cii.jpg",
+      "markscheme_text": "H &lt; N (hydrogen has lower electronegativity than nitrogen) (1)"
     },
     {
       "id": "2002-june-chm1-q3a",
@@ -6119,7 +6133,8 @@
       "figures": [
         "img/2002-june-chm1/fig-q3-table.jpg"
       ],
-      "markscheme": "img/2002-june-chm1/ms_q3a.jpg"
+      "markscheme": "img/2002-june-chm1/ms_q3a.jpg",
+      "markscheme_text": "- van der Waals' forces (or London / dispersion / temporary dipole forces) (1)\n- dipole&minus;dipole forces (1)\n- hydrogen bonding (1)"
     },
     {
       "id": "2002-june-chm1-q3bi",
@@ -6138,7 +6153,8 @@
       "figures": [
         "img/2002-june-chm1/fig-q3-table.jpg"
       ],
-      "markscheme": "img/2002-june-chm1/ms_q3bi.jpg"
+      "markscheme": "img/2002-june-chm1/ms_q3bi.jpg",
+      "markscheme_text": "- covalent between atoms (or within a molecule) (1)\n- van der Waals' between molecules (1)"
     },
     {
       "id": "2002-june-chm1-q3bii",
@@ -6157,7 +6173,8 @@
       "figures": [
         "img/2002-june-chm1/fig-q3-table.jpg"
       ],
-      "markscheme": "img/2002-june-chm1/ms_q3bii.jpg"
+      "markscheme": "img/2002-june-chm1/ms_q3bii.jpg",
+      "markscheme_text": "molecular (1)"
     },
     {
       "id": "2002-june-chm1-q3biii",
@@ -6176,7 +6193,8 @@
       "figures": [
         "img/2002-june-chm1/fig-q3-table.jpg"
       ],
-      "markscheme": "img/2002-june-chm1/ms_q3biii.jpg"
+      "markscheme": "img/2002-june-chm1/ms_q3biii.jpg",
+      "markscheme_text": "forces (or bonds / v.d.W. forces / intermolecular forces) between molecules must be broken / loosened (1)\n\n[Extra Information]:\nmention of ions CE = 0"
     },
     {
       "id": "2002-june-chm1-q3ci",
@@ -6195,7 +6213,8 @@
       "figures": [
         "img/2002-june-chm1/fig-q3-table.jpg"
       ],
-      "markscheme": "img/2002-june-chm1/ms_q3ci.jpg"
+      "markscheme": "img/2002-june-chm1/ms_q3ci.jpg",
+      "markscheme_text": "- hydrogen bonding in HF (1)\n- dipole&minus;dipole forces (or v.d.W.) in HCl (1)\n- hydrogen bonding is stronger than dipole&minus;dipole forces (or H-bonding is strongest intermolecular force) (1)"
     },
     {
       "id": "2002-june-chm1-q3cii",
@@ -6214,7 +6233,8 @@
       "figures": [
         "img/2002-june-chm1/fig-q3-table.jpg"
       ],
-      "markscheme": "img/2002-june-chm1/ms_q3cii.jpg"
+      "markscheme": "img/2002-june-chm1/ms_q3cii.jpg",
+      "markscheme_text": "- HI is a bigger molecule than HCl (or heavier / has more electrons / more electron shells / larger M<sub>r</sub> / more polarisable) (1)\n- Therefore the (van der Waals') forces between HI molecules are stronger (1)\n\n[Extra Information]:\nQ of L mark (look for unambiguous statement using correct terminology)"
     },
     {
       "id": "2002-june-chm1-q3di",
@@ -6233,7 +6253,8 @@
       "figures": [
         "img/2002-june-chm1/fig-q3-table.jpg"
       ],
-      "markscheme": "img/2002-june-chm1/ms_q3di.jpg"
+      "markscheme": "img/2002-june-chm1/ms_q3di.jpg",
+      "markscheme_text": "- ionic (1)\n- strong forces between ions / lots of energy required to break ionic bonds (1)"
     },
     {
       "id": "2002-june-chm1-q3dii",
@@ -6252,7 +6273,8 @@
       "figures": [
         "img/2002-june-chm1/fig-q3-table.jpg"
       ],
-      "markscheme": "img/2002-june-chm1/ms_q3dii.jpg"
+      "markscheme": "img/2002-june-chm1/ms_q3dii.jpg",
+      "markscheme_text": "all bonds must be broken (1)\n\n[Extra Information]:\nmention of molecules etc. CE = 0"
     },
     {
       "id": "2002-june-chm1-q3e",
@@ -6271,7 +6293,8 @@
       "figures": [
         "img/2002-june-chm1/fig-q3-table.jpg"
       ],
-      "markscheme": "img/2002-june-chm1/ms_q3e.jpg"
+      "markscheme": "img/2002-june-chm1/ms_q3e.jpg",
+      "markscheme_text": "- macromolecular (or giant molecule / giant covalent lattice) (1)\n- strong covalent bonds / lots of energy required to break bonds (1)"
     },
     {
       "id": "2002-june-chm1-q4a",
@@ -6288,7 +6311,8 @@
       "summary": "State trend in atomic radius down Group II from Be to Ba and give reason.",
       "image": "img/2002-june-chm1/q_q4a.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm1/ms_q4a.jpg"
+      "markscheme": "img/2002-june-chm1/ms_q4a.jpg",
+      "markscheme_text": "- Trend: increases (1)\n- Reason: more electron shells (or more shells / subshells / energy levels) (1)\n\n[Extra Information]:\nwrong trend CE = 0 and in (b)"
     },
     {
       "id": "2002-june-chm1-q4b",
@@ -6306,7 +6330,8 @@
       "summary": "State and explain trend in melting points of Group II elements down from Be to Ba.",
       "image": "img/2002-june-chm1/q_q4b.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm1/ms_q4b.jpg"
+      "markscheme": "img/2002-june-chm1/ms_q4b.jpg",
+      "markscheme_text": "- Trend: decreases (1)\n- Explanation: metallic bonds weaker / weaker attraction between positive ions and delocalised electrons (or nuclei) (1)\n- atoms (or ions) are larger (1)\n\n[Extra Information]:\nthird mark only scored if previous mark given\nCE if mention molecules, intermolecular forces, ionic bonding"
     },
     {
       "id": "2002-june-chm1-q4c",
@@ -6324,7 +6349,8 @@
       "summary": "State trend in reactivity with water down Group II and write equations for Mg and Sr.",
       "image": "img/2002-june-chm1/q_q4c.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm1/ms_q4c.jpg"
+      "markscheme": "img/2002-june-chm1/ms_q4c.jpg",
+      "markscheme_text": "- Trend: increases (1)\n- Equation for Mg: Mg + H<sub>2</sub>O -> MgO + H<sub>2</sub> (1)\n- Equation for Sr: Sr + 2H<sub>2</sub>O -> Sr(OH)<sub>2</sub> + H<sub>2</sub> (1)\n\n[Extra Information]:\nignore state symbols"
     },
     {
       "id": "2002-june-chm1-q4d",
@@ -6341,7 +6367,8 @@
       "summary": "Give formula of least soluble Group II sulphate (BaSO4) and state one use.",
       "image": "img/2002-june-chm1/q_q4d.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm1/ms_q4d.jpg"
+      "markscheme": "img/2002-june-chm1/ms_q4d.jpg",
+      "markscheme_text": "- Formula: BaSO<sub>4</sub> (1)\n- Use: test for sulphate ions (or pigment / for X-rays / barium meal / paint) (1)"
     },
     {
       "id": "2002-june-chm1-q4e",
@@ -6359,7 +6386,8 @@
       "summary": "Identify Group II element M forming amphoteric hydroxide (Be) and write ionic equations.",
       "image": "img/2002-june-chm1/q_q4e.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm1/ms_q4e.jpg"
+      "markscheme": "img/2002-june-chm1/ms_q4e.jpg",
+      "markscheme_text": "- Identity of M: Be (allow Be<sup>2+</sup>) (1)\n- Equation 1: Be<sup>2+</sup> + 2OH<sup>&minus;</sup> -> Be(OH)<sub>2</sub> (1)\n&nbsp;&nbsp;(allow + 2NaOH -> ... + 2Na<sup>+</sup>)\n- Equation 2: Be(OH)<sub>2</sub> + 2OH<sup>&minus;</sup> -> [Be(OH)<sub>4</sub>]<sup>2&minus;</sup> (1)\n&nbsp;&nbsp;(allow + 2NaOH -> ... + 2Na<sup>+</sup>)"
     },
     {
       "id": "2002-june-chm1-q4f",
@@ -6376,7 +6404,8 @@
       "summary": "Explain why BeCl2 has covalent character considering Be2+ interaction with chloride ion.",
       "image": "img/2002-june-chm1/q_q4f.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm1/ms_q4f.jpg"
+      "markscheme": "img/2002-june-chm1/ms_q4f.jpg",
+      "markscheme_text": "- Be<sup>2+</sup> ion has high charge / size ratio (or high charge density / Be<sup>2+</sup> is very small) (1)\n- polarises chloride ion (Cl<sup>&minus;</sup>) (1)\n- causes covalency / sharing of electrons (1)\n\n[Extra Information]:\npenalise Be; do not allow if BeCl<sub>2</sub> ionic\ncan score mark 2 from diagram"
     },
     {
       "id": "2002-june-chm2-q1a",
