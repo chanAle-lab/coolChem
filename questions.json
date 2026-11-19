@@ -6422,7 +6422,8 @@
       "summary": "State the meaning of the term enthalpy change.",
       "image": "img/2002-june-chm2/q_q1a.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm2/ms_q1a.jpg"
+      "markscheme": "img/2002-june-chm2/ms_q1a.jpg",
+      "markscheme_text": "- Heat energy change (1)\n- Measured at constant pressure (1)\n\n[Extra Information]:\nheat energy: <b>not</b> energy on its own\nmark separately\nignore constant temperature statements"
     },
     {
       "id": "2002-june-chm2-q1bi",
@@ -6439,7 +6440,8 @@
       "summary": "Define standard enthalpy of formation of a compound.",
       "image": "img/2002-june-chm2/q_q1bi.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm2/ms_q1bi.jpg"
+      "markscheme": "img/2002-june-chm2/ms_q1bi.jpg",
+      "markscheme_text": "- (Enthalpy change when) 1 mol of a compound / substance / product is formed (1)\n- from its constituent elements (1)\n- in their standard states under standard conditions (1)\n\n[Extra Information]:\nmark separately"
     },
     {
       "id": "2002-june-chm2-q1bii",
@@ -6456,7 +6458,8 @@
       "summary": "Write equation with state symbols for standard formation of solid sodium sulphate Na2SO4.",
       "image": "img/2002-june-chm2/q_q1bii.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm2/ms_q1bii.jpg"
+      "markscheme": "img/2002-june-chm2/ms_q1bii.jpg",
+      "markscheme_text": "2Na(s) + S(s) + 2O<sub>2</sub>(g) -> Na<sub>2</sub>SO<sub>4</sub>(s)\n- Balanced equation (1)\n- State symbols (1)\n\n[Extra Information]:\nallow &frac18;S<sub>8</sub>(s)\nstate symbols mark only if all species correct"
     },
     {
       "id": "2002-june-chm2-q1c",
@@ -6473,7 +6476,8 @@
       "summary": "State Hess's Law.",
       "image": "img/2002-june-chm2/q_q1c.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm2/ms_q1c.jpg"
+      "markscheme": "img/2002-june-chm2/ms_q1c.jpg",
+      "markscheme_text": "Enthalpy change is independent of reaction route (1)\n\n[Extra Information]:\npenalise incorrect additional statements"
     },
     {
       "id": "2002-june-chm2-q1d",
@@ -6490,7 +6494,8 @@
       "summary": "Calculate standard enthalpy of formation of maleic acid C4H4O4 from combustion data.",
       "image": "img/2002-june-chm2/q_q1d.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm2/ms_q1d.jpg"
+      "markscheme": "img/2002-june-chm2/ms_q1d.jpg",
+      "markscheme_text": "- Cycle or equation (1)\n- &Delta;H<sub>f</sub> = 4(-393.5) + 2(-285.8) - (-1356) (1)\n- = -789.6 (kJ mol<sup>-1</sup>) (1)\n\n[Extra Information]:\nif answer incorrect: score +789.6 two marks\nscore (&times;1), (&times;2) and (&times;4) for species: one mark\nif incorrect negative answer given, check for AE for loss of one mark"
     },
     {
       "id": "2002-june-chm2-q2a",
@@ -6510,7 +6515,8 @@
       "figures": [
         "img/2002-june-chm2/fig-q2-preamble.jpg"
       ],
-      "markscheme": "img/2002-june-chm2/ms_q2a.jpg"
+      "markscheme": "img/2002-june-chm2/ms_q2a.jpg",
+      "markscheme_text": "2AgNO<sub>3</sub> + Zn -> Zn(NO<sub>3</sub>)<sub>2</sub> + 2Ag (1)\n(or ionic: 2Ag<sup>+</sup> + Zn -> 2Ag + Zn<sup>2+</sup>)"
     },
     {
       "id": "2002-june-chm2-q2b",
@@ -6529,7 +6535,8 @@
       "figures": [
         "img/2002-june-chm2/fig-q2-preamble.jpg"
       ],
-      "markscheme": "img/2002-june-chm2/ms_q2b.jpg"
+      "markscheme": "img/2002-june-chm2/ms_q2b.jpg",
+      "markscheme_text": "- Moles = mv / 1000 = (0.20 &times; 50) / 1000 (1)\n- = 1.00 &times; 10<sup>-2</sup> (mol) (1)"
     },
     {
       "id": "2002-june-chm2-q2c",
@@ -6548,7 +6555,8 @@
       "figures": [
         "img/2002-june-chm2/fig-q2-preamble.jpg"
       ],
-      "markscheme": "img/2002-june-chm2/ms_q2c.jpg"
+      "markscheme": "img/2002-june-chm2/ms_q2c.jpg",
+      "markscheme_text": "- Heat energy change = mc&Delta;T = 50 &times; 4.18 &times; 3.20 (1)\n- = 669 J (or 668.8 J / 0.669 kJ) (1)\n\n[Extra Information]:\nignore signs\npenalise wrong units if given"
     },
     {
       "id": "2002-june-chm2-q2d",
@@ -6567,7 +6575,8 @@
       "figures": [
         "img/2002-june-chm2/fig-q2-preamble.jpg"
       ],
-      "markscheme": "img/2002-june-chm2/ms_q2d.jpg"
+      "markscheme": "img/2002-june-chm2/ms_q2d.jpg",
+      "markscheme_text": "- Dividing 2 &times; (c) by (b): (2 &times; 669) / 0.010 (1)\n- = 134 kJ mol<sup>-1</sup> (allow 133&ndash;134) (1)\n\n[Extra Information]:\nmark conseq to equation in (a) for full marks\npenalise incorrect units; if no working shown and answer incorrect: zero"
     },
     {
       "id": "2002-june-chm2-q2e",
@@ -6586,7 +6595,8 @@
       "figures": [
         "img/2002-june-chm2/fig-q2-preamble.jpg"
       ],
-      "markscheme": "img/2002-june-chm2/ms_q2e.jpg"
+      "markscheme": "img/2002-june-chm2/ms_q2e.jpg",
+      "markscheme_text": "Incomplete reaction OR heat loss (1)"
     },
     {
       "id": "2002-june-chm2-q3ai",
@@ -6603,7 +6613,8 @@
       "summary": "Give oxidation state of sulphur in H2S (-2).",
       "image": "img/2002-june-chm2/q_q3ai.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm2/ms_q3ai.jpg"
+      "markscheme": "img/2002-june-chm2/ms_q3ai.jpg",
+      "markscheme_text": "-2 (or 2-) (1)"
     },
     {
       "id": "2002-june-chm2-q3aii",
@@ -6620,7 +6631,8 @@
       "summary": "Give solid sodium halide which reduces concentrated sulphuric acid to H2S (NaI).",
       "image": "img/2002-june-chm2/q_q3aii.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm2/ms_q3aii.jpg"
+      "markscheme": "img/2002-june-chm2/ms_q3aii.jpg",
+      "markscheme_text": "NaI or NaAt (or I<sup>-</sup> / iodide / At<sup>-</sup> / astatide) (1)\n\n[Extra Information]:\n<b>not</b> atoms or molecules"
     },
     {
       "id": "2002-june-chm2-q3aiii",
@@ -6637,7 +6649,8 @@
       "summary": "State one way presence of H2S could be recognised (smell of bad eggs).",
       "image": "img/2002-june-chm2/q_q3aiii.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm2/ms_q3aiii.jpg"
+      "markscheme": "img/2002-june-chm2/ms_q3aiii.jpg",
+      "markscheme_text": "Smell of bad eggs (1)\n\n[Extra Information]:\nallow: PbAc<sub>2</sub> paper goes black / K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>/H<sup>+</sup> goes cloudy green"
     },
     {
       "id": "2002-june-chm2-q3aiv",
@@ -6655,7 +6668,8 @@
       "summary": "Write half-equation for formation of H2S from sulphuric acid.",
       "image": "img/2002-june-chm2/q_q3aiv.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm2/ms_q3aiv.jpg"
+      "markscheme": "img/2002-june-chm2/ms_q3aiv.jpg",
+      "markscheme_text": "8e<sup>-</sup> + 8H<sup>+</sup> + H<sub>2</sub>SO<sub>4</sub> -> H<sub>2</sub>S + 4H<sub>2</sub>O (1)\n(or 8e<sup>-</sup> + 10H<sup>+</sup> + SO<sub>4</sub><sup>2-</sup> -> H<sub>2</sub>S + 4H<sub>2</sub>O)"
     },
     {
       "id": "2002-june-chm2-q3bi",
@@ -6672,7 +6686,8 @@
       "summary": "Suggest identity for halogen-containing product X without reduction (HF or HCl).",
       "image": "img/2002-june-chm2/q_q3bi.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm2/ms_q3bi.jpg"
+      "markscheme": "img/2002-june-chm2/ms_q3bi.jpg",
+      "markscheme_text": "HF or HCl (1)\n\n[Extra Information]:\nCE = 0 if redox answer given\nif NaF, NaCl, F<sup>-</sup> or Cl<sup>-</sup> given, lose mark in (i) but mark on"
     },
     {
       "id": "2002-june-chm2-q3bii",
@@ -6689,7 +6704,8 @@
       "summary": "Identify solid sodium halide producing X (NaF or NaCl).",
       "image": "img/2002-june-chm2/q_q3bii.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm2/ms_q3bii.jpg"
+      "markscheme": "img/2002-june-chm2/ms_q3bii.jpg",
+      "markscheme_text": "NaF or NaCl (or F<sup>-</sup> / Cl<sup>-</sup> / sodium fluoride / sodium chloride) (1)\n\n[Extra Information]:\nif wrong halide given, allow max 1 in b(iii)"
     },
     {
       "id": "2002-june-chm2-q3biii",
@@ -6706,7 +6722,8 @@
       "summary": "State role of sulphuric acid in formation of X (proton donor / acid).",
       "image": "img/2002-june-chm2/q_q3biii.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm2/ms_q3biii.jpg"
+      "markscheme": "img/2002-june-chm2/ms_q3biii.jpg",
+      "markscheme_text": "A proton donor or an acid (1)\n\n[Extra Information]:\nallow if X is a hydrogen halide in (i)"
     },
     {
       "id": "2002-june-chm2-q3biv",
@@ -6723,7 +6740,8 @@
       "summary": "Write equation for reaction of halide with concentrated sulphuric acid to form X.",
       "image": "img/2002-june-chm2/q_q3biv.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm2/ms_q3biv.jpg"
+      "markscheme": "img/2002-june-chm2/ms_q3biv.jpg",
+      "markscheme_text": "H<sup>+</sup> + F<sup>-</sup> -> HF (1)\n(or H<sub>2</sub>SO<sub>4</sub> + NaF -> NaHSO<sub>4</sub> + HF / H<sub>2</sub>SO<sub>4</sub> + 2NaF -> Na<sub>2</sub>SO<sub>4</sub> + 2HF / or corresponding chloride equations)"
     },
     {
       "id": "2002-june-chm2-q4ai",
@@ -6740,7 +6758,8 @@
       "summary": "Identify reagent added to silver nitrate to prevent carbonate interference (HNO3).",
       "image": "img/2002-june-chm2/q_q4ai.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm2/ms_q4ai.jpg"
+      "markscheme": "img/2002-june-chm2/ms_q4ai.jpg",
+      "markscheme_text": "HNO<sub>3</sub> (nitric acid) or CH<sub>3</sub>COOH (ethanoic acid) (1)\n\n[Extra Information]:\nCE in (a) if incorrect acid given (e.g. HCl or H<sub>2</sub>SO<sub>4</sub>)"
     },
     {
       "id": "2002-june-chm2-q4aii",
@@ -6757,7 +6776,8 @@
       "summary": "Write equation for reaction of HNO3 with sodium carbonate.",
       "image": "img/2002-june-chm2/q_q4aii.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm2/ms_q4aii.jpg"
+      "markscheme": "img/2002-june-chm2/ms_q4aii.jpg",
+      "markscheme_text": "2HNO<sub>3</sub> + Na<sub>2</sub>CO<sub>3</sub> -> 2NaNO<sub>3</sub> + CO<sub>2</sub> + H<sub>2</sub>O (1)\n(or ionic: 2H<sup>+</sup> + CO<sub>3</sub><sup>2-</sup> -> H<sub>2</sub>O + CO<sub>2</sub>)\n\n[Extra Information]:\n<b>not</b> H<sub>2</sub>CO<sub>3</sub>"
     },
     {
       "id": "2002-june-chm2-q4bi",
@@ -6774,7 +6794,8 @@
       "summary": "Identify halide ion forming ppt insoluble in conc aqueous ammonia (I-).",
       "image": "img/2002-june-chm2/q_q4bi.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm2/ms_q4bi.jpg"
+      "markscheme": "img/2002-june-chm2/ms_q4bi.jpg",
+      "markscheme_text": "I<sup>-</sup> or At<sup>-</sup> (iodide or astatide) (1)\n\n[Extra Information]:\n<b>not</b> elements, atoms or molecules"
     },
     {
       "id": "2002-june-chm2-q4bii",
@@ -6791,7 +6812,8 @@
       "summary": "Identify halide ion which cannot be detected using AgNO3 and NH3 (F-).",
       "image": "img/2002-june-chm2/q_q4bii.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm2/ms_q4bii.jpg"
+      "markscheme": "img/2002-june-chm2/ms_q4bii.jpg",
+      "markscheme_text": "F<sup>-</sup> (fluoride) (1)\n\n[Extra Information]:\n<b>not</b> element, atoms or molecules"
     },
     {
       "id": "2002-june-chm2-q4ci",
@@ -6808,7 +6830,8 @@
       "summary": "Identify halide ion in precipitate P dissolving in dilute aqueous ammonia (Cl-).",
       "image": "img/2002-june-chm2/q_q4ci.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm2/ms_q4ci.jpg"
+      "markscheme": "img/2002-june-chm2/ms_q4ci.jpg",
+      "markscheme_text": "Cl<sup>-</sup> (chloride) (1)\n\n[Extra Information]:\nallow AgCl\n<b>not</b> element, atoms or molecules"
     },
     {
       "id": "2002-june-chm2-q4cii",
@@ -6825,7 +6848,8 @@
       "summary": "Identify halide ion in precipitate Q soluble in concentrated aqueous ammonia (Br-).",
       "image": "img/2002-june-chm2/q_q4cii.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm2/ms_q4cii.jpg"
+      "markscheme": "img/2002-june-chm2/ms_q4cii.jpg",
+      "markscheme_text": "Br<sup>-</sup> (bromide) (1)\n\n[Extra Information]:\nallow AgBr\n<b>not</b> element, atoms or molecules"
     },
     {
       "id": "2002-june-chm2-q5ai",
@@ -6844,7 +6868,8 @@
       "figures": [
         "img/2002-june-chm2/fig-q5-curve.jpg"
       ],
-      "markscheme": "img/2002-june-chm2/ms_q5ai.jpg"
+      "markscheme": "img/2002-june-chm2/ms_q5ai.jpg",
+      "markscheme_text": "- y-axis: Number of molecules (or particles) (1)\n- x-axis: (Molecular) Energy (1)\n\n[Extra Information]:\ny-axis: <b>not</b> moles/mols, <b>not</b> atoms, <b>not</b> fraction/proportion\nx-axis: <b>not</b> velocity"
     },
     {
       "id": "2002-june-chm2-q5aii",
@@ -6863,7 +6888,8 @@
       "figures": [
         "img/2002-june-chm2/fig-q5-curve.jpg"
       ],
-      "markscheme": "img/2002-june-chm2/ms_q5aii.jpg"
+      "markscheme": "img/2002-june-chm2/ms_q5aii.jpg",
+      "markscheme_text": "The total number of molecules / particles in the sample (or number of molecules present) (1)"
     },
     {
       "id": "2002-june-chm2-q5aiii",
@@ -6882,7 +6908,8 @@
       "figures": [
         "img/2002-june-chm2/fig-q5-curve.jpg"
       ],
-      "markscheme": "img/2002-june-chm2/ms_q5aiii.jpg"
+      "markscheme": "img/2002-june-chm2/ms_q5aiii.jpg",
+      "markscheme_text": "No molecules have no energy (OR All molecules have some energy) (1)\n\n[Extra Information]:\ndo <b>not</b> allow 'If there are no molecules there is no energy'"
     },
     {
       "id": "2002-june-chm2-q5bi",
@@ -6899,7 +6926,8 @@
       "summary": "State what is meant by the term activation energy.",
       "image": "img/2002-june-chm2/q_q5bi.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm2/ms_q5bi.jpg"
+      "markscheme": "img/2002-june-chm2/ms_q5bi.jpg",
+      "markscheme_text": "- The minimum energy required (1)\n- for a reaction to occur / to start reaction / for a successful collision (1)"
     },
     {
       "id": "2002-june-chm2-q5bii",
@@ -6916,7 +6944,8 @@
       "summary": "State which change involves different activation energy and explain (catalyst).",
       "image": "img/2002-june-chm2/q_q5bii.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm2/ms_q5bii.jpg"
+      "markscheme": "img/2002-june-chm2/ms_q5bii.jpg",
+      "markscheme_text": "- Change: Catalyst (1)\n- Explanation: Provides an alternative reaction route / pathway (1)\n- with a lower activation energy (1)\n\n[Extra Information]:\nif change incorrect CE = 0\nallow lower activation energy (1) so more molecules have enough energy to react (1)"
     },
     {
       "id": "2002-june-chm2-q6a",
@@ -6933,7 +6962,8 @@
       "summary": "State what reducing agent does in terms of electron transfer.",
       "image": "img/2002-june-chm2/q_q6a.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm2/ms_q6a.jpg"
+      "markscheme": "img/2002-june-chm2/ms_q6a.jpg",
+      "markscheme_text": "A reducing agent gives electrons (or loses electrons) (1)\n\n[Extra Information]:\n<b>not</b> electron pairs"
     },
     {
       "id": "2002-june-chm2-q6b",
@@ -6950,7 +6980,8 @@
       "summary": "State oxidation state of an atom in an uncombined element (0).",
       "image": "img/2002-june-chm2/q_q6b.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm2/ms_q6b.jpg"
+      "markscheme": "img/2002-june-chm2/ms_q6b.jpg",
+      "markscheme_text": "Zero (0) (1)"
     },
     {
       "id": "2002-june-chm2-q6ci",
@@ -6967,7 +6998,8 @@
       "summary": "Deduce oxidation state of nitrogen in NCl3 (+3).",
       "image": "img/2002-june-chm2/q_q6ci.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm2/ms_q6ci.jpg"
+      "markscheme": "img/2002-june-chm2/ms_q6ci.jpg",
+      "markscheme_text": "(+)3 (1)\n\n[Extra Information]:\nallow answers in roman (III)"
     },
     {
       "id": "2002-june-chm2-q6cii",
@@ -6984,7 +7016,8 @@
       "summary": "Deduce oxidation state of nitrogen in Mg3N2 (-3).",
       "image": "img/2002-june-chm2/q_q6cii.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm2/ms_q6cii.jpg"
+      "markscheme": "img/2002-june-chm2/ms_q6cii.jpg",
+      "markscheme_text": "-3 (or 3-) (1)"
     },
     {
       "id": "2002-june-chm2-q6ciii",
@@ -7001,7 +7034,8 @@
       "summary": "Deduce oxidation state of nitrogen in NH2OH (-1).",
       "image": "img/2002-june-chm2/q_q6ciii.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm2/ms_q6ciii.jpg"
+      "markscheme": "img/2002-june-chm2/ms_q6ciii.jpg",
+      "markscheme_text": "-1 (or 1-) (1)"
     },
     {
       "id": "2002-june-chm2-q6di",
@@ -7018,7 +7052,8 @@
       "summary": "Write half-equation for formation of Pb2+ and water from PbO2 with H+.",
       "image": "img/2002-june-chm2/q_q6di.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm2/ms_q6di.jpg"
+      "markscheme": "img/2002-june-chm2/ms_q6di.jpg",
+      "markscheme_text": "PbO<sub>2</sub> + 4H<sup>+</sup> + 2e<sup>-</sup> -> Pb<sup>2+</sup> + 2H<sub>2</sub>O (1)"
     },
     {
       "id": "2002-june-chm2-q6dii",
@@ -7035,7 +7070,8 @@
       "summary": "Write half-equation for formation of chlorine from chloride ions.",
       "image": "img/2002-june-chm2/q_q6dii.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm2/ms_q6dii.jpg"
+      "markscheme": "img/2002-june-chm2/ms_q6dii.jpg",
+      "markscheme_text": "2Cl<sup>-</sup> -> Cl<sub>2</sub> + 2e<sup>-</sup> (1)"
     },
     {
       "id": "2002-june-chm2-q6diii",
@@ -7052,7 +7088,8 @@
       "summary": "Deduce overall equation for PbO2 reacting with concentrated hydrochloric acid.",
       "image": "img/2002-june-chm2/q_q6diii.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm2/ms_q6diii.jpg"
+      "markscheme": "img/2002-june-chm2/ms_q6diii.jpg",
+      "markscheme_text": "PbO<sub>2</sub> + 4H<sup>+</sup> + 2Cl<sup>-</sup> -> Pb<sup>2+</sup> + Cl<sub>2</sub> + 2H<sub>2</sub>O (1)\n(or molecular: PbO<sub>2</sub> + 4HCl -> PbCl<sub>2</sub> + Cl<sub>2</sub> + 2H<sub>2</sub>O)"
     },
     {
       "id": "2002-june-chm2-q7a",
@@ -7069,7 +7106,8 @@
       "summary": "State why chlorine is added to drinking water (kills bacteria).",
       "image": "img/2002-june-chm2/q_q7a.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm2/ms_q7a.jpg"
+      "markscheme": "img/2002-june-chm2/ms_q7a.jpg",
+      "markscheme_text": "To kill bacteria / micro-organisms / microbes / germs OR to sterilize / disinfect water (as a germicide) (1)\n\n[Extra Information]:\n<b>not</b> to purify water; <b>not</b> to kill organisms"
     },
     {
       "id": "2002-june-chm2-q7b",
@@ -7086,7 +7124,8 @@
       "summary": "Write equation for chlorine + water and identify substance causing pale green color.",
       "image": "img/2002-june-chm2/q_q7b.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm2/ms_q7b.jpg"
+      "markscheme": "img/2002-june-chm2/ms_q7b.jpg",
+      "markscheme_text": "- Equation: Cl<sub>2</sub> + H<sub>2</sub>O <=> HClO + HCl (1)\n- Substance: (Free) chlorine or Cl<sub>2</sub> (1)\n\n[Extra Information]:\nallow ionic products (H<sup>+</sup> + Cl<sup>-</sup> + HClO)"
     },
     {
       "id": "2002-june-chm2-q7c",
@@ -7103,7 +7142,8 @@
       "summary": "Write equation for chlorine bubbled into cold aqueous sodium hydroxide.",
       "image": "img/2002-june-chm2/q_q7c.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm2/ms_q7c.jpg"
+      "markscheme": "img/2002-june-chm2/ms_q7c.jpg",
+      "markscheme_text": "2NaOH + Cl<sub>2</sub> -> NaCl + NaClO + H<sub>2</sub>O (1)\n(or ionic: 2OH<sup>-</sup> + Cl<sub>2</sub> -> Cl<sup>-</sup> + ClO<sup>-</sup> + H<sub>2</sub>O)\n\n[Extra Information]:\nboth products must be salts / allow OCl<sup>-</sup>"
     },
     {
       "id": "2002-june-chm2-q7di",
@@ -7120,7 +7160,8 @@
       "summary": "Write equation for reaction between chlorine and potassium iodide.",
       "image": "img/2002-june-chm2/q_q7di.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm2/ms_q7di.jpg"
+      "markscheme": "img/2002-june-chm2/ms_q7di.jpg",
+      "markscheme_text": "Cl<sub>2</sub> + 2KI -> 2KCl + I<sub>2</sub> (1)\n(or ionic: Cl<sub>2</sub> + 2I<sup>-</sup> -> 2Cl<sup>-</sup> + I<sub>2</sub>)"
     },
     {
       "id": "2002-june-chm2-q7dii",
@@ -7137,7 +7178,8 @@
       "summary": "Write equation for reaction between iodine and sodium thiosulphate.",
       "image": "img/2002-june-chm2/q_q7dii.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm2/ms_q7dii.jpg"
+      "markscheme": "img/2002-june-chm2/ms_q7dii.jpg",
+      "markscheme_text": "I<sub>2</sub> + 2Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub> -> 2NaI + Na<sub>2</sub>S<sub>4</sub>O<sub>6</sub> (1)\n(or ionic: I<sub>2</sub> + 2S<sub>2</sub>O<sub>3</sub><sup>2-</sup> -> 2I<sup>-</sup> + S<sub>4</sub>O<sub>6</sub><sup>2-</sup>)"
     },
     {
       "id": "2002-june-chm2-q7diii",
@@ -7154,7 +7196,8 @@
       "summary": "Calculate mass of chlorine added per 1.00 dm3 of swimming pool water from titration.",
       "image": "img/2002-june-chm2/q_q7diii.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm2/ms_q7diii.jpg"
+      "markscheme": "img/2002-june-chm2/ms_q7diii.jpg",
+      "markscheme_text": "- Moles thiosulphate = mv / 1000 = (0.0150 &times; 7.20) / 1000 = 1.08 &times; 10<sup>-4</sup> mol (1)\n- Moles Cl<sub>2</sub> = Moles I<sub>2</sub> = (1.08 &times; 10<sup>-4</sup>) / 2 = 5.40 &times; 10<sup>-5</sup> mol (1)\n- Mass Cl<sub>2</sub> = (5.40 &times; 10<sup>-5</sup>) &times; 71.0 (1)\n- = 3.83 &times; 10<sup>-3</sup> g dm<sup>-3</sup> (1)\n\n[Extra Information]:\npenalise missing 1000 as AE -1\nallow 3.80&ndash;3.85 &times; 10<sup>-3</sup> g dm<sup>-3</sup>"
     },
     {
       "id": "2002-june-chm3w-q1a",
