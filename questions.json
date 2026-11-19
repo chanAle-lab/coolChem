@@ -1018,7 +1018,8 @@
       "summary": "Calculate the Avogadro constant from the mass of one 12C atom.",
       "image": "img/2001-jan-chm1/q_q2a.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm1/ms_q2a.jpg"
+      "markscheme": "img/2001-jan-chm1/ms_q2a.jpg",
+      "markscheme_text": "• 12 / (1.99 × 10^-23) (1)\n• = 6.03 × 10^23 (1)"
     },
     {
       "id": "2001-jan-chm1-q2b",
@@ -1035,7 +1036,8 @@
       "summary": "Give the meaning of the term empirical formula.",
       "image": "img/2001-jan-chm1/q_q2b.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm1/ms_q2b.jpg"
+      "markscheme": "img/2001-jan-chm1/ms_q2b.jpg",
+      "markscheme_text": "simplest ratio of atoms of each element in a compound (1)"
     },
     {
       "id": "2001-jan-chm1-q2c",
@@ -1052,7 +1054,8 @@
       "summary": "Define the term relative molecular mass.",
       "image": "img/2001-jan-chm1/q_q2c.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm1/ms_q2c.jpg"
+      "markscheme": "img/2001-jan-chm1/ms_q2c.jpg",
+      "markscheme_text": "• (average) mass of an entity / molecule (1)\n• ÷ 1/12th of the mass of an atom of ^12C (1)\n\n<i>OR</i>\n\n• [mass of 1 mole of molecules (1)\n• ÷ 1/12th of mass of 1 mole of ^12C (1)]"
     },
     {
       "id": "2001-jan-chm1-q2d",
@@ -1069,7 +1072,8 @@
       "summary": "Determine the molecular formula of a compound with empirical formula CHO and Mr 174.",
       "image": "img/2001-jan-chm1/q_q2d.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm1/ms_q2d.jpg"
+      "markscheme": "img/2001-jan-chm1/ms_q2d.jpg",
+      "markscheme_text": "• CHO = 29\n  174 / 29 = 6 (1)\n• (therefore) C_6H_6O_6 (1)"
     },
     {
       "id": "2001-jan-chm1-q2e",
@@ -1086,7 +1090,8 @@
       "summary": "Write a balanced equation for the combustion of CH4O.",
       "image": "img/2001-jan-chm1/q_q2e.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm1/ms_q2e.jpg"
+      "markscheme": "img/2001-jan-chm1/ms_q2e.jpg",
+      "markscheme_text": "CH_4O + 11/2 O_2 -> CO_2 + 2H_2O (1)"
     },
     {
       "id": "2001-jan-chm1-q3a",
@@ -1104,7 +1109,8 @@
       "summary": "Calculate the volume of 2.00 mol dm^-3 nitric acid required to react with 20.0 g ammonia.",
       "image": "img/2001-jan-chm1/q_q3a.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm1/ms_q3a.jpg"
+      "markscheme": "img/2001-jan-chm1/ms_q3a.jpg",
+      "markscheme_text": "• moles of NH_3 = 20.0 / 17.0 = 1.18 (mol) (1)\n• moles of HNO_3 = moles of NH_3 = 1.18 (mol)\n• volume = 1.18 / 2.00 (1)\n• = 0.588 (1) dm^3 (1)"
     },
     {
       "id": "2001-jan-chm1-q3bi",
@@ -1121,7 +1127,8 @@
       "summary": "State the ideal gas equation and calculate total moles of N2 and O2 formed.",
       "image": "img/2001-jan-chm1/q_q3bi.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm1/ms_q3bi.jpg"
+      "markscheme": "img/2001-jan-chm1/ms_q3bi.jpg",
+      "markscheme_text": "• <i>pV</i> = <i>nRT</i> (1)\n• <i>n</i> = <i>pV</i> / <i>RT</i> = (95000 x 0.0500) / (8.31 x 298) (1)\n• = 1.92 (1)\n• mol (1)"
     },
     {
       "id": "2001-jan-chm1-q3bii",
@@ -1140,7 +1147,8 @@
       "figures": [
         "img/2001-jan-chm1/fig-q3b.jpg"
       ],
-      "markscheme": "img/2001-jan-chm1/ms_q3bii.jpg"
+      "markscheme": "img/2001-jan-chm1/ms_q3bii.jpg",
+      "markscheme_text": "• moles of NH_4NO_3 = 1.92 / 1.5 = 1.28 mol (1)\n• mass = 1.28 x 80.0 (1) = 102 g (or 102.4 g) (1)"
     },
     {
       "id": "2001-jan-chm1-q4a",
@@ -1158,7 +1166,8 @@
       "summary": "Draw crosses on the graph to show the first ionisation energies of Si, P, and S.",
       "image": "img/2001-jan-chm1/q_q4a.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm1/ms_q4a.jpg"
+      "markscheme": "img/2001-jan-chm1/ms_q4a.jpg",
+      "markscheme_text": "• Cross for Si higher than Al (1)\n• Cross for P higher than Si (1)\n• Cross for S lower than P (and higher than Al) (1)"
     },
     {
       "id": "2001-jan-chm1-q4b",
@@ -1177,7 +1186,8 @@
       "figures": [
         "img/2001-jan-chm1/fig-q4-graph.jpg"
       ],
-      "markscheme": "img/2001-jan-chm1/ms_q4b.jpg"
+      "markscheme": "img/2001-jan-chm1/ms_q4b.jpg",
+      "markscheme_text": "Ne(g) -> Ne^+(g) + e^- (1)"
     },
     {
       "id": "2001-jan-chm1-q4c",
@@ -1196,7 +1206,8 @@
       "figures": [
         "img/2001-jan-chm1/fig-q4-graph.jpg"
       ],
-      "markscheme": "img/2001-jan-chm1/ms_q4c.jpg"
+      "markscheme": "img/2001-jan-chm1/ms_q4c.jpg",
+      "markscheme_text": "<i>Explanation for neon:</i>\n• Neon's electron is in a lower (2p) shell / closer to nucleus (1)\n• attracted more strongly to (or less shielded from) the nucleus (1)\n\n<i>Explanation for magnesium:</i>\n• magnesium has more protons / greater nuclear charge (1)\n• electrons in same (3rd) shell / similar shielding (1)"
     },
     {
       "id": "2001-jan-chm1-q4d",
@@ -1213,7 +1224,8 @@
       "summary": "Explain why the first ionisation energy of aluminium is lower than magnesium.",
       "image": "img/2001-jan-chm1/q_q4d.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm1/ms_q4d.jpg"
+      "markscheme": "img/2001-jan-chm1/ms_q4d.jpg",
+      "markscheme_text": "• Al's outer electron is in a 3p sub-shell (1)\n• 3p electron is higher in energy / further from nucleus / shielded by 3s electrons (1)"
     },
     {
       "id": "2001-jan-chm1-q4e",
@@ -1231,7 +1243,8 @@
       "summary": "Identify the element with the lowest melting point among Ne, Na, Mg, Al, Si and explain in terms of bonding.",
       "image": "img/2001-jan-chm1/q_q4e.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm1/ms_q4e.jpg"
+      "markscheme": "img/2001-jan-chm1/ms_q4e.jpg",
+      "markscheme_text": "• Element: neon (1)\n• exists as individual / free atoms (1)\n• (very) weak van der Waals forces (between atoms) (1)"
     },
     {
       "id": "2001-jan-chm1-q4f",
@@ -1249,7 +1262,8 @@
       "summary": "Identify the element with the highest melting point among Ne, Na, Mg, Al, Si and explain in terms of bonding.",
       "image": "img/2001-jan-chm1/q_q4f.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm1/ms_q4f.jpg"
+      "markscheme": "img/2001-jan-chm1/ms_q4f.jpg",
+      "markscheme_text": "• Element: silicon (1)\n• macromolecular / giant covalent lattice (1)\n• (many strong) covalent bonds must be broken (1)"
     },
     {
       "id": "2001-jan-chm1-q5a",
@@ -1266,7 +1280,8 @@
       "summary": "Define the term electronegativity.",
       "image": "img/2001-jan-chm1/q_q5a.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm1/ms_q5a.jpg"
+      "markscheme": "img/2001-jan-chm1/ms_q5a.jpg",
+      "markscheme_text": "• ability / power of an atom to attract electron density / shared pair of electrons (1)\n• from a covalent bond (1)"
     },
     {
       "id": "2001-jan-chm1-q5b",
@@ -1283,7 +1298,8 @@
       "summary": "State and explain the trend in electronegativity down Group 2.",
       "image": "img/2001-jan-chm1/q_q5b.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm1/ms_q5b.jpg"
+      "markscheme": "img/2001-jan-chm1/ms_q5b.jpg",
+      "markscheme_text": "• Trend: decreases (1)\n• Explanation: outer electrons further from nucleus / atomic radius increases (1)\n• more shielding (from inner electron shells) (1)"
     },
     {
       "id": "2001-jan-chm1-q5c",
@@ -1300,7 +1316,8 @@
       "summary": "Equation for strontium reacting with water and approximate pH of the resulting solution.",
       "image": "img/2001-jan-chm1/q_q5c.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm1/ms_q5c.jpg"
+      "markscheme": "img/2001-jan-chm1/ms_q5c.jpg",
+      "markscheme_text": "• Equation: Sr + 2H_2O -> Sr(OH)_2 + H_2 (1)\n• pH: 12 - 14 (1)"
     },
     {
       "id": "2001-jan-chm1-q5d",
@@ -1317,7 +1334,8 @@
       "summary": "Observation and equation when aqueous barium chloride is added to dilute sulfuric acid.",
       "image": "img/2001-jan-chm1/q_q5d.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm1/ms_q5d.jpg"
+      "markscheme": "img/2001-jan-chm1/ms_q5d.jpg",
+      "markscheme_text": "• Observation: white precipitate (1)\n• Equation: Ba^2+ + SO_4^2- -> BaSO_4 (1)"
     },
     {
       "id": "2001-jan-chm1-q5e",
@@ -1334,7 +1352,8 @@
       "summary": "Give two examples illustrating atypical properties of beryllium compounds in Group 2.",
       "image": "img/2001-jan-chm1/q_q5e.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm1/ms_q5e.jpg"
+      "markscheme": "img/2001-jan-chm1/ms_q5e.jpg",
+      "markscheme_text": "any two from:\n• BeCl_2 is covalent (1)\n• Be(OH)_2 is amphoteric (1)\n• Be forms complex ions (1)"
     },
     {
       "id": "2001-jan-chm1-q5f",
@@ -1351,7 +1370,8 @@
       "summary": "Feature of the beryllium ion that causes atypical properties of beryllium compounds.",
       "image": "img/2001-jan-chm1/q_q5f.jpg",
       "figures": [],
-      "markscheme": "img/2001-jan-chm1/ms_q5f.jpg"
+      "markscheme": "img/2001-jan-chm1/ms_q5f.jpg",
+      "markscheme_text": "high charge / size ratio (1)"
     },
     {
       "id": "2001-jan-chm2-q1a",
