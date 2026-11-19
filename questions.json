@@ -7214,7 +7214,8 @@
       "summary": "Outline how crude oil fractions are obtained by fractional distillation.",
       "image": "img/2002-june-chm3w/q_q1a.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm3w/ms_q1a.jpg"
+      "markscheme": "img/2002-june-chm3w/ms_q1a.jpg",
+      "markscheme_text": "<b>Any three from:</b>\n- Crude oil heated to vaporise it / oil is vaporised (1)\n- (Vapour passed into) fractionating tower / column (1)\n- Top of tower cooler than bottom / negative temperature gradient (1)\n- Fractions separated by boiling points / condense at different temperatures or levels (1)\n\n[Extra Information]:\nMax 3 marks\nallow low boiling fractions / small molecules / light components at the top"
     },
     {
       "id": "2002-june-chm3w-q1bi",
@@ -7233,7 +7234,8 @@
       "figures": [
         "img/2002-june-chm3w/fig-q1b-table.jpg"
       ],
-      "markscheme": "img/2002-june-chm3w/ms_q1bi.jpg"
+      "markscheme": "img/2002-june-chm3w/ms_q1bi.jpg",
+      "markscheme_text": "- Identifies shortfall in supply &ndash; e.g. petrol / smaller molecules (1)\n- Produces higher value / more useful products / more of required material (1)"
     },
     {
       "id": "2002-june-chm3w-q1bii",
@@ -7252,7 +7254,8 @@
       "figures": [
         "img/2002-june-chm3w/fig-q1b-table.jpg"
       ],
-      "markscheme": "img/2002-june-chm3w/ms_q1bii.jpg"
+      "markscheme": "img/2002-june-chm3w/ms_q1bii.jpg",
+      "markscheme_text": "<b>Any two from:</b>\n- Motor fuels (1)\n- Aromatic hydrocarbons (1)\n- Branched alkanes / hydrocarbons (1)\n- Cycloalkanes (1)\n\n[Extra Information]:\nignore specific fractions, alkanes, shorter alkanes\npenalise alkenes, hydrogen"
     },
     {
       "id": "2002-june-chm3w-q1c",
@@ -7269,7 +7272,8 @@
       "summary": "Name catalyst (zeolite), mechanism type (carbocation), and conditions for catalytic cracking.",
       "image": "img/2002-june-chm3w/q_q1c.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm3w/ms_q1c.jpg"
+      "markscheme": "img/2002-june-chm3w/ms_q1c.jpg",
+      "markscheme_text": "- Catalyst: Zeolite / aluminosilicate (1)\n- Mechanism: Carbocation / heterolytic fission (1)\n- Conditions (2 marks):\n&nbsp;&nbsp;High temp / around 450 °C [300&ndash;600 °C] (1)\n&nbsp;&nbsp;Slight pressure [> 1 atm <= 10 atm / 1 MPa / 1000 kPa] (1)\n\n[Extra Information]:\nconditions: <b>not</b> heat/warm\npressure: <b>not</b> high pressure"
     },
     {
       "id": "2002-june-chm3w-q2ai",
@@ -7286,7 +7290,8 @@
       "summary": "Write equation for initiation step in free-radical chlorination of methane.",
       "image": "img/2002-june-chm3w/q_q2ai.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm3w/ms_q2ai.jpg"
+      "markscheme": "img/2002-june-chm3w/ms_q2ai.jpg",
+      "markscheme_text": "Cl<sub>2</sub> -> 2Cl- (1)\n\n[Extra Information]:\npenalise missing dot '•' once only"
     },
     {
       "id": "2002-june-chm3w-q2aii",
@@ -7303,7 +7308,8 @@
       "summary": "Write overall equation for formation of CHCl3 from CH2Cl2 and Cl2.",
       "image": "img/2002-june-chm3w/q_q2aii.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm3w/ms_q2aii.jpg"
+      "markscheme": "img/2002-june-chm3w/ms_q2aii.jpg",
+      "markscheme_text": "CH<sub>2</sub>Cl<sub>2</sub> + Cl<sub>2</sub> -> CHCl<sub>3</sub> + HCl (1)"
     },
     {
       "id": "2002-june-chm3w-q2aiii",
@@ -7320,7 +7326,8 @@
       "summary": "Write equations for two propagation steps converting CH2Cl2 into CHCl3.",
       "image": "img/2002-june-chm3w/q_q2aiii.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm3w/ms_q2aiii.jpg"
+      "markscheme": "img/2002-june-chm3w/ms_q2aiii.jpg",
+      "markscheme_text": "- Equation 1: CH<sub>2</sub>Cl<sub>2</sub> + Cl- -> CHCl<sub>2</sub>- + HCl (1)\n- Equation 2: CHCl<sub>2</sub>- + Cl<sub>2</sub> -> CHCl<sub>3</sub> + Cl- (1)\n\n[Extra Information]:\ncan reverse order\npenalise missing dot '•' once only"
     },
     {
       "id": "2002-june-chm3w-q2aiv",
@@ -7337,7 +7344,8 @@
       "summary": "Suggest and explain effect of increasing UV light intensity on reaction rate.",
       "image": "img/2002-june-chm3w/q_q2aiv.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm3w/ms_q2aiv.jpg"
+      "markscheme": "img/2002-june-chm3w/ms_q2aiv.jpg",
+      "markscheme_text": "- Effect on rate: Increases (1)\n- Explanation: More Cl- radicals formed / more Cl-Cl bonds broken (1)\n\n[Extra Information]:\nallow more Cl atoms / more Cl<sub>2</sub> have E<sub>a</sub> / increased rate of Cl• production\nif decrease given, CE zero marks"
     },
     {
       "id": "2002-june-chm3w-q2bi",
@@ -7354,7 +7362,8 @@
       "summary": "Write equation for complete combustion of pentadecane C15H32.",
       "image": "img/2002-june-chm3w/q_q2bi.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm3w/ms_q2bi.jpg"
+      "markscheme": "img/2002-june-chm3w/ms_q2bi.jpg",
+      "markscheme_text": "C<sub>15</sub>H<sub>32</sub> + 23O<sub>2</sub> -> 15CO<sub>2</sub> + 16H<sub>2</sub>O\n- Products: 15CO<sub>2</sub> + 16H<sub>2</sub>O (1)\n- Balance: + 23O<sub>2</sub> (1)\n\n[Extra Information]:\nif wrong reactant, CE"
     },
     {
       "id": "2002-june-chm3w-q2bii",
@@ -7372,7 +7381,8 @@
       "summary": "Identify poisonous product of incomplete combustion of methane (CO) and write equation.",
       "image": "img/2002-june-chm3w/q_q2bii.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm3w/ms_q2bii.jpg"
+      "markscheme": "img/2002-june-chm3w/ms_q2bii.jpg",
+      "markscheme_text": "- Identity: CO (carbon monoxide) (1)\n- Equation: CH<sub>4</sub> + 11/2O<sub>2</sub> -> CO + 2H<sub>2</sub>O (1)\n\n[Extra Information]:\nany balanced equation using CH<sub>4</sub> producing CO (could make C &amp; CO<sub>2</sub> also)"
     },
     {
       "id": "2002-june-chm3w-q3a",
@@ -7391,7 +7401,8 @@
       "figures": [
         "img/2002-june-chm3w/fig-q3-scheme.jpg"
       ],
-      "markscheme": "img/2002-june-chm3w/ms_q3a.jpg"
+      "markscheme": "img/2002-june-chm3w/ms_q3a.jpg",
+      "markscheme_text": "The four carbon atoms associated with the double bond: the 2 carbons of C=C and the 2 carbon atoms directly bonded to them (C of CH<sub>3</sub> and C of CH<sub>2</sub>) (1)\n\n[Extra Information]:\nmay circle 4 Cs separately"
     },
     {
       "id": "2002-june-chm3w-q3b",
@@ -7410,7 +7421,8 @@
       "figures": [
         "img/2002-june-chm3w/fig-q3-scheme.jpg"
       ],
-      "markscheme": "img/2002-june-chm3w/ms_q3b.jpg"
+      "markscheme": "img/2002-june-chm3w/ms_q3b.jpg",
+      "markscheme_text": "- Mechanism (4 marks):\n&nbsp;&nbsp;M1: curly arrow from C=C bond to H of H-OSO<sub>2</sub>OH (or H<sup>+</sup>) (1)\n&nbsp;&nbsp;M2: curly arrow from H-O bond to O of H<sub>2</sub>SO<sub>4</sub> (1)\n&nbsp;&nbsp;M3: tertiary carbocation intermediate (CH<sub>3</sub>)<sub>2</sub>C<sup>+</sup>-CH<sub>2</sub>CH<sub>3</sub> (1)\n&nbsp;&nbsp;M4: curly arrow from lone pair on :O<sup>-</sup> of -OSO<sub>2</sub>OH to C<sup>+</sup> (1)\n\n[Extra Information]:\nmust show :O<sup>-</sup> in HSO<sub>4</sub><sup>-</sup>\nignore &delta;+, &delta;- unless wrong"
     },
     {
       "id": "2002-june-chm3w-q3c",
@@ -7429,7 +7441,8 @@
       "figures": [
         "img/2002-june-chm3w/fig-q3-scheme.jpg"
       ],
-      "markscheme": "img/2002-june-chm3w/ms_q3c.jpg"
+      "markscheme": "img/2002-june-chm3w/ms_q3c.jpg",
+      "markscheme_text": "- Reagent: H<sub>2</sub>O / water / steam / dilute sulphuric acid (1)\n- Condition: Heat / warm / boil / reflux [50&ndash;100 °C] (1)\n- Name: 2-methylbutan-2-ol (1)\n\n[Extra Information]:\nname: allow 2-methylbutane-2-ol\npenalise hydroxy 2-methylbutane once only / paper\nignore pressure"
     },
     {
       "id": "2002-june-chm3w-q3d",
@@ -7448,7 +7461,8 @@
       "figures": [
         "img/2002-june-chm3w/fig-q3-scheme.jpg"
       ],
-      "markscheme": "img/2002-june-chm3w/ms_q3d.jpg"
+      "markscheme": "img/2002-june-chm3w/ms_q3d.jpg",
+      "markscheme_text": "- Identity: 2-methylbutan-1-ol (or structure) (1)\n- Explanation (2 marks):\n&nbsp;&nbsp;C formed via tertiary carbocation, D via primary carbocation (1)\n&nbsp;&nbsp;tertiary carbocation is more stable than primary carbocation (1)\n\n[Extra Information]:\nif wrong carbocations shown, can still score stability mark"
     },
     {
       "id": "2002-june-chm3w-q4a",
@@ -7465,7 +7479,8 @@
       "summary": "Calculate empirical formula C4H10O from carbon and hydrogen percentages.",
       "image": "img/2002-june-chm3w/q_q4a.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm3w/ms_q4a.jpg"
+      "markscheme": "img/2002-june-chm3w/ms_q4a.jpg",
+      "markscheme_text": "- % O = 100 - (64.9 + 13.5) = 21.6% (1)\n- Moles: C = 64.9 / 12 = 5.41; H = 13.5 / 1 = 13.5; O = 21.6 / 16 = 1.35 (1)\n- Ratio: 4 : 10 : 1 &rArr; Empirical formula = C<sub>4</sub>H<sub>10</sub>O (1)\n\n[Extra Information]:\nif no % O calculated, only M2 available\nif arithmetic error in any result, lose M3\nif percentage composition calculation done: zero"
     },
     {
       "id": "2002-june-chm3w-q4bi",
@@ -7484,7 +7499,8 @@
       "figures": [
         "img/2002-june-chm3w/fig-q4b-isomers.jpg"
       ],
-      "markscheme": "img/2002-june-chm3w/ms_q4bi.jpg"
+      "markscheme": "img/2002-june-chm3w/ms_q4bi.jpg",
+      "markscheme_text": "- Type: Tertiary (1)\n- Reason: No hydrogen atom on central carbon (the carbon bonded to -OH) (1)"
     },
     {
       "id": "2002-june-chm3w-q4bii",
@@ -7503,7 +7519,8 @@
       "figures": [
         "img/2002-june-chm3w/fig-q4b-isomers.jpg"
       ],
-      "markscheme": "img/2002-june-chm3w/ms_q4bii.jpg"
+      "markscheme": "img/2002-june-chm3w/ms_q4bii.jpg",
+      "markscheme_text": "- Isomer 3: CH<sub>3</sub>-CH(OH)-CH<sub>2</sub>CH<sub>3</sub> (butan-2-ol) (1)\n- Isomer 4: (CH<sub>3</sub>)<sub>2</sub>CH-CH<sub>2</sub>OH (2-methylpropan-1-ol) (1)\n\n[Extra Information]:\npenalise missing bonds / incorrect bonds once per paper"
     },
     {
       "id": "2002-june-chm3w-q4ci",
@@ -7520,7 +7537,8 @@
       "summary": "State type of product distilled off during oxidation of primary alcohol (aldehyde).",
       "image": "img/2002-june-chm3w/q_q4ci.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm3w/ms_q4ci.jpg"
+      "markscheme": "img/2002-june-chm3w/ms_q4ci.jpg",
+      "markscheme_text": "Aldehyde (1)\n\n[Extra Information]:\nignore named aldehydes or structures\npenalise wrong named compound"
     },
     {
       "id": "2002-june-chm3w-q4cii",
@@ -7537,7 +7555,8 @@
       "summary": "Write equation for oxidation of butan-1-ol to butanal showing structure clearly.",
       "image": "img/2002-june-chm3w/q_q4cii.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm3w/ms_q4cii.jpg"
+      "markscheme": "img/2002-june-chm3w/ms_q4cii.jpg",
+      "markscheme_text": "CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>OH + [O] -> CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CHO + H<sub>2</sub>O\n- Product: CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CHO (1)\n- Balanced equation (1)\n\n[Extra Information]:\nproduct: <b>not</b> C<sub>3</sub>H<sub>7</sub>CHO, but C<sub>2</sub>H<sub>5</sub>CH<sub>2</sub>CHO is OK\n[O] can be over arrow; C<sub>4</sub>H<sub>10</sub>O is OK as reactant\nif use C<sub>3</sub> or C<sub>5</sub> compds no marks in (ii); CE if wrong alcohol"
     },
     {
       "id": "2002-june-chm3w-q4ciii",
@@ -7555,7 +7574,8 @@
       "summary": "Name and draw structure of organic product formed with Fehling's solution (butanoic acid).",
       "image": "img/2002-june-chm3w/q_q4ciii.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm3w/ms_q4ciii.jpg"
+      "markscheme": "img/2002-june-chm3w/ms_q4ciii.jpg",
+      "markscheme_text": "- Name: Butanoic acid (1)\n- Structure: CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>COOH (1)\n\n[Extra Information]:\nmark consequential on (ii) or as stated"
     },
     {
       "id": "2002-june-chm3w-q4d",
@@ -7572,7 +7592,8 @@
       "summary": "State one advantage and one disadvantage of ethene hydration vs glucose fermentation.",
       "image": "img/2002-june-chm3w/q_q4d.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm3w/ms_q4d.jpg"
+      "markscheme": "img/2002-june-chm3w/ms_q4d.jpg",
+      "markscheme_text": "- Advantage: Fast reaction OR pure product OR continuous process / high yield / 100% alcohol / low manpower (1)\n- Disadvantage: High technology required OR ethene from non-renewable source / expensive equipment (1)\n\n[Extra Information]:\n<b>not</b> answers based on fermentation"
     },
     {
       "id": "2002-june-chm3w-q4e",
@@ -7589,7 +7610,8 @@
       "summary": "Outline mechanism for acid-catalysed dehydration of ethanol to form ethene.",
       "image": "img/2002-june-chm3w/q_q4e.jpg",
       "figures": [],
-      "markscheme": "img/2002-june-chm3w/ms_q4e.jpg"
+      "markscheme": "img/2002-june-chm3w/ms_q4e.jpg",
+      "markscheme_text": "- M1: curly arrow from lone pair on :O of OH to H<sup>+</sup> (or H<sub>2</sub>SO<sub>4</sub>) (1)\n- M2: curly arrow from C-O bond to O<sup>+</sup>H<sub>2</sub> (1)\n- M3: carbocation intermediate CH<sub>3</sub>-CH<sub>2</sub><sup>+</sup> (1)\n- M4: curly arrow from C-H bond to C-C bond forming CH<sub>2</sub>=CH<sub>2</sub> + H<sup>+</sup> (1)\n\n[Extra Information]:\nscores M2 &amp; M4 if no carbocation intermediate shown, but lose M3"
     },
     {
       "id": "2002-june-chm4-q1a",
