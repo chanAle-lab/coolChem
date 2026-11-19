@@ -5216,7 +5216,8 @@
       "figures": [
         "img/2002-jan-chm4/fig-q1a-table.jpg"
       ],
-      "markscheme": "img/2002-jan-chm4/ms_q1ai.jpg"
+      "markscheme": "img/2002-jan-chm4/ms_q1ai.jpg",
+      "markscheme_text": "Comparing Experiments 1 and 2: [A] doubles whilst [B] is kept constant, and the rate doubles (1)\n\n[Extra Information]:\nstated or shown numerically"
     },
     {
       "id": "2002-jan-chm4-q1aii",
@@ -5235,7 +5236,8 @@
       "figures": [
         "img/2002-jan-chm4/fig-q1a-table.jpg"
       ],
-      "markscheme": "img/2002-jan-chm4/ms_q1aii.jpg"
+      "markscheme": "img/2002-jan-chm4/ms_q1aii.jpg",
+      "markscheme_text": "2 (or [B]<sup>2</sup>) (1)"
     },
     {
       "id": "2002-jan-chm4-q1bi",
@@ -5254,7 +5256,8 @@
       "figures": [
         "img/2002-jan-chm4/fig-q1b-table.jpg"
       ],
-      "markscheme": "img/2002-jan-chm4/ms_q1bi.jpg"
+      "markscheme": "img/2002-jan-chm4/ms_q1bi.jpg",
+      "markscheme_text": "- k = rate / ([C]<sup>2</sup>[D]) = (9.30 &times; 10<sup>&minus;5</sup>) / ((0.75)<sup>2</sup> &times; 1.50) (1)\n- = 1.10 &times; 10<sup>&minus;4</sup> (1)\n- Units: mol<sup>&minus;2</sup> dm<sup>6</sup> s<sup>&minus;1</sup> (1)\n\n[Extra Information]:\nupside-down expression for k scores zero in (i) for 9073"
     },
     {
       "id": "2002-jan-chm4-q1bii",
@@ -5273,7 +5276,8 @@
       "figures": [
         "img/2002-jan-chm4/fig-q1b-table.jpg"
       ],
-      "markscheme": "img/2002-jan-chm4/ms_q1bii.jpg"
+      "markscheme": "img/2002-jan-chm4/ms_q1bii.jpg",
+      "markscheme_text": "- rate = k[C]<sup>2</sup>[D] = (1.10 &times; 10<sup>&minus;4</sup>) &times; (0.20)<sup>2</sup> &times; (0.10) (1)\n- = 4.41 &times; 10<sup>&minus;7</sup> (mol dm<sup>&minus;3</sup> s<sup>&minus;1</sup>) (1)\n\n[Extra Information]:\nconsequential on (i)\nignore units\nif k = 9073 used, rate = 9073 &times; (0.20)<sup>2</sup> &times; 0.10 = 36.3 scores (1) in (ii)"
     },
     {
       "id": "2002-jan-chm4-q2ai",
@@ -5293,7 +5297,8 @@
       "figures": [
         "img/2002-jan-chm4/fig-q2a-equation.jpg"
       ],
-      "markscheme": "img/2002-jan-chm4/ms_q2ai.jpg"
+      "markscheme": "img/2002-jan-chm4/ms_q2ai.jpg",
+      "markscheme_text": "0.86 (mol) (1)"
     },
     {
       "id": "2002-jan-chm4-q2aii",
@@ -5312,7 +5317,8 @@
       "figures": [
         "img/2002-jan-chm4/fig-q2a-equation.jpg"
       ],
-      "markscheme": "img/2002-jan-chm4/ms_q2aii.jpg"
+      "markscheme": "img/2002-jan-chm4/ms_q2aii.jpg",
+      "markscheme_text": "- total moles = 0.86 + 0.430 + 0.0850 = 1.375 (1)\n- mole fraction of H<sub>2</sub> = 0.86 / 1.375 = 0.625 (1)\n\n[Extra Information]:\nconsequential on (i)\nallow 0.62&ndash;0.63"
     },
     {
       "id": "2002-jan-chm4-q2aiii",
@@ -5331,7 +5337,8 @@
       "figures": [
         "img/2002-jan-chm4/fig-q2a-equation.jpg"
       ],
-      "markscheme": "img/2002-jan-chm4/ms_q2aiii.jpg"
+      "markscheme": "img/2002-jan-chm4/ms_q2aiii.jpg",
+      "markscheme_text": "- pp = mole fraction &times; total P (1)\n- = 0.625 &times; (1.75 &times; 10<sup>4</sup>) = 1.09 &times; 10<sup>4</sup> (kPa) (or 1.10 &times; 10<sup>4</sup>) (1)\n\n[Extra Information]:\nconsequential on (ii)\nignore units"
     },
     {
       "id": "2002-jan-chm4-q2bi",
@@ -5350,7 +5357,8 @@
       "figures": [
         "img/2002-jan-chm4/fig-q2a-equation.jpg"
       ],
-      "markscheme": "img/2002-jan-chm4/ms_q2bi.jpg"
+      "markscheme": "img/2002-jan-chm4/ms_q2bi.jpg",
+      "markscheme_text": "K<sub>p</sub> = p(CH<sub>3</sub>OH) / [p(H<sub>2</sub>)<sup>2</sup> &times; p(CO)] (1)\n\n[Extra Information]:\npenalize square brackets [ ]"
     },
     {
       "id": "2002-jan-chm4-q2bii",
@@ -5369,7 +5377,8 @@
       "figures": [
         "img/2002-jan-chm4/fig-q2a-equation.jpg"
       ],
-      "markscheme": "img/2002-jan-chm4/ms_q2bii.jpg"
+      "markscheme": "img/2002-jan-chm4/ms_q2bii.jpg",
+      "markscheme_text": "- K<sub>p</sub> = 2710 / ((12300)<sup>2</sup> &times; 7550) = 2.37 &times; 10<sup>&minus;9</sup> (or 2.4 &times; 10<sup>&minus;9</sup>) (1)\n- Units: kPa<sup>&minus;2</sup> (1)\n(or 2.37 &times; 10<sup>&minus;15</sup> Pa<sup>&minus;2</sup>)\n\n[Extra Information]:\nnot consequential to wrong K<sub>p</sub> expression"
     },
     {
       "id": "2002-jan-chm4-q2c",
@@ -5388,7 +5397,8 @@
       "summary": "Draw structures of isomeric esters E (2 singlet NMR peaks) and F (optically active).",
       "image": "img/2002-jan-chm4/q_q2c.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm4/ms_q2c.jpg"
+      "markscheme": "img/2002-jan-chm4/ms_q2c.jpg",
+      "markscheme_text": "- Isomer E: (CH<sub>3</sub>)<sub>3</sub>CCOOCH<sub>3</sub> (methyl 2,2-dimethylpropanoate) (1)\n- Isomer F: CH<sub>3</sub>CH<sub>2</sub>CH(CH<sub>3</sub>)COOCH<sub>3</sub> (methyl 2-methylbutanoate) (1)\n\n[Extra Information]:\nallow CO<sub>2</sub>CH<sub>3</sub>"
     },
     {
       "id": "2002-jan-chm4-q3ai",
@@ -5405,7 +5415,8 @@
       "summary": "Write an expression for Ka for ethanoic acid.",
       "image": "img/2002-jan-chm4/q_q3ai.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm4/ms_q3ai.jpg"
+      "markscheme": "img/2002-jan-chm4/ms_q3ai.jpg",
+      "markscheme_text": "K<sub>a</sub> = [H<sup>+</sup>][CH<sub>3</sub>COO<sup>&minus;</sup>] / [CH<sub>3</sub>COOH] (1)\n(allow [H<sub>3</sub>O<sup>+</sup>])"
     },
     {
       "id": "2002-jan-chm4-q3aii",
@@ -5422,7 +5433,8 @@
       "summary": "Calculate pH at 298 K of 0.220 mol dm-3 ethanoic acid solution.",
       "image": "img/2002-jan-chm4/q_q3aii.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm4/ms_q3aii.jpg"
+      "markscheme": "img/2002-jan-chm4/ms_q3aii.jpg",
+      "markscheme_text": "- K<sub>a</sub> = [H<sup>+</sup>]<sup>2</sup> / [CH<sub>3</sub>COOH] (1)\n- [H<sup>+</sup>] = &radic;(1.74 &times; 10<sup>&minus;5</sup> &times; 0.220) = 1.96 &times; 10<sup>&minus;3</sup> (1)\n- pH = &minus;log<sub>10</sub>[H<sup>+</sup>] (1)\n- pH = 2.71 (1)\n\n[Extra Information]:\npH expression can score independently\n2 decimal places essential\nif forget &radic;, can score marks 1 and 3 for pH = 5.42"
     },
     {
       "id": "2002-jan-chm4-q3bi",
@@ -5439,7 +5451,8 @@
       "summary": "Volume of 0.150 mol dm-3 NaOH required to neutralise 25.0 cm3 ethanoic acid.",
       "image": "img/2002-jan-chm4/q_q3bi.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm4/ms_q3bi.jpg"
+      "markscheme": "img/2002-jan-chm4/ms_q3bi.jpg",
+      "markscheme_text": "- moles acid = (25.0 / 1000) &times; 0.220 = 5.50 &times; 10<sup>&minus;3</sup> mol (1)\n- volume NaOH = (5.50 &times; 10<sup>&minus;3</sup> / 0.150) &times; 1000 (1)\n- = 36.7 cm<sup>3</sup> (or 36.6 / 37) (1)\n\n[Extra Information]:\nunits must match\n<b>not</b> 36, <b>not</b> 37.0"
     },
     {
       "id": "2002-jan-chm4-q3bii",
@@ -5458,7 +5471,8 @@
       "figures": [
         "img/2002-jan-chm4/fig-q3b-indicators.jpg"
       ],
-      "markscheme": "img/2002-jan-chm4/ms_q3bii.jpg"
+      "markscheme": "img/2002-jan-chm4/ms_q3bii.jpg",
+      "markscheme_text": "- Indicator: thymol blue (1)\n- Explanation: weak acid &ndash; strong base titration, equivalence point at pH &gt; 7 / high pH (1)"
     },
     {
       "id": "2002-jan-chm4-q3c",
@@ -5475,7 +5489,8 @@
       "summary": "Calculate pH of buffer solution formed by adding 2.00 g NaOH to 1.00 dm3 ethanoic acid.",
       "image": "img/2002-jan-chm4/q_q3c.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm4/ms_q3c.jpg"
+      "markscheme": "img/2002-jan-chm4/ms_q3c.jpg",
+      "markscheme_text": "- (1) mol NaOH added = 2.0 / 40.0 = 0.050 (1)\n- (2) mol CH<sub>3</sub>COOH left = 0.220 &minus; 0.050 = 0.170 (1)\n- (3) mol CH<sub>3</sub>COO<sup>&minus;</sup> formed = 0.050 (1)\n- (4) [H<sup>+</sup>] = K<sub>a</sub> [acid] / [salt] OR pH = pK<sub>a</sub> + log([salt]/[acid]) (1)\n- (5) [H<sup>+</sup>] = (1.74 &times; 10<sup>&minus;5</sup>) &times; (0.170 / 0.050) = 5.916 &times; 10<sup>&minus;5</sup> (1)\n- (6) pH = 4.23 (1)\n\n[Extra Information]:\nif wrong M<sub>r</sub>: CE, lose marks 1 and 2, then mark consequentially (max 4)\nif expression wrong, no marks 4, 5, 6\ncorrect answer gets 6 marks\nif forgets subtraction in step 2, scores max 4 (pH = 4.12)\nif [acid]/[salt] upside down, answer 5.29 scores 3 marks (for 1, 2, 3)"
     },
     {
       "id": "2002-jan-chm4-q4a",
@@ -5494,7 +5509,8 @@
       "figures": [
         "img/2002-jan-chm4/fig-q4a-ir.jpg"
       ],
-      "markscheme": "img/2002-jan-chm4/ms_q4a.jpg"
+      "markscheme": "img/2002-jan-chm4/ms_q4a.jpg",
+      "markscheme_text": "- R: O&minus;H (alcohols) (1)\n- S: C=O (carbonyl) (1)"
     },
     {
       "id": "2002-jan-chm4-q4b",
@@ -5513,7 +5529,8 @@
       "figures": [
         "img/2002-jan-chm4/fig-q4a-ir.jpg"
       ],
-      "markscheme": "img/2002-jan-chm4/ms_q4b.jpg"
+      "markscheme": "img/2002-jan-chm4/ms_q4b.jpg",
+      "markscheme_text": "aldehyde (or &minus;CHO / RCHO) (1)"
     },
     {
       "id": "2002-jan-chm4-q4ci",
@@ -5530,7 +5547,8 @@
       "summary": "Give two reasons why TMS is a suitable NMR standard.",
       "image": "img/2002-jan-chm4/q_q4ci.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm4/ms_q4ci.jpg"
+      "markscheme": "img/2002-jan-chm4/ms_q4ci.jpg",
+      "markscheme_text": "<b>Any two reasons from:</b>\n- TMS is inert / non-toxic (1)\n- volatile / easily removed (low boiling point) (1)\n- gives a single intense peak (12 equivalent protons in identical environment) (1)\n- signal is upfield of other proton peaks / highly shielded / at &delta; = 0 (1)\n\n[Extra Information]:\nnot solvent, not cheap"
     },
     {
       "id": "2002-jan-chm4-q4cii",
@@ -5547,7 +5565,8 @@
       "summary": "Solvent suitable for recording proton NMR (CDCl3 / CCl4) and reason.",
       "image": "img/2002-jan-chm4/q_q4cii.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm4/ms_q4cii.jpg"
+      "markscheme": "img/2002-jan-chm4/ms_q4cii.jpg",
+      "markscheme_text": "- Solvent: CDCl<sub>3</sub> or CCl<sub>4</sub> (1)\n- Reason: proton-free / contains no hydrogen atoms (1)\n\n[Extra Information]:\nsolvent: <b>not</b> D<sub>2</sub>O\nreason: allow no hydrogens; <b>not</b> H<sup>+</sup> / hydrogen ions"
     },
     {
       "id": "2002-jan-chm4-q4di",
@@ -5566,7 +5585,8 @@
       "figures": [
         "img/2002-jan-chm4/fig-q4d-nmr.jpg"
       ],
-      "markscheme": "img/2002-jan-chm4/ms_q4di.jpg"
+      "markscheme": "img/2002-jan-chm4/ms_q4di.jpg",
+      "markscheme_text": "CH<sub>3</sub>&minus;C(=O)&minus; (methyl ketone / acetyl group) (1)"
     },
     {
       "id": "2002-jan-chm4-q4dii",
@@ -5585,7 +5605,8 @@
       "figures": [
         "img/2002-jan-chm4/fig-q4d-nmr.jpg"
       ],
-      "markscheme": "img/2002-jan-chm4/ms_q4dii.jpg"
+      "markscheme": "img/2002-jan-chm4/ms_q4dii.jpg",
+      "markscheme_text": "&minus;OH (alcohol group) (1)"
     },
     {
       "id": "2002-jan-chm4-q4diii",
@@ -5604,7 +5625,8 @@
       "figures": [
         "img/2002-jan-chm4/fig-q4d-nmr.jpg"
       ],
-      "markscheme": "img/2002-jan-chm4/ms_q4diii.jpg"
+      "markscheme": "img/2002-jan-chm4/ms_q4diii.jpg",
+      "markscheme_text": "&minus;CH<sub>2</sub>&minus;CH<sub>2</sub>&minus; (adjacent CH<sub>2</sub> groups) (1)"
     },
     {
       "id": "2002-jan-chm4-q4e",
@@ -5625,7 +5647,8 @@
         "img/2002-jan-chm4/fig-q4a-ir.jpg",
         "img/2002-jan-chm4/fig-q4d-nmr.jpg"
       ],
-      "markscheme": "img/2002-jan-chm4/ms_q4e.jpg"
+      "markscheme": "img/2002-jan-chm4/ms_q4e.jpg",
+      "markscheme_text": "CH<sub>3</sub>&minus;C(=O)&minus;CH<sub>2</sub>&minus;CH<sub>2</sub>&minus;OH (4-hydroxybutan-2-one) (1)"
     },
     {
       "id": "2002-jan-chm4-q5ai",
@@ -5642,7 +5665,8 @@
       "summary": "Name the diamine H2N(CH2)6NH2 (hexane-1,6-diamine).",
       "image": "img/2002-jan-chm4/q_q5ai.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm4/ms_q5ai.jpg"
+      "markscheme": "img/2002-jan-chm4/ms_q5ai.jpg",
+      "markscheme_text": "hexane-1,6-diamine or 1,6-diaminohexane (1)\n\n[Extra Information]:\nallow 1,6-hexan(e)diamine; allow amine"
     },
     {
       "id": "2002-jan-chm4-q5aii",
@@ -5659,7 +5683,8 @@
       "summary": "Give the repeating unit in polyamide nylon 6,6.",
       "image": "img/2002-jan-chm4/q_q5aii.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm4/ms_q5aii.jpg"
+      "markscheme": "img/2002-jan-chm4/ms_q5aii.jpg",
+      "markscheme_text": "&minus;CO&minus;(CH<sub>2</sub>)<sub>4</sub>&minus;CO&minus;NH&minus;(CH<sub>2</sub>)<sub>6</sub>&minus;NH&minus; (1)\n\n[Extra Information]:\nallow &minus;CONH&minus;"
     },
     {
       "id": "2002-jan-chm4-q5bi",
@@ -5676,7 +5701,8 @@
       "summary": "Draw the structure of 2-aminopropanoic acid (alanine).",
       "image": "img/2002-jan-chm4/q_q5bi.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm4/ms_q5bi.jpg"
+      "markscheme": "img/2002-jan-chm4/ms_q5bi.jpg",
+      "markscheme_text": "H<sub>2</sub>N&minus;CH(CH<sub>3</sub>)&minus;COOH (1)"
     },
     {
       "id": "2002-jan-chm4-q5bii",
@@ -5693,7 +5719,8 @@
       "summary": "Draw the condensation dipeptide product of two 2-aminopropanoic acid molecules.",
       "image": "img/2002-jan-chm4/q_q5bii.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm4/ms_q5bii.jpg"
+      "markscheme": "img/2002-jan-chm4/ms_q5bii.jpg",
+      "markscheme_text": "H<sub>2</sub>N&minus;CH(CH<sub>3</sub>)&minus;CO&minus;NH&minus;CH(CH<sub>3</sub>)&minus;COOH (1)\n\n[Extra Information]:\npeptide link essential; the rest is consequential on b(i)\nallow &minus;CONH&minus;; allow anhydride"
     },
     {
       "id": "2002-jan-chm4-q5ci",
@@ -5712,7 +5739,8 @@
       "figures": [
         "img/2002-jan-chm4/fig-q5c-compoundx.jpg"
       ],
-      "markscheme": "img/2002-jan-chm4/ms_q5ci.jpg"
+      "markscheme": "img/2002-jan-chm4/ms_q5ci.jpg",
+      "markscheme_text": "quaternary ammonium salt (or quaternary ammonium bromide) (1)\n\n[Extra Information]:\nallow quarternary\n<b>not</b> ion, <b>not</b> compound"
     },
     {
       "id": "2002-jan-chm4-q5cii",
@@ -5731,7 +5759,8 @@
       "figures": [
         "img/2002-jan-chm4/fig-q5c-compoundx.jpg"
       ],
-      "markscheme": "img/2002-jan-chm4/ms_q5cii.jpg"
+      "markscheme": "img/2002-jan-chm4/ms_q5cii.jpg",
+      "markscheme_text": "- Reagent: CH<sub>3</sub>Br or bromomethane (1)\n- Condition: excess (CH<sub>3</sub>Br) (1)\n\n[Extra Information]:\npenalise CH<sub>3</sub>Cl, but allow excess for any halomethane"
     },
     {
       "id": "2002-jan-chm4-q5ciii",
@@ -5751,7 +5780,8 @@
       "figures": [
         "img/2002-jan-chm4/fig-q5c-compoundx.jpg"
       ],
-      "markscheme": "img/2002-jan-chm4/ms_q5ciii.jpg"
+      "markscheme": "img/2002-jan-chm4/ms_q5ciii.jpg",
+      "markscheme_text": "nucleophilic substitution (1)"
     },
     {
       "id": "2002-jan-chm4-q6ai",
@@ -5769,7 +5799,8 @@
       "summary": "Equation for reduction of pentan-2-one by NaBH4 to pentan-2-ol.",
       "image": "img/2002-jan-chm4/q_q6ai.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm4/ms_q6ai.jpg"
+      "markscheme": "img/2002-jan-chm4/ms_q6ai.jpg",
+      "markscheme_text": "CH<sub>3</sub>COCH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub> + 2[H] -> CH<sub>3</sub>CH(OH)CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub> (1)\n\n[Extra Information]:\nallow C<sub>5</sub>H<sub>10</sub>O + 2[H] &rarr; C<sub>5</sub>H<sub>11</sub>OH"
     },
     {
       "id": "2002-jan-chm4-q6aii",
@@ -5786,7 +5817,8 @@
       "summary": "Name and mechanism for nucleophilic addition reduction of pentan-2-one.",
       "image": "img/2002-jan-chm4/q_q6aii.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm4/ms_q6aii.jpg"
+      "markscheme": "img/2002-jan-chm4/ms_q6aii.jpg",
+      "markscheme_text": "- Name: nucleophilic addition (1)\n- Mechanism (3 marks):\n&nbsp;&nbsp;M1: curly arrow from lone pair on :H<sup>&minus;</sup> to carbonyl carbon (1)\n&nbsp;&nbsp;M2: curly arrow from C=O bond to oxygen (1)\n&nbsp;&nbsp;M3: intermediate alkoxide ion and curly arrow from lone pair on :O<sup>&minus;</sup> to H<sup>+</sup> (1)\n\n[Extra Information]:\nQoL mark\ncurly arrow from C=O alone loses M2"
     },
     {
       "id": "2002-jan-chm4-q6aiii",
@@ -5803,7 +5835,8 @@
       "summary": "Explain why pentan-2-ol produced in this reaction is not optically active (racemic mixture).",
       "image": "img/2002-jan-chm4/q_q6aiii.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm4/ms_q6aiii.jpg"
+      "markscheme": "img/2002-jan-chm4/ms_q6aiii.jpg",
+      "markscheme_text": "- Racemic mixture / racemate is formed (1)\n- Two enantiomers formed in equal amounts / equal probability of attack by :H<sup>&minus;</sup> from either side of planar carbonyl group (1)"
     },
     {
       "id": "2002-jan-chm4-q6b",
@@ -5820,7 +5853,8 @@
       "summary": "Predict m/z values of two most abundant fragments in mass spectrum of pentan-2-one (43, 71, 15).",
       "image": "img/2002-jan-chm4/q_q6b.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm4/ms_q6b.jpg"
+      "markscheme": "img/2002-jan-chm4/ms_q6b.jpg",
+      "markscheme_text": "<b>Any two from:</b>\n- m/z = 43 (CH<sub>3</sub>CO<sup>+</sup>) (1)\n- m/z = 71 (CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CO<sup>+</sup>) (1)\n- m/z = 15 (CH<sub>3</sub><sup>+</sup>) (1)"
     },
     {
       "id": "2002-june-chm1-q1a",
