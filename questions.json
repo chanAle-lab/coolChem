@@ -4773,7 +4773,8 @@
       "figures": [
         "img/2002-jan-chm3w/fig-q1-equation.jpg"
       ],
-      "markscheme": "img/2002-jan-chm3w/ms_q1a.jpg"
+      "markscheme": "img/2002-jan-chm3w/ms_q1a.jpg",
+      "markscheme_text": "- Condition: uv light or sunlight or 450 °C or high temp (1)\n- Explanation: uv light provides energy to break Cl&minus;Cl bond (1)\n\n[Extra Information]:\ndo not accept ref. to E<sub>a</sub> or wrong bond or 'to make Cl radicals'"
     },
     {
       "id": "2002-jan-chm3w-q1bi",
@@ -4792,7 +4793,8 @@
       "figures": [
         "img/2002-jan-chm3w/fig-q1-equation.jpg"
       ],
-      "markscheme": "img/2002-jan-chm3w/ms_q1bi.jpg"
+      "markscheme": "img/2002-jan-chm3w/ms_q1bi.jpg",
+      "markscheme_text": "(Free) radical substitution (1)"
     },
     {
       "id": "2002-jan-chm3w-q1bii",
@@ -4811,7 +4813,8 @@
       "figures": [
         "img/2002-jan-chm3w/fig-q1-equation.jpg"
       ],
-      "markscheme": "img/2002-jan-chm3w/ms_q1bii.jpg"
+      "markscheme": "img/2002-jan-chm3w/ms_q1bii.jpg",
+      "markscheme_text": "- Step 1: initiation (1)\n- Step 2: propagation (1)\n- Step 3: termination (1)\n\n[Extra Information]:\nany order\ndon't be too harsh on spelling"
     },
     {
       "id": "2002-jan-chm3w-q1ci",
@@ -4830,7 +4833,8 @@
       "figures": [
         "img/2002-jan-chm3w/fig-q1-equation.jpg"
       ],
-      "markscheme": "img/2002-jan-chm3w/ms_q1ci.jpg"
+      "markscheme": "img/2002-jan-chm3w/ms_q1ci.jpg",
+      "markscheme_text": "- Equation 1: CH<sub>3</sub>Cl + Cl- -> CH<sub>2</sub>Cl- + HCl (1)\n- Equation 2: CH<sub>2</sub>Cl- + Cl<sub>2</sub> -> CH<sub>2</sub>Cl<sub>2</sub> + Cl- (1)\n(or CH<sub>2</sub>Cl- + Cl- -> CH<sub>2</sub>Cl<sub>2</sub>)\n\n[Extra Information]:\nmark equations independently, any order\npenalise absence of dot '•' once only"
     },
     {
       "id": "2002-jan-chm3w-q1cii",
@@ -4849,7 +4853,8 @@
       "figures": [
         "img/2002-jan-chm3w/fig-q1-equation.jpg"
       ],
-      "markscheme": "img/2002-jan-chm3w/ms_q1cii.jpg"
+      "markscheme": "img/2002-jan-chm3w/ms_q1cii.jpg",
+      "markscheme_text": "CH<sub>2</sub>Cl- + CH<sub>3</sub>- -> CH<sub>3</sub>CH<sub>2</sub>Cl (1)\n(or CH<sub>3</sub>CH<sub>2</sub>- + Cl<sub>2</sub> -> CH<sub>3</sub>CH<sub>2</sub>Cl + Cl- / CH<sub>3</sub>CH<sub>2</sub>- + Cl- -> CH<sub>3</sub>CH<sub>2</sub>Cl)\n\n[Extra Information]:\nequation must have CH<sub>3</sub>CH<sub>2</sub>Cl as product\naccept C<sub>2</sub>H<sub>5</sub>Cl\npenalise absence of dot '•' once only"
     },
     {
       "id": "2002-jan-chm3w-q2ai",
@@ -4866,7 +4871,8 @@
       "summary": "Reagent and conditions used to harden unsaturated vegetable oils to margarine.",
       "image": "img/2002-jan-chm3w/q_q2ai.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm3w/ms_q2ai.jpg"
+      "markscheme": "img/2002-jan-chm3w/ms_q2ai.jpg",
+      "markscheme_text": "- Reagent: Hydrogen or H<sub>2</sub> (1)\n- Conditions: Ni (catalyst) and 100&ndash;200 °C / heat (1)\n\n[Extra Information]:\nconditions: ignore (Pt)\nnot 'high temp', not 'warm'"
     },
     {
       "id": "2002-jan-chm3w-q2aii",
@@ -4883,7 +4889,8 @@
       "summary": "Differences in structure and melting point between soft and hard margarine.",
       "image": "img/2002-jan-chm3w/q_q2aii.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm3w/ms_q2aii.jpg"
+      "markscheme": "img/2002-jan-chm3w/ms_q2aii.jpg",
+      "markscheme_text": "- Difference in structure: soft margarine is less hydrogenated / has more C=C bonds / is more unsaturated than hard margarine (1)\n- Difference in melting point: soft margarine has lower melting point (1)\n\n[Extra Information]:\nmust be a comparison"
     },
     {
       "id": "2002-jan-chm3w-q2bi",
@@ -4902,7 +4909,8 @@
       "figures": [
         "img/2002-jan-chm3w/fig-q2b-structure.jpg"
       ],
-      "markscheme": "img/2002-jan-chm3w/ms_q2bi.jpg"
+      "markscheme": "img/2002-jan-chm3w/ms_q2bi.jpg",
+      "markscheme_text": "3-methylbutan-2-ol (1)\n\n[Extra Information]:\nno alternatives"
     },
     {
       "id": "2002-jan-chm3w-q2bii",
@@ -4921,7 +4929,8 @@
       "figures": [
         "img/2002-jan-chm3w/fig-q2b-structure.jpg"
       ],
-      "markscheme": "img/2002-jan-chm3w/ms_q2bii.jpg"
+      "markscheme": "img/2002-jan-chm3w/ms_q2bii.jpg",
+      "markscheme_text": "elimination or dehydration (1)"
     },
     {
       "id": "2002-jan-chm3w-q2biii",
@@ -4940,7 +4949,8 @@
       "figures": [
         "img/2002-jan-chm3w/fig-q2b-structure.jpg"
       ],
-      "markscheme": "img/2002-jan-chm3w/ms_q2biii.jpg"
+      "markscheme": "img/2002-jan-chm3w/ms_q2biii.jpg",
+      "markscheme_text": "(conc) H<sub>2</sub>SO<sub>4</sub> or (conc) H<sub>3</sub>PO<sub>4</sub> (1)\n\n[Extra Information]:\nname or correct formula"
     },
     {
       "id": "2002-jan-chm3w-q2biv",
@@ -4960,7 +4970,8 @@
       "figures": [
         "img/2002-jan-chm3w/fig-q2b-structure.jpg"
       ],
-      "markscheme": "img/2002-jan-chm3w/ms_q2biv.jpg"
+      "markscheme": "img/2002-jan-chm3w/ms_q2biv.jpg",
+      "markscheme_text": "- Alkene 1: CH<sub>2</sub>=CH&minus;CH(CH<sub>3</sub>)<sub>2</sub> (3-methylbut-1-ene) (1)\n- Alkene 2: CH<sub>3</sub>&minus;CH=C(CH<sub>3</sub>)<sub>2</sub> (2-methylbut-2-ene) (1)\n\n[Extra Information]:\ndouble bond must be shown\naccept any correct unambiguous structures\nif but-1-ene and but-2-ene offered, allow M2"
     },
     {
       "id": "2002-jan-chm3w-q3a",
@@ -4977,7 +4988,8 @@
       "summary": "Explain what is meant by the term electrophile and the term addition.",
       "image": "img/2002-jan-chm3w/q_q3a.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm3w/ms_q3a.jpg"
+      "markscheme": "img/2002-jan-chm3w/ms_q3a.jpg",
+      "markscheme_text": "- Electrophile: electron-pair acceptor / electron-deficient species / electron-seeking species (1)\n- Addition: reaction which increases number of substituents / converts double bond to single bond / where two molecules form one molecule (1)\n\n[Extra Information]:\nfor species accept atom, molecule, ion\nnot '+' ion, not 'attracted to − charge'"
     },
     {
       "id": "2002-jan-chm3w-q3b",
@@ -4994,7 +5006,8 @@
       "summary": "Explain why non-polar bromine is able to react with propene (induced dipole).",
       "image": "img/2002-jan-chm3w/q_q3b.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm3w/ms_q3b.jpg"
+      "markscheme": "img/2002-jan-chm3w/ms_q3b.jpg",
+      "markscheme_text": "- (high) electron-dense / electron-rich C=C bond (or &pi; bond / 4e<sup>&minus;</sup> between carbons) (1)\n- causes induced dipole in Br<sub>2</sub> (1)\n\n[Extra Information]:\nnot just 'C=C'\nignore refs to 'temporary'\ncan score M2 from &delta;+/&delta;&minus; on Br<sub>2</sub> in (c) unless contradicting error in (b)"
     },
     {
       "id": "2002-jan-chm3w-q3c",
@@ -5011,7 +5024,8 @@
       "summary": "Mechanism for electrophilic addition of bromine to propene and name of product.",
       "image": "img/2002-jan-chm3w/q_q3c.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm3w/ms_q3c.jpg"
+      "markscheme": "img/2002-jan-chm3w/ms_q3c.jpg",
+      "markscheme_text": "- Mechanism (4 marks):\n&nbsp;&nbsp;M1: curly arrow from C=C bond to Br (1)\n&nbsp;&nbsp;M2: curly arrow from Br&minus;Br bond to Br (1)\n&nbsp;&nbsp;M3: structure of secondary carbocation H<sub>2</sub>C(Br)&minus;CH<sup>+</sup>&minus;CH<sub>3</sub> (1)\n&nbsp;&nbsp;M4: curly arrow from lone pair on :Br<sup>&minus;</sup> to C<sup>+</sup> (1)\n- Name of product: 1,2-dibromopropane (1)\n\n[Extra Information]:\nif incorrect alkene, lose M3 (wrong cation)\nmark M4 consequentially on M3"
     },
     {
       "id": "2002-jan-chm3w-q3d",
@@ -5028,7 +5042,8 @@
       "summary": "Type of polymerisation involved in propene forming poly(propene) (addition).",
       "image": "img/2002-jan-chm3w/q_q3d.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm3w/ms_q3d.jpg"
+      "markscheme": "img/2002-jan-chm3w/ms_q3d.jpg",
+      "markscheme_text": "addition (1)\n\n[Extra Information]:\nnot 'additional'"
     },
     {
       "id": "2002-jan-chm3w-q4ai",
@@ -5048,7 +5063,8 @@
       "figures": [
         "img/2002-jan-chm3w/fig-q4a-scheme.jpg"
       ],
-      "markscheme": "img/2002-jan-chm3w/ms_q4ai.jpg"
+      "markscheme": "img/2002-jan-chm3w/ms_q4ai.jpg",
+      "markscheme_text": "- Type of reaction: reduction / (nucleophilic) addition / hydrogenation (1)\n- Reagent Y: sodium borohydride / NaBH<sub>4</sub> / H<sub>2</sub> (1)\n\n[Extra Information]:\nnot NaBH<sub>4</sub> for hydrogenation"
     },
     {
       "id": "2002-jan-chm3w-q4aii",
@@ -5068,7 +5084,8 @@
       "figures": [
         "img/2002-jan-chm3w/fig-q4a-scheme.jpg"
       ],
-      "markscheme": "img/2002-jan-chm3w/ms_q4aii.jpg"
+      "markscheme": "img/2002-jan-chm3w/ms_q4aii.jpg",
+      "markscheme_text": "CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CHO + [O] -> CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>COOH (1)\n\n[Extra Information]:\naccept [O] over arrow\naccept C<sub>3</sub>H<sub>7</sub>CHO &rarr; C<sub>3</sub>H<sub>7</sub>COOH"
     },
     {
       "id": "2002-jan-chm3w-q4bi",
@@ -5085,7 +5102,8 @@
       "summary": "Explain what is meant by functional group isomerism.",
       "image": "img/2002-jan-chm3w/q_q4bi.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm3w/ms_q4bi.jpg"
+      "markscheme": "img/2002-jan-chm3w/ms_q4bi.jpg",
+      "markscheme_text": "- (compounds) with same molecular formula (or same number & type of atoms) (1)\n- with atoms arranged in different functional groups (or in different classes of compounds) (1)\n\n[Extra Information]:\nsecond mark tied to first"
     },
     {
       "id": "2002-jan-chm3w-q4bii",
@@ -5103,7 +5121,8 @@
       "summary": "Name or structural formula of functional group isomer of butanal (butanone).",
       "image": "img/2002-jan-chm3w/q_q4bii.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm3w/ms_q4bii.jpg"
+      "markscheme": "img/2002-jan-chm3w/ms_q4bii.jpg",
+      "markscheme_text": "butanone or CH<sub>3</sub>COCH<sub>2</sub>CH<sub>3</sub> (1)\n\n[Extra Information]:\nor tetrahydrofuran / cyclic ether or other acceptable structure"
     },
     {
       "id": "2002-jan-chm3w-q4ci",
@@ -5121,7 +5140,8 @@
       "summary": "Definitions of empirical formula and molecular formula.",
       "image": "img/2002-jan-chm3w/q_q4ci.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm3w/ms_q4ci.jpg"
+      "markscheme": "img/2002-jan-chm3w/ms_q4ci.jpg",
+      "markscheme_text": "- Empirical formula: simplest ratio of atoms of each element in the compound or molecule (1)\n- Molecular formula: (actual) number of atoms of each element present in a compound or molecule (1)"
     },
     {
       "id": "2002-jan-chm3w-q4cii",
@@ -5139,7 +5159,8 @@
       "summary": "Deduce empirical and molecular formula of compound D (C6H12O2) from mass percentages.",
       "image": "img/2002-jan-chm3w/q_q4cii.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm3w/ms_q4cii.jpg"
+      "markscheme": "img/2002-jan-chm3w/ms_q4cii.jpg",
+      "markscheme_text": "- C: 62.07 / 12 = 5.17, H: 10.34 / 1 = 10.34, O: 27.59 / 16 = 1.72 (1)\n- ratio C : H : O = 3 : 6 : 1 &rArr; Empirical formula = C<sub>3</sub>H<sub>6</sub>O (1)\n- Molecular formula = (116 / 58 &times; C<sub>3</sub>H<sub>6</sub>O) = C<sub>6</sub>H<sub>12</sub>O<sub>2</sub> (1)\n\n[Extra Information]:\nif correct answer, working not essential"
     },
     {
       "id": "2002-jan-chm3w-q5a",
@@ -5157,7 +5178,8 @@
       "summary": "Name and mechanism for reaction of 2-bromopropane with excess ammonia.",
       "image": "img/2002-jan-chm3w/q_q5a.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm3w/ms_q5a.jpg"
+      "markscheme": "img/2002-jan-chm3w/ms_q5a.jpg",
+      "markscheme_text": "- Name of mechanism: nucleophilic substitution (1)\n- Mechanism (4 marks):\n&nbsp;&nbsp;M1: curly arrow from lone pair on :NH<sub>3</sub> to C (1)\n&nbsp;&nbsp;M2: curly arrow from C&minus;Br bond to Br (1)\n&nbsp;&nbsp;M3: intermediate structure showing + charge on N (1)\n&nbsp;&nbsp;M4: curly arrow from N&minus;H bond to N<sup>+</sup> (or loss of H<sup>+</sup> by attack of :NH<sub>3</sub>) (1)\n\n[Extra Information]:\nM3 is for correct intermediate - if used wrong halogenoalkane lose M3\nwrong dipole loses C&minus;Br mark\nmark S<sub>N</sub>1 using same points"
     },
     {
       "id": "2002-jan-chm3w-q5b",
@@ -5174,7 +5196,8 @@
       "summary": "Role of ethanolic KOH (base) and elimination mechanism with 2-bromopropane.",
       "image": "img/2002-jan-chm3w/q_q5b.jpg",
       "figures": [],
-      "markscheme": "img/2002-jan-chm3w/ms_q5b.jpg"
+      "markscheme": "img/2002-jan-chm3w/ms_q5b.jpg",
+      "markscheme_text": "- Role of potassium hydroxide: Base (1)\n- Mechanism (4 marks):\n&nbsp;&nbsp;M1: curly arrow from lone pair on :OH<sup>&minus;</sup> to H on adjacent carbon (1)\n&nbsp;&nbsp;M2: curly arrow from C&minus;H bond to C&minus;C bond (1)\n&nbsp;&nbsp;M3: curly arrow from C&minus;Br bond to Br (1)\n&nbsp;&nbsp;M4: structure of propene CH<sub>3</sub>CH=CH<sub>2</sub> (1)\n\n[Extra Information]:\nmark E1 using same points"
     },
     {
       "id": "2002-jan-chm4-q1ai",
