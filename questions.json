@@ -2442,7 +2442,8 @@
       "summary": "Define the term standard enthalpy of combustion.",
       "image": "img/2001-june-chm2/q_q1a.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm2/ms_q1a.jpg"
+      "markscheme": "img/2001-june-chm2/ms_q1a.jpg",
+      "markscheme_text": "• enthalpy change / heat change when one mole (of a substance) (1)\n• is completely burned in oxygen (1)\n• under standard conditions (100 kPa and 298 K) (1)"
     },
     {
       "id": "2001-june-chm2-q1b",
@@ -2459,7 +2460,8 @@
       "summary": "Calculate standard enthalpy change for combustion of methane using formation enthalpies.",
       "image": "img/2001-june-chm2/q_q1b.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm2/ms_q1b.jpg"
+      "markscheme": "img/2001-june-chm2/ms_q1b.jpg",
+      "markscheme_text": "• delta H = sum delta H_f(products) - sum delta H_f(reactants) (1)\n  = delta H_f(CO_2) + 2delta H_f(H_2O) - delta H_f(CH_4)\n• = (-394) + 2(-286) - (-75) (1)\n• = -891 kJ mol^-1 (1)"
     },
     {
       "id": "2001-june-chm2-q1ci",
@@ -2476,7 +2478,8 @@
       "summary": "State what is meant by the term mean bond enthalpy.",
       "image": "img/2001-june-chm2/q_q1ci.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm2/ms_q1ci.jpg"
+      "markscheme": "img/2001-june-chm2/ms_q1ci.jpg",
+      "markscheme_text": "• enthalpy required to break a covalent bond (1)\n• averaged over many compounds (1)"
     },
     {
       "id": "2001-june-chm2-q1cii",
@@ -2493,7 +2496,8 @@
       "summary": "Calculate the mean bond enthalpy of the C-H bond in methane.",
       "image": "img/2001-june-chm2/q_q1cii.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm2/ms_q1cii.jpg"
+      "markscheme": "img/2001-june-chm2/ms_q1cii.jpg",
+      "markscheme_text": "• 4 x BE(C-H) = 715 + 2(436) - (-75) = 1662 (1)\n• BE(C-H) = 1662 / 4 = +415.5 kJ mol^-1 (1)"
     },
     {
       "id": "2001-june-chm2-q1ciii",
@@ -2510,7 +2514,8 @@
       "summary": "Calculate the mean bond enthalpy of the C-C bond in propane.",
       "image": "img/2001-june-chm2/q_q1ciii.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm2/ms_q1ciii.jpg"
+      "markscheme": "img/2001-june-chm2/ms_q1ciii.jpg",
+      "markscheme_text": "• 4020 = 2 x BE(C-C) + 8 x BE(C-H) (1)\n• BE(C-C) = [4020 - 8(415.5)] / 2 (1)\n• = +348 kJ mol^-1 (1)"
     },
     {
       "id": "2001-june-chm2-q2a",
@@ -2529,7 +2534,8 @@
       "figures": [
         "img/2001-june-chm2/fig-q2-preamble.jpg"
       ],
-      "markscheme": "img/2001-june-chm2/ms_q2a.jpg"
+      "markscheme": "img/2001-june-chm2/ms_q2a.jpg",
+      "markscheme_text": "H^+ + OH^- -> H_2O (1)"
     },
     {
       "id": "2001-june-chm2-q2b",
@@ -2548,7 +2554,8 @@
       "figures": [
         "img/2001-june-chm2/fig-q2-preamble.jpg"
       ],
-      "markscheme": "img/2001-june-chm2/ms_q2b.jpg"
+      "markscheme": "img/2001-june-chm2/ms_q2b.jpg",
+      "markscheme_text": "• moles of H^+ = (50.0 x 1.00) / 1000\n• = 0.050 mol (or 5.0 x 10^-2) (1)"
     },
     {
       "id": "2001-june-chm2-q2c",
@@ -2567,7 +2574,8 @@
       "figures": [
         "img/2001-june-chm2/fig-q2-preamble.jpg"
       ],
-      "markscheme": "img/2001-june-chm2/ms_q2c.jpg"
+      "markscheme": "img/2001-june-chm2/ms_q2c.jpg",
+      "markscheme_text": "• q = mcdelta T = 100 x 4.18 x 6.5 (1)\n• = 2717 J (or 2.717 kJ) (1)"
     },
     {
       "id": "2001-june-chm2-q2d",
@@ -2586,7 +2594,8 @@
       "figures": [
         "img/2001-june-chm2/fig-q2-preamble.jpg"
       ],
-      "markscheme": "img/2001-june-chm2/ms_q2d.jpg"
+      "markscheme": "img/2001-june-chm2/ms_q2d.jpg",
+      "markscheme_text": "• delta H = -2.717 / 0.050 (1)\n• = -54.3 kJ mol^-1 (1)"
     },
     {
       "id": "2001-june-chm2-q3a",
@@ -2603,7 +2612,8 @@
       "summary": "State what is meant by the terms rate of reaction and activation energy.",
       "image": "img/2001-june-chm2/q_q3a.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm2/ms_q3a.jpg"
+      "markscheme": "img/2001-june-chm2/ms_q3a.jpg",
+      "markscheme_text": "• Rate of reaction: change in concentration (1) per unit time (or per second / per minute) (1)\n• Activation energy: minimum energy (1) required for a reaction to occur / for successful collisions (1)"
     },
     {
       "id": "2001-june-chm2-q3bi",
@@ -2622,7 +2632,8 @@
       "figures": [
         "img/2001-june-chm2/fig-q3b-curve.jpg"
       ],
-      "markscheme": "img/2001-june-chm2/ms_q3bi.jpg"
+      "markscheme": "img/2001-june-chm2/ms_q3bi.jpg",
+      "markscheme_text": "Sketch of curve at higher temperature:\n• peak lower and shifted to the right (1)\n• curve crosses once only and stays above original curve at high energy (1)"
     },
     {
       "id": "2001-june-chm2-q3bii",
@@ -2641,7 +2652,8 @@
       "figures": [
         "img/2001-june-chm2/fig-q3b-curve.jpg"
       ],
-      "markscheme": "img/2001-june-chm2/ms_q3bii.jpg"
+      "markscheme": "img/2001-june-chm2/ms_q3bii.jpg",
+      "markscheme_text": "• Effect: (rate of reaction) increases (1)\n• Explanation: many more molecules / particles (1)\n• have energy >= E_a / have activation energy (1)"
     },
     {
       "id": "2001-june-chm2-q3biii",
@@ -2660,7 +2672,8 @@
       "figures": [
         "img/2001-june-chm2/fig-q3b-curve.jpg"
       ],
-      "markscheme": "img/2001-june-chm2/ms_q3biii.jpg"
+      "markscheme": "img/2001-june-chm2/ms_q3biii.jpg",
+      "markscheme_text": "• Effect: (rate of reaction) increases (1)\n• Explanation: catalyst provides an alternative reaction route / mechanism (1)\n• with a lower activation energy (1)\n• so more molecules have enough energy to react / have energy >= E_a (1)"
     },
     {
       "id": "2001-june-chm2-q4ai",
@@ -2679,7 +2692,8 @@
       "figures": [
         "img/2001-june-chm2/fig-q4-equation.jpg"
       ],
-      "markscheme": "img/2001-june-chm2/ms_q4ai.jpg"
+      "markscheme": "img/2001-june-chm2/ms_q4ai.jpg",
+      "markscheme_text": "all reactants and products are in the same phase / state (or are all gases) (1)"
     },
     {
       "id": "2001-june-chm2-q4aii",
@@ -2698,7 +2712,8 @@
       "figures": [
         "img/2001-june-chm2/fig-q4-equation.jpg"
       ],
-      "markscheme": "img/2001-june-chm2/ms_q4aii.jpg"
+      "markscheme": "img/2001-june-chm2/ms_q4aii.jpg",
+      "markscheme_text": "• forward and reverse reactions proceed at equal rates (1)\n• concentrations of reactants and products remain constant (1)"
     },
     {
       "id": "2001-june-chm2-q4bi",
@@ -2717,7 +2732,8 @@
       "figures": [
         "img/2001-june-chm2/fig-q4-equation.jpg"
       ],
-      "markscheme": "img/2001-june-chm2/ms_q4bi.jpg"
+      "markscheme": "img/2001-june-chm2/ms_q4bi.jpg",
+      "markscheme_text": "• Effect: (concentration of hydrogen) increases (1)\n• Explanation: equilibrium shifts to the right / forward reaction favoured (1)\n• to oppose the addition of steam / remove added water (1)"
     },
     {
       "id": "2001-june-chm2-q4bii",
@@ -2736,7 +2752,8 @@
       "figures": [
         "img/2001-june-chm2/fig-q4-equation.jpg"
       ],
-      "markscheme": "img/2001-june-chm2/ms_q4bii.jpg"
+      "markscheme": "img/2001-june-chm2/ms_q4bii.jpg",
+      "markscheme_text": "• Effect: (concentration of hydrogen) increases (1)\n• Explanation: equilibrium shifts to the right / forward reaction favoured (1)\n• forward reaction is exothermic / produces heat to oppose temperature decrease (1)"
     },
     {
       "id": "2001-june-chm2-q4c",
@@ -2755,7 +2772,8 @@
       "figures": [
         "img/2001-june-chm2/fig-q4-equation.jpg"
       ],
-      "markscheme": "img/2001-june-chm2/ms_q4c.jpg"
+      "markscheme": "img/2001-june-chm2/ms_q4c.jpg",
+      "markscheme_text": "• Effect: none / no effect (1)\n• Explanation: rates of forward and reverse reactions (1)\n• are increased by the same amount / equally (1)"
     },
     {
       "id": "2001-june-chm2-q5a",
@@ -2772,7 +2790,8 @@
       "summary": "Define reduction in terms of electrons.",
       "image": "img/2001-june-chm2/q_q5a.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm2/ms_q5a.jpg"
+      "markscheme": "img/2001-june-chm2/ms_q5a.jpg",
+      "markscheme_text": "gain of electron(s) (1)"
     },
     {
       "id": "2001-june-chm2-q5bi",
@@ -2791,7 +2810,8 @@
       "figures": [
         "img/2001-june-chm2/fig-q5-preamble.jpg"
       ],
-      "markscheme": "img/2001-june-chm2/ms_q5bi.jpg"
+      "markscheme": "img/2001-june-chm2/ms_q5bi.jpg",
+      "markscheme_text": "• NO_3^-: +5 (1)\n• NO_2: +4 (1)\n• NO: +2 (1)"
     },
     {
       "id": "2001-june-chm2-q5bii",
@@ -2810,7 +2830,8 @@
       "figures": [
         "img/2001-june-chm2/fig-q5-preamble.jpg"
       ],
-      "markscheme": "img/2001-june-chm2/ms_q5bii.jpg"
+      "markscheme": "img/2001-june-chm2/ms_q5bii.jpg",
+      "markscheme_text": "• Process: reduction (1)\n• Half-equation: 4H^+ + NO_3^- + 3e^- -> NO + 2H_2O (1)"
     },
     {
       "id": "2001-june-chm2-q5biii",
@@ -2829,7 +2850,8 @@
       "figures": [
         "img/2001-june-chm2/fig-q5-preamble.jpg"
       ],
-      "markscheme": "img/2001-june-chm2/ms_q5biii.jpg"
+      "markscheme": "img/2001-june-chm2/ms_q5biii.jpg",
+      "markscheme_text": "2H^+ + NO_3^- + e^- -> NO_2 + H_2O (1)"
     },
     {
       "id": "2001-june-chm2-q5biv",
@@ -2848,7 +2870,8 @@
       "figures": [
         "img/2001-june-chm2/fig-q5-preamble.jpg"
       ],
-      "markscheme": "img/2001-june-chm2/ms_q5biv.jpg"
+      "markscheme": "img/2001-june-chm2/ms_q5biv.jpg",
+      "markscheme_text": "Cu + 4H^+ + 2NO_3^- -> Cu^2+ + 2NO_2 + 2H_2O\n\n• correct species (1)\n• correctly balanced (1)"
     },
     {
       "id": "2001-june-chm2-q6a",
@@ -2865,7 +2888,8 @@
       "summary": "State and explain the trend in electronegativity of the halogens down Group VII.",
       "image": "img/2001-june-chm2/q_q6a.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm2/ms_q6a.jpg"
+      "markscheme": "img/2001-june-chm2/ms_q6a.jpg",
+      "markscheme_text": "• Trend: decreases (down group) (1)\n• Explanation: atomic radius / size increases / more electron shells (1)\n• more shielding (from inner shells) (1)\n• weaker attraction for shared electron pair / electron density in covalent bond (1)"
     },
     {
       "id": "2001-june-chm2-q6b",
@@ -2882,7 +2906,8 @@
       "summary": "State and explain the trend in boiling points of the halogens down Group VII.",
       "image": "img/2001-june-chm2/q_q6b.jpg",
       "figures": [],
-      "markscheme": "img/2001-june-chm2/ms_q6b.jpg"
+      "markscheme": "img/2001-june-chm2/ms_q6b.jpg",
+      "markscheme_text": "• Trend: increases (down group) (1)\n• Explanation: molecular size / M_r increases / more electrons (1)\n• stronger van der Waals' / intermolecular forces (between molecules) (1)"
     },
     {
       "id": "2001-june-chm3w-q1ai",
