@@ -732,6 +732,18 @@
       "spec": "AQA Chemistry",
       "totalMarks": 60,
       "duration": "1 hour"
+    },
+    {
+      "id": "2005-jan-chm4",
+      "year": 2005,
+      "series": "January",
+      "date": "2005-01-21",
+      "code": "CHM4",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "level": "A2",
+      "spec": "AQA Chemistry",
+      "totalMarks": 90,
+      "duration": "1 hour 30 minutes"
     }
   ],
   "questions": [
@@ -25824,6 +25836,2248 @@
         "image": "img/2005-jan-chm3w/ms_q5e.png"
       },
       "page": 10
+    },
+    {
+      "id": "2005-jan-chm4-q1ai",
+      "paper": "2005-jan-chm4",
+      "year": 2005,
+      "series": "January",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "date": "2005-01-21",
+      "question": "1(a)(i)",
+      "description": "Give reagents for Step 1 (formation of NO2+) and write equation.",
+      "marks": 2,
+      "topics": [
+        "3.3.10"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "image": "img/2005-jan-chm4/q_q1ai.jpg",
+      "markscheme": {
+        "image": "img/2005-jan-chm4/ms_q1ai.png"
+      },
+      "page": 2,
+      "figures": [
+        "img/2005-jan-chm4/fig-q1-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2005-jan-chm4-q1aii",
+      "paper": "2005-jan-chm4",
+      "year": 2005,
+      "series": "January",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "date": "2005-01-21",
+      "question": "1(a)(ii)",
+      "description": "Name and outline mechanism for reaction of NO2+ with methylbenzene.",
+      "marks": 4,
+      "topics": [
+        "3.3.10"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "image": "img/2005-jan-chm4/q_q1aii.jpg",
+      "markscheme": {
+        "image": "img/2005-jan-chm4/ms_q1aii.png"
+      },
+      "page": 2,
+      "figures": [
+        "img/2005-jan-chm4/fig-q1-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2005-jan-chm4-q1b",
+      "paper": "2005-jan-chm4",
+      "year": 2005,
+      "series": "January",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "date": "2005-01-21",
+      "question": "1(b)",
+      "description": "Give suitable reagent or combination for Step 2 (reduction of nitroarene to amine K).",
+      "marks": 1,
+      "topics": [
+        "3.3.10",
+        "3.3.11"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "image": "img/2005-jan-chm4/q_q1b.jpg",
+      "markscheme": {
+        "image": "img/2005-jan-chm4/ms_q1b.png"
+      },
+      "page": 2,
+      "figures": [
+        "img/2005-jan-chm4/fig-q1-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2005-jan-chm4-q1ci",
+      "paper": "2005-jan-chm4",
+      "year": 2005,
+      "series": "January",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "date": "2005-01-21",
+      "question": "1(c)(i)",
+      "description": "Give reagent for Step 4 and condition to ensure primary amine is major product.",
+      "marks": 2,
+      "topics": [
+        "3.3.11"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "image": "img/2005-jan-chm4/q_q1ci.jpg",
+      "markscheme": {
+        "image": "img/2005-jan-chm4/ms_q1ci.png"
+      },
+      "page": 5
+    },
+    {
+      "id": "2005-jan-chm4-q1cii",
+      "paper": "2005-jan-chm4",
+      "year": 2005,
+      "series": "January",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "date": "2005-01-21",
+      "question": "1(c)(ii)",
+      "description": "Name and outline mechanism for Step 4 (nucleophilic substitution with NH3).",
+      "marks": 5,
+      "topics": [
+        "3.3.11"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "image": "img/2005-jan-chm4/q_q1cii.jpg",
+      "markscheme": {
+        "image": "img/2005-jan-chm4/ms_q1cii.png"
+      },
+      "page": 5
+    },
+    {
+      "id": "2005-jan-chm4-q1d",
+      "paper": "2005-jan-chm4",
+      "year": 2005,
+      "series": "January",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "date": "2005-01-21",
+      "question": "1(d)",
+      "description": "Explain why amine K (phenylamine derivative) is a weaker base than ammonia.",
+      "marks": 2,
+      "topics": [
+        "3.3.11"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "image": "img/2005-jan-chm4/q_q1d.jpg",
+      "markscheme": {
+        "image": "img/2005-jan-chm4/ms_q1d.png"
+      },
+      "page": 5
+    },
+    {
+      "id": "2005-jan-chm4-q1e",
+      "paper": "2005-jan-chm4",
+      "year": 2005,
+      "series": "January",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "date": "2005-01-21",
+      "question": "1(e)",
+      "description": "Draw structure of organic compound formed when large excess of bromomethane reacts with amine L.",
+      "marks": 1,
+      "topics": [
+        "3.3.11"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "image": "img/2005-jan-chm4/q_q1e.jpg",
+      "markscheme": {
+        "image": "img/2005-jan-chm4/ms_q1e.png"
+      },
+      "page": 5
+    },
+    {
+      "id": "2005-jan-chm4-q1f",
+      "paper": "2005-jan-chm4",
+      "year": 2005,
+      "series": "January",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "date": "2005-01-21",
+      "question": "1(f)",
+      "description": "Draw structure of organic compound formed when ethanoyl chloride reacts with amine L.",
+      "marks": 1,
+      "topics": [
+        "3.3.9",
+        "3.3.11"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "image": "img/2005-jan-chm4/q_q1f.jpg",
+      "markscheme": {
+        "image": "img/2005-jan-chm4/ms_q1f.png"
+      },
+      "page": 5
+    },
+    {
+      "id": "2005-jan-chm4-q2ai",
+      "paper": "2005-jan-chm4",
+      "year": 2005,
+      "series": "January",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "date": "2005-01-21",
+      "question": "2(a)(i)",
+      "description": "Draw structure of main alanine species in aqueous solution and give name of type of species.",
+      "marks": 2,
+      "topics": [
+        "3.3.13"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "image": "img/2005-jan-chm4/q_q2ai.jpg",
+      "markscheme": {
+        "image": "img/2005-jan-chm4/ms_q2ai.png"
+      },
+      "page": 6
+    },
+    {
+      "id": "2005-jan-chm4-q2aii",
+      "paper": "2005-jan-chm4",
+      "year": 2005,
+      "series": "January",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "date": "2005-01-21",
+      "question": "2(a)(ii)",
+      "description": "Draw structure of alanine species formed when excess hydrochloric acid is added.",
+      "marks": 1,
+      "topics": [
+        "3.3.13"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "image": "img/2005-jan-chm4/q_q2aii.jpg",
+      "markscheme": {
+        "image": "img/2005-jan-chm4/ms_q2aii.png"
+      },
+      "page": 6
+    },
+    {
+      "id": "2005-jan-chm4-q2b",
+      "paper": "2005-jan-chm4",
+      "year": 2005,
+      "series": "January",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "date": "2005-01-21",
+      "question": "2(b)",
+      "description": "Give repeating unit of alanine polypeptide and name type of polymerisation.",
+      "marks": 2,
+      "topics": [
+        "3.3.12",
+        "3.3.13"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "image": "img/2005-jan-chm4/q_q2b.jpg",
+      "markscheme": {
+        "image": "img/2005-jan-chm4/ms_q2b.png"
+      },
+      "page": 6
+    },
+    {
+      "id": "2005-jan-chm4-q2c",
+      "paper": "2005-jan-chm4",
+      "year": 2005,
+      "series": "January",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "date": "2005-01-21",
+      "question": "2(c)",
+      "description": "Give name of alkene used to form given polyalkene.",
+      "marks": 1,
+      "topics": [
+        "3.3.12"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "image": "img/2005-jan-chm4/q_q2c.jpg",
+      "markscheme": {
+        "image": "img/2005-jan-chm4/ms_q2c.png"
+      },
+      "page": 7
+    },
+    {
+      "id": "2005-jan-chm4-q3a",
+      "paper": "2005-jan-chm4",
+      "year": 2005,
+      "series": "January",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "date": "2005-01-21",
+      "question": "3(a)",
+      "description": "Draw one possible structure each for isomers A and B (C5H10).",
+      "marks": 2,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "image": "img/2005-jan-chm4/q_q3a.jpg",
+      "markscheme": {
+        "image": "img/2005-jan-chm4/ms_q3a.png"
+      },
+      "page": 8
+    },
+    {
+      "id": "2005-jan-chm4-q3b",
+      "paper": "2005-jan-chm4",
+      "year": 2005,
+      "series": "January",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "date": "2005-01-21",
+      "question": "3(b)",
+      "description": "Draw one possible structure each for isomers C and D (C2H4O2).",
+      "marks": 2,
+      "topics": [
+        "3.3.6"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "image": "img/2005-jan-chm4/q_q3b.jpg",
+      "markscheme": {
+        "image": "img/2005-jan-chm4/ms_q3b.png"
+      },
+      "page": 8
+    },
+    {
+      "id": "2005-jan-chm4-q3c",
+      "paper": "2005-jan-chm4",
+      "year": 2005,
+      "series": "January",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "date": "2005-01-21",
+      "question": "3(c)",
+      "description": "Draw one possible structure each for esters E and F (C5H10O2).",
+      "marks": 2,
+      "topics": [
+        "3.3.6"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "image": "img/2005-jan-chm4/q_q3c.jpg",
+      "markscheme": {
+        "image": "img/2005-jan-chm4/ms_q3c.png"
+      },
+      "page": 8
+    },
+    {
+      "id": "2005-jan-chm4-q3d",
+      "paper": "2005-jan-chm4",
+      "year": 2005,
+      "series": "January",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "date": "2005-01-21",
+      "question": "3(d)",
+      "description": "Draw one possible structure each for isomers G and H (C3H6Cl2).",
+      "marks": 2,
+      "topics": [
+        "3.3.7"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "image": "img/2005-jan-chm4/q_q3d.jpg",
+      "markscheme": {
+        "image": "img/2005-jan-chm4/ms_q3d.png"
+      },
+      "page": 9
+    },
+    {
+      "id": "2005-jan-chm4-q3e",
+      "paper": "2005-jan-chm4",
+      "year": 2005,
+      "series": "January",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "date": "2005-01-21",
+      "question": "3(e)",
+      "description": "Draw one possible structure each for isomers I and J (C6H12).",
+      "marks": 2,
+      "topics": [
+        "3.3.6"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "image": "img/2005-jan-chm4/q_q3e.jpg",
+      "markscheme": {
+        "image": "img/2005-jan-chm4/ms_q3e.png"
+      },
+      "page": 9
+    },
+    {
+      "id": "2005-jan-chm4-q4a",
+      "paper": "2005-jan-chm4",
+      "year": 2005,
+      "series": "January",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "date": "2005-01-21",
+      "question": "4(a)",
+      "description": "Deduce order of reaction with respect to P and with respect to Q.",
+      "marks": 2,
+      "topics": [
+        "3.1.9"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "image": "img/2005-jan-chm4/q_q4a.jpg",
+      "markscheme": {
+        "image": "img/2005-jan-chm4/ms_q4a.png"
+      },
+      "page": 10,
+      "figures": [
+        "img/2005-jan-chm4/fig-q4-table.jpg"
+      ]
+    },
+    {
+      "id": "2005-jan-chm4-q4bi",
+      "paper": "2005-jan-chm4",
+      "year": 2005,
+      "series": "January",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "date": "2005-01-21",
+      "question": "4(b)(i)",
+      "description": "Write rate equation for reaction between R and S, and calculate initial rate.",
+      "marks": 3,
+      "topics": [
+        "3.1.9"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "image": "img/2005-jan-chm4/q_q4bi.jpg",
+      "markscheme": {
+        "image": "img/2005-jan-chm4/ms_q4bi.png"
+      },
+      "page": 10
+    },
+    {
+      "id": "2005-jan-chm4-q4bii",
+      "paper": "2005-jan-chm4",
+      "year": 2005,
+      "series": "January",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "date": "2005-01-21",
+      "question": "4(b)(ii)",
+      "description": "Calculate value of rate constant at temperature T2.",
+      "marks": 2,
+      "topics": [
+        "3.1.9"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "image": "img/2005-jan-chm4/q_q4bii.jpg",
+      "markscheme": {
+        "image": "img/2005-jan-chm4/ms_q4bii.png"
+      },
+      "page": 10
+    },
+    {
+      "id": "2005-jan-chm4-q4biii",
+      "paper": "2005-jan-chm4",
+      "year": 2005,
+      "series": "January",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "date": "2005-01-21",
+      "question": "4(b)(iii)",
+      "description": "Deduce which of T1 and T2 is the higher temperature.",
+      "marks": 1,
+      "topics": [
+        "3.1.9"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "image": "img/2005-jan-chm4/q_q4biii.jpg",
+      "markscheme": {
+        "image": "img/2005-jan-chm4/ms_q4biii.png"
+      },
+      "page": 10
+    },
+    {
+      "id": "2005-jan-chm4-q5ai",
+      "paper": "2005-jan-chm4",
+      "year": 2005,
+      "series": "January",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "date": "2005-01-21",
+      "question": "5(a)(i)",
+      "description": "Calculate moles of C2F4 and moles of HCl at equilibrium.",
+      "marks": 2,
+      "topics": [
+        "3.1.6"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "image": "img/2005-jan-chm4/q_q5ai.jpg",
+      "markscheme": {
+        "image": "img/2005-jan-chm4/ms_q5ai.png"
+      },
+      "page": 11
+    },
+    {
+      "id": "2005-jan-chm4-q5aii",
+      "paper": "2005-jan-chm4",
+      "year": 2005,
+      "series": "January",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "date": "2005-01-21",
+      "question": "5(a)(ii)",
+      "description": "Write an expression for Kc for the equilibrium.",
+      "marks": 1,
+      "topics": [
+        "3.1.6"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "image": "img/2005-jan-chm4/q_q5aii.jpg",
+      "markscheme": {
+        "image": "img/2005-jan-chm4/ms_q5aii.png"
+      },
+      "page": 11
+    },
+    {
+      "id": "2005-jan-chm4-q5aiii",
+      "paper": "2005-jan-chm4",
+      "year": 2005,
+      "series": "January",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "date": "2005-01-21",
+      "question": "5(a)(iii)",
+      "description": "Calculate value for Kc and give its units.",
+      "marks": 3,
+      "topics": [
+        "3.1.6"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "image": "img/2005-jan-chm4/q_q5aiii.jpg",
+      "markscheme": {
+        "image": "img/2005-jan-chm4/ms_q5aiii.png"
+      },
+      "page": 11
+    },
+    {
+      "id": "2005-jan-chm4-q5bi",
+      "paper": "2005-jan-chm4",
+      "year": 2005,
+      "series": "January",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "date": "2005-01-21",
+      "question": "5(b)(i)",
+      "description": "State how temperature should be changed at constant pressure to increase yield of C2F4.",
+      "marks": 1,
+      "topics": [
+        "3.1.6"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "image": "img/2005-jan-chm4/q_q5bi.jpg",
+      "markscheme": {
+        "image": "img/2005-jan-chm4/ms_q5bi.png"
+      },
+      "page": 11
+    },
+    {
+      "id": "2005-jan-chm4-q5bii",
+      "paper": "2005-jan-chm4",
+      "year": 2005,
+      "series": "January",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "date": "2005-01-21",
+      "question": "5(b)(ii)",
+      "description": "State how total pressure should be changed at constant temperature to increase yield of C2F4.",
+      "marks": 1,
+      "topics": [
+        "3.1.6"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "image": "img/2005-jan-chm4/q_q5bii.jpg",
+      "markscheme": {
+        "image": "img/2005-jan-chm4/ms_q5bii.png"
+      },
+      "page": 11
+    },
+    {
+      "id": "2005-jan-chm4-q5c",
+      "paper": "2005-jan-chm4",
+      "year": 2005,
+      "series": "January",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "date": "2005-01-21",
+      "question": "5(c)",
+      "description": "Name type of polymerisation involved in formation of PTFE.",
+      "marks": 1,
+      "topics": [
+        "3.3.2",
+        "3.3.12"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "image": "img/2005-jan-chm4/q_q5c.jpg",
+      "markscheme": {
+        "image": "img/2005-jan-chm4/ms_q5c.png"
+      },
+      "page": 11
+    },
+    {
+      "id": "2005-jan-chm4-q6a",
+      "paper": "2005-jan-chm4",
+      "year": 2005,
+      "series": "January",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "date": "2005-01-21",
+      "question": "6(a)",
+      "description": "Name compound U (CH3CH2CH2COCl).",
+      "marks": 1,
+      "topics": [
+        "3.3.9"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "image": "img/2005-jan-chm4/q_q6a.jpg",
+      "markscheme": {
+        "image": "img/2005-jan-chm4/ms_q6a.png"
+      },
+      "page": 12
+    },
+    {
+      "id": "2005-jan-chm4-q6bi",
+      "paper": "2005-jan-chm4",
+      "year": 2005,
+      "series": "January",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "date": "2005-01-21",
+      "question": "6(b)(i)",
+      "description": "State why mass spectrum of U contains two molecular ion peaks.",
+      "marks": 1,
+      "topics": [
+        "3.1.1",
+        "3.3.6"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "image": "img/2005-jan-chm4/q_q6bi.jpg",
+      "markscheme": {
+        "image": "img/2005-jan-chm4/ms_q6bi.png"
+      },
+      "page": 12
+    },
+    {
+      "id": "2005-jan-chm4-q6bii",
+      "paper": "2005-jan-chm4",
+      "year": 2005,
+      "series": "January",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "date": "2005-01-21",
+      "question": "6(b)(ii)",
+      "description": "Give m/z values of these two peaks.",
+      "marks": 1,
+      "topics": [
+        "3.1.1",
+        "3.3.6"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "image": "img/2005-jan-chm4/q_q6bii.jpg",
+      "markscheme": {
+        "image": "img/2005-jan-chm4/ms_q6bii.png"
+      },
+      "page": 12
+    },
+    {
+      "id": "2005-jan-chm4-q6c",
+      "paper": "2005-jan-chm4",
+      "year": 2005,
+      "series": "January",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "date": "2005-01-21",
+      "question": "6(c)",
+      "description": "Name and outline mechanism for reaction of U with CH3OH.",
+      "marks": 5,
+      "topics": [
+        "3.3.9"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "image": "img/2005-jan-chm4/q_q6c.jpg",
+      "markscheme": {
+        "image": "img/2005-jan-chm4/ms_q6c.png"
+      },
+      "page": 12
+    },
+    {
+      "id": "2005-jan-chm5-q1ai",
+      "paper": "2005-jan-chm5",
+      "question": "1(a)(i)",
+      "marks": 2,
+      "page": 2,
+      "topics": [
+        "3.1.12",
+        "3.1.2"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate concentration of aluminium chloride in 4.22 g dm–3 solution.",
+      "image": "img/2005-jan-chm5/q_q1ai.jpg",
+      "figures": [],
+      "markscheme": "img/2005-jan-chm5/ms_q1ai.jpg",
+      "markscheme_text": "1(a)(i) Mass / Mr = 4.22 / 133.5 [1]\n= 0.0316 (mol dm–3) [1]"
+    },
+    {
+      "id": "2005-jan-chm5-q1aii",
+      "paper": "2005-jan-chm5",
+      "question": "1(a)(ii)",
+      "marks": 2,
+      "page": 2,
+      "topics": [
+        "3.1.12"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate concentration of hydrogen ions in solution with pH 3.25.",
+      "image": "img/2005-jan-chm5/q_q1aii.jpg",
+      "figures": [],
+      "markscheme": "img/2005-jan-chm5/ms_q1aii.jpg",
+      "markscheme_text": "1(a)(ii) pH = –log[H+] or [H+] = 10^(–pH) [1]\n[H+] = 5.62 × 10^(–4) (mol dm–3) [1]"
+    },
+    {
+      "id": "2005-jan-chm5-q1aiii",
+      "paper": "2005-jan-chm5",
+      "question": "1(a)(iii)",
+      "marks": 1,
+      "page": 2,
+      "topics": [
+        "3.2.6"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Identify major aluminium-containing species in aqueous AlCl3 solution.",
+      "image": "img/2005-jan-chm5/q_q1aiii.jpg",
+      "figures": [],
+      "markscheme": "img/2005-jan-chm5/ms_q1aiii.jpg",
+      "markscheme_text": "1(a)(iii) [Al(H2O)6]3+ [1]"
+    },
+    {
+      "id": "2005-jan-chm5-q1aiv",
+      "paper": "2005-jan-chm5",
+      "question": "1(a)(iv)",
+      "marks": 1,
+      "page": 2,
+      "topics": [
+        "3.2.6"
+      ],
+      "skills": [
+        "recall",
+        "explanation"
+      ],
+      "summary": "Equation for hydrolysis reaction causing aqueous aluminium chloride to be acidic.",
+      "image": "img/2005-jan-chm5/q_q1aiv.jpg",
+      "figures": [],
+      "markscheme": "img/2005-jan-chm5/ms_q1aiv.jpg",
+      "markscheme_text": "1(a)(iv) [Al(H2O)6]3+ + H2O ⇌ [Al(H2O)5(OH)]2+ + H3O+(aq)\nor [Al(H2O)6]3+ ⇌ [Al(H2O)5(OH)]2+ + H+(aq) [1]"
+    },
+    {
+      "id": "2005-jan-chm5-q1av",
+      "paper": "2005-jan-chm5",
+      "question": "1(a)(v)",
+      "marks": 2,
+      "page": 2,
+      "topics": [
+        "3.1.12",
+        "3.2.6"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate percentage of aluminium ions hydrolysed using parts (i) and (ii).",
+      "image": "img/2005-jan-chm5/q_q1av.jpg",
+      "figures": [],
+      "markscheme": "img/2005-jan-chm5/ms_q1av.jpg",
+      "markscheme_text": "1(a)(v) 5.62 × 10^(–4) × 100 / 0.0316 [1]\n= 1.78 to 1.80% [1]"
+    },
+    {
+      "id": "2005-jan-chm5-q1b",
+      "paper": "2005-jan-chm5",
+      "question": "1(b)",
+      "marks": 2,
+      "page": 2,
+      "topics": [
+        "3.2.6"
+      ],
+      "skills": [
+        "recall",
+        "observation"
+      ],
+      "summary": "State two observations when sodium carbonate is added to aqueous aluminium chloride.",
+      "image": "img/2005-jan-chm5/q_q1b.jpg",
+      "figures": [],
+      "markscheme": "img/2005-jan-chm5/ms_q1b.jpg",
+      "markscheme_text": "1(b) White precipitate formed [1]\nColourless gas / effervescence / bubbles (or CO2 evolved) [1]"
+    },
+    {
+      "id": "2005-jan-chm5-q1ci",
+      "paper": "2005-jan-chm5",
+      "question": "1(c)(i)",
+      "marks": 2,
+      "page": 5,
+      "topics": [
+        "3.2.3",
+        "3.2.6"
+      ],
+      "skills": [
+        "recall",
+        "observation"
+      ],
+      "summary": "Observation and equation when aqueous silver nitrate is added to aluminium chloride.",
+      "image": "img/2005-jan-chm5/q_q1ci.jpg",
+      "figures": [],
+      "markscheme": "img/2005-jan-chm5/ms_q1ci.jpg",
+      "markscheme_text": "1(c)(i) White precipitate formed [1]\n3AgNO3 + AlCl3 → 3AgCl + Al(NO3)3\nor Ag+ + Cl– → AgCl [1]"
+    },
+    {
+      "id": "2005-jan-chm5-q1cii",
+      "paper": "2005-jan-chm5",
+      "question": "1(c)(ii)",
+      "marks": 2,
+      "page": 5,
+      "topics": [
+        "3.2.6"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "Why excess aqueous ammonia cannot confirm presence of chloride ions in aluminium chloride.",
+      "image": "img/2005-jan-chm5/q_q1cii.jpg",
+      "figures": [],
+      "markscheme": "img/2005-jan-chm5/ms_q1cii.jpg",
+      "markscheme_text": "1(c)(ii) Al3+(aq) reacts with NH3(aq) / OH– forming a white precipitate [1]\nCannot see if AgCl precipitate has dissolved (masked by Al(OH)3) [1]"
+    },
+    {
+      "id": "2005-jan-chm5-q1di",
+      "paper": "2005-jan-chm5",
+      "question": "1(d)(i)",
+      "marks": 1,
+      "page": 5,
+      "topics": [
+        "3.2.3"
+      ],
+      "skills": [
+        "recall",
+        "observation"
+      ],
+      "summary": "State what is observed when concentrated sulphuric acid is added to solid sodium chloride.",
+      "image": "img/2005-jan-chm5/q_q1di.jpg",
+      "figures": [],
+      "markscheme": "img/2005-jan-chm5/ms_q1di.jpg",
+      "markscheme_text": "1(d)(i) White fumes / steamy fumes / misty fumes evolved [1]"
+    },
+    {
+      "id": "2005-jan-chm5-q1dii",
+      "paper": "2005-jan-chm5",
+      "question": "1(d)(ii)",
+      "marks": 2,
+      "page": 5,
+      "topics": [
+        "3.2.3"
+      ],
+      "skills": [
+        "recall",
+        "explanation"
+      ],
+      "summary": "Equation for reaction of NaCl with H2SO4 and role of sulphuric acid in this reaction.",
+      "image": "img/2005-jan-chm5/q_q1dii.jpg",
+      "figures": [],
+      "markscheme": "img/2005-jan-chm5/ms_q1dii.jpg",
+      "markscheme_text": "1(d)(ii) NaCl + H2SO4 → NaHSO4 + HCl\nor 2NaCl + H2SO4 → Na2SO4 + 2HCl [1]\nProton donor / acid / Brønsted–Lowry acid [1]"
+    },
+    {
+      "id": "2005-jan-chm5-q2a",
+      "paper": "2005-jan-chm5",
+      "question": "2(a)",
+      "marks": 1,
+      "page": 6,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Give the full electronic arrangement of the sulphide ion S2–.",
+      "image": "img/2005-jan-chm5/q_q2a.jpg",
+      "figures": [
+        "img/2005-jan-chm5/fig-q2-cycle.jpg"
+      ],
+      "markscheme": "img/2005-jan-chm5/ms_q2a.jpg",
+      "markscheme_text": "2(a) 1s2 2s2 2p6 3s2 3p6 [1]"
+    },
+    {
+      "id": "2005-jan-chm5-q2b",
+      "paper": "2005-jan-chm5",
+      "question": "2(b)",
+      "marks": 1,
+      "page": 6,
+      "topics": [
+        "3.1.8"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Identify the species X formed in Step E of the Born–Haber cycle.",
+      "image": "img/2005-jan-chm5/q_q2b.jpg",
+      "figures": [
+        "img/2005-jan-chm5/fig-q2-cycle.jpg"
+      ],
+      "markscheme": "img/2005-jan-chm5/ms_q2b.jpg",
+      "markscheme_text": "2(b) S–(g) [1]"
+    },
+    {
+      "id": "2005-jan-chm5-q2c",
+      "paper": "2005-jan-chm5",
+      "question": "2(c)",
+      "marks": 2,
+      "page": 6,
+      "topics": [
+        "3.1.8"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "Suggest why Step F (second electron affinity of sulphur) is an endothermic process.",
+      "image": "img/2005-jan-chm5/q_q2c.jpg",
+      "figures": [
+        "img/2005-jan-chm5/fig-q2-cycle.jpg"
+      ],
+      "markscheme": "img/2005-jan-chm5/ms_q2c.jpg",
+      "markscheme_text": "2(c) The negative S– ion [1]\nRepels the incoming / added electron [1]"
+    },
+    {
+      "id": "2005-jan-chm5-q2di",
+      "paper": "2005-jan-chm5",
+      "question": "2(d)(i)",
+      "marks": 1,
+      "page": 7,
+      "topics": [
+        "3.1.8"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Name the enthalpy change represented by Step B in the Born–Haber cycle.",
+      "image": "img/2005-jan-chm5/q_q2di.jpg",
+      "figures": [
+        "img/2005-jan-chm5/fig-q2-cycle.jpg"
+      ],
+      "markscheme": "img/2005-jan-chm5/ms_q2di.jpg",
+      "markscheme_text": "2(d)(i) Enthalpy of atomisation of sulphur [1]"
+    },
+    {
+      "id": "2005-jan-chm5-q2dii",
+      "paper": "2005-jan-chm5",
+      "question": "2(d)(ii)",
+      "marks": 1,
+      "page": 7,
+      "topics": [
+        "3.1.8"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Name the enthalpy change represented by Step D in the Born–Haber cycle.",
+      "image": "img/2005-jan-chm5/q_q2dii.jpg",
+      "figures": [
+        "img/2005-jan-chm5/fig-q2-cycle.jpg"
+      ],
+      "markscheme": "img/2005-jan-chm5/ms_q2dii.jpg",
+      "markscheme_text": "2(d)(ii) Second ionisation enthalpy of calcium [1]"
+    },
+    {
+      "id": "2005-jan-chm5-q2diii",
+      "paper": "2005-jan-chm5",
+      "question": "2(d)(iii)",
+      "marks": 1,
+      "page": 7,
+      "topics": [
+        "3.1.8"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Name the enthalpy change represented by Step F in the Born–Haber cycle.",
+      "image": "img/2005-jan-chm5/q_q2diii.jpg",
+      "figures": [
+        "img/2005-jan-chm5/fig-q2-cycle.jpg"
+      ],
+      "markscheme": "img/2005-jan-chm5/ms_q2diii.jpg",
+      "markscheme_text": "2(d)(iii) Second electron affinity of sulphur [1]"
+    },
+    {
+      "id": "2005-jan-chm5-q2e",
+      "paper": "2005-jan-chm5",
+      "question": "2(e)",
+      "marks": 2,
+      "page": 7,
+      "topics": [
+        "3.1.1",
+        "3.1.8"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "Explain why Step D (second IE of Ca) is more endothermic than Step C (first IE).",
+      "image": "img/2005-jan-chm5/q_q2e.jpg",
+      "figures": [
+        "img/2005-jan-chm5/fig-q2-cycle.jpg"
+      ],
+      "markscheme": "img/2005-jan-chm5/ms_q2e.jpg",
+      "markscheme_text": "2(e) Electron is more strongly attracted / electron removed from positive ion Ca+ [1]\nElectron is nearer to the nucleus / smaller ionic radius / less shielding [1]"
+    },
+    {
+      "id": "2005-jan-chm5-q2f",
+      "paper": "2005-jan-chm5",
+      "question": "2(f)",
+      "marks": 2,
+      "page": 7,
+      "topics": [
+        "3.1.8"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate the enthalpy change for Step F (second EA of sulphur) using Born–Haber cycle data.",
+      "image": "img/2005-jan-chm5/q_q2f.jpg",
+      "figures": [
+        "img/2005-jan-chm5/fig-q2-cycle.jpg"
+      ],
+      "markscheme": "img/2005-jan-chm5/ms_q2f.jpg",
+      "markscheme_text": "2(f) Correct cycle expression:\n+178 + 279 + 590 + 1145 – 200 + E – 3013 + 482 = 0 [1]\nE = +539 (kJ mol–1) [1]"
+    },
+    {
+      "id": "2005-jan-chm5-q3ai",
+      "paper": "2005-jan-chm5",
+      "question": "3(a)(i)",
+      "marks": 1,
+      "page": 8,
+      "topics": [
+        "3.1.11"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate EMF of cell: Pt | H2SO3, SO4 2– || Ce4+, Ce3+ | Pt.",
+      "image": "img/2005-jan-chm5/q_q3ai.jpg",
+      "figures": [
+        "img/2005-jan-chm5/fig-q3-table.jpg"
+      ],
+      "markscheme": "img/2005-jan-chm5/ms_q3ai.jpg",
+      "markscheme_text": "3(a)(i) E_cell = +1.45 – 0.17 = (+)1.28 V  [or from data 1.45 - 0.17 = 1.28 V / Ce: 1.45, H2SO3: 0.17 -> 1.28 V; MS accepts 0.60 V if VO2+/VO2+ used] [1]"
+    },
+    {
+      "id": "2005-jan-chm5-q3aii",
+      "paper": "2005-jan-chm5",
+      "question": "3(a)(ii)",
+      "marks": 1,
+      "page": 8,
+      "topics": [
+        "3.1.11"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Write half-equation for oxidation process occurring at negative electrode.",
+      "image": "img/2005-jan-chm5/q_q3aii.jpg",
+      "figures": [
+        "img/2005-jan-chm5/fig-q3-table.jpg"
+      ],
+      "markscheme": "img/2005-jan-chm5/ms_q3aii.jpg",
+      "markscheme_text": "3(a)(ii) H2O + H2SO3 → SO4 2– + 4H+ + 2e– [1]"
+    },
+    {
+      "id": "2005-jan-chm5-q3bi",
+      "paper": "2005-jan-chm5",
+      "question": "3(b)(i)",
+      "marks": 2,
+      "page": 9,
+      "topics": [
+        "3.1.11"
+      ],
+      "skills": [
+        "recall",
+        "calculation"
+      ],
+      "summary": "Equation for reaction of IO3– with H2O2 in acidic solution to form O2 and I2.",
+      "image": "img/2005-jan-chm5/q_q3bi.jpg",
+      "figures": [
+        "img/2005-jan-chm5/fig-q3-table.jpg"
+      ],
+      "markscheme": "img/2005-jan-chm5/ms_q3bi.jpg",
+      "markscheme_text": "3(b)(i) 2IO3– + 2H+ + 5H2O2 → 5O2 + I2 + 6H2O [2]"
+    },
+    {
+      "id": "2005-jan-chm5-q3bii",
+      "paper": "2005-jan-chm5",
+      "question": "3(b)(ii)",
+      "marks": 1,
+      "page": 9,
+      "topics": [
+        "3.1.11"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "Why the EMF of a cell changes when in use.",
+      "image": "img/2005-jan-chm5/q_q3bii.jpg",
+      "figures": [
+        "img/2005-jan-chm5/fig-q3-table.jpg"
+      ],
+      "markscheme": "img/2005-jan-chm5/ms_q3bii.jpg",
+      "markscheme_text": "3(b)(ii) The concentrations of the ions change (are no longer standard / reagents used up)\nor EMF is determined when no current flows [1]"
+    },
+    {
+      "id": "2005-jan-chm5-q3biii",
+      "paper": "2005-jan-chm5",
+      "question": "3(b)(iii)",
+      "marks": 1,
+      "page": 9,
+      "topics": [
+        "3.1.11"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Effect on electrode potential of IO3–/I2 electrode when surface area of Pt electrode is doubled.",
+      "image": "img/2005-jan-chm5/q_q3biii.jpg",
+      "figures": [
+        "img/2005-jan-chm5/fig-q3-table.jpg"
+      ],
+      "markscheme": "img/2005-jan-chm5/ms_q3biii.jpg",
+      "markscheme_text": "3(b)(iii) Unchanged / no effect [1]"
+    },
+    {
+      "id": "2005-jan-chm5-q3biv",
+      "paper": "2005-jan-chm5",
+      "question": "3(b)(iv)",
+      "marks": 3,
+      "page": 9,
+      "topics": [
+        "3.1.11"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "Effect on IO3–/I2 electrode potential and explanation when solution is made more acidic.",
+      "image": "img/2005-jan-chm5/q_q3biv.jpg",
+      "figures": [
+        "img/2005-jan-chm5/fig-q3-table.jpg"
+      ],
+      "markscheme": "img/2005-jan-chm5/ms_q3biv.jpg",
+      "markscheme_text": "3(b)(iv) Increased / becomes more positive [1]\nEquilibrium IO3–/I2 is displaced to the right / forward direction favoured [1]\nElectrons are more readily accepted / more reduction occurs / electrode gains positive charge [1]"
+    },
+    {
+      "id": "2005-jan-chm5-q3c",
+      "paper": "2005-jan-chm5",
+      "question": "3(c)",
+      "marks": 3,
+      "page": 9,
+      "topics": [
+        "3.1.11",
+        "3.2.5"
+      ],
+      "skills": [
+        "recall",
+        "calculation"
+      ],
+      "summary": "Identify vanadium species formed when V2+ oxidised by Ce4+, state its oxidation state, and write half-equation.",
+      "image": "img/2005-jan-chm5/q_q3c.jpg",
+      "figures": [
+        "img/2005-jan-chm5/fig-q3-table.jpg"
+      ],
+      "markscheme": "img/2005-jan-chm5/ms_q3c.jpg",
+      "markscheme_text": "3(c) VO2+ [1]\n+5 / V(V) [1]\nV2+ + 2H2O → VO2+ + 4H+ + 3e– [1]"
+    },
+    {
+      "id": "2005-jan-chm5-q4ai",
+      "paper": "2005-jan-chm5",
+      "question": "4(a)(i)",
+      "marks": 2,
+      "page": 10,
+      "topics": [
+        "3.2.4"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Formula and oxidation state of phosphorus in oxide formed by burning phosphorus in limited oxygen.",
+      "image": "img/2005-jan-chm5/q_q4ai.jpg",
+      "figures": [],
+      "markscheme": "img/2005-jan-chm5/ms_q4ai.jpg",
+      "markscheme_text": "4(a)(i) P4O6 (or P2O3) [or SO2 in sulphur / if question asks for P: P4O6 / P2O3; if S: SO2] [1]\n+3 (or +4 for SO2) [1]"
+    },
+    {
+      "id": "2005-jan-chm5-q4aii",
+      "paper": "2005-jan-chm5",
+      "question": "4(a)(ii)",
+      "marks": 1,
+      "page": 10,
+      "topics": [
+        "3.2.4"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Equation for formation of oxide when phosphorus burns in excess oxygen.",
+      "image": "img/2005-jan-chm5/q_q4aii.jpg",
+      "figures": [],
+      "markscheme": "img/2005-jan-chm5/ms_q4aii.jpg",
+      "markscheme_text": "4(a)(ii) P4 + 5O2 → P4O10\nor 4P + 5O2 → 2P2O5 [1]"
+    },
+    {
+      "id": "2005-jan-chm5-q4bi",
+      "paper": "2005-jan-chm5",
+      "question": "4(b)(i)",
+      "marks": 3,
+      "page": 10,
+      "topics": [
+        "3.2.4"
+      ],
+      "skills": [
+        "recall",
+        "explanation"
+      ],
+      "summary": "Identify molecular oxides B and E from table and explain how melting points confirm molecular nature.",
+      "image": "img/2005-jan-chm5/q_q4bi.jpg",
+      "figures": [],
+      "markscheme": "img/2005-jan-chm5/ms_q4bi.jpg",
+      "markscheme_text": "4(b)(i) Oxide B and Oxide E [2]\nThey have low melting points / weak van der Waals forces between molecules / simple molecular structure [1]"
+    },
+    {
+      "id": "2005-jan-chm5-q4bii",
+      "paper": "2005-jan-chm5",
+      "question": "4(b)(ii)",
+      "marks": 3,
+      "page": 10,
+      "topics": [
+        "3.2.4"
+      ],
+      "skills": [
+        "practical",
+        "recall"
+      ],
+      "summary": "Simple test to confirm identity of sodium oxide A from other ionic oxides C and D.",
+      "image": "img/2005-jan-chm5/q_q4bii.jpg",
+      "figures": [],
+      "markscheme": "img/2005-jan-chm5/ms_q4bii.jpg",
+      "markscheme_text": "4(b)(ii) Test: Add water (dissolve) OR Flame test [1]\nMeasurement: Test pH of solution OR Check flame colour [1]\nObservation: pH = 13–14 (strongly alkaline) OR Yellow flame [1]"
+    },
+    {
+      "id": "2005-jan-chm5-q4ci",
+      "paper": "2005-jan-chm5",
+      "question": "4(c)(i)",
+      "marks": 1,
+      "page": 11,
+      "topics": [
+        "3.1.12",
+        "3.2.4"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Formula of salt formed at first equivalence point on titration curve.",
+      "image": "img/2005-jan-chm5/q_q4ci.jpg",
+      "figures": [
+        "img/2005-jan-chm5/fig-q4-curve.jpg"
+      ],
+      "markscheme": "img/2005-jan-chm5/ms_q4ci.jpg",
+      "markscheme_text": "4(c)(i) NaHSO3 (or Na+ and HSO3–) [1]"
+    },
+    {
+      "id": "2005-jan-chm5-q4cii",
+      "paper": "2005-jan-chm5",
+      "question": "4(c)(ii)",
+      "marks": 1,
+      "page": 11,
+      "topics": [
+        "3.1.12",
+        "3.2.4"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Equation for reaction occurring between first and second equivalence points.",
+      "image": "img/2005-jan-chm5/q_q4cii.jpg",
+      "figures": [
+        "img/2005-jan-chm5/fig-q4-curve.jpg"
+      ],
+      "markscheme": "img/2005-jan-chm5/ms_q4cii.jpg",
+      "markscheme_text": "4(c)(ii) NaHSO3 + NaOH → Na2SO3 + H2O\nor HSO3– + OH– → SO3 2– + H2O [1]"
+    },
+    {
+      "id": "2005-jan-chm5-q4ciii",
+      "paper": "2005-jan-chm5",
+      "question": "4(c)(iii)",
+      "marks": 1,
+      "page": 11,
+      "topics": [
+        "3.1.12"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Suggest suitable indicator for detecting second equivalence point.",
+      "image": "img/2005-jan-chm5/q_q4ciii.jpg",
+      "figures": [
+        "img/2005-jan-chm5/fig-q4-curve.jpg"
+      ],
+      "markscheme": "img/2005-jan-chm5/ms_q4ciii.jpg",
+      "markscheme_text": "4(c)(iii) Phenolphthalein / thymol blue / alizarin yellow [1]"
+    },
+    {
+      "id": "2005-jan-chm5-q5a",
+      "paper": "2005-jan-chm5",
+      "question": "5(a)",
+      "marks": 1,
+      "page": 12,
+      "topics": [
+        "3.1.1",
+        "3.2.5"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Electronic configuration of the Co2+ ion in form 3d^n.",
+      "image": "img/2005-jan-chm5/q_q5a.jpg",
+      "figures": [],
+      "markscheme": "img/2005-jan-chm5/ms_q5a.jpg",
+      "markscheme_text": "5(a) 3d7  (or [Ar] 3d7) [1]"
+    },
+    {
+      "id": "2005-jan-chm5-q5b",
+      "paper": "2005-jan-chm5",
+      "question": "5(b)",
+      "marks": 2,
+      "page": 12,
+      "topics": [
+        "3.2.5"
+      ],
+      "skills": [
+        "recall",
+        "observation"
+      ],
+      "summary": "Formula and colour of cobalt(II) complex formed when CoCl2 dissolves in water.",
+      "image": "img/2005-jan-chm5/q_q5b.jpg",
+      "figures": [],
+      "markscheme": "img/2005-jan-chm5/ms_q5b.jpg",
+      "markscheme_text": "5(b) [Co(H2O)6]2+ [1]\nPink [1]"
+    },
+    {
+      "id": "2005-jan-chm5-q5ci",
+      "paper": "2005-jan-chm5",
+      "question": "5(c)(i)",
+      "marks": 2,
+      "page": 12,
+      "topics": [
+        "3.2.5"
+      ],
+      "skills": [
+        "recall",
+        "observation"
+      ],
+      "summary": "Formula and colour of cobalt(II) complex formed with excess aqueous ammonia in absence of air.",
+      "image": "img/2005-jan-chm5/q_q5ci.jpg",
+      "figures": [],
+      "markscheme": "img/2005-jan-chm5/ms_q5ci.jpg",
+      "markscheme_text": "5(c)(i) [Co(NH3)6]2+ [1]\nPale brown / straw-coloured / yellow-brown [1]"
+    },
+    {
+      "id": "2005-jan-chm5-q5cii",
+      "paper": "2005-jan-chm5",
+      "question": "5(c)(ii)",
+      "marks": 1,
+      "page": 12,
+      "topics": [
+        "3.2.5"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Equation for reaction between hexaaquacobalt(II) ion and ammonia.",
+      "image": "img/2005-jan-chm5/q_q5cii.jpg",
+      "figures": [],
+      "markscheme": "img/2005-jan-chm5/ms_q5cii.jpg",
+      "markscheme_text": "5(c)(ii) [Co(H2O)6]2+ + 6NH3 → [Co(NH3)6]2+ + 6H2O [1]"
+    },
+    {
+      "id": "2005-jan-chm5-q5d",
+      "paper": "2005-jan-chm5",
+      "question": "5(d)",
+      "marks": 2,
+      "page": 12,
+      "topics": [
+        "3.2.5"
+      ],
+      "skills": [
+        "recall",
+        "explanation"
+      ],
+      "summary": "Formula of cobalt(III) complex formed on standing in air and role of air in reaction.",
+      "image": "img/2005-jan-chm5/q_q5d.jpg",
+      "figures": [],
+      "markscheme": "img/2005-jan-chm5/ms_q5d.jpg",
+      "markscheme_text": "5(d) [Co(NH3)6]3+ [1]\nOxidising agent / electron acceptor / oxidises cobalt(II) to cobalt(III) [1]"
+    },
+    {
+      "id": "2005-jan-chm6w-q1",
+      "paper": "2005-jan-chm6w",
+      "question": "1",
+      "marks": 1,
+      "page": 5,
+      "topics": [
+        "3.1"
+      ],
+      "skills": [
+        "recall",
+        "analysis"
+      ],
+      "summary": "Standard enthalpy change for reaction of CO with H2O.",
+      "image": "img/2005-jan-chm6w/q_1.jpg",
+      "figures": [
+        "img/2005-jan-chm6w/fig-q1-2-stem.jpg"
+      ],
+      "markscheme": "img/2005-jan-chm6w/ms_q1.jpg",
+      "markscheme_text": "Question 1: B (1 mark)"
+    },
+    {
+      "id": "2005-jan-chm6w-q2",
+      "paper": "2005-jan-chm6w",
+      "question": "2",
+      "marks": 1,
+      "page": 5,
+      "topics": [
+        "3.1"
+      ],
+      "skills": [
+        "recall",
+        "analysis"
+      ],
+      "summary": "Incorrect statement regarding activation energy and temperature.",
+      "image": "img/2005-jan-chm6w/q_2.jpg",
+      "figures": [
+        "img/2005-jan-chm6w/fig-q1-2-stem.jpg"
+      ],
+      "markscheme": "img/2005-jan-chm6w/ms_q2.jpg",
+      "markscheme_text": "Question 2: B (1 mark)"
+    },
+    {
+      "id": "2005-jan-chm6w-q3",
+      "paper": "2005-jan-chm6w",
+      "question": "3",
+      "marks": 1,
+      "page": 6,
+      "topics": [
+        "3.1"
+      ],
+      "skills": [
+        "recall",
+        "analysis"
+      ],
+      "summary": "Standard entropy change for reaction.",
+      "image": "img/2005-jan-chm6w/q_3.jpg",
+      "figures": [],
+      "markscheme": "img/2005-jan-chm6w/ms_q3.jpg",
+      "markscheme_text": "Question 3: A (1 mark)"
+    },
+    {
+      "id": "2005-jan-chm6w-q4",
+      "paper": "2005-jan-chm6w",
+      "question": "4",
+      "marks": 1,
+      "page": 6,
+      "topics": [
+        "3.1"
+      ],
+      "skills": [
+        "recall",
+        "analysis"
+      ],
+      "summary": "Gas-phase reaction with Delta H and Delta S.",
+      "image": "img/2005-jan-chm6w/q_4.jpg",
+      "figures": [],
+      "markscheme": "img/2005-jan-chm6w/ms_q4.jpg",
+      "markscheme_text": "Question 4: B (1 mark)"
+    },
+    {
+      "id": "2005-jan-chm6w-q5",
+      "paper": "2005-jan-chm6w",
+      "question": "5",
+      "marks": 1,
+      "page": 6,
+      "topics": [
+        "3.1"
+      ],
+      "skills": [
+        "recall",
+        "analysis"
+      ],
+      "summary": "Species with greatest bond angle.",
+      "image": "img/2005-jan-chm6w/q_5.jpg",
+      "figures": [],
+      "markscheme": "img/2005-jan-chm6w/ms_q5.jpg",
+      "markscheme_text": "Question 5: A (1 mark)"
+    },
+    {
+      "id": "2005-jan-chm6w-q6",
+      "paper": "2005-jan-chm6w",
+      "question": "6",
+      "marks": 1,
+      "page": 7,
+      "topics": [
+        "3.1"
+      ],
+      "skills": [
+        "recall",
+        "analysis"
+      ],
+      "summary": "EMF of the cell Ag(s)|Ag+(aq)||Pb2+(aq)|Pb(s).",
+      "image": "img/2005-jan-chm6w/q_6.jpg",
+      "figures": [
+        "img/2005-jan-chm6w/fig-q6-7-stem.jpg"
+      ],
+      "markscheme": "img/2005-jan-chm6w/ms_q6.jpg",
+      "markscheme_text": "Question 6: D (1 mark)"
+    },
+    {
+      "id": "2005-jan-chm6w-q7",
+      "paper": "2005-jan-chm6w",
+      "question": "7",
+      "marks": 1,
+      "page": 7,
+      "topics": [
+        "3.1"
+      ],
+      "skills": [
+        "recall",
+        "analysis"
+      ],
+      "summary": "Factor that increases EMF of Pt(s)|H2|H+||Ag+|Ag cell.",
+      "image": "img/2005-jan-chm6w/q_7.jpg",
+      "figures": [
+        "img/2005-jan-chm6w/fig-q6-7-stem.jpg"
+      ],
+      "markscheme": "img/2005-jan-chm6w/ms_q7.jpg",
+      "markscheme_text": "Question 7: C (1 mark)"
+    },
+    {
+      "id": "2005-jan-chm6w-q8",
+      "paper": "2005-jan-chm6w",
+      "question": "8",
+      "marks": 1,
+      "page": 8,
+      "topics": [
+        "3.1"
+      ],
+      "skills": [
+        "recall",
+        "analysis"
+      ],
+      "summary": "Enthalpy of hydration / lattice enthalpy comparison.",
+      "image": "img/2005-jan-chm6w/q_8.jpg",
+      "figures": [],
+      "markscheme": "img/2005-jan-chm6w/ms_q8.jpg",
+      "markscheme_text": "Question 8: C (1 mark)"
+    },
+    {
+      "id": "2005-jan-chm6w-q9",
+      "paper": "2005-jan-chm6w",
+      "question": "9",
+      "marks": 1,
+      "page": 8,
+      "topics": [
+        "3.1"
+      ],
+      "skills": [
+        "recall",
+        "analysis"
+      ],
+      "summary": "Compound that forms precipitate with AgNO3 and dissolves in dilute NH3.",
+      "image": "img/2005-jan-chm6w/q_9.jpg",
+      "figures": [],
+      "markscheme": "img/2005-jan-chm6w/ms_q9.jpg",
+      "markscheme_text": "Question 9: A (1 mark)"
+    },
+    {
+      "id": "2005-jan-chm6w-q10",
+      "paper": "2005-jan-chm6w",
+      "question": "10",
+      "marks": 1,
+      "page": 8,
+      "topics": [
+        "3.1"
+      ],
+      "skills": [
+        "recall",
+        "analysis"
+      ],
+      "summary": "Oxidation state of metal in complex ion.",
+      "image": "img/2005-jan-chm6w/q_10.jpg",
+      "figures": [],
+      "markscheme": "img/2005-jan-chm6w/ms_q10.jpg",
+      "markscheme_text": "Question 10: B (1 mark)"
+    },
+    {
+      "id": "2005-jan-chm6w-q11",
+      "paper": "2005-jan-chm6w",
+      "question": "11",
+      "marks": 1,
+      "page": 9,
+      "topics": [
+        "3.2"
+      ],
+      "skills": [
+        "recall",
+        "analysis"
+      ],
+      "summary": "Identification of organic product formed by elimination.",
+      "image": "img/2005-jan-chm6w/q_11.jpg",
+      "figures": [],
+      "markscheme": "img/2005-jan-chm6w/ms_q11.jpg",
+      "markscheme_text": "Question 11: B (1 mark)"
+    },
+    {
+      "id": "2005-jan-chm6w-q12",
+      "paper": "2005-jan-chm6w",
+      "question": "12",
+      "marks": 1,
+      "page": 9,
+      "topics": [
+        "3.2"
+      ],
+      "skills": [
+        "recall",
+        "analysis"
+      ],
+      "summary": "Reagent used to distinguish pair of organic compounds.",
+      "image": "img/2005-jan-chm6w/q_12.jpg",
+      "figures": [],
+      "markscheme": "img/2005-jan-chm6w/ms_q12.jpg",
+      "markscheme_text": "Question 12: D (1 mark)"
+    },
+    {
+      "id": "2005-jan-chm6w-q13",
+      "paper": "2005-jan-chm6w",
+      "question": "13",
+      "marks": 1,
+      "page": 10,
+      "topics": [
+        "3.2"
+      ],
+      "skills": [
+        "recall",
+        "analysis"
+      ],
+      "summary": "Order of reaction with respect to reactants.",
+      "image": "img/2005-jan-chm6w/q_13.jpg",
+      "figures": [],
+      "markscheme": "img/2005-jan-chm6w/ms_q13.jpg",
+      "markscheme_text": "Question 13: A (1 mark)"
+    },
+    {
+      "id": "2005-jan-chm6w-q14",
+      "paper": "2005-jan-chm6w",
+      "question": "14",
+      "marks": 1,
+      "page": 10,
+      "topics": [
+        "3.2"
+      ],
+      "skills": [
+        "recall",
+        "analysis"
+      ],
+      "summary": "Deduction from rate equation data.",
+      "image": "img/2005-jan-chm6w/q_14.jpg",
+      "figures": [],
+      "markscheme": "img/2005-jan-chm6w/ms_q14.jpg",
+      "markscheme_text": "Question 14: C (1 mark)"
+    },
+    {
+      "id": "2005-jan-chm6w-q15",
+      "paper": "2005-jan-chm6w",
+      "question": "15",
+      "marks": 1,
+      "page": 10,
+      "topics": [
+        "3.2"
+      ],
+      "skills": [
+        "recall",
+        "analysis"
+      ],
+      "summary": "Structure of monomer forming given condensation polymer.",
+      "image": "img/2005-jan-chm6w/q_15.jpg",
+      "figures": [],
+      "markscheme": "img/2005-jan-chm6w/ms_q15.jpg",
+      "markscheme_text": "Question 15: C (1 mark)"
+    },
+    {
+      "id": "2005-jan-chm6w-q16",
+      "paper": "2005-jan-chm6w",
+      "question": "16",
+      "marks": 1,
+      "page": 10,
+      "topics": [
+        "3.2"
+      ],
+      "skills": [
+        "recall",
+        "analysis"
+      ],
+      "summary": "Number of peaks in 13C NMR spectrum.",
+      "image": "img/2005-jan-chm6w/q_16.jpg",
+      "figures": [],
+      "markscheme": "img/2005-jan-chm6w/ms_q16.jpg",
+      "markscheme_text": "Question 16: D (1 mark)"
+    },
+    {
+      "id": "2005-jan-chm6w-q17",
+      "paper": "2005-jan-chm6w",
+      "question": "17",
+      "marks": 1,
+      "page": 11,
+      "topics": [
+        "3.2"
+      ],
+      "skills": [
+        "recall",
+        "analysis"
+      ],
+      "summary": "Incorrect statement about reaction scheme for polymer P.",
+      "image": "img/2005-jan-chm6w/q_17.jpg",
+      "figures": [
+        "img/2005-jan-chm6w/fig-q17-20-stem.jpg"
+      ],
+      "markscheme": "img/2005-jan-chm6w/ms_q17.jpg",
+      "markscheme_text": "Question 17: C (1 mark)"
+    },
+    {
+      "id": "2005-jan-chm6w-q18",
+      "paper": "2005-jan-chm6w",
+      "question": "18",
+      "marks": 1,
+      "page": 11,
+      "topics": [
+        "3.2"
+      ],
+      "skills": [
+        "recall",
+        "analysis"
+      ],
+      "summary": "Percentage yield of intermediate J from benzene.",
+      "image": "img/2005-jan-chm6w/q_18.jpg",
+      "figures": [
+        "img/2005-jan-chm6w/fig-q17-20-stem.jpg"
+      ],
+      "markscheme": "img/2005-jan-chm6w/ms_q18.jpg",
+      "markscheme_text": "Question 18: A (1 mark)"
+    },
+    {
+      "id": "2005-jan-chm6w-q19",
+      "paper": "2005-jan-chm6w",
+      "question": "19",
+      "marks": 1,
+      "page": 11,
+      "topics": [
+        "3.2"
+      ],
+      "skills": [
+        "recall",
+        "analysis"
+      ],
+      "summary": "pH calculation for weak acid K.",
+      "image": "img/2005-jan-chm6w/q_19.jpg",
+      "figures": [
+        "img/2005-jan-chm6w/fig-q17-20-stem.jpg"
+      ],
+      "markscheme": "img/2005-jan-chm6w/ms_q19.jpg",
+      "markscheme_text": "Question 19: C (1 mark)"
+    },
+    {
+      "id": "2005-jan-chm6w-q20",
+      "paper": "2005-jan-chm6w",
+      "question": "20",
+      "marks": 1,
+      "page": 12,
+      "topics": [
+        "3.2"
+      ],
+      "skills": [
+        "recall",
+        "analysis"
+      ],
+      "summary": "Volume of diamine required to neutralise dicarboxylic acid.",
+      "image": "img/2005-jan-chm6w/q_20.jpg",
+      "figures": [
+        "img/2005-jan-chm6w/fig-q17-20-stem.jpg"
+      ],
+      "markscheme": "img/2005-jan-chm6w/ms_q20.jpg",
+      "markscheme_text": "Question 20: B (1 mark)"
+    },
+    {
+      "id": "2005-jan-chm6w-q21",
+      "paper": "2005-jan-chm6w",
+      "question": "21",
+      "marks": 1,
+      "page": 13,
+      "topics": [
+        "3.2"
+      ],
+      "skills": [
+        "recall",
+        "analysis"
+      ],
+      "summary": "Correct statements regarding thermodynamics of methanol synthesis.",
+      "image": "img/2005-jan-chm6w/q_21.jpg",
+      "figures": [
+        "img/2005-jan-chm6w/fig-q21-22-stem.jpg",
+        "img/2005-jan-chm6w/fig-mcq-directions.jpg"
+      ],
+      "markscheme": "img/2005-jan-chm6w/ms_q21.jpg",
+      "markscheme_text": "Question 21: A (1 mark)"
+    },
+    {
+      "id": "2005-jan-chm6w-q22",
+      "paper": "2005-jan-chm6w",
+      "question": "22",
+      "marks": 1,
+      "page": 13,
+      "topics": [
+        "3.2"
+      ],
+      "skills": [
+        "recall",
+        "analysis"
+      ],
+      "summary": "Conditions that increase yield of exothermic methanol synthesis.",
+      "image": "img/2005-jan-chm6w/q_22.jpg",
+      "figures": [
+        "img/2005-jan-chm6w/fig-q21-22-stem.jpg",
+        "img/2005-jan-chm6w/fig-mcq-directions.jpg"
+      ],
+      "markscheme": "img/2005-jan-chm6w/ms_q22.jpg",
+      "markscheme_text": "Question 22: C (1 mark)"
+    },
+    {
+      "id": "2005-jan-chm6w-q23",
+      "paper": "2005-jan-chm6w",
+      "question": "23",
+      "marks": 1,
+      "page": 14,
+      "topics": [
+        "3.2"
+      ],
+      "skills": [
+        "recall",
+        "analysis"
+      ],
+      "summary": "Species that act as nucleophiles.",
+      "image": "img/2005-jan-chm6w/q_23.jpg",
+      "figures": [
+        "img/2005-jan-chm6w/fig-mcq-directions.jpg"
+      ],
+      "markscheme": "img/2005-jan-chm6w/ms_q23.jpg",
+      "markscheme_text": "Question 23: B (1 mark)"
+    },
+    {
+      "id": "2005-jan-chm6w-q24",
+      "paper": "2005-jan-chm6w",
+      "question": "24",
+      "marks": 1,
+      "page": 14,
+      "topics": [
+        "3.2"
+      ],
+      "skills": [
+        "recall",
+        "analysis"
+      ],
+      "summary": "Reactions that produce a gas.",
+      "image": "img/2005-jan-chm6w/q_24.jpg",
+      "figures": [
+        "img/2005-jan-chm6w/fig-mcq-directions.jpg"
+      ],
+      "markscheme": "img/2005-jan-chm6w/ms_q24.jpg",
+      "markscheme_text": "Question 24: A (1 mark)"
+    },
+    {
+      "id": "2005-jan-chm6w-q25",
+      "paper": "2005-jan-chm6w",
+      "question": "25",
+      "marks": 1,
+      "page": 14,
+      "topics": [
+        "3.2"
+      ],
+      "skills": [
+        "recall",
+        "analysis"
+      ],
+      "summary": "Compounds that exhibit stereoisomerism.",
+      "image": "img/2005-jan-chm6w/q_25.jpg",
+      "figures": [
+        "img/2005-jan-chm6w/fig-mcq-directions.jpg"
+      ],
+      "markscheme": "img/2005-jan-chm6w/ms_q25.jpg",
+      "markscheme_text": "Question 25: A (1 mark)"
+    },
+    {
+      "id": "2005-jan-chm6w-q26",
+      "paper": "2005-jan-chm6w",
+      "question": "26",
+      "marks": 1,
+      "page": 15,
+      "topics": [
+        "3.3"
+      ],
+      "skills": [
+        "recall",
+        "analysis"
+      ],
+      "summary": "Solutions with pH greater than 7.",
+      "image": "img/2005-jan-chm6w/q_26.jpg",
+      "figures": [
+        "img/2005-jan-chm6w/fig-mcq-directions.jpg"
+      ],
+      "markscheme": "img/2005-jan-chm6w/ms_q26.jpg",
+      "markscheme_text": "Question 26: C (1 mark)"
+    },
+    {
+      "id": "2005-jan-chm6w-q27",
+      "paper": "2005-jan-chm6w",
+      "question": "27",
+      "marks": 1,
+      "page": 15,
+      "topics": [
+        "3.3"
+      ],
+      "skills": [
+        "recall",
+        "analysis"
+      ],
+      "summary": "Species with tetrahedral geometry.",
+      "image": "img/2005-jan-chm6w/q_27.jpg",
+      "figures": [
+        "img/2005-jan-chm6w/fig-mcq-directions.jpg"
+      ],
+      "markscheme": "img/2005-jan-chm6w/ms_q27.jpg",
+      "markscheme_text": "Question 27: C (1 mark)"
+    },
+    {
+      "id": "2005-jan-chm6w-q28",
+      "paper": "2005-jan-chm6w",
+      "question": "28",
+      "marks": 1,
+      "page": 15,
+      "topics": [
+        "3.3"
+      ],
+      "skills": [
+        "recall",
+        "analysis"
+      ],
+      "summary": "Properties of period 3 elements and oxides.",
+      "image": "img/2005-jan-chm6w/q_28.jpg",
+      "figures": [
+        "img/2005-jan-chm6w/fig-mcq-directions.jpg"
+      ],
+      "markscheme": "img/2005-jan-chm6w/ms_q28.jpg",
+      "markscheme_text": "Question 28: B (1 mark)"
+    },
+    {
+      "id": "2005-jan-chm6w-q29",
+      "paper": "2005-jan-chm6w",
+      "question": "29",
+      "marks": 1,
+      "page": 15,
+      "topics": [
+        "3.3"
+      ],
+      "skills": [
+        "recall",
+        "analysis"
+      ],
+      "summary": "Pairs of reagents that react to form an ester.",
+      "image": "img/2005-jan-chm6w/q_29.jpg",
+      "figures": [
+        "img/2005-jan-chm6w/fig-mcq-directions.jpg"
+      ],
+      "markscheme": "img/2005-jan-chm6w/ms_q29.jpg",
+      "markscheme_text": "Question 29: A (1 mark)"
+    },
+    {
+      "id": "2005-jan-chm6w-q30",
+      "paper": "2005-jan-chm6w",
+      "question": "30",
+      "marks": 1,
+      "page": 16,
+      "topics": [
+        "3.3"
+      ],
+      "skills": [
+        "recall",
+        "analysis"
+      ],
+      "summary": "Molecules that can form hydrogen bonds with water.",
+      "image": "img/2005-jan-chm6w/q_30.jpg",
+      "figures": [
+        "img/2005-jan-chm6w/fig-mcq-directions.jpg"
+      ],
+      "markscheme": "img/2005-jan-chm6w/ms_q30.jpg",
+      "markscheme_text": "Question 30: A (1 mark)"
+    },
+    {
+      "id": "2005-jan-chm6w-q31",
+      "paper": "2005-jan-chm6w",
+      "question": "31",
+      "marks": 1,
+      "page": 16,
+      "topics": [
+        "3.3"
+      ],
+      "skills": [
+        "recall",
+        "analysis"
+      ],
+      "summary": "Reactions that involve oxidation.",
+      "image": "img/2005-jan-chm6w/q_31.jpg",
+      "figures": [
+        "img/2005-jan-chm6w/fig-mcq-directions.jpg"
+      ],
+      "markscheme": "img/2005-jan-chm6w/ms_q31.jpg",
+      "markscheme_text": "Question 31: C (1 mark)"
+    },
+    {
+      "id": "2005-jan-chm6w-q32",
+      "paper": "2005-jan-chm6w",
+      "question": "32",
+      "marks": 1,
+      "page": 16,
+      "topics": [
+        "3.3"
+      ],
+      "skills": [
+        "recall",
+        "analysis"
+      ],
+      "summary": "Compounds that decolourise bromine water.",
+      "image": "img/2005-jan-chm6w/q_32.jpg",
+      "figures": [
+        "img/2005-jan-chm6w/fig-mcq-directions.jpg"
+      ],
+      "markscheme": "img/2005-jan-chm6w/ms_q32.jpg",
+      "markscheme_text": "Question 32: B (1 mark)"
+    },
+    {
+      "id": "2005-jan-chm6w-q33",
+      "paper": "2005-jan-chm6w",
+      "question": "33",
+      "marks": 1,
+      "page": 16,
+      "topics": [
+        "3.3"
+      ],
+      "skills": [
+        "recall",
+        "analysis"
+      ],
+      "summary": "Transition metal complexes and colours.",
+      "image": "img/2005-jan-chm6w/q_33.jpg",
+      "figures": [
+        "img/2005-jan-chm6w/fig-mcq-directions.jpg"
+      ],
+      "markscheme": "img/2005-jan-chm6w/ms_q33.jpg",
+      "markscheme_text": "Question 33: C (1 mark)"
+    },
+    {
+      "id": "2005-jan-chm6w-q34",
+      "paper": "2005-jan-chm6w",
+      "question": "34",
+      "marks": 1,
+      "page": 17,
+      "topics": [
+        "3.3"
+      ],
+      "skills": [
+        "recall",
+        "analysis"
+      ],
+      "summary": "Equilibrium position shift upon temperature/pressure change.",
+      "image": "img/2005-jan-chm6w/q_34.jpg",
+      "figures": [
+        "img/2005-jan-chm6w/fig-mcq-directions.jpg"
+      ],
+      "markscheme": "img/2005-jan-chm6w/ms_q34.jpg",
+      "markscheme_text": "Question 34: A (1 mark)"
+    },
+    {
+      "id": "2005-jan-chm6w-q35",
+      "paper": "2005-jan-chm6w",
+      "question": "35",
+      "marks": 1,
+      "page": 17,
+      "topics": [
+        "3.3"
+      ],
+      "skills": [
+        "recall",
+        "analysis"
+      ],
+      "summary": "Buffer solution components and characteristics.",
+      "image": "img/2005-jan-chm6w/q_35.jpg",
+      "figures": [
+        "img/2005-jan-chm6w/fig-mcq-directions.jpg"
+      ],
+      "markscheme": "img/2005-jan-chm6w/ms_q35.jpg",
+      "markscheme_text": "Question 35: B (1 mark)"
+    },
+    {
+      "id": "2005-jan-chm6w-q36",
+      "paper": "2005-jan-chm6w",
+      "question": "36",
+      "marks": 1,
+      "page": 17,
+      "topics": [
+        "3.3"
+      ],
+      "skills": [
+        "recall",
+        "analysis"
+      ],
+      "summary": "Methods of separating mixtures.",
+      "image": "img/2005-jan-chm6w/q_36.jpg",
+      "figures": [
+        "img/2005-jan-chm6w/fig-mcq-directions.jpg"
+      ],
+      "markscheme": "img/2005-jan-chm6w/ms_q36.jpg",
+      "markscheme_text": "Question 36: C (1 mark)"
+    },
+    {
+      "id": "2005-jan-chm6w-q37",
+      "paper": "2005-jan-chm6w",
+      "question": "37",
+      "marks": 1,
+      "page": 18,
+      "topics": [
+        "3.3"
+      ],
+      "skills": [
+        "recall",
+        "analysis"
+      ],
+      "summary": "Intermolecular forces in organic liquids.",
+      "image": "img/2005-jan-chm6w/q_37.jpg",
+      "figures": [
+        "img/2005-jan-chm6w/fig-mcq-directions.jpg"
+      ],
+      "markscheme": "img/2005-jan-chm6w/ms_q37.jpg",
+      "markscheme_text": "Question 37: C (1 mark)"
+    },
+    {
+      "id": "2005-jan-chm6w-q38",
+      "paper": "2005-jan-chm6w",
+      "question": "38",
+      "marks": 1,
+      "page": 18,
+      "topics": [
+        "3.3"
+      ],
+      "skills": [
+        "recall",
+        "analysis"
+      ],
+      "summary": "Identification of isomers with formula C4H8.",
+      "image": "img/2005-jan-chm6w/q_38.jpg",
+      "figures": [
+        "img/2005-jan-chm6w/fig-mcq-directions.jpg"
+      ],
+      "markscheme": "img/2005-jan-chm6w/ms_q38.jpg",
+      "markscheme_text": "Question 38: A (1 mark)"
+    },
+    {
+      "id": "2005-jan-chm6w-q39",
+      "paper": "2005-jan-chm6w",
+      "question": "39",
+      "marks": 1,
+      "page": 19,
+      "topics": [
+        "3.3"
+      ],
+      "skills": [
+        "recall",
+        "analysis"
+      ],
+      "summary": "Types of mechanism shown in terpene reactions.",
+      "image": "img/2005-jan-chm6w/q_39.jpg",
+      "figures": [
+        "img/2005-jan-chm6w/fig-q39-40-stem.jpg",
+        "img/2005-jan-chm6w/fig-mcq-directions.jpg"
+      ],
+      "markscheme": "img/2005-jan-chm6w/ms_q39.jpg",
+      "markscheme_text": "Question 39: B (1 mark)"
+    },
+    {
+      "id": "2005-jan-chm6w-q40",
+      "paper": "2005-jan-chm6w",
+      "question": "40",
+      "marks": 1,
+      "page": 19,
+      "topics": [
+        "3.3"
+      ],
+      "skills": [
+        "recall",
+        "analysis"
+      ],
+      "summary": "Properties and reactions of terpene compound X.",
+      "image": "img/2005-jan-chm6w/q_40.jpg",
+      "figures": [
+        "img/2005-jan-chm6w/fig-q39-40-stem.jpg",
+        "img/2005-jan-chm6w/fig-mcq-directions.jpg"
+      ],
+      "markscheme": "img/2005-jan-chm6w/ms_q40.jpg",
+      "markscheme_text": "Question 40: A (1 mark)"
     }
   ]
 }
