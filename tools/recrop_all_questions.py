@@ -1,0 +1,200 @@
+"""
+coolChem - Precision Question Recropping Tool
+=============================================
+Re-crops all Section A past paper question images from the original
+Question Paper PDFs with exact bounding boxes, ensuring every question
+prompt, context stem, and answer lines are 100% visible and accurate.
+"""
+
+import os
+import re
+import json
+import fitz  # PyMuPDF
+from PIL import Image
+import io
+
+REPO_DIR = r"C:\Users\Alexander\.gemini\antigravity\scratch\coolChem"
+QUESTIONS_FILE = os.path.join(REPO_DIR, "questions.json")
+
+PDF_MAP = {
+    '2001-jan-chm1': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795088948067_041957fd.pdf',
+    '2001-jan-chm2': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795088947973_c94e2066.pdf',
+    '2001-june-chm1': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795091648051_8353c2ce.pdf',
+    '2001-june-chm2': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795091648088_a99c28dc.pdf',
+    '2001-june-chm3w': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795091648071_917bd503.pdf',
+    '2002-jan-chm1': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795094005002_623e4808.pdf',
+    '2002-jan-chm2': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795094004834_138c61f3.pdf',
+    '2002-jan-chm3w': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795094004875_5e6d4ec6.pdf',
+    '2002-jan-chm4': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795094004507_971a60fb.pdf',
+    '2002-june-chm1': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795094776861_548b4769.pdf',
+    '2002-june-chm2': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795094776962_62f7850d.pdf',
+    '2002-june-chm3w': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795094776927_35605fd8.pdf',
+    '2002-june-chm4': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795094776861_6b55f36d.pdf',
+    '2002-june-chm5': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795094776889_dcdc0dd5.pdf'
+}
+
+def extract_lines(page):
+    blocks = page.get_text('dict')['blocks']
+    lines = []
+    for b in blocks:
+        if 'lines' in b:
+            for l in b['lines']:
+                txt = ''.join([s['text'] for s in l['spans']]).strip()
+                bbox = l['bbox']
+                if txt and 60 <= bbox[1] <= 800:
+                    lines.append((bbox, txt))
+    lines.sort(key=lambda x: (x[0][1], x[0][0]))
+    return lines
+
+def main():
+    print("Loading questions.json...")
+    with open(QUESTIONS_FILE, 'r', encoding='utf-8') as f:
+        db = json.load(f)
+
+    # 1. Correct misindexed page numbers
+    fixed_pages = 0
+    for q in db['questions']:
+        if q['id'] == '2002-jan-chm1-q3cii' and q.get('page') != 6:
+            q['page'] = 6
+            fixed_pages += 1
+        elif q['id'] == '2002-jan-chm1-q4di' and q.get('page') != 8:
+            q['page'] = 8
+            fixed_pages += 1
+    if fixed_pages > 0:
+        print(f"Fixed {fixed_pages} misindexed question page numbers in questions.json")
+
+    # 2. Open documents
+    docs = {p: fitz.open(path) for p, path in PDF_MAP.items()}
+
+    # 3. Group questions by (paper, page)
+    from collections import defaultdict
+    pages = defaultdict(list)
+    for q in db['questions']:
+        if q['paper'] in docs:
+            pages[(q['paper'], q['page'])].append(q)
+
+    print(f"Processing 416 questions across {len(pages)} pages in 14 papers...")
+
+    success_count = 0
+    total_count = 0
+
+    for (paper, p_num), q_list in sorted(pages.items()):
+        doc = docs[paper]
+        page = doc[p_num - 1]
+        lines = extract_lines(page)
+
+        # Check for main question number at top of page
+        main_q_top = None
+        for bbox, txt in lines:
+            if bbox[0] < 70 and re.match(r'^\d+$', txt.strip()):
+                main_q_top = (int(txt.strip()), bbox[1])
+                break
+
+        # Locate label for each question
+        curr_y = 60.0
+        located = []
+        for q_idx, q in enumerate(q_list):
+            total_count += 1
+            q_label = q['question']
+            m = re.match(r'^(\d+)?(?:\(([a-z\d]+)\))?(?:\(([a-z\d]+)\))?', q_label)
+            main_q, sub1, sub2 = m.groups() if m else (None, None, None)
+
+            # Check if parent subpart (e.g. (b) before (i)) appears on this page
+            parent_sub_y0 = None
+            if sub2 and (q_idx == 0 or not q_list[q_idx-1]['question'].startswith(f"{main_q}({sub1})")):
+                for bbox, txt in lines:
+                    if bbox[1] >= curr_y - 5 and bbox[0] < 120:
+                        words = txt.split()
+                        if words and words[0] == f"({sub1})":
+                            parent_sub_y0 = bbox[1]
+                            break
+
+            candidates = []
+            if sub2:
+                candidates.append(f"({sub2})")
+                if sub1:
+                    candidates.append(f"({sub1})({sub2})")
+                    candidates.append(f"({sub1}) ({sub2})")
+            elif sub1:
+                candidates.append(f"({sub1})")
+                if main_q:
+                    candidates.append(f"{main_q} ({sub1})")
+                    candidates.append(f"{main_q}({sub1})")
+            elif main_q:
+                candidates.append(main_q)
+
+            found_y0 = None
+            search_start = parent_sub_y0 if parent_sub_y0 is not None else curr_y
+            for bbox, txt in lines:
+                if bbox[1] >= search_start - 5:
+                    for cand in candidates:
+                        if bbox[0] < 140:
+                            words = txt.split()
+                            if (words and (words[0] == cand or txt.startswith(cand))) or txt == cand:
+                                found_y0 = bbox[1]
+                                break
+                    if found_y0 is not None:
+                        break
+
+            actual_y0 = parent_sub_y0 if parent_sub_y0 is not None else found_y0
+            located.append((q, found_y0, actual_y0))
+            if found_y0 is not None:
+                curr_y = found_y0 + 10.0
+
+        # Calculate bounding boxes and crop images
+        for i, (q, ly0, start_y0) in enumerate(located):
+            if ly0 is None:
+                print(f"ERROR: Could not locate label for {q['id']} ({q['question']}) on page {p_num}")
+                continue
+
+            # y0 calculation
+            if i == 0:
+                m = re.match(r'^(\d+)', q['question'])
+                q_num = int(m.group(1)) if m else None
+                if main_q_top and q_num and main_q_top[0] == q_num and main_q_top[1] < start_y0:
+                    y0 = max(68.0, main_q_top[1] - 8.0)
+                else:
+                    y0 = max(68.0, start_y0 - 8.0)
+            else:
+                y0 = max(68.0, start_y0 - 8.0)
+
+            # y1 calculation
+            if i + 1 < len(located) and located[i+1][2] is not None:
+                y1 = located[i+1][2] - 6.0
+            else:
+                # Last question on page: capture down through marks/lines
+                after_lines = [
+                    l for l in lines 
+                    if l[0][1] >= ly0 and l[0][3] < 785 
+                    and 'Turn over' not in l[1] 
+                    and 'APW/' not in l[1] 
+                    and not re.match(r'^\d+$', l[1].strip())
+                ]
+                if after_lines:
+                    last_y = max(l[0][3] for l in after_lines)
+                    y1 = min(775.0, last_y + 18.0)
+                else:
+                    y1 = min(775.0, ly0 + 120.0)
+
+            # Render high-resolution crop
+            rect = fitz.Rect(35, y0, 545, y1)
+            pix = page.get_pixmap(matrix=fitz.Matrix(2.0, 2.0), clip=rect)
+            im = Image.open(io.BytesIO(pix.tobytes("png"))).convert("RGB")
+
+            # Output path
+            img_rel = q["image"]
+            img_abs = os.path.join(REPO_DIR, img_rel.replace("/", os.sep))
+            os.makedirs(os.path.dirname(img_abs), exist_ok=True)
+
+            im.save(img_abs, format="JPEG", quality=92)
+            success_count += 1
+
+    print(f"\nSuccessfully cropped {success_count} / {total_count} questions!")
+
+    # Save updated questions.json
+    with open(QUESTIONS_FILE, 'w', encoding='utf-8') as f:
+        json.dump(db, f, indent=2, ensure_ascii=False)
+    print("Updated questions.json successfully!")
+
+if __name__ == "__main__":
+    main()
