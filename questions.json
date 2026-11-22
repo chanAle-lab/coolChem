@@ -29294,6 +29294,1960 @@
       "figures": [],
       "markscheme": "img/2005-june-chm3w/ms_q4ciii.jpg",
       "markscheme_text": "4(c)(iii) Reagent: Bromine water / Br2(aq) / bromine [1]\nObservation: Decolourised / goes colourless (from orange/brown to colourless) [1]"
+    },
+    {
+      "id": "2005-june-chm4-q1a",
+      "paper": "2005-june-chm4",
+      "question": "1(a)",
+      "marks": 2,
+      "summary": "Name ester A and write equation for its reaction with aqueous sodium hydroxide.",
+      "description": "Name ester A (propyl methanoate) and write equation for its reaction with aqueous sodium hydroxide.",
+      "topic": "3.3.10",
+      "tags": [
+        "CHM4",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 2,
+      "image": "img/2005-june-chm4/q_q1a.jpg",
+      "markscheme": "img/2005-june-chm4/ms_q1a.jpg"
+    },
+    {
+      "id": "2005-june-chm4-q1b",
+      "paper": "2005-june-chm4",
+      "question": "1(b)",
+      "marks": 3,
+      "summary": "Deduce orders of reaction with respect to A and NaOH, and calculate initial rate in Experiment 4.",
+      "description": "Deduce orders of reaction with respect to A and NaOH from rate data table, and calculate initial rate in Experiment 4.",
+      "topic": "3.1.9",
+      "tags": [
+        "CHM4",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 2,
+      "image": "img/2005-june-chm4/q_q1b.jpg",
+      "markscheme": "img/2005-june-chm4/ms_q1b.jpg"
+    },
+    {
+      "id": "2005-june-chm4-q1ci",
+      "paper": "2005-june-chm4",
+      "question": "1(c)(i)",
+      "marks": 1,
+      "summary": "Write rate equation under new conditions of high sodium hydroxide concentration.",
+      "description": "Write rate equation under new conditions where reaction is first order in A and pseudo-zero order in NaOH.",
+      "topic": "3.1.9",
+      "tags": [
+        "CHM4",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 2,
+      "image": "img/2005-june-chm4/q_q1ci.jpg",
+      "markscheme": "img/2005-june-chm4/ms_q1ci.jpg"
+    },
+    {
+      "id": "2005-june-chm4-q1cii",
+      "paper": "2005-june-chm4",
+      "question": "1(c)(ii)",
+      "marks": 3,
+      "summary": "Calculate value of rate constant k under new conditions and state its units.",
+      "description": "Calculate value of rate constant k under new conditions (k = rate / [A]) and state its units.",
+      "topic": "3.1.9",
+      "tags": [
+        "CHM4",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 5,
+      "image": "img/2005-june-chm4/q_q1cii.jpg",
+      "markscheme": "img/2005-june-chm4/ms_q1cii.jpg"
+    },
+    {
+      "id": "2005-june-chm4-q1ciii",
+      "paper": "2005-june-chm4",
+      "question": "1(c)(iii)",
+      "marks": 1,
+      "summary": "Suggest why reaction appears zero order with respect to NaOH under new conditions.",
+      "description": "Suggest why order with respect to NaOH appears zero under new conditions (large excess of OH-).",
+      "topic": "3.1.9",
+      "tags": [
+        "CHM4",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 5,
+      "image": "img/2005-june-chm4/q_q1ciii.jpg",
+      "markscheme": "img/2005-june-chm4/ms_q1ciii.jpg"
+    },
+    {
+      "id": "2005-june-chm4-q1di",
+      "paper": "2005-june-chm4",
+      "question": "1(d)(i)",
+      "marks": 2,
+      "summary": "Draw structure and name the product distilled off from alkaline hydrolysis of triester.",
+      "description": "Draw structure and name the product distilled off from alkaline hydrolysis of glyceryl tristearate (glycerol).",
+      "topic": "3.3.10",
+      "tags": [
+        "CHM4",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 5,
+      "image": "img/2005-june-chm4/q_q1di.jpg",
+      "markscheme": "img/2005-june-chm4/ms_q1di.jpg"
+    },
+    {
+      "id": "2005-june-chm4-q1dii",
+      "paper": "2005-june-chm4",
+      "question": "1(d)(ii)",
+      "marks": 2,
+      "summary": "Give formula of product left in distillation flask and a use for it.",
+      "description": "Give formula of product left in distillation flask (sodium stearate) and a use for it.",
+      "topic": "3.3.10",
+      "tags": [
+        "CHM4",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 5,
+      "image": "img/2005-june-chm4/q_q1dii.jpg",
+      "markscheme": "img/2005-june-chm4/ms_q1dii.jpg"
+    },
+    {
+      "id": "2005-june-chm4-q2ai",
+      "paper": "2005-june-chm4",
+      "question": "2(a)(i)",
+      "marks": 3,
+      "summary": "Select titration curve produced by ammonia to HCl, ethanoic acid to NaOH, and NaOH to HCl.",
+      "description": "Select titration curves A, B, C, D produced by adding weak base to strong acid, weak acid to strong base, and strong base to strong acid.",
+      "topic": "3.1.12",
+      "tags": [
+        "CHM4",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 6,
+      "image": "img/2005-june-chm4/q_q2ai.jpg",
+      "markscheme": "img/2005-june-chm4/ms_q2ai.jpg",
+      "figures": [
+        "img/2005-june-chm4/fig-q2-curves.jpg"
+      ]
+    },
+    {
+      "id": "2005-june-chm4-q2aii",
+      "paper": "2005-june-chm4",
+      "question": "2(a)(ii)",
+      "marks": 1,
+      "summary": "Select indicator suitable for titration of curve A but not curve B.",
+      "description": "Select indicator suitable for titration of curve A (strong acid - strong base) but not curve B (strong acid - weak base).",
+      "topic": "3.1.12",
+      "tags": [
+        "CHM4",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 7,
+      "image": "img/2005-june-chm4/q_q2aii.jpg",
+      "markscheme": "img/2005-june-chm4/ms_q2aii.jpg",
+      "figures": [
+        "img/2005-june-chm4/fig-q2-curves.jpg"
+      ]
+    },
+    {
+      "id": "2005-june-chm4-q2bi",
+      "paper": "2005-june-chm4",
+      "question": "2(b)(i)",
+      "marks": 1,
+      "summary": "Write an expression for the term pH.",
+      "description": "Write an expression for the term pH (-log[H+]).",
+      "topic": "3.1.12",
+      "tags": [
+        "CHM4",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 7,
+      "image": "img/2005-june-chm4/q_q2bi.jpg",
+      "markscheme": "img/2005-june-chm4/ms_q2bi.jpg"
+    },
+    {
+      "id": "2005-june-chm4-q2bii",
+      "paper": "2005-june-chm4",
+      "question": "2(b)(ii)",
+      "marks": 3,
+      "summary": "Calculate concentration of KOH solution of pH 11.90 at 25°C.",
+      "description": "Calculate concentration of KOH solution of pH 11.90 at 25°C using Kw.",
+      "topic": "3.1.12",
+      "tags": [
+        "CHM4",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 7,
+      "image": "img/2005-june-chm4/q_q2bii.jpg",
+      "markscheme": "img/2005-june-chm4/ms_q2bii.jpg"
+    },
+    {
+      "id": "2005-june-chm4-q2ci",
+      "paper": "2005-june-chm4",
+      "question": "2(c)(i)",
+      "marks": 3,
+      "summary": "Calculate pH of 0.117 mol dm-3 propanoic acid solution.",
+      "description": "Calculate pH of 0.117 mol dm-3 propanoic acid solution using Ka = 1.35 x 10-5 mol dm-3.",
+      "topic": "3.1.12",
+      "tags": [
+        "CHM4",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 7,
+      "image": "img/2005-june-chm4/q_q2ci.jpg",
+      "markscheme": "img/2005-june-chm4/ms_q2ci.jpg"
+    },
+    {
+      "id": "2005-june-chm4-q2cii",
+      "paper": "2005-june-chm4",
+      "question": "2(c)(ii)",
+      "marks": 2,
+      "summary": "Calculate pH of equimolar propanoate buffer mixture.",
+      "description": "Calculate pH of buffer mixture formed by adding equal volumes of 0.117 mol dm-3 sodium propanoate and propanoic acid.",
+      "topic": "3.1.12",
+      "tags": [
+        "CHM4",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 7,
+      "image": "img/2005-june-chm4/q_q2cii.jpg",
+      "markscheme": "img/2005-june-chm4/ms_q2cii.jpg"
+    },
+    {
+      "id": "2005-june-chm4-q3a",
+      "paper": "2005-june-chm4",
+      "question": "3(a)",
+      "marks": 5,
+      "summary": "Name and outline mechanism for nucleophilic addition of HCN to propanal in Step 1.",
+      "description": "Name and outline mechanism for nucleophilic addition of HCN to propanal in Step 1.",
+      "topic": "3.3.8",
+      "tags": [
+        "CHM4",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 8,
+      "image": "img/2005-june-chm4/q_q3a.jpg",
+      "markscheme": "img/2005-june-chm4/ms_q3a.jpg",
+      "figures": [
+        "img/2005-june-chm4/fig-q3-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2005-june-chm4-q3bi",
+      "paper": "2005-june-chm4",
+      "question": "3(b)(i)",
+      "marks": 1,
+      "summary": "Name compound Q formed in Step 2.",
+      "description": "Name compound Q (2-hydroxybutanoic acid) formed by hydrolysis of hydroxynitrile in Step 2.",
+      "topic": "3.3.9",
+      "tags": [
+        "CHM4",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 8,
+      "image": "img/2005-june-chm4/q_q3bi.jpg",
+      "markscheme": "img/2005-june-chm4/ms_q3bi.jpg",
+      "figures": [
+        "img/2005-june-chm4/fig-q3-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2005-june-chm4-q3bii",
+      "paper": "2005-june-chm4",
+      "question": "3(b)(ii)",
+      "marks": 3,
+      "summary": "Give structures of two stereoisomers formed by dehydration of Q and name type of stereoisomerism.",
+      "description": "Give structures of two stereoisomers (E- and Z-but-2-enoic acid) formed by dehydration of Q and name type of stereoisomerism.",
+      "topic": "3.3.3",
+      "tags": [
+        "CHM4",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 8,
+      "image": "img/2005-june-chm4/q_q3bii.jpg",
+      "markscheme": "img/2005-june-chm4/ms_q3bii.jpg",
+      "figures": [
+        "img/2005-june-chm4/fig-q3-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2005-june-chm4-q3ci",
+      "paper": "2005-june-chm4",
+      "question": "3(c)(i)",
+      "marks": 1,
+      "summary": "Draw repeating unit of the biodegradable polymer PHB.",
+      "description": "Draw repeating unit of biodegradable polyester PHB from 3-hydroxybutanoic acid.",
+      "topic": "3.3.12",
+      "tags": [
+        "CHM4",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 9,
+      "image": "img/2005-june-chm4/q_q3ci.jpg",
+      "markscheme": "img/2005-june-chm4/ms_q3ci.jpg"
+    },
+    {
+      "id": "2005-june-chm4-q3cii",
+      "paper": "2005-june-chm4",
+      "question": "3(c)(ii)",
+      "marks": 1,
+      "summary": "Suggest why polymer PHB is biodegradable.",
+      "description": "Suggest why polyester PHB is biodegradable (ester link can be hydrolysed by acid/base/microorganisms).",
+      "topic": "3.3.12",
+      "tags": [
+        "CHM4",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 9,
+      "image": "img/2005-june-chm4/q_q3cii.jpg",
+      "markscheme": "img/2005-june-chm4/ms_q3cii.jpg"
+    },
+    {
+      "id": "2005-june-chm4-q3di",
+      "paper": "2005-june-chm4",
+      "question": "3(d)(i)",
+      "marks": 1,
+      "summary": "Draw structure of zwitterion formed by amino acid R.",
+      "description": "Draw structure of zwitterion formed by 2-aminobutanoic acid.",
+      "topic": "3.3.13",
+      "tags": [
+        "CHM4",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 9,
+      "image": "img/2005-june-chm4/q_q3di.jpg",
+      "markscheme": "img/2005-june-chm4/ms_q3di.jpg"
+    },
+    {
+      "id": "2005-june-chm4-q3dii",
+      "paper": "2005-june-chm4",
+      "question": "3(d)(ii)",
+      "marks": 1,
+      "summary": "Draw structure of major organic product when excess R reacts with bromomethane.",
+      "description": "Draw structure of major organic product when excess amino acid R reacts with bromomethane (mono-methylation).",
+      "topic": "3.3.11",
+      "tags": [
+        "CHM4",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 9,
+      "image": "img/2005-june-chm4/q_q3dii.jpg",
+      "markscheme": "img/2005-june-chm4/ms_q3dii.jpg"
+    },
+    {
+      "id": "2005-june-chm4-q3diii",
+      "paper": "2005-june-chm4",
+      "question": "3(d)(iii)",
+      "marks": 1,
+      "summary": "Name mechanism of reaction between R and bromomethane.",
+      "description": "Name mechanism of reaction between amine group of R and bromomethane (nucleophilic substitution).",
+      "topic": "3.3.11",
+      "tags": [
+        "CHM4",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 9,
+      "image": "img/2005-june-chm4/q_q3diii.jpg",
+      "markscheme": "img/2005-june-chm4/ms_q3diii.jpg"
+    },
+    {
+      "id": "2005-june-chm4-q4ai",
+      "paper": "2005-june-chm4",
+      "question": "4(a)(i)",
+      "marks": 1,
+      "summary": "Deduce feature of W from singlet peak at delta = 2.18.",
+      "description": "Deduce feature of W from proton NMR singlet peak of area 3 at delta = 2.18 (CH3CO-).",
+      "topic": "3.3.15",
+      "tags": [
+        "CHM4",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 10,
+      "image": "img/2005-june-chm4/q_q4ai.jpg",
+      "markscheme": "img/2005-june-chm4/ms_q4ai.jpg"
+    },
+    {
+      "id": "2005-june-chm4-q4aii",
+      "paper": "2005-june-chm4",
+      "question": "4(a)(ii)",
+      "marks": 1,
+      "summary": "Deduce feature of W from singlet peak at delta = 3.33.",
+      "description": "Deduce feature of W from proton NMR singlet peak of area 3 at delta = 3.33 (CH3O-).",
+      "topic": "3.3.15",
+      "tags": [
+        "CHM4",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 10,
+      "image": "img/2005-june-chm4/q_q4aii.jpg",
+      "markscheme": "img/2005-june-chm4/ms_q4aii.jpg"
+    },
+    {
+      "id": "2005-june-chm4-q4aiii",
+      "paper": "2005-june-chm4",
+      "question": "4(a)(iii)",
+      "marks": 1,
+      "summary": "Deduce feature of W from two triplet peaks.",
+      "description": "Deduce feature of W from two triplet peaks in NMR (-CH2CH2- group).",
+      "topic": "3.3.15",
+      "tags": [
+        "CHM4",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 10,
+      "image": "img/2005-june-chm4/q_q4aiii.jpg",
+      "markscheme": "img/2005-june-chm4/ms_q4aiii.jpg"
+    },
+    {
+      "id": "2005-june-chm4-q4aiv",
+      "paper": "2005-june-chm4",
+      "question": "4(a)(iv)",
+      "marks": 1,
+      "summary": "Deduce structure of isomer W.",
+      "description": "Deduce structure of isomer W from NMR data: 4-methoxybutan-2-one.",
+      "topic": "3.3.15",
+      "tags": [
+        "CHM4",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 10,
+      "image": "img/2005-june-chm4/q_q4aiv.jpg",
+      "markscheme": "img/2005-june-chm4/ms_q4aiv.jpg"
+    },
+    {
+      "id": "2005-june-chm4-q4bi",
+      "paper": "2005-june-chm4",
+      "question": "4(b)(i)",
+      "marks": 1,
+      "summary": "Deduce functional group from broad IR absorption centred on 3000 cm-1 in X.",
+      "description": "Deduce functional group from broad IR absorption centred on 3000 cm-1 in X (O-H in carboxylic acid).",
+      "topic": "3.3.15",
+      "tags": [
+        "CHM4",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 11,
+      "image": "img/2005-june-chm4/q_q4bi.jpg",
+      "markscheme": "img/2005-june-chm4/ms_q4bi.jpg",
+      "figures": [
+        "img/2005-june-chm4/fig-q4-ir.jpg"
+      ]
+    },
+    {
+      "id": "2005-june-chm4-q4bii",
+      "paper": "2005-june-chm4",
+      "question": "4(b)(ii)",
+      "marks": 1,
+      "summary": "Deduce structure of X given NMR spectrum with two peaks in 9:1 ratio.",
+      "description": "Deduce structure of X given NMR spectrum with two peaks in 9:1 ratio: 2,2-dimethylpropanoic acid.",
+      "topic": "3.3.15",
+      "tags": [
+        "CHM4",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 11,
+      "image": "img/2005-june-chm4/q_q4bii.jpg",
+      "markscheme": "img/2005-june-chm4/ms_q4bii.jpg",
+      "figures": [
+        "img/2005-june-chm4/fig-q4-ir.jpg"
+      ]
+    },
+    {
+      "id": "2005-june-chm4-q4c",
+      "paper": "2005-june-chm4",
+      "question": "4(c)",
+      "marks": 3,
+      "summary": "Identify reagents and observations to distinguish between hydroxy-ketone isomers Y and Z.",
+      "description": "Identify reagents and observations to distinguish between secondary and tertiary alcohol isomers Y and Z.",
+      "topic": "3.3.4",
+      "tags": [
+        "CHM4",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 11,
+      "image": "img/2005-june-chm4/q_q4c.jpg",
+      "markscheme": "img/2005-june-chm4/ms_q4c.jpg"
+    },
+    {
+      "id": "2005-june-chm4-q5a",
+      "paper": "2005-june-chm4",
+      "question": "5(a)",
+      "marks": 3,
+      "summary": "Name mechanism and give reagents for nitration of methylbenzene in Step 1.",
+      "description": "Name mechanism and give reagents for nitration of methylbenzene to 4-nitromethylbenzene in Step 1.",
+      "topic": "3.3.10",
+      "tags": [
+        "CHM4",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 12,
+      "image": "img/2005-june-chm4/q_q5a.jpg",
+      "markscheme": "img/2005-june-chm4/ms_q5a.jpg",
+      "figures": [
+        "img/2005-june-chm4/fig-q5-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2005-june-chm4-q5b",
+      "paper": "2005-june-chm4",
+      "question": "5(b)",
+      "marks": 2,
+      "summary": "Give reagents and equation for reduction of nitroarene to aryl amine in Step 2.",
+      "description": "Give reagents and equation using [H] for reduction of 4-nitromethylbenzene to 4-methylphenylamine in Step 2.",
+      "topic": "3.3.11",
+      "tags": [
+        "CHM4",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 12,
+      "image": "img/2005-june-chm4/q_q5b.jpg",
+      "markscheme": "img/2005-june-chm4/ms_q5b.jpg",
+      "figures": [
+        "img/2005-june-chm4/fig-q5-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2005-june-chm4-q5c",
+      "paper": "2005-june-chm4",
+      "question": "5(c)",
+      "marks": 1,
+      "summary": "Give m/z value of major peak in methylbenzene mass spectrum not in E or F.",
+      "description": "Give m/z value of major peak in methylbenzene mass spectrum (molecular ion 92 or tropylium ion 91 or phenyl 77).",
+      "topic": "3.3.14",
+      "tags": [
+        "CHM4",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 12,
+      "image": "img/2005-june-chm4/q_q5c.jpg",
+      "markscheme": "img/2005-june-chm4/ms_q5c.jpg",
+      "figures": [
+        "img/2005-june-chm4/fig-q5-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2005-june-chm4-q5d",
+      "paper": "2005-june-chm4",
+      "question": "5(d)",
+      "marks": 1,
+      "summary": "Draw structure of species formed by 4-methylphenylamine in excess hydrochloric acid.",
+      "description": "Draw structure of quaternary/protonated species (CH3C6H4NH3+) formed by F in excess HCl.",
+      "topic": "3.3.11",
+      "tags": [
+        "CHM4",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 13,
+      "image": "img/2005-june-chm4/q_q5d.jpg",
+      "markscheme": "img/2005-june-chm4/ms_q5d.jpg"
+    },
+    {
+      "id": "2005-june-chm4-q5e",
+      "paper": "2005-june-chm4",
+      "question": "5(e)",
+      "marks": 2,
+      "summary": "Draw structures of monosubstituted benzene isomers G and H.",
+      "description": "Draw structures of primary amine G (benzylamine) and secondary amine H (N-methylaniline).",
+      "topic": "3.3.11",
+      "tags": [
+        "CHM4",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 13,
+      "image": "img/2005-june-chm4/q_q5e.jpg",
+      "markscheme": "img/2005-june-chm4/ms_q5e.jpg"
+    },
+    {
+      "id": "2005-june-chm5-q1a",
+      "paper": "2005-june-chm5",
+      "question": "1(a)",
+      "marks": 3,
+      "summary": "Deduce oxidation states of N in Cu(NO3)2 and NO2, and identify oxidation product.",
+      "description": "Deduce oxidation states of nitrogen in Cu(NO3)2 and in NO2, and identify product formed by oxidation in thermal decomposition.",
+      "topic": "3.1.7",
+      "tags": [
+        "CHM5",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 2,
+      "image": "img/2005-june-chm5/q_q1a.jpg",
+      "markscheme": "img/2005-june-chm5/ms_q1a.jpg",
+      "figures": [
+        "img/2005-june-chm5/fig-q1-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2005-june-chm5-q1b",
+      "paper": "2005-june-chm5",
+      "question": "1(b)",
+      "marks": 2,
+      "summary": "Identify copper species in solution A and state its shape.",
+      "description": "Identify copper-containing aqua ion present in solution A ([Cu(H2O)6]2+) and state its octahedral shape.",
+      "topic": "3.2.5",
+      "tags": [
+        "CHM5",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 2,
+      "image": "img/2005-june-chm5/q_q1b.jpg",
+      "markscheme": "img/2005-june-chm5/ms_q1b.jpg",
+      "figures": [
+        "img/2005-june-chm5/fig-q1-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2005-june-chm5-q1ci",
+      "paper": "2005-june-chm5",
+      "question": "1(c)(i)",
+      "marks": 2,
+      "summary": "Identify pale blue precipitate B and write equation for its formation.",
+      "description": "Identify pale blue precipitate B (Cu(OH)2 / [Cu(H2O)4(OH)2]) and write equation for reaction with aqueous ammonia.",
+      "topic": "3.2.5",
+      "tags": [
+        "CHM5",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 5,
+      "image": "img/2005-june-chm5/q_q1ci.jpg",
+      "markscheme": "img/2005-june-chm5/ms_q1ci.jpg",
+      "figures": [
+        "img/2005-june-chm5/fig-q1-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2005-june-chm5-q1cii",
+      "paper": "2005-june-chm5",
+      "question": "1(c)(ii)",
+      "marks": 1,
+      "summary": "State how NH3 behaves as a Brønsted-Lowry base in forming precipitate B.",
+      "description": "State how NH3 behaves as a Brønsted-Lowry base (accepts a proton / H+).",
+      "topic": "3.1.12",
+      "tags": [
+        "CHM5",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 5,
+      "image": "img/2005-june-chm5/q_q1cii.jpg",
+      "markscheme": "img/2005-june-chm5/ms_q1cii.jpg",
+      "figures": [
+        "img/2005-june-chm5/fig-q1-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2005-june-chm5-q1di",
+      "paper": "2005-june-chm5",
+      "question": "1(d)(i)",
+      "marks": 3,
+      "summary": "Identify copper species in solution C, its colour, and equation from precipitate B.",
+      "description": "Identify deep blue complex [Cu(NH3)4(H2O)2]2+ in solution C and write equation for ligand substitution from precipitate B.",
+      "topic": "3.2.5",
+      "tags": [
+        "CHM5",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 5,
+      "image": "img/2005-june-chm5/q_q1di.jpg",
+      "markscheme": "img/2005-june-chm5/ms_q1di.jpg",
+      "figures": [
+        "img/2005-june-chm5/fig-q1-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2005-june-chm5-q1dii",
+      "paper": "2005-june-chm5",
+      "question": "1(d)(ii)",
+      "marks": 1,
+      "summary": "State how NH3 behaves as a Lewis base in forming complex C.",
+      "description": "State how NH3 behaves as a Lewis base (donates a lone pair of electrons to Cu2+).",
+      "topic": "3.2.5",
+      "tags": [
+        "CHM5",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 5,
+      "image": "img/2005-june-chm5/q_q1dii.jpg",
+      "markscheme": "img/2005-june-chm5/ms_q1dii.jpg",
+      "figures": [
+        "img/2005-june-chm5/fig-q1-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2005-june-chm5-q1e",
+      "paper": "2005-june-chm5",
+      "question": "1(e)",
+      "marks": 3,
+      "summary": "Identify copper species in solution D, and state its colour and shape.",
+      "description": "Identify tetrachlorocuprate(II) complex in solution D ([CuCl4]2-), yellow-green colour, and tetrahedral shape.",
+      "topic": "3.2.5",
+      "tags": [
+        "CHM5",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 5,
+      "image": "img/2005-june-chm5/q_q1e.jpg",
+      "markscheme": "img/2005-june-chm5/ms_q1e.jpg",
+      "figures": [
+        "img/2005-june-chm5/fig-q1-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2005-june-chm5-q1fi",
+      "paper": "2005-june-chm5",
+      "question": "1(f)(i)",
+      "marks": 1,
+      "summary": "Give electron arrangement of Cu+ ion.",
+      "description": "Give electronic configuration of copper(I) ion: 1s2 2s2 2p6 3s2 3p6 3d10.",
+      "topic": "3.1.1",
+      "tags": [
+        "CHM5",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 5,
+      "image": "img/2005-june-chm5/q_q1fi.jpg",
+      "markscheme": "img/2005-june-chm5/ms_q1fi.jpg"
+    },
+    {
+      "id": "2005-june-chm5-q1fii",
+      "paper": "2005-june-chm5",
+      "question": "1(f)(ii)",
+      "marks": 1,
+      "summary": "Deduce role of copper metal in forming [CuCl4]3- from solution D.",
+      "description": "Deduce role of copper metal in reducing Cu(II) in [CuCl4]2- to Cu(I) in [CuCl4]3- (reducing agent / reductant).",
+      "topic": "3.1.7",
+      "tags": [
+        "CHM5",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 5,
+      "image": "img/2005-june-chm5/q_q1fii.jpg",
+      "markscheme": "img/2005-june-chm5/ms_q1fii.jpg",
+      "figures": [
+        "img/2005-june-chm5/fig-q1-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2005-june-chm5-q2a",
+      "paper": "2005-june-chm5",
+      "question": "2(a)",
+      "marks": 2,
+      "summary": "Calculate concentration of weak acid HA from titration curve data.",
+      "description": "Calculate concentration of HA from titration endpoint with 18.2 cm3 of 0.150 M NaOH.",
+      "topic": "3.1.12",
+      "tags": [
+        "CHM5",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 6,
+      "image": "img/2005-june-chm5/q_q2a.jpg",
+      "markscheme": "img/2005-june-chm5/ms_q2a.jpg",
+      "figures": [
+        "img/2005-june-chm5/fig-q2-curve.jpg"
+      ]
+    },
+    {
+      "id": "2005-june-chm5-q2bi",
+      "paper": "2005-june-chm5",
+      "question": "2(b)(i)",
+      "marks": 1,
+      "summary": "Write an expression for the acid dissociation constant Ka for HA.",
+      "description": "Write expression for Ka for weak monoprotic acid HA.",
+      "topic": "3.1.12",
+      "tags": [
+        "CHM5",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 6,
+      "image": "img/2005-june-chm5/q_q2bi.jpg",
+      "markscheme": "img/2005-june-chm5/ms_q2bi.jpg"
+    },
+    {
+      "id": "2005-june-chm5-q2bii",
+      "paper": "2005-june-chm5",
+      "question": "2(b)(ii)",
+      "marks": 1,
+      "summary": "Write an expression for pKa.",
+      "description": "Write expression for pKa: -log Ka.",
+      "topic": "3.1.12",
+      "tags": [
+        "CHM5",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 6,
+      "image": "img/2005-june-chm5/q_q2bii.jpg",
+      "markscheme": "img/2005-june-chm5/ms_q2bii.jpg"
+    },
+    {
+      "id": "2005-june-chm5-q2biii",
+      "paper": "2005-june-chm5",
+      "question": "2(b)(iii)",
+      "marks": 2,
+      "summary": "Show that at half-neutralisation pH = pKa for weak acid HA.",
+      "description": "Show that when half of HA is neutralised, [A-] = [HA], hence Ka = [H+] and pH = pKa.",
+      "topic": "3.1.12",
+      "tags": [
+        "CHM5",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 6,
+      "image": "img/2005-june-chm5/q_q2biii.jpg",
+      "markscheme": "img/2005-june-chm5/ms_q2biii.jpg"
+    },
+    {
+      "id": "2005-june-chm5-q2c",
+      "paper": "2005-june-chm5",
+      "question": "2(c)",
+      "marks": 2,
+      "summary": "Explain why dilution with a small volume of water does not affect buffer pH.",
+      "description": "Explain why dilution does not affect pH of buffer solution: ratio [A-]/[HA] remains constant.",
+      "topic": "3.1.12",
+      "tags": [
+        "CHM5",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 7,
+      "image": "img/2005-june-chm5/q_q2c.jpg",
+      "markscheme": "img/2005-june-chm5/ms_q2c.jpg"
+    },
+    {
+      "id": "2005-june-chm5-q2di",
+      "paper": "2005-june-chm5",
+      "question": "2(d)(i)",
+      "marks": 2,
+      "summary": "Calculate change in pH when 0.250 mol dm-3 HCl is diluted to 0.150 mol dm-3.",
+      "description": "Calculate pH change when 0.250 M HCl (pH 0.60) is diluted to 0.150 M HCl (pH 0.82).",
+      "topic": "3.1.12",
+      "tags": [
+        "CHM5",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 7,
+      "image": "img/2005-june-chm5/q_q2di.jpg",
+      "markscheme": "img/2005-june-chm5/ms_q2di.jpg"
+    },
+    {
+      "id": "2005-june-chm5-q2dii",
+      "paper": "2005-june-chm5",
+      "question": "2(d)(ii)",
+      "marks": 2,
+      "summary": "Calculate volume of water needed to dilute 30.0 cm3 of 0.250 M HCl to 0.150 M.",
+      "description": "Calculate volume of water added to 30.0 cm3 of 0.250 M HCl to produce 0.150 M solution (V_total = 50 cm3, water added = 20 cm3).",
+      "topic": "3.1.2",
+      "tags": [
+        "CHM5",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 7,
+      "image": "img/2005-june-chm5/q_q2dii.jpg",
+      "markscheme": "img/2005-june-chm5/ms_q2dii.jpg"
+    },
+    {
+      "id": "2005-june-chm5-q3ai",
+      "paper": "2005-june-chm5",
+      "question": "3(a)(i)",
+      "marks": 4,
+      "summary": "Record observations for NaBr and NaI with AgNO3 followed by concentrated NH3.",
+      "description": "Record observations when aqueous AgNO3 is added followed by concentrated aqueous ammonia to NaBr and NaI.",
+      "topic": "3.2.3",
+      "tags": [
+        "CHM5",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 8,
+      "image": "img/2005-june-chm5/q_q3ai.jpg",
+      "markscheme": "img/2005-june-chm5/ms_q3ai.jpg"
+    },
+    {
+      "id": "2005-june-chm5-q3aii",
+      "paper": "2005-june-chm5",
+      "question": "3(a)(ii)",
+      "marks": 1,
+      "summary": "Explain why NaNO3 and NaF cannot be distinguished by silver nitrate.",
+      "description": "Explain why addition of silver nitrate cannot distinguish between NaNO3 and NaF (AgF is soluble, so no precipitate forms in either).",
+      "topic": "3.2.3",
+      "tags": [
+        "CHM5",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 8,
+      "image": "img/2005-june-chm5/q_q3aii.jpg",
+      "markscheme": "img/2005-june-chm5/ms_q3aii.jpg"
+    },
+    {
+      "id": "2005-june-chm5-q3bi",
+      "paper": "2005-june-chm5",
+      "question": "3(b)(i)",
+      "marks": 1,
+      "summary": "Identify silver species formed when aqueous thiosulphate dissolves solid silver halide.",
+      "description": "Identify dithiosulphatoargentate(I) complex [Ag(S2O3)2]3-.",
+      "topic": "3.2.5",
+      "tags": [
+        "CHM5",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 8,
+      "image": "img/2005-june-chm5/q_q3bi.jpg",
+      "markscheme": "img/2005-june-chm5/ms_q3bi.jpg"
+    },
+    {
+      "id": "2005-june-chm5-q3bii",
+      "paper": "2005-june-chm5",
+      "question": "3(b)(ii)",
+      "marks": 1,
+      "summary": "Write equation for dissolving AgBr/AgI in aqueous sodium thiosulphate.",
+      "description": "Write equation for dissolution of silver halide precipitate by thiosulphate: AgBr + 2S2O3 2- -> [Ag(S2O3)2]3- + Br-.",
+      "topic": "3.2.5",
+      "tags": [
+        "CHM5",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 8,
+      "image": "img/2005-june-chm5/q_q3bii.jpg",
+      "markscheme": "img/2005-june-chm5/ms_q3bii.jpg"
+    },
+    {
+      "id": "2005-june-chm5-q3biii",
+      "paper": "2005-june-chm5",
+      "question": "3(b)(iii)",
+      "marks": 1,
+      "summary": "Give one use of reaction between silver halide and thiosulphate.",
+      "description": "Give one use of thiosulphate reaction: photographic fixer / removing unexposed silver halide in photography.",
+      "topic": "3.2.5",
+      "tags": [
+        "CHM5",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 8,
+      "image": "img/2005-june-chm5/q_q3biii.jpg",
+      "markscheme": "img/2005-june-chm5/ms_q3biii.jpg"
+    },
+    {
+      "id": "2005-june-chm5-q3ci",
+      "paper": "2005-june-chm5",
+      "question": "3(c)(i)",
+      "marks": 2,
+      "summary": "Draw structure of ethanoyl chloride and predict observation with aqueous silver nitrate.",
+      "description": "Draw structure of ethanoyl chloride CH3COCl and state observation with AgNO3(aq) (white precipitate immediately / steamy fumes).",
+      "topic": "3.3.10",
+      "tags": [
+        "CHM5",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 9,
+      "image": "img/2005-june-chm5/q_q3ci.jpg",
+      "markscheme": "img/2005-june-chm5/ms_q3ci.jpg"
+    },
+    {
+      "id": "2005-june-chm5-q3cii",
+      "paper": "2005-june-chm5",
+      "question": "3(c)(ii)",
+      "marks": 2,
+      "summary": "Draw structure of chloroethanoic acid and predict observation with aqueous silver nitrate.",
+      "description": "Draw structure of chloroethanoic acid ClCH2COOH and state observation with AgNO3(aq) (no immediate precipitate / very slow reaction).",
+      "topic": "3.3.10",
+      "tags": [
+        "CHM5",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 9,
+      "image": "img/2005-june-chm5/q_q3cii.jpg",
+      "markscheme": "img/2005-june-chm5/ms_q3cii.jpg"
+    },
+    {
+      "id": "2005-june-chm5-q3di",
+      "paper": "2005-june-chm5",
+      "question": "3(d)(i)",
+      "marks": 2,
+      "summary": "Identify silver complex in Tollens' reagent and state its shape.",
+      "description": "Identify diamminesilver(I) complex [Ag(NH3)2]+ in Tollens' reagent and its linear shape.",
+      "topic": "3.2.5",
+      "tags": [
+        "CHM5",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 9,
+      "image": "img/2005-june-chm5/q_q3di.jpg",
+      "markscheme": "img/2005-june-chm5/ms_q3di.jpg"
+    },
+    {
+      "id": "2005-june-chm5-q3dii",
+      "paper": "2005-june-chm5",
+      "question": "3(d)(ii)",
+      "marks": 2,
+      "summary": "Draw structure of methanoic acid and explain why it gives a silver mirror with Tollens' reagent.",
+      "description": "Draw structure of HCOOH and explain that it contains an aldehyde (CHO) group.",
+      "topic": "3.3.8",
+      "tags": [
+        "CHM5",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 9,
+      "image": "img/2005-june-chm5/q_q3dii.jpg",
+      "markscheme": "img/2005-june-chm5/ms_q3dii.jpg"
+    },
+    {
+      "id": "2005-june-chm5-q3diii",
+      "paper": "2005-june-chm5",
+      "question": "3(d)(iii)",
+      "marks": 1,
+      "summary": "Deduce identity of carbon-containing species formed when methanoic acid reacts with Tollens' reagent.",
+      "description": "Deduce carbon species formed on oxidation of HCOOH: CO2 / H2CO3 / (NH4)2CO3.",
+      "topic": "3.3.8",
+      "tags": [
+        "CHM5",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 9,
+      "image": "img/2005-june-chm5/q_q3diii.jpg",
+      "markscheme": "img/2005-june-chm5/ms_q3diii.jpg"
+    },
+    {
+      "id": "2005-june-chm5-q4a",
+      "paper": "2005-june-chm5",
+      "question": "4(a)",
+      "marks": 1,
+      "summary": "Select most powerful reducing agent from electrode potential table.",
+      "description": "Select most powerful reducing agent from standard electrode potentials (Zn).",
+      "topic": "3.1.11",
+      "tags": [
+        "CHM5",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 10,
+      "image": "img/2005-june-chm5/q_q4a.jpg",
+      "markscheme": "img/2005-june-chm5/ms_q4a.jpg",
+      "figures": [
+        "img/2005-june-chm5/fig-q4-table.jpg"
+      ]
+    },
+    {
+      "id": "2005-june-chm5-q4bi",
+      "paper": "2005-june-chm5",
+      "question": "4(b)(i)",
+      "marks": 1,
+      "summary": "Select species reducing VO2+ to VO2+ but not VO2+ to V3+.",
+      "description": "Select Fe2+ which reduces VO2+ (+1.00 V) to VO2+ but cannot reduce VO2+ (+0.34 V).",
+      "topic": "3.1.11",
+      "tags": [
+        "CHM5",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 10,
+      "image": "img/2005-june-chm5/q_q4bi.jpg",
+      "markscheme": "img/2005-june-chm5/ms_q4bi.jpg",
+      "figures": [
+        "img/2005-june-chm5/fig-q4-table.jpg"
+      ]
+    },
+    {
+      "id": "2005-june-chm5-q4bii",
+      "paper": "2005-june-chm5",
+      "question": "4(b)(ii)",
+      "marks": 1,
+      "summary": "Select species oxidising VO2+ to VO2+.",
+      "description": "Select Cl2 which oxidises VO2+ (+0.34 V / +1.00 V) to VO2+ (+1.36 V).",
+      "topic": "3.1.11",
+      "tags": [
+        "CHM5",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 10,
+      "image": "img/2005-june-chm5/q_q4bii.jpg",
+      "markscheme": "img/2005-june-chm5/ms_q4bii.jpg",
+      "figures": [
+        "img/2005-june-chm5/fig-q4-table.jpg"
+      ]
+    },
+    {
+      "id": "2005-june-chm5-q4ci",
+      "paper": "2005-june-chm5",
+      "question": "4(c)(i)",
+      "marks": 1,
+      "summary": "Deduce standard electrode potential for Tl3+/Tl+ half-reaction.",
+      "description": "Deduce standard electrode potential for Tl3+ + 2e- -> Tl+ from cell e.m.f. = +0.48 V and Fe3+/Fe2+ = +0.77 V.",
+      "topic": "3.1.11",
+      "tags": [
+        "CHM5",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 10,
+      "image": "img/2005-june-chm5/q_q4ci.jpg",
+      "markscheme": "img/2005-june-chm5/ms_q4ci.jpg",
+      "figures": [
+        "img/2005-june-chm5/fig-q4-table.jpg"
+      ]
+    },
+    {
+      "id": "2005-june-chm5-q4cii",
+      "paper": "2005-june-chm5",
+      "question": "4(c)(ii)",
+      "marks": 2,
+      "summary": "Write equation for spontaneous cell reaction.",
+      "description": "Write equation for spontaneous reaction: Tl3+ + 2Fe2+ -> Tl+ + 2Fe3+.",
+      "topic": "3.1.11",
+      "tags": [
+        "CHM5",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 10,
+      "image": "img/2005-june-chm5/q_q4cii.jpg",
+      "markscheme": "img/2005-june-chm5/ms_q4cii.jpg",
+      "figures": [
+        "img/2005-june-chm5/fig-q4-table.jpg"
+      ]
+    },
+    {
+      "id": "2005-june-chm5-q4di",
+      "paper": "2005-june-chm5",
+      "question": "4(d)(i)",
+      "marks": 4,
+      "summary": "Determine concentration of H2O2 solution in g dm-3 from manganate(VII) titration.",
+      "description": "Calculate concentration of H2O2 in g dm-3 from titration with 16.2 cm3 of 0.0200 M KMnO4.",
+      "topic": "3.1.2",
+      "tags": [
+        "CHM5",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 11,
+      "image": "img/2005-june-chm5/q_q4di.jpg",
+      "markscheme": "img/2005-june-chm5/ms_q4di.jpg"
+    },
+    {
+      "id": "2005-june-chm5-q4dii",
+      "paper": "2005-june-chm5",
+      "question": "4(d)(ii)",
+      "marks": 4,
+      "summary": "Calculate volume of oxygen evolved using ideal gas equation pV = nRT.",
+      "description": "Calculate volume of O2 evolved in m3 using pV = nRT at 98 kPa and 298 K.",
+      "topic": "3.1.2",
+      "tags": [
+        "CHM5",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 11,
+      "image": "img/2005-june-chm5/q_q4dii.jpg",
+      "markscheme": "img/2005-june-chm5/ms_q4dii.jpg"
+    },
+    {
+      "id": "2005-june-chm6w-q1",
+      "paper": "2005-june-chm6w",
+      "question": "1",
+      "marks": 1,
+      "summary": "Enthalpy of combustion of propane.",
+      "description": "Multiple choice question 1: Enthalpy of combustion of propane.",
+      "topic": "3.1.4",
+      "tags": [
+        "CHM6/W",
+        "Synoptic",
+        "MCQ",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 5,
+      "image": "img/2005-june-chm6w/q_q1.jpg",
+      "markscheme": "img/2005-june-chm6w/ms_q1.png"
+    },
+    {
+      "id": "2005-june-chm6w-q2",
+      "paper": "2005-june-chm6w",
+      "question": "2",
+      "marks": 1,
+      "summary": "Electronegativity trend in Group 2 elements.",
+      "description": "Multiple choice question 2: Electronegativity trend in Group 2 elements.",
+      "topic": "3.2.2",
+      "tags": [
+        "CHM6/W",
+        "Synoptic",
+        "MCQ",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 5,
+      "image": "img/2005-june-chm6w/q_q2.jpg",
+      "markscheme": "img/2005-june-chm6w/ms_q2.png"
+    },
+    {
+      "id": "2005-june-chm6w-q3",
+      "paper": "2005-june-chm6w",
+      "question": "3",
+      "marks": 1,
+      "summary": "Mass spectrum peaks of bromoethane isotopes.",
+      "description": "Multiple choice question 3: Mass spectrum peaks of bromoethane isotopes.",
+      "topic": "3.1.1",
+      "tags": [
+        "CHM6/W",
+        "Synoptic",
+        "MCQ",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 5,
+      "image": "img/2005-june-chm6w/q_q3.jpg",
+      "markscheme": "img/2005-june-chm6w/ms_q3.png"
+    },
+    {
+      "id": "2005-june-chm6w-q4",
+      "paper": "2005-june-chm6w",
+      "question": "4",
+      "marks": 1,
+      "summary": "pH comparison of ester equilibrium mixtures F and G.",
+      "description": "Multiple choice question 4: pH comparison of ester equilibrium mixtures F and G.",
+      "topic": "3.1.12",
+      "tags": [
+        "CHM6/W",
+        "Synoptic",
+        "MCQ",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 6,
+      "image": "img/2005-june-chm6w/q_q4.jpg",
+      "markscheme": "img/2005-june-chm6w/ms_q4.png"
+    },
+    {
+      "id": "2005-june-chm6w-q5",
+      "paper": "2005-june-chm6w",
+      "question": "5",
+      "marks": 1,
+      "summary": "Equilibrium constant Kc for propanoic acid esterification.",
+      "description": "Multiple choice question 5: Equilibrium constant Kc for propanoic acid esterification.",
+      "topic": "3.1.10",
+      "tags": [
+        "CHM6/W",
+        "Synoptic",
+        "MCQ",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 6,
+      "image": "img/2005-june-chm6w/q_q5.jpg",
+      "markscheme": "img/2005-june-chm6w/ms_q5.png"
+    },
+    {
+      "id": "2005-june-chm6w-q6",
+      "paper": "2005-june-chm6w",
+      "question": "6",
+      "marks": 1,
+      "summary": "Redox identification in hydrogen iodide equilibrium.",
+      "description": "Multiple choice question 6: Redox identification in hydrogen iodide equilibrium.",
+      "topic": "3.1.7",
+      "tags": [
+        "CHM6/W",
+        "Synoptic",
+        "MCQ",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 6,
+      "image": "img/2005-june-chm6w/q_q6.jpg",
+      "markscheme": "img/2005-june-chm6w/ms_q6.png"
+    },
+    {
+      "id": "2005-june-chm6w-q7",
+      "paper": "2005-june-chm6w",
+      "question": "7",
+      "marks": 1,
+      "summary": "Concentration of ethanedioic acid from KOH titration.",
+      "description": "Multiple choice question 7: Concentration of ethanedioic acid from KOH titration.",
+      "topic": "3.1.2",
+      "tags": [
+        "CHM6/W",
+        "Synoptic",
+        "MCQ",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 7,
+      "image": "img/2005-june-chm6w/q_q7.jpg",
+      "markscheme": "img/2005-june-chm6w/ms_q7.png"
+    },
+    {
+      "id": "2005-june-chm6w-q8",
+      "paper": "2005-june-chm6w",
+      "question": "8",
+      "marks": 1,
+      "summary": "Non-planar geometry of nitrogen trichloride (NCl3).",
+      "description": "Multiple choice question 8: Non-planar geometry of nitrogen trichloride (NCl3).",
+      "topic": "3.1.3",
+      "tags": [
+        "CHM6/W",
+        "Synoptic",
+        "MCQ",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 7,
+      "image": "img/2005-june-chm6w/q_q8.jpg",
+      "markscheme": "img/2005-june-chm6w/ms_q8.png"
+    },
+    {
+      "id": "2005-june-chm6w-q9",
+      "paper": "2005-june-chm6w",
+      "question": "9",
+      "marks": 1,
+      "summary": "Bonding and structure of aluminium chloride.",
+      "description": "Multiple choice question 9: Bonding and structure of aluminium chloride.",
+      "topic": "3.2.3",
+      "tags": [
+        "CHM6/W",
+        "Synoptic",
+        "MCQ",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 7,
+      "image": "img/2005-june-chm6w/q_q9.jpg",
+      "markscheme": "img/2005-june-chm6w/ms_q9.png"
+    },
+    {
+      "id": "2005-june-chm6w-q10",
+      "paper": "2005-june-chm6w",
+      "question": "10",
+      "marks": 1,
+      "summary": "Reaction not involving donation of an electron pair.",
+      "description": "Multiple choice question 10: Reaction not involving donation of an electron pair.",
+      "topic": "3.1.3",
+      "tags": [
+        "CHM6/W",
+        "Synoptic",
+        "MCQ",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 7,
+      "image": "img/2005-june-chm6w/q_q10.jpg",
+      "markscheme": "img/2005-june-chm6w/ms_q10.png"
+    },
+    {
+      "id": "2005-june-chm6w-q11",
+      "paper": "2005-june-chm6w",
+      "question": "11",
+      "marks": 1,
+      "summary": "Correct electron arrangement of Cu+ ([Ar]3d10).",
+      "description": "Multiple choice question 11: Correct electron arrangement of Cu+ ([Ar]3d10).",
+      "topic": "3.1.1",
+      "tags": [
+        "CHM6/W",
+        "Synoptic",
+        "MCQ",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 8,
+      "image": "img/2005-june-chm6w/q_q11.jpg",
+      "markscheme": "img/2005-june-chm6w/ms_q11.png"
+    },
+    {
+      "id": "2005-june-chm6w-q12",
+      "paper": "2005-june-chm6w",
+      "question": "12",
+      "marks": 1,
+      "summary": "Cu+ acting as reducing agent in photochromic glass.",
+      "description": "Multiple choice question 12: Cu+ acting as reducing agent in photochromic glass.",
+      "topic": "3.1.7",
+      "tags": [
+        "CHM6/W",
+        "Synoptic",
+        "MCQ",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 8,
+      "image": "img/2005-june-chm6w/q_q12.jpg",
+      "markscheme": "img/2005-june-chm6w/ms_q12.png"
+    },
+    {
+      "id": "2005-june-chm6w-q13",
+      "paper": "2005-june-chm6w",
+      "question": "13",
+      "marks": 1,
+      "summary": "Maximum mass of silver obtained from Ag2O reduction.",
+      "description": "Multiple choice question 13: Maximum mass of silver obtained from Ag2O reduction.",
+      "topic": "3.1.2",
+      "tags": [
+        "CHM6/W",
+        "Synoptic",
+        "MCQ",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 9,
+      "image": "img/2005-june-chm6w/q_q13.jpg",
+      "markscheme": "img/2005-june-chm6w/ms_q13.png"
+    },
+    {
+      "id": "2005-june-chm6w-q14",
+      "paper": "2005-june-chm6w",
+      "question": "14",
+      "marks": 1,
+      "summary": "Double bond determining the cis prefix in cis-retinal.",
+      "description": "Multiple choice question 14: Double bond determining the cis prefix in cis-retinal.",
+      "topic": "3.3.3",
+      "tags": [
+        "CHM6/W",
+        "Synoptic",
+        "MCQ",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 9,
+      "image": "img/2005-june-chm6w/q_q14.jpg",
+      "markscheme": "img/2005-june-chm6w/ms_q14.png"
+    },
+    {
+      "id": "2005-june-chm6w-q15",
+      "paper": "2005-june-chm6w",
+      "question": "15",
+      "marks": 1,
+      "summary": "Number of alkenes formed from 2-bromo-2-methylbutane elimination.",
+      "description": "Multiple choice question 15: Number of alkenes formed from 2-bromo-2-methylbutane elimination.",
+      "topic": "3.3.5",
+      "tags": [
+        "CHM6/W",
+        "Synoptic",
+        "MCQ",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 10,
+      "image": "img/2005-june-chm6w/q_q15.jpg",
+      "markscheme": "img/2005-june-chm6w/ms_q15.png"
+    },
+    {
+      "id": "2005-june-chm6w-q16",
+      "paper": "2005-june-chm6w",
+      "question": "16",
+      "marks": 1,
+      "summary": "Pair of functional group isomers (methoxyethane and propan-2-ol).",
+      "description": "Multiple choice question 16: Pair of functional group isomers (methoxyethane and propan-2-ol).",
+      "topic": "3.3.1",
+      "tags": [
+        "CHM6/W",
+        "Synoptic",
+        "MCQ",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 10,
+      "image": "img/2005-june-chm6w/q_q16.jpg",
+      "markscheme": "img/2005-june-chm6w/ms_q16.png"
+    },
+    {
+      "id": "2005-june-chm6w-q17",
+      "paper": "2005-june-chm6w",
+      "question": "17",
+      "marks": 1,
+      "summary": "Incorrect statement about vitamin C structure.",
+      "description": "Multiple choice question 17: Incorrect statement about vitamin C structure.",
+      "topic": "3.3.10",
+      "tags": [
+        "CHM6/W",
+        "Synoptic",
+        "MCQ",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 10,
+      "image": "img/2005-june-chm6w/q_q17.jpg",
+      "markscheme": "img/2005-june-chm6w/ms_q17.png"
+    },
+    {
+      "id": "2005-june-chm6w-q18",
+      "paper": "2005-june-chm6w",
+      "question": "18",
+      "marks": 1,
+      "summary": "Reaction producing organic compound with optical isomers.",
+      "description": "Multiple choice question 18: Reaction producing organic compound with optical isomers.",
+      "topic": "3.3.7",
+      "tags": [
+        "CHM6/W",
+        "Synoptic",
+        "MCQ",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 11,
+      "image": "img/2005-june-chm6w/q_q18.jpg",
+      "markscheme": "img/2005-june-chm6w/ms_q18.png"
+    },
+    {
+      "id": "2005-june-chm6w-q19",
+      "paper": "2005-june-chm6w",
+      "question": "19",
+      "marks": 1,
+      "summary": "Mass of TNT formed in 27.0% yield reaction.",
+      "description": "Multiple choice question 19: Mass of TNT formed in 27.0% yield reaction.",
+      "topic": "3.1.2",
+      "tags": [
+        "CHM6/W",
+        "Synoptic",
+        "MCQ",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 11,
+      "image": "img/2005-june-chm6w/q_q19.jpg",
+      "markscheme": "img/2005-june-chm6w/ms_q19.png"
+    },
+    {
+      "id": "2005-june-chm6w-q20",
+      "paper": "2005-june-chm6w",
+      "question": "20",
+      "marks": 1,
+      "summary": "Reaction yielding product with only two singlets in 1H NMR.",
+      "description": "Multiple choice question 20: Reaction yielding product with only two singlets in 1H NMR.",
+      "topic": "3.3.15",
+      "tags": [
+        "CHM6/W",
+        "Synoptic",
+        "MCQ",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 11,
+      "image": "img/2005-june-chm6w/q_q20.jpg",
+      "markscheme": "img/2005-june-chm6w/ms_q20.png"
+    },
+    {
+      "id": "2005-june-chm6w-q21",
+      "paper": "2005-june-chm6w",
+      "question": "21",
+      "marks": 1,
+      "summary": "Reactions with positive entropy change (2 and 4 only).",
+      "description": "Multiple choice question 21: Reactions with positive entropy change (2 and 4 only).",
+      "topic": "3.1.8",
+      "tags": [
+        "CHM6/W",
+        "Synoptic",
+        "MCQ",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 12,
+      "image": "img/2005-june-chm6w/q_q21.jpg",
+      "markscheme": "img/2005-june-chm6w/ms_q21.png"
+    },
+    {
+      "id": "2005-june-chm6w-q22",
+      "paper": "2005-june-chm6w",
+      "question": "22",
+      "marks": 1,
+      "summary": "Enthalpy not involved in Born-Haber cycle for CaH2 (4 only).",
+      "description": "Multiple choice question 22: Enthalpy not involved in Born-Haber cycle for CaH2 (4 only).",
+      "topic": "3.1.8",
+      "tags": [
+        "CHM6/W",
+        "Synoptic",
+        "MCQ",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 12,
+      "image": "img/2005-june-chm6w/q_q22.jpg",
+      "markscheme": "img/2005-june-chm6w/ms_q22.png"
+    },
+    {
+      "id": "2005-june-chm6w-q23",
+      "paper": "2005-june-chm6w",
+      "question": "23",
+      "marks": 1,
+      "summary": "Pairs representing stereoisomers (1 and 3 only).",
+      "description": "Multiple choice question 23: Pairs representing stereoisomers (1 and 3 only).",
+      "topic": "3.2.5",
+      "tags": [
+        "CHM6/W",
+        "Synoptic",
+        "MCQ",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 13,
+      "image": "img/2005-june-chm6w/q_q23.jpg",
+      "markscheme": "img/2005-june-chm6w/ms_q23.png"
+    },
+    {
+      "id": "2005-june-chm6w-q24",
+      "paper": "2005-june-chm6w",
+      "question": "24",
+      "marks": 1,
+      "summary": "Statements regarding peroxodisulphate-iodide redox (1 and 3 only).",
+      "description": "Multiple choice question 24: Statements regarding peroxodisulphate-iodide redox (1 and 3 only).",
+      "topic": "3.1.11",
+      "tags": [
+        "CHM6/W",
+        "Synoptic",
+        "MCQ",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 14,
+      "image": "img/2005-june-chm6w/q_q24.jpg",
+      "markscheme": "img/2005-june-chm6w/ms_q24.png"
+    },
+    {
+      "id": "2005-june-chm6w-q25",
+      "paper": "2005-june-chm6w",
+      "question": "25",
+      "marks": 1,
+      "summary": "Catalysis and electron configuration of Fe3+ (1 and 3 only).",
+      "description": "Multiple choice question 25: Catalysis and electron configuration of Fe3+ (1 and 3 only).",
+      "topic": "3.2.5",
+      "tags": [
+        "CHM6/W",
+        "Synoptic",
+        "MCQ",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 14,
+      "image": "img/2005-june-chm6w/q_q25.jpg",
+      "markscheme": "img/2005-june-chm6w/ms_q25.png"
+    },
+    {
+      "id": "2005-june-chm6w-q26",
+      "paper": "2005-june-chm6w",
+      "question": "26",
+      "marks": 1,
+      "summary": "Cell e.m.f. values for peroxodisulphate-iron reactions (2 and 4 only).",
+      "description": "Multiple choice question 26: Cell e.m.f. values for peroxodisulphate-iron reactions (2 and 4 only).",
+      "topic": "3.1.11",
+      "tags": [
+        "CHM6/W",
+        "Synoptic",
+        "MCQ",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 15,
+      "image": "img/2005-june-chm6w/q_q26.jpg",
+      "markscheme": "img/2005-june-chm6w/ms_q26.png"
+    },
+    {
+      "id": "2005-june-chm6w-q27",
+      "paper": "2005-june-chm6w",
+      "question": "27",
+      "marks": 1,
+      "summary": "Molecules with a permanent overall dipole (1 and 3 only).",
+      "description": "Multiple choice question 27: Molecules with a permanent overall dipole (1 and 3 only).",
+      "topic": "3.1.3",
+      "tags": [
+        "CHM6/W",
+        "Synoptic",
+        "MCQ",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 15,
+      "image": "img/2005-june-chm6w/q_q27.jpg",
+      "markscheme": "img/2005-june-chm6w/ms_q27.png"
+    },
+    {
+      "id": "2005-june-chm6w-q28",
+      "paper": "2005-june-chm6w",
+      "question": "28",
+      "marks": 1,
+      "summary": "Reactions in which oxidation state increases (2 and 4 only).",
+      "description": "Multiple choice question 28: Reactions in which oxidation state increases (2 and 4 only).",
+      "topic": "3.1.7",
+      "tags": [
+        "CHM6/W",
+        "Synoptic",
+        "MCQ",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 15,
+      "image": "img/2005-june-chm6w/q_q28.jpg",
+      "markscheme": "img/2005-june-chm6w/ms_q28.png"
+    },
+    {
+      "id": "2005-june-chm6w-q29",
+      "paper": "2005-june-chm6w",
+      "question": "29",
+      "marks": 1,
+      "summary": "Substances releasing CO2 with sodium carbonate (1 and 3 only).",
+      "description": "Multiple choice question 29: Substances releasing CO2 with sodium carbonate (1 and 3 only).",
+      "topic": "3.2.4",
+      "tags": [
+        "CHM6/W",
+        "Synoptic",
+        "MCQ",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 15,
+      "image": "img/2005-june-chm6w/q_q29.jpg",
+      "markscheme": "img/2005-june-chm6w/ms_q29.png"
+    },
+    {
+      "id": "2005-june-chm6w-q30",
+      "paper": "2005-june-chm6w",
+      "question": "30",
+      "marks": 1,
+      "summary": "Precipitate with AgNO3 in excess aqueous ammonia (2 and 4 only).",
+      "description": "Multiple choice question 30: Precipitate with AgNO3 in excess aqueous ammonia (2 and 4 only).",
+      "topic": "3.2.3",
+      "tags": [
+        "CHM6/W",
+        "Synoptic",
+        "MCQ",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 16,
+      "image": "img/2005-june-chm6w/q_q30.jpg",
+      "markscheme": "img/2005-june-chm6w/ms_q30.png"
+    },
+    {
+      "id": "2005-june-chm6w-q31",
+      "paper": "2005-june-chm6w",
+      "question": "31",
+      "marks": 1,
+      "summary": "Reactions of concentrated sulphuric acid (1, 2 and 3 only).",
+      "description": "Multiple choice question 31: Reactions of concentrated sulphuric acid (1, 2 and 3 only).",
+      "topic": "3.3.5",
+      "tags": [
+        "CHM6/W",
+        "Synoptic",
+        "MCQ",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 16,
+      "image": "img/2005-june-chm6w/q_q31.jpg",
+      "markscheme": "img/2005-june-chm6w/ms_q31.png"
+    },
+    {
+      "id": "2005-june-chm6w-q32",
+      "paper": "2005-june-chm6w",
+      "question": "32",
+      "marks": 1,
+      "summary": "Disproportionation reactions of the same species (1 and 3 only).",
+      "description": "Multiple choice question 32: Disproportionation reactions of the same species (1 and 3 only).",
+      "topic": "3.1.7",
+      "tags": [
+        "CHM6/W",
+        "Synoptic",
+        "MCQ",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 16,
+      "image": "img/2005-june-chm6w/q_q32.jpg",
+      "markscheme": "img/2005-june-chm6w/ms_q32.png"
+    },
+    {
+      "id": "2005-june-chm6w-q33",
+      "paper": "2005-june-chm6w",
+      "question": "33",
+      "marks": 1,
+      "summary": "Species containing two or more co-ordinate bonds (1, 2 and 3 only).",
+      "description": "Multiple choice question 33: Species containing two or more co-ordinate bonds (1, 2 and 3 only).",
+      "topic": "3.2.5",
+      "tags": [
+        "CHM6/W",
+        "Synoptic",
+        "MCQ",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 16,
+      "image": "img/2005-june-chm6w/q_q33.jpg",
+      "markscheme": "img/2005-june-chm6w/ms_q33.png"
+    },
+    {
+      "id": "2005-june-chm6w-q34",
+      "paper": "2005-june-chm6w",
+      "question": "34",
+      "marks": 1,
+      "summary": "Combustion requiring exactly 9 mol of O2 (2 and 4 only).",
+      "description": "Multiple choice question 34: Combustion requiring exactly 9 mol of O2 (2 and 4 only).",
+      "topic": "3.1.2",
+      "tags": [
+        "CHM6/W",
+        "Synoptic",
+        "MCQ",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 17,
+      "image": "img/2005-june-chm6w/q_q34.jpg",
+      "markscheme": "img/2005-june-chm6w/ms_q34.png"
+    },
+    {
+      "id": "2005-june-chm6w-q35",
+      "paper": "2005-june-chm6w",
+      "question": "35",
+      "marks": 1,
+      "summary": "Liquids exhibiting hydrogen bonding (2 and 4 only).",
+      "description": "Multiple choice question 35: Liquids exhibiting hydrogen bonding (2 and 4 only).",
+      "topic": "3.1.3",
+      "tags": [
+        "CHM6/W",
+        "Synoptic",
+        "MCQ",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 17,
+      "image": "img/2005-june-chm6w/q_q35.jpg",
+      "markscheme": "img/2005-june-chm6w/ms_q35.png"
+    },
+    {
+      "id": "2005-june-chm6w-q36",
+      "paper": "2005-june-chm6w",
+      "question": "36",
+      "marks": 1,
+      "summary": "Statements regarding ethyl carbocation (1, 2 and 3 only).",
+      "description": "Multiple choice question 36: Statements regarding ethyl carbocation (1, 2 and 3 only).",
+      "topic": "3.3.2",
+      "tags": [
+        "CHM6/W",
+        "Synoptic",
+        "MCQ",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 17,
+      "image": "img/2005-june-chm6w/q_q36.jpg",
+      "markscheme": "img/2005-june-chm6w/ms_q36.png"
+    },
+    {
+      "id": "2005-june-chm6w-q37",
+      "paper": "2005-june-chm6w",
+      "question": "37",
+      "marks": 1,
+      "summary": "Spectroscopic features of methyl 4-oxopentanoate (1, 2 and 3 only).",
+      "description": "Multiple choice question 37: Spectroscopic features of methyl 4-oxopentanoate (1, 2 and 3 only).",
+      "topic": "3.3.15",
+      "tags": [
+        "CHM6/W",
+        "Synoptic",
+        "MCQ",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 17,
+      "image": "img/2005-june-chm6w/q_q37.jpg",
+      "markscheme": "img/2005-june-chm6w/ms_q37.png"
+    },
+    {
+      "id": "2005-june-chm6w-q38",
+      "paper": "2005-june-chm6w",
+      "question": "38",
+      "marks": 1,
+      "summary": "Reactions and spectra of dihydroxyacetone (1, 2 and 3 only).",
+      "description": "Multiple choice question 38: Reactions and spectra of dihydroxyacetone (1, 2 and 3 only).",
+      "topic": "3.3.8",
+      "tags": [
+        "CHM6/W",
+        "Synoptic",
+        "MCQ",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 18,
+      "image": "img/2005-june-chm6w/q_q38.jpg",
+      "markscheme": "img/2005-june-chm6w/ms_q38.png"
+    },
+    {
+      "id": "2005-june-chm6w-q39",
+      "paper": "2005-june-chm6w",
+      "question": "39",
+      "marks": 1,
+      "summary": "Correct mechanistic steps for organic reactions (2 and 4 only).",
+      "description": "Multiple choice question 39: Correct mechanistic steps for organic reactions (2 and 4 only).",
+      "topic": "3.3.8",
+      "tags": [
+        "CHM6/W",
+        "Synoptic",
+        "MCQ",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 18,
+      "image": "img/2005-june-chm6w/q_q39.jpg",
+      "markscheme": "img/2005-june-chm6w/ms_q39.png"
+    },
+    {
+      "id": "2005-june-chm6w-q40",
+      "paper": "2005-june-chm6w",
+      "question": "40",
+      "marks": 1,
+      "summary": "Properties and NMR of 2,2-dimethylpropanoic acid (2 and 4 only).",
+      "description": "Multiple choice question 40: Properties and NMR of 2,2-dimethylpropanoic acid (2 and 4 only).",
+      "topic": "3.3.9",
+      "tags": [
+        "CHM6/W",
+        "Synoptic",
+        "MCQ",
+        "AQA",
+        "A-Level"
+      ],
+      "page": 19,
+      "image": "img/2005-june-chm6w/q_q40.jpg",
+      "markscheme": "img/2005-june-chm6w/ms_q40.png"
     }
   ]
 }

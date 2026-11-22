@@ -60,6 +60,9 @@ PDF_MAP = {
     '2005-june-chm1': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795382980188_94874931.pdf',
     '2005-june-chm2': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795382980221_a694d6cb.pdf',
     '2005-june-chm3w': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795382980203_a71451e6.pdf',
+    '2005-june-chm4': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795383003706_b9ecaf08.pdf',
+    '2005-june-chm5': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795383003708_7ca682eb.pdf',
+    '2005-june-chm6w': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795383003756_890ad502.pdf',
 }
 
 def extract_lines(page):
@@ -120,6 +123,14 @@ def main():
                 main_q_top = (int(txt.strip()), bbox[1])
                 break
 
+        # Check for explicit subpart letter headers on page: (a), (b), (c), etc.
+        subpart_letter_locs = []
+        for bbox, txt in lines:
+            if bbox[0] < 120:
+                m_sub = re.match(r'^\(([a-h])\)', txt.strip())
+                if m_sub:
+                    subpart_letter_locs.append((m_sub.group(1), bbox[1]))
+
         # Locate label for each question
         curr_y = 60.0
         located = []
@@ -129,11 +140,19 @@ def main():
             m = re.match(r'^(\d+)?(?:\(([a-z\d]+)\))?(?:\(([a-z\d]+)\))?', q_label)
             main_q, sub1, sub2 = m.groups() if m else (None, None, None)
 
+            # Bound search by subsequent subpart letter if known
+            max_search_y = 800.0
+            if sub1:
+                for s_char, s_y in subpart_letter_locs:
+                    if s_char > sub1 and s_y >= curr_y - 5:
+                        max_search_y = min(max_search_y, s_y)
+                        break
+
             # Check if parent subpart (e.g. (b) before (i)) appears on this page
             parent_sub_y0 = None
             if sub2 and (q_idx == 0 or not q_list[q_idx-1]['question'].startswith(f"{main_q}({sub1})")):
                 for bbox, txt in lines:
-                    if bbox[1] >= curr_y - 5 and bbox[0] < 120:
+                    if curr_y - 5 <= bbox[1] < max_search_y and bbox[0] < 120:
                         words = txt.split()
                         if words and words[0] == f"({sub1})":
                             parent_sub_y0 = bbox[1]
@@ -156,7 +175,7 @@ def main():
             found_y0 = None
             search_start = parent_sub_y0 if parent_sub_y0 is not None else curr_y
             for bbox, txt in lines:
-                if bbox[1] >= search_start - 5:
+                if search_start - 5 <= bbox[1] < max_search_y:
                     for cand in candidates:
                         if bbox[0] < 140:
                             words = txt.split()
@@ -165,6 +184,10 @@ def main():
                                 break
                     if found_y0 is not None:
                         break
+
+            # Fallback for continued question without explicit label on current page
+            if found_y0 is None and q_idx == 0 and len(lines) > 0:
+                found_y0 = lines[0][0][1]
 
             actual_y0 = parent_sub_y0 if parent_sub_y0 is not None else found_y0
             located.append((q, found_y0, actual_y0))
