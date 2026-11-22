@@ -31248,6 +31248,2387 @@
       "page": 19,
       "image": "img/2005-june-chm6w/q_q40.jpg",
       "markscheme": "img/2005-june-chm6w/ms_q40.png"
+    },
+    {
+      "id": "2006-jan-chm1-q1a",
+      "paper": "2006-jan-chm1",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM1",
+      "unit": "Unit 1: Atomic Structure, Bonding and Periodicity",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "1(a)",
+      "page": 2,
+      "marks": 2,
+      "topics": [
+        "3.1.1"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Complete the table showing relative mass and charge of neutron and electron.",
+      "image": "img/2006-jan-chm1/q_q1a.jpg",
+      "markscheme": "img/2006-jan-chm1/ms_q1a.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm1-q1b",
+      "paper": "2006-jan-chm1",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM1",
+      "unit": "Unit 1: Atomic Structure, Bonding and Periodicity",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "1(b)",
+      "page": 2,
+      "marks": 2,
+      "topics": [
+        "3.1.1"
+      ],
+      "types": [
+        "calculation",
+        "recall"
+      ],
+      "title": "Deduce symbol, including mass number, of atom with twice protons and four more neutrons than 9Be.",
+      "image": "img/2006-jan-chm1/q_q1b.jpg",
+      "markscheme": "img/2006-jan-chm1/ms_q1b.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm1-q1c",
+      "paper": "2006-jan-chm1",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM1",
+      "unit": "Unit 1: Atomic Structure, Bonding and Periodicity",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "1(c)",
+      "page": 2,
+      "marks": 4,
+      "topics": [
+        "3.1.3"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Draw shapes of BeCl2 and Cl2O, show lone pairs on central atom, and name shapes.",
+      "image": "img/2006-jan-chm1/q_q1c.jpg",
+      "markscheme": "img/2006-jan-chm1/ms_q1c.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm1-q1d",
+      "paper": "2006-jan-chm1",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM1",
+      "unit": "Unit 1: Atomic Structure, Bonding and Periodicity",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "1(d)",
+      "page": 2,
+      "marks": 4,
+      "topics": [
+        "3.1.2"
+      ],
+      "types": [
+        "calculation"
+      ],
+      "title": "Calculate volume in cm3 of 1.00 mol dm-3 HCl required to react with 1.00 g Mg(OH)2.",
+      "image": "img/2006-jan-chm1/q_q1d.jpg",
+      "markscheme": "img/2006-jan-chm1/ms_q1d.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm1-q2ai",
+      "paper": "2006-jan-chm1",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM1",
+      "unit": "Unit 1: Atomic Structure, Bonding and Periodicity",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "2(a)(i)",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "3.1.2"
+      ],
+      "types": [
+        "calculation"
+      ],
+      "title": "Calculate number of moles of KNO3 in 1.00 g sample.",
+      "image": "img/2006-jan-chm1/q_q2ai.jpg",
+      "markscheme": "img/2006-jan-chm1/ms_q2ai.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm1-q2aii",
+      "paper": "2006-jan-chm1",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM1",
+      "unit": "Unit 1: Atomic Structure, Bonding and Periodicity",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "2(a)(ii)",
+      "page": 5,
+      "marks": 4,
+      "topics": [
+        "3.1.2"
+      ],
+      "types": [
+        "calculation"
+      ],
+      "title": "State ideal gas equation and calculate moles of oxygen produced.",
+      "image": "img/2006-jan-chm1/q_q2aii.jpg",
+      "markscheme": "img/2006-jan-chm1/ms_q2aii.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm1-q2bi",
+      "paper": "2006-jan-chm1",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM1",
+      "unit": "Unit 1: Atomic Structure, Bonding and Periodicity",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "2(b)(i)",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "3.1.2"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "State what is meant by the term empirical formula.",
+      "image": "img/2006-jan-chm1/q_q2bi.jpg",
+      "markscheme": "img/2006-jan-chm1/ms_q2bi.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm1-q2bii",
+      "paper": "2006-jan-chm1",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM1",
+      "unit": "Unit 1: Atomic Structure, Bonding and Periodicity",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "2(b)(ii)",
+      "page": 5,
+      "marks": 3,
+      "topics": [
+        "3.1.2"
+      ],
+      "types": [
+        "calculation"
+      ],
+      "title": "Calculate empirical formula of Y from percentage composition.",
+      "image": "img/2006-jan-chm1/q_q2bii.jpg",
+      "markscheme": "img/2006-jan-chm1/ms_q2bii.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm1-q2c",
+      "paper": "2006-jan-chm1",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM1",
+      "unit": "Unit 1: Atomic Structure, Bonding and Periodicity",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "2(c)",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "3.1.2"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Deduce equation for decomposition of KNO3 into Y and oxygen.",
+      "image": "img/2006-jan-chm1/q_q2c.jpg",
+      "markscheme": "img/2006-jan-chm1/ms_q2c.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm1-q3a",
+      "paper": "2006-jan-chm1",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM1",
+      "unit": "Unit 1: Atomic Structure, Bonding and Periodicity",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "3(a)",
+      "page": 6,
+      "marks": 2,
+      "topics": [
+        "3.1.3"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Define the term electronegativity.",
+      "image": "img/2006-jan-chm1/q_q3a.jpg",
+      "markscheme": "img/2006-jan-chm1/ms_q3a.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm1-q3bi",
+      "paper": "2006-jan-chm1",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM1",
+      "unit": "Unit 1: Atomic Structure, Bonding and Periodicity",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "3(b)(i)",
+      "page": 6,
+      "marks": 3,
+      "topics": [
+        "3.1.3"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Name the strongest intermolecular force present in liquid F2, CH3F, and HF.",
+      "image": "img/2006-jan-chm1/q_q3bi.jpg",
+      "markscheme": "img/2006-jan-chm1/ms_q3bi.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm1-q3bii",
+      "paper": "2006-jan-chm1",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM1",
+      "unit": "Unit 1: Atomic Structure, Bonding and Periodicity",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "3(b)(ii)",
+      "page": 6,
+      "marks": 3,
+      "topics": [
+        "3.1.3"
+      ],
+      "types": [
+        "explanation"
+      ],
+      "title": "Explain how the strongest type of intermolecular force in liquid HF arises.",
+      "image": "img/2006-jan-chm1/q_q3bii.jpg",
+      "markscheme": "img/2006-jan-chm1/ms_q3bii.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm1-q3ci",
+      "paper": "2006-jan-chm1",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM1",
+      "unit": "Unit 1: Atomic Structure, Bonding and Periodicity",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "3(c)(i)",
+      "page": 7,
+      "marks": 2,
+      "topics": [
+        "3.1.3"
+      ],
+      "types": [
+        "explanation"
+      ],
+      "title": "Explain the trend in boiling points of hydrogen halides from HCl to HI.",
+      "image": "img/2006-jan-chm1/q_q3ci.jpg",
+      "markscheme": "img/2006-jan-chm1/ms_q3ci.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm1-q3cii",
+      "paper": "2006-jan-chm1",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM1",
+      "unit": "Unit 1: Atomic Structure, Bonding and Periodicity",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "3(c)(ii)",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "3.1.3"
+      ],
+      "types": [
+        "explanation"
+      ],
+      "title": "Give one reason why boiling point of HF is higher than all other hydrogen halides.",
+      "image": "img/2006-jan-chm1/q_q3cii.jpg",
+      "markscheme": "img/2006-jan-chm1/ms_q3cii.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm1-q4a",
+      "paper": "2006-jan-chm1",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM1",
+      "unit": "Unit 1: Atomic Structure, Bonding and Periodicity",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "4(a)",
+      "page": 8,
+      "marks": 2,
+      "topics": [
+        "3.1.1"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "State the meaning of the term first ionisation energy of an atom.",
+      "image": "img/2006-jan-chm1/q_q4a.jpg",
+      "markscheme": "img/2006-jan-chm1/ms_q4a.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm1-q4b",
+      "paper": "2006-jan-chm1",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM1",
+      "unit": "Unit 1: Atomic Structure, Bonding and Periodicity",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "4(b)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "3.1.1"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Complete electron arrangement for Mg2+ ion.",
+      "image": "img/2006-jan-chm1/q_q4b.jpg",
+      "markscheme": "img/2006-jan-chm1/ms_q4b.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm1-q4c",
+      "paper": "2006-jan-chm1",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM1",
+      "unit": "Unit 1: Atomic Structure, Bonding and Periodicity",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "4(c)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "3.1.1",
+        "3.2.1"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Identify the block in the Periodic Table to which magnesium belongs.",
+      "image": "img/2006-jan-chm1/q_q4c.jpg",
+      "markscheme": "img/2006-jan-chm1/ms_q4c.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm1-q4d",
+      "paper": "2006-jan-chm1",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM1",
+      "unit": "Unit 1: Atomic Structure, Bonding and Periodicity",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "4(d)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "3.1.1"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Write equation illustrating second ionisation energy of magnesium.",
+      "image": "img/2006-jan-chm1/q_q4d.jpg",
+      "markscheme": "img/2006-jan-chm1/ms_q4d.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm1-q4e",
+      "paper": "2006-jan-chm1",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM1",
+      "unit": "Unit 1: Atomic Structure, Bonding and Periodicity",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "4(e)",
+      "page": 8,
+      "marks": 2,
+      "topics": [
+        "3.1.1"
+      ],
+      "types": [
+        "explanation"
+      ],
+      "title": "Give two reasons why first IE of neon is lower than third IE of magnesium.",
+      "image": "img/2006-jan-chm1/q_q4e.jpg",
+      "markscheme": "img/2006-jan-chm1/ms_q4e.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm1-q4fi",
+      "paper": "2006-jan-chm1",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM1",
+      "unit": "Unit 1: Atomic Structure, Bonding and Periodicity",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "4(f)(i)",
+      "page": 9,
+      "marks": 3,
+      "topics": [
+        "3.1.1",
+        "3.2.1"
+      ],
+      "types": [
+        "explanation"
+      ],
+      "title": "State and explain general trend in first ionisation energies of Period 3 elements, Na-Ar.",
+      "image": "img/2006-jan-chm1/q_q4fi.jpg",
+      "markscheme": "img/2006-jan-chm1/ms_q4fi.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm1-q4fii",
+      "paper": "2006-jan-chm1",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM1",
+      "unit": "Unit 1: Atomic Structure, Bonding and Periodicity",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "4(f)(ii)",
+      "page": 9,
+      "marks": 2,
+      "topics": [
+        "3.1.1",
+        "3.2.1"
+      ],
+      "types": [
+        "explanation"
+      ],
+      "title": "Explain why first ionisation energy of sulphur is lower than predicted from general trend.",
+      "image": "img/2006-jan-chm1/q_q4fii.jpg",
+      "markscheme": "img/2006-jan-chm1/ms_q4fii.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm2-q1a",
+      "paper": "2006-jan-chm2",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM2",
+      "unit": "Unit 2: Foundation Physical and Inorganic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "1(a)",
+      "page": 2,
+      "marks": 3,
+      "topics": [
+        "3.1.4"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Define the term standard enthalpy of combustion.",
+      "image": "img/2006-jan-chm2/q_q1a.jpg",
+      "markscheme": "img/2006-jan-chm2/ms_q1a.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm2-q1b",
+      "paper": "2006-jan-chm2",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM2",
+      "unit": "Unit 2: Foundation Physical and Inorganic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "1(b)",
+      "page": 2,
+      "marks": 3,
+      "topics": [
+        "3.1.4"
+      ],
+      "types": [
+        "calculation"
+      ],
+      "title": "Calculate standard enthalpy of combustion of propene using bond enthalpy data.",
+      "image": "img/2006-jan-chm2/q_q1b.jpg",
+      "markscheme": "img/2006-jan-chm2/ms_q1b.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm2-q1c",
+      "paper": "2006-jan-chm2",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM2",
+      "unit": "Unit 2: Foundation Physical and Inorganic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "1(c)",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "3.1.4"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "State why standard enthalpy of formation of oxygen is zero.",
+      "image": "img/2006-jan-chm2/q_q1c.jpg",
+      "markscheme": "img/2006-jan-chm2/ms_q1c.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm2-q1d",
+      "paper": "2006-jan-chm2",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM2",
+      "unit": "Unit 2: Foundation Physical and Inorganic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "1(d)",
+      "page": 5,
+      "marks": 3,
+      "topics": [
+        "3.1.4"
+      ],
+      "types": [
+        "calculation"
+      ],
+      "title": "Calculate standard enthalpy of combustion of propene using enthalpies of formation.",
+      "image": "img/2006-jan-chm2/q_q1d.jpg",
+      "markscheme": "img/2006-jan-chm2/ms_q1d.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm2-q1e",
+      "paper": "2006-jan-chm2",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM2",
+      "unit": "Unit 2: Foundation Physical and Inorganic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "1(e)",
+      "page": 5,
+      "marks": 2,
+      "topics": [
+        "3.1.4"
+      ],
+      "types": [
+        "explanation"
+      ],
+      "title": "Explain why bond enthalpy calculation is less accurate than formation enthalpy calculation.",
+      "image": "img/2006-jan-chm2/q_q1e.jpg",
+      "markscheme": "img/2006-jan-chm2/ms_q1e.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm2-q2a",
+      "paper": "2006-jan-chm2",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM2",
+      "unit": "Unit 2: Foundation Physical and Inorganic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "2(a)",
+      "page": 6,
+      "marks": 2,
+      "topics": [
+        "3.1.5"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Define the term activation energy.",
+      "image": "img/2006-jan-chm2/q_q2a.jpg",
+      "markscheme": "img/2006-jan-chm2/ms_q2a.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm2-q2b",
+      "paper": "2006-jan-chm2",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM2",
+      "unit": "Unit 2: Foundation Physical and Inorganic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "2(b)",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "3.1.5"
+      ],
+      "types": [
+        "explanation"
+      ],
+      "title": "Give one reason why reaction between hydrogen and chlorine is very slow at room temperature.",
+      "image": "img/2006-jan-chm2/q_q2b.jpg",
+      "markscheme": "img/2006-jan-chm2/ms_q2b.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm2-q2c",
+      "paper": "2006-jan-chm2",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM2",
+      "unit": "Unit 2: Foundation Physical and Inorganic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "2(c)",
+      "page": 6,
+      "marks": 2,
+      "topics": [
+        "3.1.5"
+      ],
+      "types": [
+        "explanation"
+      ],
+      "title": "Explain why an increase in pressure increases rate of reaction between hydrogen and chlorine.",
+      "image": "img/2006-jan-chm2/q_q2c.jpg",
+      "markscheme": "img/2006-jan-chm2/ms_q2c.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm2-q2d",
+      "paper": "2006-jan-chm2",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM2",
+      "unit": "Unit 2: Foundation Physical and Inorganic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "2(d)",
+      "page": 6,
+      "marks": 2,
+      "topics": [
+        "3.1.5"
+      ],
+      "types": [
+        "explanation"
+      ],
+      "title": "Explain why a small increase in temperature can lead to a large increase in rate of reaction.",
+      "image": "img/2006-jan-chm2/q_q2d.jpg",
+      "markscheme": "img/2006-jan-chm2/ms_q2d.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm2-q2e",
+      "paper": "2006-jan-chm2",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM2",
+      "unit": "Unit 2: Foundation Physical and Inorganic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "2(e)",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "3.1.5"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Give the meaning of the term catalyst.",
+      "image": "img/2006-jan-chm2/q_q2e.jpg",
+      "markscheme": "img/2006-jan-chm2/ms_q2e.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm2-q2f",
+      "paper": "2006-jan-chm2",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM2",
+      "unit": "Unit 2: Foundation Physical and Inorganic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "2(f)",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "3.1.5"
+      ],
+      "types": [
+        "explanation"
+      ],
+      "title": "Suggest one reason why a solid catalyst for a gas-phase reaction is often powdered.",
+      "image": "img/2006-jan-chm2/q_q2f.jpg",
+      "markscheme": "img/2006-jan-chm2/ms_q2f.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm2-q3a",
+      "paper": "2006-jan-chm2",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM2",
+      "unit": "Unit 2: Foundation Physical and Inorganic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "3(a)",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "3.1.7"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "In terms of electrons, give the meaning of the term oxidation.",
+      "image": "img/2006-jan-chm2/q_q3a.jpg",
+      "markscheme": "img/2006-jan-chm2/ms_q3a.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm2-q3b",
+      "paper": "2006-jan-chm2",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM2",
+      "unit": "Unit 2: Foundation Physical and Inorganic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "3(b)",
+      "page": 7,
+      "marks": 6,
+      "topics": [
+        "3.1.6"
+      ],
+      "types": [
+        "explanation"
+      ],
+      "title": "State and explain effect of increase in pressure and temperature on yield of nitrogen monoxide.",
+      "image": "img/2006-jan-chm2/q_q3b.jpg",
+      "markscheme": "img/2006-jan-chm2/ms_q3b.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm2-q3ci",
+      "paper": "2006-jan-chm2",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM2",
+      "unit": "Unit 2: Foundation Physical and Inorganic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "3(c)(i)",
+      "page": 7,
+      "marks": 2,
+      "topics": [
+        "3.1.7"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Deduce the oxidation state of nitrogen in NO and in NO3-.",
+      "image": "img/2006-jan-chm2/q_q3ci.jpg",
+      "markscheme": "img/2006-jan-chm2/ms_q3ci.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm2-q3cii",
+      "paper": "2006-jan-chm2",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM2",
+      "unit": "Unit 2: Foundation Physical and Inorganic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "3(c)(ii)",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "3.1.7"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Write half-equation for reduction of NO3- in acid solution to form NO and water.",
+      "image": "img/2006-jan-chm2/q_q3cii.jpg",
+      "markscheme": "img/2006-jan-chm2/ms_q3cii.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm2-q3ciii",
+      "paper": "2006-jan-chm2",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM2",
+      "unit": "Unit 2: Foundation Physical and Inorganic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "3(c)(iii)",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "3.1.7"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Write half-equation for oxidation of silver metal to Ag+(aq) ions.",
+      "image": "img/2006-jan-chm2/q_q3ciii.jpg",
+      "markscheme": "img/2006-jan-chm2/ms_q3ciii.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm2-q3civ",
+      "paper": "2006-jan-chm2",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM2",
+      "unit": "Unit 2: Foundation Physical and Inorganic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "3(c)(iv)",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "3.1.7"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Deduce overall equation for reaction between silver metal and nitrate ions in acid solution.",
+      "image": "img/2006-jan-chm2/q_q3civ.jpg",
+      "markscheme": "img/2006-jan-chm2/ms_q3civ.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm2-q4a",
+      "paper": "2006-jan-chm2",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM2",
+      "unit": "Unit 2: Foundation Physical and Inorganic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "4(a)",
+      "page": 8,
+      "marks": 3,
+      "topics": [
+        "3.2.3"
+      ],
+      "types": [
+        "explanation"
+      ],
+      "title": "State and explain trend in electronegativity of elements down Group VII.",
+      "image": "img/2006-jan-chm2/q_q4a.jpg",
+      "markscheme": "img/2006-jan-chm2/ms_q4a.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm2-q4bi",
+      "paper": "2006-jan-chm2",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM2",
+      "unit": "Unit 2: Foundation Physical and Inorganic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "4(b)(i)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "3.2.3"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "State the trend in reducing ability of halide ions down Group VII.",
+      "image": "img/2006-jan-chm2/q_q4bi.jpg",
+      "markscheme": "img/2006-jan-chm2/ms_q4bi.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm2-q4bii",
+      "paper": "2006-jan-chm2",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM2",
+      "unit": "Unit 2: Foundation Physical and Inorganic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "4(b)(ii)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "3.2.3"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Give an example of a reagent used to show reducing ability of bromide ions differs from chloride ions.",
+      "image": "img/2006-jan-chm2/q_q4bii.jpg",
+      "markscheme": "img/2006-jan-chm2/ms_q4bii.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm2-q4c",
+      "paper": "2006-jan-chm2",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM2",
+      "unit": "Unit 2: Foundation Physical and Inorganic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "4(c)",
+      "page": 8,
+      "marks": 4,
+      "topics": [
+        "3.2.3"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "State observations when silver nitrate followed by dilute aqueous ammonia is added to chloride and bromide ions.",
+      "image": "img/2006-jan-chm2/q_q4c.jpg",
+      "markscheme": "img/2006-jan-chm2/ms_q4c.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm2-q4d",
+      "paper": "2006-jan-chm2",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM2",
+      "unit": "Unit 2: Foundation Physical and Inorganic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "4(d)",
+      "page": 8,
+      "marks": 3,
+      "topics": [
+        "3.2.3"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Write equation for reaction between chlorine and cold dilute NaOH, and give two uses of resulting solution.",
+      "image": "img/2006-jan-chm2/q_q4d.jpg",
+      "markscheme": "img/2006-jan-chm2/ms_q4d.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm3w-q1ai",
+      "paper": "2006-jan-chm3w",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM3/W",
+      "unit": "Unit 3(a): Introduction to Organic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "1(a)(i)",
+      "page": 2,
+      "marks": 2,
+      "topics": [
+        "3.3.1"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "State two other characteristics of homologous series.",
+      "image": "img/2006-jan-chm3w/q_q1ai.jpg",
+      "markscheme": "img/2006-jan-chm3w/ms_q1ai.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm3w-q1aii",
+      "paper": "2006-jan-chm3w",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM3/W",
+      "unit": "Unit 3(a): Introduction to Organic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "1(a)(ii)",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "3.3.2"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Name the process which is used to obtain fractions from petroleum.",
+      "image": "img/2006-jan-chm3w/q_q1aii.jpg",
+      "markscheme": "img/2006-jan-chm3w/ms_q1aii.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm3w-q1aiii",
+      "paper": "2006-jan-chm3w",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM3/W",
+      "unit": "Unit 3(a): Introduction to Organic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "1(a)(iii)",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "3.3.1",
+        "3.3.2"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "State what is meant by the term saturated, as applied to hydrocarbons.",
+      "image": "img/2006-jan-chm3w/q_q1aiii.jpg",
+      "markscheme": "img/2006-jan-chm3w/ms_q1aiii.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm3w-q1bi",
+      "paper": "2006-jan-chm3w",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM3/W",
+      "unit": "Unit 3(a): Introduction to Organic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "1(b)(i)",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "3.3.1"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "State what is meant by the term molecular formula.",
+      "image": "img/2006-jan-chm3w/q_q1bi.jpg",
+      "markscheme": "img/2006-jan-chm3w/ms_q1bi.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm3w-q1bii",
+      "paper": "2006-jan-chm3w",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM3/W",
+      "unit": "Unit 3(a): Introduction to Organic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "1(b)(ii)",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "3.3.1",
+        "3.3.2"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Give the molecular formula of the alkane which contains 14 carbon atoms.",
+      "image": "img/2006-jan-chm3w/q_q1bii.jpg",
+      "markscheme": "img/2006-jan-chm3w/ms_q1bii.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm3w-q1biii",
+      "paper": "2006-jan-chm3w",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM3/W",
+      "unit": "Unit 3(a): Introduction to Organic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "1(b)(iii)",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "3.3.2"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Write an equation for the incomplete combustion of decane to produce carbon and water only.",
+      "image": "img/2006-jan-chm3w/q_q1biii.jpg",
+      "markscheme": "img/2006-jan-chm3w/ms_q1biii.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm3w-q1ci",
+      "paper": "2006-jan-chm3w",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM3/W",
+      "unit": "Unit 3(a): Introduction to Organic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "1(c)(i)",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "3.3.2"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Write an equation for the reaction between nitrogen and oxygen to form nitrogen monoxide.",
+      "image": "img/2006-jan-chm3w/q_q1ci.jpg",
+      "markscheme": "img/2006-jan-chm3w/ms_q1ci.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm3w-q1cii",
+      "paper": "2006-jan-chm3w",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM3/W",
+      "unit": "Unit 3(a): Introduction to Organic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "1(c)(ii)",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "3.3.2"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Identify a catalyst used in a catalytic converter.",
+      "image": "img/2006-jan-chm3w/q_q1cii.jpg",
+      "markscheme": "img/2006-jan-chm3w/ms_q1cii.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm3w-q1ciii",
+      "paper": "2006-jan-chm3w",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM3/W",
+      "unit": "Unit 3(a): Introduction to Organic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "1(c)(iii)",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "3.3.2"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Write an equation showing how nitrogen monoxide is removed in a catalytic converter.",
+      "image": "img/2006-jan-chm3w/q_q1ciii.jpg",
+      "markscheme": "img/2006-jan-chm3w/ms_q1ciii.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm3w-q2a",
+      "paper": "2006-jan-chm3w",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM3/W",
+      "unit": "Unit 3(a): Introduction to Organic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "2(a)",
+      "page": 6,
+      "marks": 2,
+      "topics": [
+        "3.3.4"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Give a suitable catalyst for Reaction 1 and name compound V.",
+      "image": "img/2006-jan-chm3w/q_q2a.jpg",
+      "markscheme": "img/2006-jan-chm3w/ms_q2a.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm3w-q2b",
+      "paper": "2006-jan-chm3w",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM3/W",
+      "unit": "Unit 3(a): Introduction to Organic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "2(b)",
+      "page": 6,
+      "marks": 5,
+      "topics": [
+        "3.3.4"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Name and outline a mechanism for Reaction 2 (ethene + conc H2SO4).",
+      "image": "img/2006-jan-chm3w/q_q2b.jpg",
+      "markscheme": "img/2006-jan-chm3w/ms_q2b.jpg",
+      "figures": [
+        "img/2006-jan-chm3w/fig-q2-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2006-jan-chm3w-q2ci",
+      "paper": "2006-jan-chm3w",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM3/W",
+      "unit": "Unit 3(a): Introduction to Organic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "2(c)(i)",
+      "page": 7,
+      "marks": 2,
+      "topics": [
+        "3.3.5"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Name compound W and draw its structure.",
+      "image": "img/2006-jan-chm3w/q_q2ci.jpg",
+      "markscheme": "img/2006-jan-chm3w/ms_q2ci.jpg",
+      "figures": [
+        "img/2006-jan-chm3w/fig-q2-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2006-jan-chm3w-q2cii",
+      "paper": "2006-jan-chm3w",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM3/W",
+      "unit": "Unit 3(a): Introduction to Organic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "2(c)(ii)",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "3.3.5"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Name the type of reaction shown by Reaction 4.",
+      "image": "img/2006-jan-chm3w/q_q2cii.jpg",
+      "markscheme": "img/2006-jan-chm3w/ms_q2cii.jpg",
+      "figures": [
+        "img/2006-jan-chm3w/fig-q2-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2006-jan-chm3w-q3ai",
+      "paper": "2006-jan-chm3w",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM3/W",
+      "unit": "Unit 3(a): Introduction to Organic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "3(a)(i)",
+      "page": 8,
+      "marks": 4,
+      "topics": [
+        "3.3.2"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Name type of mechanism and write equations for initiation, first and second propagation steps.",
+      "image": "img/2006-jan-chm3w/q_q3ai.jpg",
+      "markscheme": "img/2006-jan-chm3w/ms_q3ai.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm3w-q3aii",
+      "paper": "2006-jan-chm3w",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM3/W",
+      "unit": "Unit 3(a): Introduction to Organic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "3(a)(ii)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "3.3.2"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Write an overall equation for the formation of dichloromethane from chloromethane.",
+      "image": "img/2006-jan-chm3w/q_q3aii.jpg",
+      "markscheme": "img/2006-jan-chm3w/ms_q3aii.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm3w-q3b",
+      "paper": "2006-jan-chm3w",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM3/W",
+      "unit": "Unit 3(a): Introduction to Organic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "3(b)",
+      "page": 8,
+      "marks": 3,
+      "topics": [
+        "3.1.2"
+      ],
+      "types": [
+        "calculation"
+      ],
+      "title": "Calculate the molecular formula of compound containing 10.1% C and 89.9% Cl with Mr = 237.0.",
+      "image": "img/2006-jan-chm3w/q_q3b.jpg",
+      "markscheme": "img/2006-jan-chm3w/ms_q3b.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm3w-q3c",
+      "paper": "2006-jan-chm3w",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM3/W",
+      "unit": "Unit 3(a): Introduction to Organic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "3(c)",
+      "page": 8,
+      "marks": 2,
+      "topics": [
+        "3.3.2"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Suggest formulae of two bromine-containing organic compounds formed from CH2Br2 + Br2.",
+      "image": "img/2006-jan-chm3w/q_q3c.jpg",
+      "markscheme": "img/2006-jan-chm3w/ms_q3c.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm3w-q4a",
+      "paper": "2006-jan-chm3w",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM3/W",
+      "unit": "Unit 3(a): Introduction to Organic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "4(a)",
+      "page": 9,
+      "marks": 2,
+      "topics": [
+        "3.3.1",
+        "3.3.3"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Complete table of names and structures of C4H9Br isomers.",
+      "image": "img/2006-jan-chm3w/q_q4a.jpg",
+      "markscheme": "img/2006-jan-chm3w/ms_q4a.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm3w-q4b",
+      "paper": "2006-jan-chm3w",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM3/W",
+      "unit": "Unit 3(a): Introduction to Organic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "4(b)",
+      "page": 9,
+      "marks": 4,
+      "topics": [
+        "3.3.3"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Name and outline a mechanism for reaction of 2-bromo-2-methylpropane with ethanolic KOH.",
+      "image": "img/2006-jan-chm3w/q_q4b.jpg",
+      "markscheme": "img/2006-jan-chm3w/ms_q4b.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm3w-q4ci",
+      "paper": "2006-jan-chm3w",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM3/W",
+      "unit": "Unit 3(a): Introduction to Organic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "4(c)(i)",
+      "page": 10,
+      "marks": 2,
+      "topics": [
+        "3.3.1"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Explain what is meant by the term stereoisomers.",
+      "image": "img/2006-jan-chm3w/q_q4ci.jpg",
+      "markscheme": "img/2006-jan-chm3w/ms_q4ci.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm3w-q4cii",
+      "paper": "2006-jan-chm3w",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM3/W",
+      "unit": "Unit 3(a): Introduction to Organic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "4(c)(ii)",
+      "page": 10,
+      "marks": 2,
+      "topics": [
+        "3.3.1",
+        "3.3.4"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Draw structures and give names of the two stereoisomers of but-2-ene.",
+      "image": "img/2006-jan-chm3w/q_q4cii.jpg",
+      "markscheme": "img/2006-jan-chm3w/ms_q4cii.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm3w-q4ciii",
+      "paper": "2006-jan-chm3w",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM3/W",
+      "unit": "Unit 3(a): Introduction to Organic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "4(c)(iii)",
+      "page": 10,
+      "marks": 1,
+      "topics": [
+        "3.3.1",
+        "3.3.4"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Name this type of stereoisomerism.",
+      "image": "img/2006-jan-chm3w/q_q4ciii.jpg",
+      "markscheme": "img/2006-jan-chm3w/ms_q4ciii.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm3w-q4d",
+      "paper": "2006-jan-chm3w",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM3/W",
+      "unit": "Unit 3(a): Introduction to Organic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "4(d)",
+      "page": 10,
+      "marks": 1,
+      "topics": [
+        "3.3.3"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "State the role of the hydroxide ions in reaction with aqueous potassium hydroxide.",
+      "image": "img/2006-jan-chm3w/q_q4d.jpg",
+      "markscheme": "img/2006-jan-chm3w/ms_q4d.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm3w-q4e",
+      "paper": "2006-jan-chm3w",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-11",
+      "code": "CHM3/W",
+      "unit": "Unit 3(a): Introduction to Organic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "question": "4(e)",
+      "page": 10,
+      "marks": 3,
+      "topics": [
+        "3.3.3"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Write an equation for reaction of 1-bromobutane with excess ammonia and name organic product.",
+      "image": "img/2006-jan-chm3w/q_q4e.jpg",
+      "markscheme": "img/2006-jan-chm3w/ms_q4e.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm4-q1a",
+      "paper": "2006-jan-chm4",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-23",
+      "code": "CHM4",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "level": "A2",
+      "spec": "AQA Chemistry",
+      "question": "1(a)",
+      "page": 5,
+      "marks": 3,
+      "topics": [
+        "3.1.9"
+      ],
+      "types": [
+        "calculation"
+      ],
+      "title": "Complete the table of rate data for the reaction between NO and H2.",
+      "image": "img/2006-jan-chm4/q_q1a.jpg",
+      "markscheme": "img/2006-jan-chm4/ms_q1a.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm4-q1b",
+      "paper": "2006-jan-chm4",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-23",
+      "code": "CHM4",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "level": "A2",
+      "spec": "AQA Chemistry",
+      "question": "1(b)",
+      "page": 5,
+      "marks": 3,
+      "topics": [
+        "3.1.9"
+      ],
+      "types": [
+        "calculation"
+      ],
+      "title": "Calculate a value for the rate constant k and state its units using experiment 1.",
+      "image": "img/2006-jan-chm4/q_q1b.jpg",
+      "markscheme": "img/2006-jan-chm4/ms_q1b.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm4-q2ai",
+      "paper": "2006-jan-chm4",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-23",
+      "code": "CHM4",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "level": "A2",
+      "spec": "AQA Chemistry",
+      "question": "2(a)(i)",
+      "page": 6,
+      "marks": 2,
+      "topics": [
+        "3.1.12"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Write expressions for the ionic product of water, Kw, and for pH.",
+      "image": "img/2006-jan-chm4/q_q2ai.jpg",
+      "markscheme": "img/2006-jan-chm4/ms_q2ai.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm4-q2aii",
+      "paper": "2006-jan-chm4",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-23",
+      "code": "CHM4",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "level": "A2",
+      "spec": "AQA Chemistry",
+      "question": "2(a)(ii)",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "3.1.12"
+      ],
+      "types": [
+        "explanation"
+      ],
+      "title": "State why pure water is not acidic at 318 K where pH is 6.70.",
+      "image": "img/2006-jan-chm4/q_q2aii.jpg",
+      "markscheme": "img/2006-jan-chm4/ms_q2aii.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm4-q2aiii",
+      "paper": "2006-jan-chm4",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-23",
+      "code": "CHM4",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "level": "A2",
+      "spec": "AQA Chemistry",
+      "question": "2(a)(iii)",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "3.1.12"
+      ],
+      "types": [
+        "calculation"
+      ],
+      "title": "Calculate moles of NaOH in 2.00 cm3 of 0.500 mol dm-3 aqueous NaOH.",
+      "image": "img/2006-jan-chm4/q_q2aiii.jpg",
+      "markscheme": "img/2006-jan-chm4/ms_q2aiii.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm4-q2aiv",
+      "paper": "2006-jan-chm4",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-23",
+      "code": "CHM4",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "level": "A2",
+      "spec": "AQA Chemistry",
+      "question": "2(a)(iv)",
+      "page": 6,
+      "marks": 2,
+      "topics": [
+        "3.1.12"
+      ],
+      "types": [
+        "calculation"
+      ],
+      "title": "Calculate pH of solution formed when NaOH is added to pure water at 318 K.",
+      "image": "img/2006-jan-chm4/q_q2aiv.jpg",
+      "markscheme": "img/2006-jan-chm4/ms_q2aiv.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm4-q2bi",
+      "paper": "2006-jan-chm4",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-23",
+      "code": "CHM4",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "level": "A2",
+      "spec": "AQA Chemistry",
+      "question": "2(b)(i)",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "3.1.12"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Write an expression for Ka for propanoic acid.",
+      "image": "img/2006-jan-chm4/q_q2bi.jpg",
+      "markscheme": "img/2006-jan-chm4/ms_q2bi.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm4-q2bii",
+      "paper": "2006-jan-chm4",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-23",
+      "code": "CHM4",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "level": "A2",
+      "spec": "AQA Chemistry",
+      "question": "2(b)(ii)",
+      "page": 7,
+      "marks": 3,
+      "topics": [
+        "3.1.12"
+      ],
+      "types": [
+        "calculation"
+      ],
+      "title": "Calculate pH of 0.125 mol dm-3 aqueous propanoic acid at 298 K.",
+      "image": "img/2006-jan-chm4/q_q2bii.jpg",
+      "markscheme": "img/2006-jan-chm4/ms_q2bii.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm4-q2ci",
+      "paper": "2006-jan-chm4",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-23",
+      "code": "CHM4",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "level": "A2",
+      "spec": "AQA Chemistry",
+      "question": "2(c)(i)",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "3.1.12"
+      ],
+      "types": [
+        "calculation"
+      ],
+      "title": "Calculate moles of propanoic acid in 50.0 cm3 of 0.125 mol dm-3 propanoic acid.",
+      "image": "img/2006-jan-chm4/q_q2ci.jpg",
+      "markscheme": "img/2006-jan-chm4/ms_q2ci.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm4-q2cii",
+      "paper": "2006-jan-chm4",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-23",
+      "code": "CHM4",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "level": "A2",
+      "spec": "AQA Chemistry",
+      "question": "2(c)(ii)",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "3.1.12"
+      ],
+      "types": [
+        "calculation"
+      ],
+      "title": "Calculate moles of propanoic acid remaining in buffer solution.",
+      "image": "img/2006-jan-chm4/q_q2cii.jpg",
+      "markscheme": "img/2006-jan-chm4/ms_q2cii.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm4-q2ciii",
+      "paper": "2006-jan-chm4",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-23",
+      "code": "CHM4",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "level": "A2",
+      "spec": "AQA Chemistry",
+      "question": "2(c)(iii)",
+      "page": 7,
+      "marks": 4,
+      "topics": [
+        "3.1.12"
+      ],
+      "types": [
+        "calculation"
+      ],
+      "title": "Hence calculate pH of this buffer solution at 298 K.",
+      "image": "img/2006-jan-chm4/q_q2ciii.jpg",
+      "markscheme": "img/2006-jan-chm4/ms_q2ciii.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm4-q3ai",
+      "paper": "2006-jan-chm4",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-23",
+      "code": "CHM4",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "level": "A2",
+      "spec": "AQA Chemistry",
+      "question": "3(a)(i)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "3.1.10"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Write an equation for the forward reaction from the given Kc expression.",
+      "image": "img/2006-jan-chm4/q_q3ai.jpg",
+      "markscheme": "img/2006-jan-chm4/ms_q3ai.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm4-q3aii",
+      "paper": "2006-jan-chm4",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-23",
+      "code": "CHM4",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "level": "A2",
+      "spec": "AQA Chemistry",
+      "question": "3(a)(ii)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "3.1.10"
+      ],
+      "types": [
+        "calculation"
+      ],
+      "title": "Deduce the units of Kc.",
+      "image": "img/2006-jan-chm4/q_q3aii.jpg",
+      "markscheme": "img/2006-jan-chm4/ms_q3aii.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm4-q3aiii",
+      "paper": "2006-jan-chm4",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-23",
+      "code": "CHM4",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "level": "A2",
+      "spec": "AQA Chemistry",
+      "question": "3(a)(iii)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "3.1.10"
+      ],
+      "types": [
+        "explanation"
+      ],
+      "title": "State what can be deduced from Kc being larger at lower temperature.",
+      "image": "img/2006-jan-chm4/q_q3aiii.jpg",
+      "markscheme": "img/2006-jan-chm4/ms_q3aiii.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm4-q3bi",
+      "paper": "2006-jan-chm4",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-23",
+      "code": "CHM4",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "level": "A2",
+      "spec": "AQA Chemistry",
+      "question": "3(b)(i)",
+      "page": 8,
+      "marks": 2,
+      "topics": [
+        "3.1.2"
+      ],
+      "types": [
+        "calculation"
+      ],
+      "title": "Calculate the number of moles of N2O4 in 36.8 g sample.",
+      "image": "img/2006-jan-chm4/q_q3bi.jpg",
+      "markscheme": "img/2006-jan-chm4/ms_q3bi.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm4-q3bii",
+      "paper": "2006-jan-chm4",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-23",
+      "code": "CHM4",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "level": "A2",
+      "spec": "AQA Chemistry",
+      "question": "3(b)(ii)",
+      "page": 8,
+      "marks": 2,
+      "topics": [
+        "3.1.10"
+      ],
+      "types": [
+        "calculation"
+      ],
+      "title": "Calculate the number of moles of NO2 in the equilibrium mixture.",
+      "image": "img/2006-jan-chm4/q_q3bii.jpg",
+      "markscheme": "img/2006-jan-chm4/ms_q3bii.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm4-q3biii",
+      "paper": "2006-jan-chm4",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-23",
+      "code": "CHM4",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "level": "A2",
+      "spec": "AQA Chemistry",
+      "question": "3(b)(iii)",
+      "page": 9,
+      "marks": 3,
+      "topics": [
+        "3.1.10"
+      ],
+      "types": [
+        "calculation"
+      ],
+      "title": "Write expression for Kc and calculate its value under these conditions.",
+      "image": "img/2006-jan-chm4/q_q3biii.jpg",
+      "markscheme": "img/2006-jan-chm4/ms_q3biii.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm4-q3biv",
+      "paper": "2006-jan-chm4",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-23",
+      "code": "CHM4",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "level": "A2",
+      "spec": "AQA Chemistry",
+      "question": "3(b)(iv)",
+      "page": 9,
+      "marks": 2,
+      "topics": [
+        "3.1.10"
+      ],
+      "types": [
+        "explanation"
+      ],
+      "title": "State effect of using larger flask on position of equilibrium and value of Kc.",
+      "image": "img/2006-jan-chm4/q_q3biv.jpg",
+      "markscheme": "img/2006-jan-chm4/ms_q3biv.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm4-q4a",
+      "paper": "2006-jan-chm4",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-23",
+      "code": "CHM4",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "level": "A2",
+      "spec": "AQA Chemistry",
+      "question": "4(a)",
+      "page": 10,
+      "marks": 5,
+      "topics": [
+        "3.3.8"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Name and outline a mechanism for Reaction 1 (propanal + HCN).",
+      "image": "img/2006-jan-chm4/q_q4a.jpg",
+      "markscheme": "img/2006-jan-chm4/ms_q4a.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm4-q4bi",
+      "paper": "2006-jan-chm4",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-23",
+      "code": "CHM4",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "level": "A2",
+      "spec": "AQA Chemistry",
+      "question": "4(b)(i)",
+      "page": 10,
+      "marks": 1,
+      "topics": [
+        "3.3.8"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Name compound Q.",
+      "image": "img/2006-jan-chm4/q_q4bi.jpg",
+      "markscheme": "img/2006-jan-chm4/ms_q4bi.jpg",
+      "figures": [
+        "img/2006-jan-chm4/fig-q4-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2006-jan-chm4-q4bii",
+      "paper": "2006-jan-chm4",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-23",
+      "code": "CHM4",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "level": "A2",
+      "spec": "AQA Chemistry",
+      "question": "4(b)(ii)",
+      "page": 10,
+      "marks": 2,
+      "topics": [
+        "3.3.1",
+        "3.3.9"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Draw structure of isomer of Q showing geometrical isomerism formed from ammonia and acyl chloride.",
+      "image": "img/2006-jan-chm4/q_q4bii.jpg",
+      "markscheme": "img/2006-jan-chm4/ms_q4bii.jpg",
+      "figures": [
+        "img/2006-jan-chm4/fig-q4-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2006-jan-chm4-q4ci",
+      "paper": "2006-jan-chm4",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-23",
+      "code": "CHM4",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "level": "A2",
+      "spec": "AQA Chemistry",
+      "question": "4(c)(i)",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "3.3.9"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Draw structure of product when R reacts with methanol in presence of conc H2SO4.",
+      "image": "img/2006-jan-chm4/q_q4ci.jpg",
+      "markscheme": "img/2006-jan-chm4/ms_q4ci.jpg",
+      "figures": [
+        "img/2006-jan-chm4/fig-q4-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2006-jan-chm4-q4cii",
+      "paper": "2006-jan-chm4",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-23",
+      "code": "CHM4",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "level": "A2",
+      "spec": "AQA Chemistry",
+      "question": "4(c)(ii)",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "3.3.5",
+        "3.3.9"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Draw structure of product when R reacts with acidified potassium dichromate(VI).",
+      "image": "img/2006-jan-chm4/q_q4cii.jpg",
+      "markscheme": "img/2006-jan-chm4/ms_q4cii.jpg",
+      "figures": [
+        "img/2006-jan-chm4/fig-q4-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2006-jan-chm4-q4ciii",
+      "paper": "2006-jan-chm4",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-23",
+      "code": "CHM4",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "level": "A2",
+      "spec": "AQA Chemistry",
+      "question": "4(c)(iii)",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "3.3.5",
+        "3.3.9"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Draw structure of product when R reacts with conc H2SO4 in an elimination reaction.",
+      "image": "img/2006-jan-chm4/q_q4ciii.jpg",
+      "markscheme": "img/2006-jan-chm4/ms_q4ciii.jpg",
+      "figures": [
+        "img/2006-jan-chm4/fig-q4-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2006-jan-chm4-q5a",
+      "paper": "2006-jan-chm4",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-23",
+      "code": "CHM4",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "level": "A2",
+      "spec": "AQA Chemistry",
+      "question": "5(a)",
+      "page": 12,
+      "marks": 1,
+      "topics": [
+        "3.3.11"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Name the compound (CH3)2NH.",
+      "image": "img/2006-jan-chm4/q_q5a.jpg",
+      "markscheme": "img/2006-jan-chm4/ms_q5a.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm4-q5b",
+      "paper": "2006-jan-chm4",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-23",
+      "code": "CHM4",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "level": "A2",
+      "spec": "AQA Chemistry",
+      "question": "5(b)",
+      "page": 12,
+      "marks": 5,
+      "topics": [
+        "3.3.11"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Name and outline a mechanism for reaction of excess CH3NH2 with CH3Br.",
+      "image": "img/2006-jan-chm4/q_q5b.jpg",
+      "markscheme": "img/2006-jan-chm4/ms_q5b.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm4-q5c",
+      "paper": "2006-jan-chm4",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-23",
+      "code": "CHM4",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "level": "A2",
+      "spec": "AQA Chemistry",
+      "question": "5(c)",
+      "page": 12,
+      "marks": 2,
+      "topics": [
+        "3.3.11"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Name type of compound formed with large excess of CH3Br and give a use.",
+      "image": "img/2006-jan-chm4/q_q5c.jpg",
+      "markscheme": "img/2006-jan-chm4/ms_q5c.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm4-q5d",
+      "paper": "2006-jan-chm4",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-23",
+      "code": "CHM4",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "level": "A2",
+      "spec": "AQA Chemistry",
+      "question": "5(d)",
+      "page": 12,
+      "marks": 2,
+      "topics": [
+        "3.3.9",
+        "3.3.11"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Draw structures of two compounds formed in reaction of CH3NH2 with ethanoic anhydride.",
+      "image": "img/2006-jan-chm4/q_q5d.jpg",
+      "markscheme": "img/2006-jan-chm4/ms_q5d.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm4-q6a",
+      "paper": "2006-jan-chm4",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-23",
+      "code": "CHM4",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "level": "A2",
+      "spec": "AQA Chemistry",
+      "question": "6(a)",
+      "page": 13,
+      "marks": 2,
+      "topics": [
+        "3.3.12"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Name type of polymer and type of polymerisation shown by repeating unit.",
+      "image": "img/2006-jan-chm4/q_q6a.jpg",
+      "markscheme": "img/2006-jan-chm4/ms_q6a.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm4-q6b",
+      "paper": "2006-jan-chm4",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-23",
+      "code": "CHM4",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "level": "A2",
+      "spec": "AQA Chemistry",
+      "question": "6(b)",
+      "page": 13,
+      "marks": 1,
+      "topics": [
+        "3.3.13"
+      ],
+      "types": [
+        "recall"
+      ],
+      "title": "Draw structure of species present in solid aminoethanoic acid.",
+      "image": "img/2006-jan-chm4/q_q6b.jpg",
+      "markscheme": "img/2006-jan-chm4/ms_q6b.jpg",
+      "figures": []
+    },
+    {
+      "id": "2006-jan-chm4-q6c",
+      "paper": "2006-jan-chm4",
+      "year": 2006,
+      "series": "January",
+      "date": "2006-01-23",
+      "code": "CHM4",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "level": "A2",
+      "spec": "AQA Chemistry",
+      "question": "6(c)",
+      "page": 13,
+      "marks": 2,
+      "topics": [
+        "3.3.13"
+      ],
+      "types": [
+        "explanation"
+      ],
+      "title": "Explain why melting point of aminoethanoic acid is much higher than hydroxyethanoic acid.",
+      "image": "img/2006-jan-chm4/q_q6c.jpg",
+      "markscheme": "img/2006-jan-chm4/ms_q6c.jpg",
+      "figures": []
     }
   ]
 }
