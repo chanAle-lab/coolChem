@@ -672,6 +672,30 @@
       "spec": "AQA Chemistry",
       "totalMarks": 90,
       "duration": "1 hour 30 minutes"
+    },
+    {
+      "id": "2004-june-chm5",
+      "year": 2004,
+      "series": "June",
+      "date": "2004-06-29",
+      "code": "CHM5",
+      "unit": "Unit 5: Thermodynamics and Further Inorganic Chemistry",
+      "level": "A",
+      "spec": "AQA Chemistry",
+      "totalMarks": 120,
+      "duration": "2 hours"
+    },
+    {
+      "id": "2004-june-chm6w",
+      "year": 2004,
+      "series": "June",
+      "date": "2004-06-29",
+      "code": "CHM6/W",
+      "unit": "Unit 6(a): Synoptic Paper",
+      "level": "A",
+      "spec": "AQA Chemistry",
+      "totalMarks": 40,
+      "duration": "1 hour"
     }
   ],
   "questions": [
@@ -22052,6 +22076,1871 @@
       "description": "Reagent and observation reacting with aldehyde E but not C or D.",
       "image": "img/2004-june-chm4/q_q6e.jpg",
       "markscheme": "img/2004-june-chm4/ms_q6e.png"
+    },
+    {
+      "id": "2004-june-chm5-q1a",
+      "paper": "2004-june-chm5",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM5",
+      "unit": "Unit 5: Thermodynamics and Further Inorganic Chemistry",
+      "question": "1(a)",
+      "page": 2,
+      "marks": 5,
+      "topics": [
+        "3.1.8"
+      ],
+      "skills": [
+        "recall",
+        "analysis"
+      ],
+      "summary": "Identify enthalpy changes (i) to (v) in the Born-Haber cycle for magnesium chloride.",
+      "description": "Identify enthalpy changes (i) to (v) in the Born-Haber cycle for magnesium chloride.",
+      "image": "img/2004-june-chm5/q_q1a.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm5/ms_q1a.png"
+    },
+    {
+      "id": "2004-june-chm5-q1b",
+      "paper": "2004-june-chm5",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM5",
+      "unit": "Unit 5: Thermodynamics and Further Inorganic Chemistry",
+      "question": "1(b)",
+      "page": 5,
+      "marks": 4,
+      "topics": [
+        "3.1.4",
+        "3.1.8"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Equation for decomposition of MgCl(s) to MgCl2(s) and Mg(s) and enthalpy change calculation.",
+      "description": "Equation for decomposition of MgCl(s) to MgCl2(s) and Mg(s) and enthalpy change calculation.",
+      "image": "img/2004-june-chm5/q_q1b.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm5/ms_q1b.png"
+    },
+    {
+      "id": "2004-june-chm5-q1c",
+      "paper": "2004-june-chm5",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM5",
+      "unit": "Unit 5: Thermodynamics and Further Inorganic Chemistry",
+      "question": "1(c)",
+      "page": 5,
+      "marks": 3,
+      "topics": [
+        "3.1.8"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate molar enthalpy of solution of MgCl2(s) from lattice and hydration enthalpies.",
+      "description": "Calculate molar enthalpy of solution of MgCl2(s) from lattice and hydration enthalpies.",
+      "image": "img/2004-june-chm5/q_q1c.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm5/ms_q1c.png"
+    },
+    {
+      "id": "2004-june-chm5-q2ai",
+      "paper": "2004-june-chm5",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM5",
+      "unit": "Unit 5: Thermodynamics and Further Inorganic Chemistry",
+      "question": "2(a)(i)",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "3.1.3",
+        "3.2.4"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Deduce type of bonding present in chloride of Period 3 element X.",
+      "description": "Deduce type of bonding present in chloride of Period 3 element X.",
+      "image": "img/2004-june-chm5/q_q2ai.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm5/ms_q2ai.png"
+    },
+    {
+      "id": "2004-june-chm5-q2aii",
+      "paper": "2004-june-chm5",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM5",
+      "unit": "Unit 5: Thermodynamics and Further Inorganic Chemistry",
+      "question": "2(a)(ii)",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "3.2.4"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Identify Period 3 element X.",
+      "description": "Identify Period 3 element X.",
+      "image": "img/2004-june-chm5/q_q2aii.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm5/ms_q2aii.png"
+    },
+    {
+      "id": "2004-june-chm5-q2aiii",
+      "paper": "2004-june-chm5",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM5",
+      "unit": "Unit 5: Thermodynamics and Further Inorganic Chemistry",
+      "question": "2(a)(iii)",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "3.2.4"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Write equation for reaction between water and oxide of element X.",
+      "description": "Write equation for reaction between water and oxide of element X.",
+      "image": "img/2004-june-chm5/q_q2aiii.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm5/ms_q2aiii.png"
+    },
+    {
+      "id": "2004-june-chm5-q2bi",
+      "paper": "2004-june-chm5",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM5",
+      "unit": "Unit 5: Thermodynamics and Further Inorganic Chemistry",
+      "question": "2(b)(i)",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "3.1.3",
+        "3.2.4"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Deduce type of bonding present in oxide of Period 3 element Y.",
+      "description": "Deduce type of bonding present in oxide of Period 3 element Y.",
+      "image": "img/2004-june-chm5/q_q2bi.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm5/ms_q2bi.png"
+    },
+    {
+      "id": "2004-june-chm5-q2bii",
+      "paper": "2004-june-chm5",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM5",
+      "unit": "Unit 5: Thermodynamics and Further Inorganic Chemistry",
+      "question": "2(b)(ii)",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "3.2.4"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Identify Period 3 element Y.",
+      "description": "Identify Period 3 element Y.",
+      "image": "img/2004-june-chm5/q_q2bii.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm5/ms_q2bii.png"
+    },
+    {
+      "id": "2004-june-chm5-q2biii",
+      "paper": "2004-june-chm5",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM5",
+      "unit": "Unit 5: Thermodynamics and Further Inorganic Chemistry",
+      "question": "2(b)(iii)",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "3.2.4"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Identify acid formed when both oxide and chloride of element Y react with water.",
+      "description": "Identify acid formed when both oxide and chloride of element Y react with water.",
+      "image": "img/2004-june-chm5/q_q2biii.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm5/ms_q2biii.png"
+    },
+    {
+      "id": "2004-june-chm5-q2ci",
+      "paper": "2004-june-chm5",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM5",
+      "unit": "Unit 5: Thermodynamics and Further Inorganic Chemistry",
+      "question": "2(c)(i)",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "3.1.3",
+        "3.2.4"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Deduce type of crystal shown by oxide of Period 3 element Z.",
+      "description": "Deduce type of crystal shown by oxide of Period 3 element Z.",
+      "image": "img/2004-june-chm5/q_q2ci.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm5/ms_q2ci.png"
+    },
+    {
+      "id": "2004-june-chm5-q2cii",
+      "paper": "2004-june-chm5",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM5",
+      "unit": "Unit 5: Thermodynamics and Further Inorganic Chemistry",
+      "question": "2(c)(ii)",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "3.2.4"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Identify Period 3 element Z.",
+      "description": "Identify Period 3 element Z.",
+      "image": "img/2004-june-chm5/q_q2cii.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm5/ms_q2cii.png"
+    },
+    {
+      "id": "2004-june-chm5-q2ciii",
+      "paper": "2004-june-chm5",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM5",
+      "unit": "Unit 5: Thermodynamics and Further Inorganic Chemistry",
+      "question": "2(c)(iii)",
+      "page": 7,
+      "marks": 2,
+      "topics": [
+        "3.2.4"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Write equation illustrating acidic nature of oxide of element Z.",
+      "description": "Write equation illustrating acidic nature of oxide of element Z.",
+      "image": "img/2004-june-chm5/q_q2ciii.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm5/ms_q2ciii.png"
+    },
+    {
+      "id": "2004-june-chm5-q3ai",
+      "paper": "2004-june-chm5",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM5",
+      "unit": "Unit 5: Thermodynamics and Further Inorganic Chemistry",
+      "question": "3(a)(i)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "3.2.5"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "State colour of Cr2O7 2- in aqueous solution.",
+      "description": "State colour of Cr2O7 2- in aqueous solution.",
+      "image": "img/2004-june-chm5/q_q3ai.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm5/ms_q3ai.png"
+    },
+    {
+      "id": "2004-june-chm5-q3aii",
+      "paper": "2004-june-chm5",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM5",
+      "unit": "Unit 5: Thermodynamics and Further Inorganic Chemistry",
+      "question": "3(a)(ii)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "3.2.5"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "State colour of Cr3+ in aqueous solution.",
+      "description": "State colour of Cr3+ in aqueous solution.",
+      "image": "img/2004-june-chm5/q_q3aii.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm5/ms_q3aii.png"
+    },
+    {
+      "id": "2004-june-chm5-q3aiii",
+      "paper": "2004-june-chm5",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM5",
+      "unit": "Unit 5: Thermodynamics and Further Inorganic Chemistry",
+      "question": "3(a)(iii)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "3.2.5"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "State colour of MnO4 - in aqueous solution.",
+      "description": "State colour of MnO4 - in aqueous solution.",
+      "image": "img/2004-june-chm5/q_q3aiii.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm5/ms_q3aiii.png"
+    },
+    {
+      "id": "2004-june-chm5-q3b",
+      "paper": "2004-june-chm5",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM5",
+      "unit": "Unit 5: Thermodynamics and Further Inorganic Chemistry",
+      "question": "3(b)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "3.1.11"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Select species from electrode potential table which is most powerful reducing agent.",
+      "description": "Select species from electrode potential table which is most powerful reducing agent.",
+      "image": "img/2004-june-chm5/q_q3b.jpg",
+      "figures": [
+        "img/2004-june-chm5/fig-q3-table.jpg"
+      ],
+      "markscheme": "img/2004-june-chm5/ms_q3b.png"
+    },
+    {
+      "id": "2004-june-chm5-q3ci",
+      "paper": "2004-june-chm5",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM5",
+      "unit": "Unit 5: Thermodynamics and Further Inorganic Chemistry",
+      "question": "3(c)(i)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "3.1.7"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Deduce oxidation state of chromium in Cr2O7 2-.",
+      "description": "Deduce oxidation state of chromium in Cr2O7 2-.",
+      "image": "img/2004-june-chm5/q_q3ci.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm5/ms_q3ci.png"
+    },
+    {
+      "id": "2004-june-chm5-q3cii",
+      "paper": "2004-june-chm5",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM5",
+      "unit": "Unit 5: Thermodynamics and Further Inorganic Chemistry",
+      "question": "3(c)(ii)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "3.1.7"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Deduce oxidation state of nitrogen in HNO2.",
+      "description": "Deduce oxidation state of nitrogen in HNO2.",
+      "image": "img/2004-june-chm5/q_q3cii.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm5/ms_q3cii.png"
+    },
+    {
+      "id": "2004-june-chm5-q3di",
+      "paper": "2004-june-chm5",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM5",
+      "unit": "Unit 5: Thermodynamics and Further Inorganic Chemistry",
+      "question": "3(d)(i)",
+      "page": 9,
+      "marks": 2,
+      "topics": [
+        "3.1.11",
+        "3.2.5"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Explain why HCl should not be used to acidify solution of iron(II) ions in titration.",
+      "description": "Explain why HCl should not be used to acidify solution of iron(II) ions in titration.",
+      "image": "img/2004-june-chm5/q_q3di.jpg",
+      "figures": [
+        "img/2004-june-chm5/fig-q3-table.jpg"
+      ],
+      "markscheme": "img/2004-june-chm5/ms_q3di.png"
+    },
+    {
+      "id": "2004-june-chm5-q3dii",
+      "paper": "2004-june-chm5",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM5",
+      "unit": "Unit 5: Thermodynamics and Further Inorganic Chemistry",
+      "question": "3(d)(ii)",
+      "page": 9,
+      "marks": 2,
+      "topics": [
+        "3.1.11",
+        "3.2.5"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Explain why HNO3 should not be used to acidify solution of iron(II) ions in titration.",
+      "description": "Explain why HNO3 should not be used to acidify solution of iron(II) ions in titration.",
+      "image": "img/2004-june-chm5/q_q3dii.jpg",
+      "figures": [
+        "img/2004-june-chm5/fig-q3-table.jpg"
+      ],
+      "markscheme": "img/2004-june-chm5/ms_q3dii.png"
+    },
+    {
+      "id": "2004-june-chm5-q3ei",
+      "paper": "2004-june-chm5",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM5",
+      "unit": "Unit 5: Thermodynamics and Further Inorganic Chemistry",
+      "question": "3(e)(i)",
+      "page": 9,
+      "marks": 1,
+      "topics": [
+        "3.1.11"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate e.m.f. of cell Mn2+, MnO4- || S2O8 2-, SO4 2-.",
+      "description": "Calculate e.m.f. of cell Mn2+, MnO4- || S2O8 2-, SO4 2-.",
+      "image": "img/2004-june-chm5/q_q3ei.jpg",
+      "figures": [
+        "img/2004-june-chm5/fig-q3-table.jpg"
+      ],
+      "markscheme": "img/2004-june-chm5/ms_q3ei.png"
+    },
+    {
+      "id": "2004-june-chm5-q3eii",
+      "paper": "2004-june-chm5",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM5",
+      "unit": "Unit 5: Thermodynamics and Further Inorganic Chemistry",
+      "question": "3(e)(ii)",
+      "page": 9,
+      "marks": 2,
+      "topics": [
+        "3.1.11"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Deduce equation for reaction when excess S2O8 2- is added to aqueous Mn2+.",
+      "description": "Deduce equation for reaction when excess S2O8 2- is added to aqueous Mn2+.",
+      "image": "img/2004-june-chm5/q_q3eii.jpg",
+      "figures": [
+        "img/2004-june-chm5/fig-q3-table.jpg"
+      ],
+      "markscheme": "img/2004-june-chm5/ms_q3eii.png"
+    },
+    {
+      "id": "2004-june-chm5-q4ai",
+      "paper": "2004-june-chm5",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM5",
+      "unit": "Unit 5: Thermodynamics and Further Inorganic Chemistry",
+      "question": "4(a)(i)",
+      "page": 10,
+      "marks": 1,
+      "topics": [
+        "3.2.5"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "State what is meant by the term ligand.",
+      "description": "State what is meant by the term ligand.",
+      "image": "img/2004-june-chm5/q_q4ai.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm5/ms_q4ai.png"
+    },
+    {
+      "id": "2004-june-chm5-q4aii",
+      "paper": "2004-june-chm5",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM5",
+      "unit": "Unit 5: Thermodynamics and Further Inorganic Chemistry",
+      "question": "4(a)(ii)",
+      "page": 10,
+      "marks": 1,
+      "topics": [
+        "3.2.5"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "State what is meant by the term complex ion.",
+      "description": "State what is meant by the term complex ion.",
+      "image": "img/2004-june-chm5/q_q4aii.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm5/ms_q4aii.png"
+    },
+    {
+      "id": "2004-june-chm5-q4aiii",
+      "paper": "2004-june-chm5",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM5",
+      "unit": "Unit 5: Thermodynamics and Further Inorganic Chemistry",
+      "question": "4(a)(iii)",
+      "page": 10,
+      "marks": 1,
+      "topics": [
+        "3.2.5"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "State what is meant by the term co-ordination number.",
+      "description": "State what is meant by the term co-ordination number.",
+      "image": "img/2004-june-chm5/q_q4aiii.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm5/ms_q4aiii.png"
+    },
+    {
+      "id": "2004-june-chm5-q4bi",
+      "paper": "2004-june-chm5",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM5",
+      "unit": "Unit 5: Thermodynamics and Further Inorganic Chemistry",
+      "question": "4(b)(i)",
+      "page": 10,
+      "marks": 2,
+      "topics": [
+        "3.2.5"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Equation for ligand substitution on Co2+ with no change in co-ordination number or charge.",
+      "description": "Equation for ligand substitution on Co2+ with no change in co-ordination number or charge.",
+      "image": "img/2004-june-chm5/q_q4bi.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm5/ms_q4bi.png"
+    },
+    {
+      "id": "2004-june-chm5-q4bii",
+      "paper": "2004-june-chm5",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM5",
+      "unit": "Unit 5: Thermodynamics and Further Inorganic Chemistry",
+      "question": "4(b)(ii)",
+      "page": 10,
+      "marks": 2,
+      "topics": [
+        "3.2.5"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Equation for ligand substitution on Co2+ with change in both co-ordination number and charge.",
+      "description": "Equation for ligand substitution on Co2+ with change in both co-ordination number and charge.",
+      "image": "img/2004-june-chm5/q_q4bii.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm5/ms_q4bii.png"
+    },
+    {
+      "id": "2004-june-chm5-q4biii",
+      "paper": "2004-june-chm5",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM5",
+      "unit": "Unit 5: Thermodynamics and Further Inorganic Chemistry",
+      "question": "4(b)(iii)",
+      "page": 10,
+      "marks": 2,
+      "topics": [
+        "3.2.5"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Equation for ligand substitution on Co2+ with no change in co-ordination number but change in charge.",
+      "description": "Equation for ligand substitution on Co2+ with no change in co-ordination number but change in charge.",
+      "image": "img/2004-june-chm5/q_q4biii.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm5/ms_q4biii.png"
+    },
+    {
+      "id": "2004-june-chm5-q4biv",
+      "paper": "2004-june-chm5",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM5",
+      "unit": "Unit 5: Thermodynamics and Further Inorganic Chemistry",
+      "question": "4(b)(iv)",
+      "page": 10,
+      "marks": 2,
+      "topics": [
+        "3.2.5"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Equation for ligand substitution on Co2+ with large change in entropy.",
+      "description": "Equation for ligand substitution on Co2+ with large change in entropy.",
+      "image": "img/2004-june-chm5/q_q4biv.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm5/ms_q4biv.png"
+    },
+    {
+      "id": "2004-june-chm5-q4ci",
+      "paper": "2004-june-chm5",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM5",
+      "unit": "Unit 5: Thermodynamics and Further Inorganic Chemistry",
+      "question": "4(c)(i)",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "3.2.5"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Give formula of complex ion responsible for pale-green colour of iron(II) sulphate.",
+      "description": "Give formula of complex ion responsible for pale-green colour of iron(II) sulphate.",
+      "image": "img/2004-june-chm5/q_q4ci.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm5/ms_q4ci.png"
+    },
+    {
+      "id": "2004-june-chm5-q4cii",
+      "paper": "2004-june-chm5",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM5",
+      "unit": "Unit 5: Thermodynamics and Further Inorganic Chemistry",
+      "question": "4(c)(ii)",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "3.2.5"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Give formula of green precipitate formed when NaOH is added to iron(II) sulphate.",
+      "description": "Give formula of green precipitate formed when NaOH is added to iron(II) sulphate.",
+      "image": "img/2004-june-chm5/q_q4cii.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm5/ms_q4cii.png"
+    },
+    {
+      "id": "2004-june-chm5-q4ciii",
+      "paper": "2004-june-chm5",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM5",
+      "unit": "Unit 5: Thermodynamics and Further Inorganic Chemistry",
+      "question": "4(c)(iii)",
+      "page": 11,
+      "marks": 2,
+      "topics": [
+        "3.2.5"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Suggest explanation for change in colour of green precipitate on standing in air.",
+      "description": "Suggest explanation for change in colour of green precipitate on standing in air.",
+      "image": "img/2004-june-chm5/q_q4ciii.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm5/ms_q4ciii.png"
+    },
+    {
+      "id": "2004-june-chm5-q5a",
+      "paper": "2004-june-chm5",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM5",
+      "unit": "Unit 5: Thermodynamics and Further Inorganic Chemistry",
+      "question": "5(a)",
+      "page": 12,
+      "marks": 1,
+      "topics": [
+        "3.1.5",
+        "3.2.5"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "State what is meant by homogeneous as applied to a catalyst.",
+      "description": "State what is meant by homogeneous as applied to a catalyst.",
+      "image": "img/2004-june-chm5/q_q5a.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm5/ms_q5a.png"
+    },
+    {
+      "id": "2004-june-chm5-q5bi",
+      "paper": "2004-june-chm5",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM5",
+      "unit": "Unit 5: Thermodynamics and Further Inorganic Chemistry",
+      "question": "5(b)(i)",
+      "page": 12,
+      "marks": 1,
+      "topics": [
+        "3.2.5"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "State what is meant by the term autocatalysis.",
+      "description": "State what is meant by the term autocatalysis.",
+      "image": "img/2004-june-chm5/q_q5bi.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm5/ms_q5bi.png"
+    },
+    {
+      "id": "2004-june-chm5-q5bii",
+      "paper": "2004-june-chm5",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM5",
+      "unit": "Unit 5: Thermodynamics and Further Inorganic Chemistry",
+      "question": "5(b)(ii)",
+      "page": 12,
+      "marks": 1,
+      "topics": [
+        "3.2.5"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Identify species acting as autocatalyst in ethanedioate and manganate(VII) reaction.",
+      "description": "Identify species acting as autocatalyst in ethanedioate and manganate(VII) reaction.",
+      "image": "img/2004-june-chm5/q_q5bii.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm5/ms_q5bii.png"
+    },
+    {
+      "id": "2004-june-chm5-q5ci",
+      "paper": "2004-june-chm5",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM5",
+      "unit": "Unit 5: Thermodynamics and Further Inorganic Chemistry",
+      "question": "5(c)(i)",
+      "page": 12,
+      "marks": 2,
+      "topics": [
+        "3.1.5",
+        "3.2.5"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Equation for reaction between two toxic gases in catalytic converter and identify reducing agent.",
+      "description": "Equation for reaction between two toxic gases in catalytic converter and identify reducing agent.",
+      "image": "img/2004-june-chm5/q_q5ci.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm5/ms_q5ci.png"
+    },
+    {
+      "id": "2004-june-chm5-q5cii",
+      "paper": "2004-june-chm5",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM5",
+      "unit": "Unit 5: Thermodynamics and Further Inorganic Chemistry",
+      "question": "5(c)(ii)",
+      "page": 12,
+      "marks": 3,
+      "topics": [
+        "3.1.5",
+        "3.2.5"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Identify transition metal used in catalytic converters and state how effect is maximised.",
+      "description": "Identify transition metal used in catalytic converters and state how effect is maximised.",
+      "image": "img/2004-june-chm5/q_q5cii.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm5/ms_q5cii.png"
+    },
+    {
+      "id": "2004-june-chm5-q5di",
+      "paper": "2004-june-chm5",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM5",
+      "unit": "Unit 5: Thermodynamics and Further Inorganic Chemistry",
+      "question": "5(d)(i)",
+      "page": 13,
+      "marks": 1,
+      "topics": [
+        "3.1.5",
+        "3.2.5"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Explain why transition metals which adsorb strongly are not usually good catalysts.",
+      "description": "Explain why transition metals which adsorb strongly are not usually good catalysts.",
+      "image": "img/2004-june-chm5/q_q5di.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm5/ms_q5di.png"
+    },
+    {
+      "id": "2004-june-chm5-q5dii",
+      "paper": "2004-june-chm5",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM5",
+      "unit": "Unit 5: Thermodynamics and Further Inorganic Chemistry",
+      "question": "5(d)(ii)",
+      "page": 13,
+      "marks": 1,
+      "topics": [
+        "3.1.5",
+        "3.2.5"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Explain why transition metals which adsorb weakly are not usually good catalysts.",
+      "description": "Explain why transition metals which adsorb weakly are not usually good catalysts.",
+      "image": "img/2004-june-chm5/q_q5dii.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm5/ms_q5dii.png"
+    },
+    {
+      "id": "2004-june-chm6w-q1",
+      "paper": "2004-june-chm6w",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM6/W",
+      "unit": "Unit 6(a): Synoptic Paper",
+      "question": "1",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Enthalpy of thermal dissociation when butane forms propane, hydrogen and carbon.",
+      "description": "Enthalpy of thermal dissociation when butane forms propane, hydrogen and carbon.",
+      "image": "img/2004-june-chm6w/q_q1.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm6w/ms_q1.png",
+      "markscheme_text": "Key: D (1)"
+    },
+    {
+      "id": "2004-june-chm6w-q2",
+      "paper": "2004-june-chm6w",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM6/W",
+      "unit": "Unit 6(a): Synoptic Paper",
+      "question": "2",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Enthalpy of combustion of propane calculated from formation data.",
+      "description": "Enthalpy of combustion of propane calculated from formation data.",
+      "image": "img/2004-june-chm6w/q_q2.jpg",
+      "figures": [
+        "img/2004-june-chm6w/fig-q1-2-stem.jpg"
+      ],
+      "markscheme": "img/2004-june-chm6w/ms_q2.png",
+      "markscheme_text": "Key: C (1)"
+    },
+    {
+      "id": "2004-june-chm6w-q3",
+      "paper": "2004-june-chm6w",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM6/W",
+      "unit": "Unit 6(a): Synoptic Paper",
+      "question": "3",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Mole fraction of butane in mixture with minimum oxygen for complete combustion.",
+      "description": "Mole fraction of butane in mixture with minimum oxygen for complete combustion.",
+      "image": "img/2004-june-chm6w/q_q3.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm6w/ms_q3.png",
+      "markscheme_text": "Key: A (1)"
+    },
+    {
+      "id": "2004-june-chm6w-q4",
+      "paper": "2004-june-chm6w",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM6/W",
+      "unit": "Unit 6(a): Synoptic Paper",
+      "question": "4",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "3.1.6"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Equilibrium constant for ethanoic acid and ethanol esterification.",
+      "description": "Equilibrium constant for ethanoic acid and ethanol esterification.",
+      "image": "img/2004-june-chm6w/q_q4.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm6w/ms_q4.png",
+      "markscheme_text": "Key: C (1)"
+    },
+    {
+      "id": "2004-june-chm6w-q5",
+      "paper": "2004-june-chm6w",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM6/W",
+      "unit": "Unit 6(a): Synoptic Paper",
+      "question": "5",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "3.1.2",
+        "3.1.6"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Percentage of ethanoic acid converted into ethyl ethanoate ester.",
+      "description": "Percentage of ethanoic acid converted into ethyl ethanoate ester.",
+      "image": "img/2004-june-chm6w/q_q5.jpg",
+      "figures": [
+        "img/2004-june-chm6w/fig-q4-6-stem.jpg"
+      ],
+      "markscheme": "img/2004-june-chm6w/ms_q5.png",
+      "markscheme_text": "Key: B (1)"
+    },
+    {
+      "id": "2004-june-chm6w-q6",
+      "paper": "2004-june-chm6w",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM6/W",
+      "unit": "Unit 6(a): Synoptic Paper",
+      "question": "6",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "3.3.5",
+        "3.3.6"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Statement that is not correct concerning the ester ethyl ethanoate.",
+      "description": "Statement that is not correct concerning the ester ethyl ethanoate.",
+      "image": "img/2004-june-chm6w/q_q6.jpg",
+      "figures": [
+        "img/2004-june-chm6w/fig-q4-6-stem.jpg"
+      ],
+      "markscheme": "img/2004-june-chm6w/ms_q6.png",
+      "markscheme_text": "Key: D (1)"
+    },
+    {
+      "id": "2004-june-chm6w-q7",
+      "paper": "2004-june-chm6w",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM6/W",
+      "unit": "Unit 6(a): Synoptic Paper",
+      "question": "7",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "3.2.2"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Hydroxide that will produce a saturated solution with the highest pH.",
+      "description": "Hydroxide that will produce a saturated solution with the highest pH.",
+      "image": "img/2004-june-chm6w/q_q7.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm6w/ms_q7.png",
+      "markscheme_text": "Key: A (1)"
+    },
+    {
+      "id": "2004-june-chm6w-q8",
+      "paper": "2004-june-chm6w",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM6/W",
+      "unit": "Unit 6(a): Synoptic Paper",
+      "question": "8",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Maximum mass of iron extracted from 1.0 tonne of 85% Fe2O3 ore.",
+      "description": "Maximum mass of iron extracted from 1.0 tonne of 85% Fe2O3 ore.",
+      "image": "img/2004-june-chm6w/q_q8.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm6w/ms_q8.png",
+      "markscheme_text": "Key: A (1)"
+    },
+    {
+      "id": "2004-june-chm6w-q9",
+      "paper": "2004-june-chm6w",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM6/W",
+      "unit": "Unit 6(a): Synoptic Paper",
+      "question": "9",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "3.1.7"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Reaction in which hydrogen does not act as a reducing agent.",
+      "description": "Reaction in which hydrogen does not act as a reducing agent.",
+      "image": "img/2004-june-chm6w/q_q9.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm6w/ms_q9.png",
+      "markscheme_text": "Key: A (1)"
+    },
+    {
+      "id": "2004-june-chm6w-q10",
+      "paper": "2004-june-chm6w",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM6/W",
+      "unit": "Unit 6(a): Synoptic Paper",
+      "question": "10",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "3.1.7"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Reaction where the role of the reagent is stated correctly.",
+      "description": "Reaction where the role of the reagent is stated correctly.",
+      "image": "img/2004-june-chm6w/q_q10.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm6w/ms_q10.png",
+      "markscheme_text": "Key: D (1)"
+    },
+    {
+      "id": "2004-june-chm6w-q11",
+      "paper": "2004-june-chm6w",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM6/W",
+      "unit": "Unit 6(a): Synoptic Paper",
+      "question": "11",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "3.1.7",
+        "3.2.5"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Species that could act either as an oxidising agent or as a reducing agent.",
+      "description": "Species that could act either as an oxidising agent or as a reducing agent.",
+      "image": "img/2004-june-chm6w/q_q11.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm6w/ms_q11.png",
+      "markscheme_text": "Key: B (1)"
+    },
+    {
+      "id": "2004-june-chm6w-q12",
+      "paper": "2004-june-chm6w",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM6/W",
+      "unit": "Unit 6(a): Synoptic Paper",
+      "question": "12",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "3.1.11"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Species that could reduce 0.012 mol of bromine based on electrode potentials.",
+      "description": "Species that could reduce 0.012 mol of bromine based on electrode potentials.",
+      "image": "img/2004-june-chm6w/q_q12.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm6w/ms_q12.png",
+      "markscheme_text": "Key: D (1)"
+    },
+    {
+      "id": "2004-june-chm6w-q13",
+      "paper": "2004-june-chm6w",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM6/W",
+      "unit": "Unit 6(a): Synoptic Paper",
+      "question": "13",
+      "page": 9,
+      "marks": 1,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Volume of oxygen required to burn 0.1 mol of butane to steam and CO at 295K and 100kPa.",
+      "description": "Volume of oxygen required to burn 0.1 mol of butane to steam and CO at 295K and 100kPa.",
+      "image": "img/2004-june-chm6w/q_q13.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm6w/ms_q13.png",
+      "markscheme_text": "Key: B (1)"
+    },
+    {
+      "id": "2004-june-chm6w-q14",
+      "paper": "2004-june-chm6w",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM6/W",
+      "unit": "Unit 6(a): Synoptic Paper",
+      "question": "14",
+      "page": 9,
+      "marks": 1,
+      "topics": [
+        "3.3.5",
+        "3.3.6"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Ketone that does not have a major peak in its mass spectrum at m/z = 43.",
+      "description": "Ketone that does not have a major peak in its mass spectrum at m/z = 43.",
+      "image": "img/2004-june-chm6w/q_q14.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm6w/ms_q14.png",
+      "markscheme_text": "Key: D (1)"
+    },
+    {
+      "id": "2004-june-chm6w-q15",
+      "paper": "2004-june-chm6w",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM6/W",
+      "unit": "Unit 6(a): Synoptic Paper",
+      "question": "15",
+      "page": 9,
+      "marks": 1,
+      "topics": [
+        "3.3.6"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Ester that does not have a singlet peak in its proton NMR spectrum.",
+      "description": "Ester that does not have a singlet peak in its proton NMR spectrum.",
+      "image": "img/2004-june-chm6w/q_q15.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm6w/ms_q15.png",
+      "markscheme_text": "Key: C (1)"
+    },
+    {
+      "id": "2004-june-chm6w-q16",
+      "paper": "2004-june-chm6w",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM6/W",
+      "unit": "Unit 6(a): Synoptic Paper",
+      "question": "16",
+      "page": 9,
+      "marks": 1,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Relative molecular mass of benzene-1,4-dicarboxylic acid.",
+      "description": "Relative molecular mass of benzene-1,4-dicarboxylic acid.",
+      "image": "img/2004-june-chm6w/q_q16.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm6w/ms_q16.png",
+      "markscheme_text": "Key: B (1)"
+    },
+    {
+      "id": "2004-june-chm6w-q17",
+      "paper": "2004-june-chm6w",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM6/W",
+      "unit": "Unit 6(a): Synoptic Paper",
+      "question": "17",
+      "page": 9,
+      "marks": 1,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Incorrect general formula for the listed non-cyclic compounds.",
+      "description": "Incorrect general formula for the listed non-cyclic compounds.",
+      "image": "img/2004-june-chm6w/q_q17.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm6w/ms_q17.png",
+      "markscheme_text": "Key: B (1)"
+    },
+    {
+      "id": "2004-june-chm6w-q18",
+      "paper": "2004-june-chm6w",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM6/W",
+      "unit": "Unit 6(a): Synoptic Paper",
+      "question": "18",
+      "page": 10,
+      "marks": 1,
+      "topics": [
+        "3.3.3",
+        "3.3.5"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Statement that is not correct concerning the organic reaction scheme.",
+      "description": "Statement that is not correct concerning the organic reaction scheme.",
+      "image": "img/2004-june-chm6w/q_q18.jpg",
+      "figures": [],
+      "markscheme": "img/2004-june-chm6w/ms_q18.png",
+      "markscheme_text": "Key: A (1)"
+    },
+    {
+      "id": "2004-june-chm6w-q19",
+      "paper": "2004-june-chm6w",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM6/W",
+      "unit": "Unit 6(a): Synoptic Paper",
+      "question": "19",
+      "page": 10,
+      "marks": 1,
+      "topics": [
+        "3.3.3"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Reagent that would not bring about the indicated step in reaction scheme.",
+      "description": "Reagent that would not bring about the indicated step in reaction scheme.",
+      "image": "img/2004-june-chm6w/q_q19.jpg",
+      "figures": [
+        "img/2004-june-chm6w/fig-q18-20-stem.jpg"
+      ],
+      "markscheme": "img/2004-june-chm6w/ms_q19.png",
+      "markscheme_text": "Key: B (1)"
+    },
+    {
+      "id": "2004-june-chm6w-q20",
+      "paper": "2004-june-chm6w",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM6/W",
+      "unit": "Unit 6(a): Synoptic Paper",
+      "question": "20",
+      "page": 10,
+      "marks": 1,
+      "topics": [
+        "3.3.1",
+        "3.3.6"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Statement that is not correct concerning species W, X, Y and Z.",
+      "description": "Statement that is not correct concerning species W, X, Y and Z.",
+      "image": "img/2004-june-chm6w/q_q20.jpg",
+      "figures": [
+        "img/2004-june-chm6w/fig-q18-20-stem.jpg"
+      ],
+      "markscheme": "img/2004-june-chm6w/ms_q20.png",
+      "markscheme_text": "Key: D (1)"
+    },
+    {
+      "id": "2004-june-chm6w-q21",
+      "paper": "2004-june-chm6w",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM6/W",
+      "unit": "Unit 6(a): Synoptic Paper",
+      "question": "21",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "3.1.5"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Correct statements about propanone + iodine rate equation.",
+      "description": "Correct statements about propanone + iodine rate equation.",
+      "image": "img/2004-june-chm6w/q_q21.jpg",
+      "figures": [
+        "img/2004-june-chm6w/fig-mcq-directions.jpg"
+      ],
+      "markscheme": "img/2004-june-chm6w/ms_q21.png",
+      "markscheme_text": "Key: B (1)"
+    },
+    {
+      "id": "2004-june-chm6w-q22",
+      "paper": "2004-june-chm6w",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM6/W",
+      "unit": "Unit 6(a): Synoptic Paper",
+      "question": "22",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "3.1.5"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Correct statements about effects of temperature, NaOH and I2 on reaction rate.",
+      "description": "Correct statements about effects of temperature, NaOH and I2 on reaction rate.",
+      "image": "img/2004-june-chm6w/q_q22.jpg",
+      "figures": [
+        "img/2004-june-chm6w/fig-q21-22-stem.jpg",
+        "img/2004-june-chm6w/fig-mcq-directions.jpg"
+      ],
+      "markscheme": "img/2004-june-chm6w/ms_q22.png",
+      "markscheme_text": "Key: A (1)"
+    },
+    {
+      "id": "2004-june-chm6w-q23",
+      "paper": "2004-june-chm6w",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM6/W",
+      "unit": "Unit 6(a): Synoptic Paper",
+      "question": "23",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Molecules with shape influenced by one or more lone pairs of electrons.",
+      "description": "Molecules with shape influenced by one or more lone pairs of electrons.",
+      "image": "img/2004-june-chm6w/q_q23.jpg",
+      "figures": [
+        "img/2004-june-chm6w/fig-mcq-directions.jpg"
+      ],
+      "markscheme": "img/2004-june-chm6w/ms_q23.png",
+      "markscheme_text": "Key: C (1)"
+    },
+    {
+      "id": "2004-june-chm6w-q24",
+      "paper": "2004-june-chm6w",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM6/W",
+      "unit": "Unit 6(a): Synoptic Paper",
+      "question": "24",
+      "page": 12,
+      "marks": 1,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Substances in which covalent bonds must break on melting.",
+      "description": "Substances in which covalent bonds must break on melting.",
+      "image": "img/2004-june-chm6w/q_q24.jpg",
+      "figures": [
+        "img/2004-june-chm6w/fig-mcq-directions.jpg"
+      ],
+      "markscheme": "img/2004-june-chm6w/ms_q24.png",
+      "markscheme_text": "Key: D (1)"
+    },
+    {
+      "id": "2004-june-chm6w-q25",
+      "paper": "2004-june-chm6w",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM6/W",
+      "unit": "Unit 6(a): Synoptic Paper",
+      "question": "25",
+      "page": 12,
+      "marks": 1,
+      "topics": [
+        "3.1.7"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Reactions that are redox reactions.",
+      "description": "Reactions that are redox reactions.",
+      "image": "img/2004-june-chm6w/q_q25.jpg",
+      "figures": [
+        "img/2004-june-chm6w/fig-mcq-directions.jpg"
+      ],
+      "markscheme": "img/2004-june-chm6w/ms_q25.png",
+      "markscheme_text": "Key: B (1)"
+    },
+    {
+      "id": "2004-june-chm6w-q26",
+      "paper": "2004-june-chm6w",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM6/W",
+      "unit": "Unit 6(a): Synoptic Paper",
+      "question": "26",
+      "page": 12,
+      "marks": 1,
+      "topics": [
+        "3.1.12"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Acid solutions with a pH of 1.0.",
+      "description": "Acid solutions with a pH of 1.0.",
+      "image": "img/2004-june-chm6w/q_q26.jpg",
+      "figures": [
+        "img/2004-june-chm6w/fig-mcq-directions.jpg"
+      ],
+      "markscheme": "img/2004-june-chm6w/ms_q26.png",
+      "markscheme_text": "Key: B (1)"
+    },
+    {
+      "id": "2004-june-chm6w-q27",
+      "paper": "2004-june-chm6w",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM6/W",
+      "unit": "Unit 6(a): Synoptic Paper",
+      "question": "27",
+      "page": 12,
+      "marks": 1,
+      "topics": [
+        "3.1.8"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Reactions that will become feasible if the temperature is raised based on entropy.",
+      "description": "Reactions that will become feasible if the temperature is raised based on entropy.",
+      "image": "img/2004-june-chm6w/q_q27.jpg",
+      "figures": [
+        "img/2004-june-chm6w/fig-mcq-directions.jpg"
+      ],
+      "markscheme": "img/2004-june-chm6w/ms_q27.png",
+      "markscheme_text": "Key: D (1)"
+    },
+    {
+      "id": "2004-june-chm6w-q28",
+      "paper": "2004-june-chm6w",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM6/W",
+      "unit": "Unit 6(a): Synoptic Paper",
+      "question": "28",
+      "page": 13,
+      "marks": 1,
+      "topics": [
+        "3.2.5",
+        "3.3.3"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Reactions with ammonia that are substitution reactions.",
+      "description": "Reactions with ammonia that are substitution reactions.",
+      "image": "img/2004-june-chm6w/q_q28.jpg",
+      "figures": [
+        "img/2004-june-chm6w/fig-mcq-directions.jpg"
+      ],
+      "markscheme": "img/2004-june-chm6w/ms_q28.png",
+      "markscheme_text": "Key: B (1)"
+    },
+    {
+      "id": "2004-june-chm6w-q29",
+      "paper": "2004-june-chm6w",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM6/W",
+      "unit": "Unit 6(a): Synoptic Paper",
+      "question": "29",
+      "page": 13,
+      "marks": 1,
+      "topics": [
+        "3.1.7",
+        "3.2.5"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Processes in which oxidation state of metal in complex ion is decreased.",
+      "description": "Processes in which oxidation state of metal in complex ion is decreased.",
+      "image": "img/2004-june-chm6w/q_q29.jpg",
+      "figures": [
+        "img/2004-june-chm6w/fig-mcq-directions.jpg"
+      ],
+      "markscheme": "img/2004-june-chm6w/ms_q29.png",
+      "markscheme_text": "Key: B (1)"
+    },
+    {
+      "id": "2004-june-chm6w-q30",
+      "paper": "2004-june-chm6w",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM6/W",
+      "unit": "Unit 6(a): Synoptic Paper",
+      "question": "30",
+      "page": 13,
+      "marks": 1,
+      "topics": [
+        "3.1.3",
+        "3.2.3",
+        "3.3.10"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Correct statements about AlCl3, BrF4-, AgI precipitate and Br2 vs I2 boiling point.",
+      "description": "Correct statements about AlCl3, BrF4-, AgI precipitate and Br2 vs I2 boiling point.",
+      "image": "img/2004-june-chm6w/q_q30.jpg",
+      "figures": [
+        "img/2004-june-chm6w/fig-mcq-directions.jpg"
+      ],
+      "markscheme": "img/2004-june-chm6w/ms_q30.png",
+      "markscheme_text": "Key: A (1)"
+    },
+    {
+      "id": "2004-june-chm6w-q31",
+      "paper": "2004-june-chm6w",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM6/W",
+      "unit": "Unit 6(a): Synoptic Paper",
+      "question": "31",
+      "page": 14,
+      "marks": 1,
+      "topics": [
+        "3.1.7"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Reactions where the same element undergoes simultaneous oxidation and reduction.",
+      "description": "Reactions where the same element undergoes simultaneous oxidation and reduction.",
+      "image": "img/2004-june-chm6w/q_q31.jpg",
+      "figures": [
+        "img/2004-june-chm6w/fig-mcq-directions.jpg"
+      ],
+      "markscheme": "img/2004-june-chm6w/ms_q31.png",
+      "markscheme_text": "Key: B (1)"
+    },
+    {
+      "id": "2004-june-chm6w-q32",
+      "paper": "2004-june-chm6w",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM6/W",
+      "unit": "Unit 6(a): Synoptic Paper",
+      "question": "32",
+      "page": 14,
+      "marks": 1,
+      "topics": [
+        "3.1.1",
+        "3.2.3"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Correct statements about chloride ions.",
+      "description": "Correct statements about chloride ions.",
+      "image": "img/2004-june-chm6w/q_q32.jpg",
+      "figures": [
+        "img/2004-june-chm6w/fig-mcq-directions.jpg"
+      ],
+      "markscheme": "img/2004-june-chm6w/ms_q32.png",
+      "markscheme_text": "Key: A (1)"
+    },
+    {
+      "id": "2004-june-chm6w-q33",
+      "paper": "2004-june-chm6w",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM6/W",
+      "unit": "Unit 6(a): Synoptic Paper",
+      "question": "33",
+      "page": 14,
+      "marks": 1,
+      "topics": [
+        "3.3.13"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Correct statements about amino acid glycine H2NCH2COOH.",
+      "description": "Correct statements about amino acid glycine H2NCH2COOH.",
+      "image": "img/2004-june-chm6w/q_q33.jpg",
+      "figures": [
+        "img/2004-june-chm6w/fig-mcq-directions.jpg"
+      ],
+      "markscheme": "img/2004-june-chm6w/ms_q33.png",
+      "markscheme_text": "Key: A (1)"
+    },
+    {
+      "id": "2004-june-chm6w-q34",
+      "paper": "2004-june-chm6w",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM6/W",
+      "unit": "Unit 6(a): Synoptic Paper",
+      "question": "34",
+      "page": 14,
+      "marks": 1,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Compounds matching empirical composition 40% C, 6.67% H, 53.33% O.",
+      "description": "Compounds matching empirical composition 40% C, 6.67% H, 53.33% O.",
+      "image": "img/2004-june-chm6w/q_q34.jpg",
+      "figures": [
+        "img/2004-june-chm6w/fig-mcq-directions.jpg"
+      ],
+      "markscheme": "img/2004-june-chm6w/ms_q34.png",
+      "markscheme_text": "Key: A (1)"
+    },
+    {
+      "id": "2004-june-chm6w-q35",
+      "paper": "2004-june-chm6w",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM6/W",
+      "unit": "Unit 6(a): Synoptic Paper",
+      "question": "35",
+      "page": 15,
+      "marks": 1,
+      "topics": [
+        "3.3.5",
+        "3.3.7"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Correct statements about marshmallow compound CH3CH(OH)CH2COOCH3.",
+      "description": "Correct statements about marshmallow compound CH3CH(OH)CH2COOCH3.",
+      "image": "img/2004-june-chm6w/q_q35.jpg",
+      "figures": [
+        "img/2004-june-chm6w/fig-mcq-directions.jpg"
+      ],
+      "markscheme": "img/2004-june-chm6w/ms_q35.png",
+      "markscheme_text": "Key: C (1)"
+    },
+    {
+      "id": "2004-june-chm6w-q36",
+      "paper": "2004-june-chm6w",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM6/W",
+      "unit": "Unit 6(a): Synoptic Paper",
+      "question": "36",
+      "page": 15,
+      "marks": 1,
+      "topics": [
+        "3.3.2",
+        "3.3.10"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Reactions or processes where a carbocation is involved.",
+      "description": "Reactions or processes where a carbocation is involved.",
+      "image": "img/2004-june-chm6w/q_q36.jpg",
+      "figures": [
+        "img/2004-june-chm6w/fig-mcq-directions.jpg"
+      ],
+      "markscheme": "img/2004-june-chm6w/ms_q36.png",
+      "markscheme_text": "Key: A (1)"
+    },
+    {
+      "id": "2004-june-chm6w-q37",
+      "paper": "2004-june-chm6w",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM6/W",
+      "unit": "Unit 6(a): Synoptic Paper",
+      "question": "37",
+      "page": 15,
+      "marks": 1,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Pairs that are functional group isomers.",
+      "description": "Pairs that are functional group isomers.",
+      "image": "img/2004-june-chm6w/q_q37.jpg",
+      "figures": [
+        "img/2004-june-chm6w/fig-mcq-directions.jpg"
+      ],
+      "markscheme": "img/2004-june-chm6w/ms_q37.png",
+      "markscheme_text": "Key: A (1)"
+    },
+    {
+      "id": "2004-june-chm6w-q38",
+      "paper": "2004-june-chm6w",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM6/W",
+      "unit": "Unit 6(a): Synoptic Paper",
+      "question": "38",
+      "page": 15,
+      "marks": 1,
+      "topics": [
+        "3.3.7"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Compounds that possess stereoisomers (optical or geometric).",
+      "description": "Compounds that possess stereoisomers (optical or geometric).",
+      "image": "img/2004-june-chm6w/q_q38.jpg",
+      "figures": [
+        "img/2004-june-chm6w/fig-mcq-directions.jpg"
+      ],
+      "markscheme": "img/2004-june-chm6w/ms_q38.png",
+      "markscheme_text": "Key: B (1)"
+    },
+    {
+      "id": "2004-june-chm6w-q39",
+      "paper": "2004-june-chm6w",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM6/W",
+      "unit": "Unit 6(a): Synoptic Paper",
+      "question": "39",
+      "page": 16,
+      "marks": 1,
+      "topics": [
+        "3.3.2",
+        "3.3.3"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Types of reaction mechanism involved in the organic sequence.",
+      "description": "Types of reaction mechanism involved in the organic sequence.",
+      "image": "img/2004-june-chm6w/q_q39.jpg",
+      "figures": [
+        "img/2004-june-chm6w/fig-mcq-directions.jpg"
+      ],
+      "markscheme": "img/2004-june-chm6w/ms_q39.png",
+      "markscheme_text": "Key: A (1)"
+    },
+    {
+      "id": "2004-june-chm6w-q40",
+      "paper": "2004-june-chm6w",
+      "year": 2004,
+      "series": "June",
+      "code": "CHM6/W",
+      "unit": "Unit 6(a): Synoptic Paper",
+      "question": "40",
+      "page": 16,
+      "marks": 1,
+      "topics": [
+        "3.3.9"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Correct statements about mechanism between ammonia and ethanoyl chloride.",
+      "description": "Correct statements about mechanism between ammonia and ethanoyl chloride.",
+      "image": "img/2004-june-chm6w/q_q40.jpg",
+      "figures": [
+        "img/2004-june-chm6w/fig-mcq-directions.jpg"
+      ],
+      "markscheme": "img/2004-june-chm6w/ms_q40.png",
+      "markscheme_text": "Key: A (1)"
     }
   ]
 }
