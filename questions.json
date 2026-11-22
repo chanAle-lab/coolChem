@@ -28078,6 +28078,1222 @@
       ],
       "markscheme": "img/2005-jan-chm6w/ms_q40.jpg",
       "markscheme_text": "Question 40: A (1 mark)"
+    },
+    {
+      "id": "2005-june-chm1-q1ai",
+      "paper": "2005-june-chm1",
+      "question": "1(a)(i)",
+      "marks": 2,
+      "page": 2,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "State what is meant by the term isotopes.",
+      "image": "img/2005-june-chm1/q_q1ai.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm1/ms_q1ai.jpg",
+      "markscheme_text": "1(a)(i) (Atoms with the) same number of protons / same atomic number / atoms of the same element [1]\nBut different number of neutrons / different mass number [1]"
+    },
+    {
+      "id": "2005-june-chm1-q1aii",
+      "paper": "2005-june-chm1",
+      "question": "1(a)(ii)",
+      "marks": 3,
+      "page": 2,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [
+        "recall",
+        "explanation"
+      ],
+      "summary": "Explain how ions are detected and how their abundance is measured in a mass spectrometer.",
+      "image": "img/2005-june-chm1/q_q1aii.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm1/ms_q1aii.jpg",
+      "markscheme_text": "1(a)(ii) Detected by: positive (+ve) ions collide with / are deflected to / collected at the detector [1]\nCausing current to flow / detected electrically / voltage generated [1]\nAbundance measured: current size depends on abundance / number of ions hitting detector [1]"
+    },
+    {
+      "id": "2005-june-chm1-q1bi",
+      "paper": "2005-june-chm1",
+      "question": "1(b)(i)",
+      "marks": 2,
+      "page": 2,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Define the term relative atomic mass of an element.",
+      "image": "img/2005-june-chm1/q_q1bi.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm1/ms_q1bi.jpg",
+      "markscheme_text": "1(b)(i) Mean / average mass of an atom / all the isotopes (of an element) [1]\n1/12th mass of an atom of 12C\n(OR relative to 12C taken as 12 / 12.000) [1]"
+    },
+    {
+      "id": "2005-june-chm1-q1bii",
+      "paper": "2005-june-chm1",
+      "question": "1(b)(ii)",
+      "marks": 2,
+      "page": 2,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate relative atomic mass of iron sample from isotope abundance table.",
+      "image": "img/2005-june-chm1/q_q1bii.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm1/ms_q1bii.jpg",
+      "markscheme_text": "1(b)(ii) [(54 × 5.8) + (56 × 91.6) + (57 × 2.6)] / 100 [1]\n= 55.9 [1]"
+    },
+    {
+      "id": "2005-june-chm1-q1ci",
+      "paper": "2005-june-chm1",
+      "question": "1(c)(i)",
+      "marks": 1,
+      "page": 5,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Give the electron arrangement of an Fe2+ ion.",
+      "image": "img/2005-june-chm1/q_q1ci.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm1/ms_q1ci.jpg",
+      "markscheme_text": "1(c)(i) 1s2 2s2 2p6 3s2 3p6 3d6 [1]"
+    },
+    {
+      "id": "2005-june-chm1-q1cii",
+      "paper": "2005-june-chm1",
+      "question": "1(c)(ii)",
+      "marks": 1,
+      "page": 5,
+      "topics": [
+        "3.1.1",
+        "3.2.1"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "State why iron is placed in the d block of the Periodic Table.",
+      "image": "img/2005-june-chm1/q_q1cii.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm1/ms_q1cii.jpg",
+      "markscheme_text": "1(c)(ii) Highest energy level / last sub-shell to be filled is (3)d\nOR outermost electrons in the d sub-shell / orbital [1]"
+    },
+    {
+      "id": "2005-june-chm1-q1ciii",
+      "paper": "2005-june-chm1",
+      "question": "1(c)(iii)",
+      "marks": 2,
+      "page": 5,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "Difference in chemical properties of isotopes of the same element and explanation.",
+      "image": "img/2005-june-chm1/q_q1ciii.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm1/ms_q1ciii.jpg",
+      "markscheme_text": "1(c)(iii) Difference: No difference / same [1]\nExplanation: Same electron arrangement / same number of electrons / chemical properties determined by electrons [1]"
+    },
+    {
+      "id": "2005-june-chm1-q2a",
+      "paper": "2005-june-chm1",
+      "question": "2(a)",
+      "marks": 4,
+      "page": 6,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate maximum mass of lead(II) nitrate obtained from 175 cm3 of 1.50 mol dm–3 HNO3.",
+      "image": "img/2005-june-chm1/q_q2a.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm1/ms_q2a.jpg",
+      "markscheme_text": "2(a) Moles HNO3 = 175 × 10^(–3) × 1.50 = 0.2625 mol [1]\nMoles Pb(NO3)2 = 0.5 × 0.2625 = 0.131 mol [1]\nMr Pb(NO3)2 = 331.2 [1]\nMass Pb(NO3)2 = 331.2 × 0.131 = 43.5 g (accept 43.2 – 43.8 g) [1]"
+    },
+    {
+      "id": "2005-june-chm1-q2bi",
+      "paper": "2005-june-chm1",
+      "question": "2(b)(i)",
+      "marks": 2,
+      "page": 6,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "State ideal gas equation and calculate total moles of gas produced in thermal decomposition.",
+      "image": "img/2005-june-chm1/q_q2bi.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm1/ms_q2bi.jpg",
+      "markscheme_text": "2(b)(i) pV = nRT [1]\nn = pV / RT = (100000 × 1.50 × 10^(–4)) / (8.31 × 500) = 3.61 × 10^(–3) mol [1]"
+    },
+    {
+      "id": "2005-june-chm1-q2bii",
+      "paper": "2005-june-chm1",
+      "question": "2(b)(ii)",
+      "marks": 5,
+      "page": 7,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Deduce number of moles and mass of NO2 present in gaseous decomposition mixture.",
+      "image": "img/2005-june-chm1/q_q2bii.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm1/ms_q2bii.jpg",
+      "markscheme_text": "2(b)(ii) Mole fraction NO2 = 4/5 (from 4NO2 / 5 gas moles) [1]\nMoles NO2 = 4/5 × 3.61 × 10^(–3) = 2.89 × 10^(–3) mol\n(or 1.78 × 10^(–3) if 2.23 × 10^(–3) used) [1]\nMr NO2 = 46.0 [1]\nMass NO2 = 46 × 2.89 × 10^(–3) = 0.133 g\n(or 0.0821 g if 2.23 × 10^(–3) used) [1]"
+    },
+    {
+      "id": "2005-june-chm1-q3a",
+      "paper": "2005-june-chm1",
+      "question": "3(a)",
+      "marks": 1,
+      "page": 8,
+      "topics": [
+        "3.1.2",
+        "3.2.1"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Write equation for reaction of aluminium with aqueous copper(II) chloride.",
+      "image": "img/2005-june-chm1/q_q3a.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm1/ms_q3a.jpg",
+      "markscheme_text": "3(a) 2Al + 3CuCl2 → 2AlCl3 + 3Cu\n(OR 2Al + 3Cu2+ → 2Al3+ + 3Cu) [1]"
+    },
+    {
+      "id": "2005-june-chm1-q3bi",
+      "paper": "2005-june-chm1",
+      "question": "3(b)(i)",
+      "marks": 1,
+      "page": 8,
+      "topics": [
+        "3.1.1",
+        "3.2.1"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "State general trend in first ionisation energy of Period 3 elements from Na to Ar.",
+      "image": "img/2005-june-chm1/q_q3bi.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm1/ms_q3bi.jpg",
+      "markscheme_text": "3(b)(i) Increases [1]"
+    },
+    {
+      "id": "2005-june-chm1-q3bii",
+      "paper": "2005-june-chm1",
+      "question": "3(b)(ii)",
+      "marks": 3,
+      "page": 8,
+      "topics": [
+        "3.1.1",
+        "3.2.1"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "Explain why first ionisation energy of aluminium deviates from general Period 3 trend.",
+      "image": "img/2005-june-chm1/q_q3bii.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm1/ms_q3bii.jpg",
+      "markscheme_text": "3(b)(ii) Lower than expected / lower than Mg / less energy needed to ionise [1]\nElectron removed from (3)p sub-level (rather than 3s) [1]\n3p electron of higher energy / further from nucleus / shielded by 3s electrons [1]"
+    },
+    {
+      "id": "2005-june-chm1-q3c",
+      "paper": "2005-june-chm1",
+      "question": "3(c)",
+      "marks": 1,
+      "page": 8,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Equation including state symbols for second ionisation energy of aluminium.",
+      "image": "img/2005-june-chm1/q_q3c.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm1/ms_q3c.jpg",
+      "markscheme_text": "3(c) Al+(g) → Al2+(g) + e– [1]"
+    },
+    {
+      "id": "2005-june-chm1-q3d",
+      "paper": "2005-june-chm1",
+      "question": "3(d)",
+      "marks": 3,
+      "page": 8,
+      "topics": [
+        "3.1.3",
+        "3.2.1"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "State and explain trend in melting points of Period 3 metals Na, Mg and Al.",
+      "image": "img/2005-june-chm1/q_q3d.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm1/ms_q3d.jpg",
+      "markscheme_text": "3(d) Trend: Increases (from Na to Mg to Al) [1]\nMore protons / higher charge on cation / more delocalised electrons / smaller ionic radius [1]\nStronger attraction between cations and delocalised electrons / stronger metallic bonding [1]"
+    },
+    {
+      "id": "2005-june-chm1-q4a",
+      "paper": "2005-june-chm1",
+      "question": "4(a)",
+      "marks": 3,
+      "page": 9,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [
+        "recall",
+        "explanation"
+      ],
+      "summary": "Type of bond formed between phosphine and H+ and explanation of formation.",
+      "image": "img/2005-june-chm1/q_q4a.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm1/ms_q4a.jpg",
+      "markscheme_text": "4(a) Dative / coordinate (covalent) bond [1]\nLone / non-bonding pair of electrons [1]\n(Donated) from P to H+ [1]"
+    },
+    {
+      "id": "2005-june-chm1-q4b",
+      "paper": "2005-june-chm1",
+      "question": "4(b)",
+      "marks": 4,
+      "page": 9,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [
+        "recall",
+        "explanation"
+      ],
+      "summary": "Shapes of PH3 and PH4+, name of PH3 shape, and bond angle in PH4+.",
+      "image": "img/2005-june-chm1/q_q4b.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm1/ms_q4b.jpg",
+      "markscheme_text": "4(b) PH3: Pyramidal diagram with 3 bonding pairs and 1 lone pair on P [1]\nPH4+: Tetrahedral diagram with 4 bonding pairs and positive charge [1]\nShape of PH3: Pyramidal / trigonal pyramid [1]\nBond angle in PH4+: 109.5° (accept 109° – 109.5°) [1]"
+    },
+    {
+      "id": "2005-june-chm1-q5a",
+      "paper": "2005-june-chm1",
+      "question": "5(a)",
+      "marks": 2,
+      "page": 10,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "Explain why O–H bond in methanol molecule is polar.",
+      "image": "img/2005-june-chm1/q_q5a.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm1/ms_q5a.jpg",
+      "markscheme_text": "5(a) Oxygen is more electronegative than hydrogen / stronger attraction for bonding electrons [1]\nCauses higher electron density round oxygen atom / causes delta– on O and delta+ on H [1]"
+    },
+    {
+      "id": "2005-june-chm1-q5b",
+      "paper": "2005-june-chm1",
+      "question": "5(b)",
+      "marks": 3,
+      "page": 10,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "Explain why boiling point of methanol (+65 °C) is much higher than oxygen (–183 °C).",
+      "image": "img/2005-june-chm1/q_q5b.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm1/ms_q5b.jpg",
+      "markscheme_text": "5(b) Van der Waals forces between oxygen molecules [1]\nHydrogen bonding between methanol molecules [1]\nHydrogen bonding is stronger than van der Waals forces / stronger intermolecular forces in methanol [1]"
+    },
+    {
+      "id": "2005-june-chm2-q1a",
+      "paper": "2005-june-chm2",
+      "question": "1(a)",
+      "marks": 5,
+      "page": 2,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Explain the meaning of the terms mean bond enthalpy and standard enthalpy of formation.",
+      "image": "img/2005-june-chm2/q_q1a.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm2/ms_q1a.jpg",
+      "markscheme_text": "1(a) Mean bond enthalpy: Enthalpy (or energy) to break (or dissociate) a bond [1]\nAveraged over different molecules / environments [1]\nStandard enthalpy of formation: Enthalpy change when one mole of a compound [1]\nIs formed from its constituent elements [1]\nIn their standard states (under standard conditions) [1]"
+    },
+    {
+      "id": "2005-june-chm2-q1b",
+      "paper": "2005-june-chm2",
+      "question": "1(b)",
+      "marks": 3,
+      "page": 2,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate enthalpy change for reaction of hydrazine with hydrogen peroxide using bond enthalpies.",
+      "image": "img/2005-june-chm2/q_q1b.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm2/ms_q1b.jpg",
+      "markscheme_text": "1(b) Delta H = sum(bonds broken) – sum(bonds formed) [1]\n= [4(N–H) + (N–N) + 2(O–O) + 4(O–H)] – [(N≡N) + 8(O–H)]\n= 4(388) + 163 + 2(146) + 4(463) – [944 + 8(463)] [1]\n= –789 kJ mol–1 [1]"
+    },
+    {
+      "id": "2005-june-chm2-q1ci",
+      "paper": "2005-june-chm2",
+      "question": "1(c)(i)",
+      "marks": 1,
+      "page": 5,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "State the value of Delta Hf for N2(g).",
+      "image": "img/2005-june-chm2/q_q1ci.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm2/ms_q1ci.jpg",
+      "markscheme_text": "1(c)(i) Zero / 0 (kJ mol–1) [1]"
+    },
+    {
+      "id": "2005-june-chm2-q1cii",
+      "paper": "2005-june-chm2",
+      "question": "1(c)(ii)",
+      "marks": 3,
+      "page": 5,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate enthalpy change for reaction using Delta Hf values from table.",
+      "image": "img/2005-june-chm2/q_q1cii.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm2/ms_q1cii.jpg",
+      "markscheme_text": "1(c)(ii) Delta H = sum(Delta Hf products) – sum(Delta Hf reactants) [1]\n= [0 + 4(–242)] – [75 + 2(–133)] [1]\n= –777 kJ mol–1 [1]"
+    },
+    {
+      "id": "2005-june-chm2-q1d",
+      "paper": "2005-june-chm2",
+      "question": "1(d)",
+      "marks": 1,
+      "page": 5,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "Explain why value obtained in part (b) is different from that obtained in part (c)(ii).",
+      "image": "img/2005-june-chm2/q_q1d.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm2/ms_q1d.jpg",
+      "markscheme_text": "1(d) Mean bond enthalpies are not exact / are average values from various molecules\n(whereas Delta Hf values are specific to the actual compounds) [1]"
+    },
+    {
+      "id": "2005-june-chm2-q2a",
+      "paper": "2005-june-chm2",
+      "question": "2(a)",
+      "marks": 1,
+      "page": 6,
+      "topics": [
+        "3.1.6"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Mark point X on curve A representing time equilibrium is first reached.",
+      "image": "img/2005-june-chm2/q_q2a.jpg",
+      "figures": [
+        "img/2005-june-chm2/fig-q2-curves.jpg"
+      ],
+      "markscheme": "img/2005-june-chm2/ms_q2a.jpg",
+      "markscheme_text": "2(a) Mark labelled X on curve A where curve becomes flat / horizontal (where curve C joins A) [1]"
+    },
+    {
+      "id": "2005-june-chm2-q2b",
+      "paper": "2005-june-chm2",
+      "question": "2(b)",
+      "marks": 1,
+      "page": 6,
+      "topics": [
+        "3.1.6"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "State Le Chatelier's principle.",
+      "image": "img/2005-june-chm2/q_q2b.jpg",
+      "figures": [
+        "img/2005-june-chm2/fig-q2-curves.jpg"
+      ],
+      "markscheme": "img/2005-june-chm2/ms_q2b.jpg",
+      "markscheme_text": "2(b) An equilibrium opposes any change (imposed upon it) [1]"
+    },
+    {
+      "id": "2005-june-chm2-q2c",
+      "paper": "2005-june-chm2",
+      "question": "2(c)",
+      "marks": 4,
+      "page": 7,
+      "topics": [
+        "3.1.6"
+      ],
+      "skills": [
+        "analysis",
+        "explanation"
+      ],
+      "summary": "Identify curve representing higher pressure at same temperature and explain difference from curve A.",
+      "image": "img/2005-june-chm2/q_q2c.jpg",
+      "figures": [
+        "img/2005-june-chm2/fig-q2-curves.jpg"
+      ],
+      "markscheme": "img/2005-june-chm2/ms_q2c.jpg",
+      "markscheme_text": "2(c) Curve: B [1]\nMore ammonia is produced / yield of ammonia increases [1]\nFewer moles of gas on the right (4 mol goes to 2 mol) [1]\nEquilibrium shifts to the right to oppose increase in pressure [1]"
+    },
+    {
+      "id": "2005-june-chm2-q2d",
+      "paper": "2005-june-chm2",
+      "question": "2(d)",
+      "marks": 3,
+      "page": 7,
+      "topics": [
+        "3.1.5",
+        "3.1.6"
+      ],
+      "skills": [
+        "analysis",
+        "explanation"
+      ],
+      "summary": "Identify curve when catalyst added under same conditions as A and explain choice.",
+      "image": "img/2005-june-chm2/q_q2d.jpg",
+      "figures": [
+        "img/2005-june-chm2/fig-q2-curves.jpg"
+      ],
+      "markscheme": "img/2005-june-chm2/ms_q2d.jpg",
+      "markscheme_text": "2(d) Curve: C [1]\nAmount of ammonia / yield / equilibrium position is unchanged [1]\nReaction is faster / equilibrium reached sooner / catalyst increases rate equally in both directions [1]"
+    },
+    {
+      "id": "2005-june-chm2-q3a",
+      "paper": "2005-june-chm2",
+      "question": "3(a)",
+      "marks": 3,
+      "page": 8,
+      "topics": [
+        "3.1.3",
+        "3.2.3"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "State and explain trend in electronegativity down Group VII from fluorine to iodine.",
+      "image": "img/2005-june-chm2/q_q3a.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm2/ms_q3a.jpg",
+      "markscheme_text": "3(a) Trend: Decreases [1]\nIncrease in shielding / larger atomic radius [1]\nLess attraction for bonding / shared pair of electrons [1]"
+    },
+    {
+      "id": "2005-june-chm2-q3b",
+      "paper": "2005-june-chm2",
+      "question": "3(b)",
+      "marks": 2,
+      "page": 8,
+      "topics": [
+        "3.2.3"
+      ],
+      "skills": [
+        "observation",
+        "recall"
+      ],
+      "summary": "Observation and equation when chlorine gas is bubbled into aqueous potassium iodide.",
+      "image": "img/2005-june-chm2/q_q3b.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm2/ms_q3b.jpg",
+      "markscheme_text": "3(b) Observation: Brown solution (or black solid / purple vapour) [1]\nEquation: Cl2 + 2KI → 2KCl + I2\n(OR Cl2 + 2I– → 2Cl– + I2) [1]"
+    },
+    {
+      "id": "2005-june-chm2-q3c",
+      "paper": "2005-june-chm2",
+      "question": "3(c)",
+      "marks": 4,
+      "page": 8,
+      "topics": [
+        "3.2.3"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Identify two sulphur-containing reduction products from H2SO4 with iodide and write half-equations.",
+      "image": "img/2005-june-chm2/q_q3c.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm2/ms_q3c.jpg",
+      "markscheme_text": "3(c) Reduction product 1: SO2 [1]\nHalf-equation: SO4 2– + 4H+ + 2e– → SO2 + 2H2O [1]\nReduction product 2: S (or H2S) [1]\nHalf-equation: SO4 2– + 8H+ + 6e– → S + 4H2O\n(or SO4 2– + 10H+ + 8e– → H2S + 4H2O) [1]"
+    },
+    {
+      "id": "2005-june-chm2-q3d",
+      "paper": "2005-june-chm2",
+      "question": "3(d)",
+      "marks": 5,
+      "page": 8,
+      "topics": [
+        "3.1.7",
+        "3.2.3"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Equation for chlorine with dilute NaOH, names of chlorine products, and their oxidation states.",
+      "image": "img/2005-june-chm2/q_q3d.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm2/ms_q3d.jpg",
+      "markscheme_text": "3(d) Cl2 + 2NaOH → NaCl + NaOCl + H2O [1]\nProduct 1: Sodium chloride [1]\nOxidation state: –1 [1]\nProduct 2: Sodium chlorate(I) (or sodium hypochlorite / bleach) [1]\nOxidation state: +1 [1]"
+    },
+    {
+      "id": "2005-june-chm2-q4a",
+      "paper": "2005-june-chm2",
+      "question": "4(a)",
+      "marks": 1,
+      "page": 9,
+      "topics": [
+        "3.1.7"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Function of a reducing agent in terms of electrons.",
+      "image": "img/2005-june-chm2/q_q4a.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm2/ms_q4a.jpg",
+      "markscheme_text": "4(a) Electron donor / donates electrons / loses electrons [1]"
+    },
+    {
+      "id": "2005-june-chm2-q4b",
+      "paper": "2005-june-chm2",
+      "question": "4(b)",
+      "marks": 2,
+      "page": 9,
+      "topics": [
+        "3.1.7",
+        "3.2.2"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Reducing agent in iron extraction and redox equation for formation of iron from Fe2O3.",
+      "image": "img/2005-june-chm2/q_q4b.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm2/ms_q4b.jpg",
+      "markscheme_text": "4(b) Reducing agent: CO (or C) [1]\nEquation: 3CO + Fe2O3 → 3CO2 + 2Fe\n(or 3C + 2Fe2O3 → 3CO2 + 4Fe / 3C + Fe2O3 → 3CO + 2Fe) [1]"
+    },
+    {
+      "id": "2005-june-chm2-q4c",
+      "paper": "2005-june-chm2",
+      "question": "4(c)",
+      "marks": 3,
+      "page": 9,
+      "topics": [
+        "3.1.7",
+        "3.2.2"
+      ],
+      "skills": [
+        "recall",
+        "explanation"
+      ],
+      "summary": "Reducing agent for titanium extraction from TiCl4, condition used and reason.",
+      "image": "img/2005-june-chm2/q_q4c.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm2/ms_q4c.jpg",
+      "markscheme_text": "4(c) Reducing agent: Na (or Mg) [1]\nCondition: Argon atmosphere / inert atmosphere [1]\nExplanation: Na / Mg / Ti / TiCl4 reacts with air (oxygen / water / nitrogen) forming brittle oxide/nitride impurities [1]"
+    },
+    {
+      "id": "2005-june-chm2-q4di",
+      "paper": "2005-june-chm2",
+      "question": "4(d)(i)",
+      "marks": 2,
+      "page": 9,
+      "topics": [
+        "3.2.2"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "State two essential conditions for electrolytic extraction of aluminium from Al2O3.",
+      "image": "img/2005-june-chm2/q_q4di.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm2/ms_q4di.jpg",
+      "markscheme_text": "4(d)(i) Condition 1: Dissolved in (molten) cryolite / Na3AlF6 [1]\nCondition 2: Molten / high temperature (liquid state to allow ions to move) [1]"
+    },
+    {
+      "id": "2005-june-chm2-q4dii",
+      "paper": "2005-june-chm2",
+      "question": "4(d)(ii)",
+      "marks": 1,
+      "page": 9,
+      "topics": [
+        "3.1.7",
+        "3.2.2"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Equation illustrating formation of aluminium from aluminium ions.",
+      "image": "img/2005-june-chm2/q_q4dii.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm2/ms_q4dii.jpg",
+      "markscheme_text": "4(d)(ii) Al3+ + 3e– → Al [1]"
+    },
+    {
+      "id": "2005-june-chm3w-q1ai",
+      "paper": "2005-june-chm3w",
+      "question": "1(a)(i)",
+      "marks": 1,
+      "page": 2,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Explain what is meant by the term fraction as applied to fractional distillation.",
+      "image": "img/2005-june-chm3w/q_q1ai.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm3w/ms_q1ai.jpg",
+      "markscheme_text": "1(a)(i) Compounds / mixtures / hydrocarbons / molecules with a boiling point range / similar boiling point / similar chain length / similar number of carbons [1]"
+    },
+    {
+      "id": "2005-june-chm3w-q1aii",
+      "paper": "2005-june-chm3w",
+      "question": "1(a)(ii)",
+      "marks": 1,
+      "page": 2,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "State property of molecules in petroleum allowing mixture to be separated into fractions.",
+      "image": "img/2005-june-chm3w/q_q1aii.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm3w/ms_q1aii.jpg",
+      "markscheme_text": "1(a)(ii) Molecules have different boiling points / different intermolecular forces / different chain lengths / different sizes [1]"
+    },
+    {
+      "id": "2005-june-chm3w-q1aiii",
+      "paper": "2005-june-chm3w",
+      "question": "1(a)(iii)",
+      "marks": 1,
+      "page": 2,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Describe the temperature gradient in the fractionating column.",
+      "image": "img/2005-june-chm3w/q_q1aiii.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm3w/ms_q1aiii.jpg",
+      "markscheme_text": "1(a)(iii) The column has a higher temperature at the base / cooler at the top (or lower temperature at the top) [1]"
+    },
+    {
+      "id": "2005-june-chm3w-q1bi",
+      "paper": "2005-june-chm3w",
+      "question": "1(b)(i)",
+      "marks": 1,
+      "page": 2,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Equation for incomplete combustion of C8H18 to produce CO and H2O only.",
+      "image": "img/2005-june-chm3w/q_q1bi.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm3w/ms_q1bi.jpg",
+      "markscheme_text": "1(b)(i) C8H18 + 8½O2 → 8CO + 9H2O\n(or 2C8H18 + 17O2 → 16CO + 18H2O) [1]"
+    },
+    {
+      "id": "2005-june-chm3w-q1bii",
+      "paper": "2005-june-chm3w",
+      "question": "1(b)(ii)",
+      "marks": 1,
+      "page": 2,
+      "topics": [
+        "3.3.1",
+        "3.3.2"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Draw the structure of 2,2,3-trimethylpentane.",
+      "image": "img/2005-june-chm3w/q_q1bii.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm3w/ms_q1bii.jpg",
+      "markscheme_text": "1(b)(ii) Correctly drawn structure of 2,2,3-trimethylpentane:\nCH3C(CH3)2CH(CH3)CH2CH3 [1]"
+    },
+    {
+      "id": "2005-june-chm3w-q1c",
+      "paper": "2005-june-chm3w",
+      "question": "1(c)",
+      "marks": 1,
+      "page": 5,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "State one economic reason for cracking petroleum fractions.",
+      "image": "img/2005-june-chm3w/q_q1c.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm3w/ms_q1c.jpg",
+      "markscheme_text": "1(c) Cracking produces/makes alkenes / ethene / motor fuels / petrol OR makes more useful / higher value products OR satisfies higher demand for smaller molecules [1]"
+    },
+    {
+      "id": "2005-june-chm3w-q1di",
+      "paper": "2005-june-chm3w",
+      "question": "1(d)(i)",
+      "marks": 1,
+      "page": 5,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Give type of reactive intermediate formed during catalytic cracking.",
+      "image": "img/2005-june-chm3w/q_q1di.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm3w/ms_q1di.jpg",
+      "markscheme_text": "1(d)(i) Carbocation / carbonium ion (or carbon cation) [1]"
+    },
+    {
+      "id": "2005-june-chm3w-q1dii",
+      "paper": "2005-june-chm3w",
+      "question": "1(d)(ii)",
+      "marks": 1,
+      "page": 5,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Identify a catalyst used in catalytic cracking.",
+      "image": "img/2005-june-chm3w/q_q1dii.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm3w/ms_q1dii.jpg",
+      "markscheme_text": "1(d)(ii) Zeolite / aluminosilicate / Al2O3 [1]"
+    },
+    {
+      "id": "2005-june-chm3w-q1ei",
+      "paper": "2005-june-chm3w",
+      "question": "1(e)(i)",
+      "marks": 2,
+      "page": 5,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Type of reactive intermediate formed during thermal cracking and how it is formed.",
+      "image": "img/2005-june-chm3w/q_q1ei.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm3w/ms_q1ei.jpg",
+      "markscheme_text": "1(e)(i) Reactive intermediate: (Free) radical / alkyl radical [1]\nHow formed: Homolysis / homolytic fission / splitting / C–C or C–H bond breaks [1]"
+    },
+    {
+      "id": "2005-june-chm3w-q1eii",
+      "paper": "2005-june-chm3w",
+      "question": "1(e)(ii)",
+      "marks": 1,
+      "page": 5,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Identify different type of hydrocarbon produced in high percentage by thermal cracking.",
+      "image": "img/2005-june-chm3w/q_q1eii.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm3w/ms_q1eii.jpg",
+      "markscheme_text": "1(e)(ii) Alkene(s) / short-chain alkenes [1]"
+    },
+    {
+      "id": "2005-june-chm3w-q2ai",
+      "paper": "2005-june-chm3w",
+      "question": "2(a)(i)",
+      "marks": 1,
+      "page": 6,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "State what is meant by the term electrophile.",
+      "image": "img/2005-june-chm3w/q_q2ai.jpg",
+      "figures": [
+        "img/2005-june-chm3w/fig-q2-scheme.jpg"
+      ],
+      "markscheme": "img/2005-june-chm3w/ms_q2ai.jpg",
+      "markscheme_text": "2(a)(i) Electron pair acceptor / lone pair acceptor / seeks or bonds with an electron pair [1]"
+    },
+    {
+      "id": "2005-june-chm3w-q2aii",
+      "paper": "2005-june-chm3w",
+      "question": "2(a)(ii)",
+      "marks": 4,
+      "page": 6,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Outline mechanism for electrophilic addition of HBr to ethene.",
+      "image": "img/2005-june-chm3w/q_q2aii.jpg",
+      "figures": [
+        "img/2005-june-chm3w/fig-q2-scheme.jpg"
+      ],
+      "markscheme": "img/2005-june-chm3w/ms_q2aii.jpg",
+      "markscheme_text": "2(a)(ii) M1: Curly arrow from middle of C=C bond to H atom of H–Br [1]\nM2: Curly arrow from H–Br bond to Br atom [1]\nM3: Correct structure for ethyl carbocation (CH3CH2+) [1]\nM4: Curly arrow from lone pair on bromide ion (:Br–) to C+ atom [1]"
+    },
+    {
+      "id": "2005-june-chm3w-q2bi",
+      "paper": "2005-june-chm3w",
+      "question": "2(b)(i)",
+      "marks": 2,
+      "page": 7,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Identify reagent and catalyst for oxidation of ethene to epoxyethane.",
+      "image": "img/2005-june-chm3w/q_q2bi.jpg",
+      "figures": [
+        "img/2005-june-chm3w/fig-q2-scheme.jpg"
+      ],
+      "markscheme": "img/2005-june-chm3w/ms_q2bi.jpg",
+      "markscheme_text": "2(b)(i) Reagent: Oxygen / O2 [1]\nCatalyst: Silver / Ag (or silver-based) [1]"
+    },
+    {
+      "id": "2005-june-chm3w-q2bii",
+      "paper": "2005-june-chm3w",
+      "question": "2(b)(ii)",
+      "marks": 1,
+      "page": 7,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Draw the structure of epoxyethane.",
+      "image": "img/2005-june-chm3w/q_q2bii.jpg",
+      "figures": [
+        "img/2005-june-chm3w/fig-q2-scheme.jpg"
+      ],
+      "markscheme": "img/2005-june-chm3w/ms_q2bii.jpg",
+      "markscheme_text": "2(b)(ii) Cyclic three-membered ring containing two CH2 groups and one O atom (oxirane triangle) [1]"
+    },
+    {
+      "id": "2005-june-chm3w-q2biii",
+      "paper": "2005-june-chm3w",
+      "question": "2(b)(iii)",
+      "marks": 1,
+      "page": 7,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Identify reagent reacting with epoxyethane to form ethane-1,2-diol.",
+      "image": "img/2005-june-chm3w/q_q2biii.jpg",
+      "figures": [
+        "img/2005-june-chm3w/fig-q2-scheme.jpg"
+      ],
+      "markscheme": "img/2005-june-chm3w/ms_q2biii.jpg",
+      "markscheme_text": "2(b)(iii) Water / H2O (or steam / aqueous acid / aqueous alkali) [1]"
+    },
+    {
+      "id": "2005-june-chm3w-q2ci",
+      "paper": "2005-june-chm3w",
+      "question": "2(c)(i)",
+      "marks": 2,
+      "page": 7,
+      "topics": [
+        "3.3.3"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Identify reagent for Reaction 2 and name organic product P (bromoethane to nitrile).",
+      "image": "img/2005-june-chm3w/q_q2ci.jpg",
+      "figures": [
+        "img/2005-june-chm3w/fig-q2-scheme.jpg"
+      ],
+      "markscheme": "img/2005-june-chm3w/ms_q2ci.jpg",
+      "markscheme_text": "2(c)(i) Reagent: Potassium cyanide / KCN / NaCN [1]\nProduct P: Propanenitrile (or propan-1-nitrile) [1]"
+    },
+    {
+      "id": "2005-june-chm3w-q2cii",
+      "paper": "2005-june-chm3w",
+      "question": "2(c)(ii)",
+      "marks": 2,
+      "page": 7,
+      "topics": [
+        "3.3.3"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Identify reagent for Reaction 5 and name organic product Q (bromoethane to amine).",
+      "image": "img/2005-june-chm3w/q_q2cii.jpg",
+      "figures": [
+        "img/2005-june-chm3w/fig-q2-scheme.jpg"
+      ],
+      "markscheme": "img/2005-june-chm3w/ms_q2cii.jpg",
+      "markscheme_text": "2(c)(ii) Reagent: Ammonia / NH3 [1]\nProduct Q: Ethylamine (or aminoethane) [1]"
+    },
+    {
+      "id": "2005-june-chm3w-q2ciii",
+      "paper": "2005-june-chm3w",
+      "question": "2(c)(iii)",
+      "marks": 4,
+      "page": 7,
+      "topics": [
+        "3.3.3"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Outline mechanism for nucleophilic substitution of bromoethane with ammonia.",
+      "image": "img/2005-june-chm3w/q_q2ciii.jpg",
+      "figures": [
+        "img/2005-june-chm3w/fig-q2-scheme.jpg"
+      ],
+      "markscheme": "img/2005-june-chm3w/ms_q2ciii.jpg",
+      "markscheme_text": "2(c)(iii) M1: Curly arrow from lone pair on N of NH3 to C atom of C–Br [1]\nM2: Curly arrow from C–Br bond to Br atom [1]\nM3: Correct structure of intermediate ethylammonium ion (CH3CH2NH3+) [1]\nM4: Curly arrow from one H–N bond to N+ atom [1]"
+    },
+    {
+      "id": "2005-june-chm3w-q3a",
+      "paper": "2005-june-chm3w",
+      "question": "3(a)",
+      "marks": 1,
+      "page": 9,
+      "topics": [
+        "3.3.1",
+        "3.3.3"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Name haloalkane CH3CHBrCH2CH3.",
+      "image": "img/2005-june-chm3w/q_q3a.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm3w/ms_q3a.jpg",
+      "markscheme_text": "3(a) 2-bromobutane [1]"
+    },
+    {
+      "id": "2005-june-chm3w-q3b",
+      "paper": "2005-june-chm3w",
+      "question": "3(b)",
+      "marks": 4,
+      "page": 9,
+      "topics": [
+        "3.3.3"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Name and outline mechanism for base elimination of 2-bromobutane to but-2-ene.",
+      "image": "img/2005-june-chm3w/q_q3b.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm3w/ms_q3b.jpg",
+      "markscheme_text": "3(b) Name of mechanism: Elimination [1]\nM1: Curly arrow from lone pair on OH– to H atom on correct adjacent C–H [1]\nM2: Curly arrow from adjacent C–H bond to C–C bond to form C=C [1]\nM3: Curly arrow from C–Br bond to Br atom [1]"
+    },
+    {
+      "id": "2005-june-chm3w-q3ci",
+      "paper": "2005-june-chm3w",
+      "question": "3(c)(i)",
+      "marks": 1,
+      "page": 9,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "State what is meant by the term structural isomers.",
+      "image": "img/2005-june-chm3w/q_q3ci.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm3w/ms_q3ci.jpg",
+      "markscheme_text": "3(c)(i) (Compounds with the) same molecular formula but different structural formulas (or different displayed formulas / structures) [1]"
+    },
+    {
+      "id": "2005-june-chm3w-q3cii",
+      "paper": "2005-june-chm3w",
+      "question": "3(c)(ii)",
+      "marks": 1,
+      "page": 9,
+      "topics": [
+        "3.3.1",
+        "3.3.4"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Draw the structure of the other alkene isomer formed (but-1-ene).",
+      "image": "img/2005-june-chm3w/q_q3cii.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm3w/ms_q3cii.jpg",
+      "markscheme_text": "3(c)(ii) CH2=CH–CH2–CH3  (but-1-ene structure) [1]"
+    },
+    {
+      "id": "2005-june-chm3w-q4ai",
+      "paper": "2005-june-chm3w",
+      "question": "4(a)(i)",
+      "marks": 1,
+      "page": 10,
+      "topics": [
+        "3.3.5"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Equation for fermentation of glucose to form ethanol.",
+      "image": "img/2005-june-chm3w/q_q4ai.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm3w/ms_q4ai.jpg",
+      "markscheme_text": "4(a)(i) C6H12O6 → 2C2H5OH + 2CO2 [1]"
+    },
+    {
+      "id": "2005-june-chm3w-q4aii",
+      "paper": "2005-june-chm3w",
+      "question": "4(a)(ii)",
+      "marks": 2,
+      "page": 10,
+      "topics": [
+        "3.3.5"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Catalyst and equation for dehydration of ethanol to form ethene.",
+      "image": "img/2005-june-chm3w/q_q4aii.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm3w/ms_q4aii.jpg",
+      "markscheme_text": "4(a)(ii) Catalyst: Concentrated H2SO4 OR concentrated H3PO4 OR Al2O3 [1]\nEquation: C2H5OH → C2H4 + H2O\n(or C2H5OH → H2C=CH2 + H2O) [1]"
+    },
+    {
+      "id": "2005-june-chm3w-q4b",
+      "paper": "2005-june-chm3w",
+      "question": "4(b)",
+      "marks": 2,
+      "page": 10,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Catalyst and reagent for converting vegetable oil into margarine (hydrogenation).",
+      "image": "img/2005-june-chm3w/q_q4b.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm3w/ms_q4b.jpg",
+      "markscheme_text": "4(b) Catalyst: Nickel / Ni (or platinum / Pt / palladium / Pd) [1]\nReagent: Hydrogen / H2 [1]"
+    },
+    {
+      "id": "2005-june-chm3w-q4ci",
+      "paper": "2005-june-chm3w",
+      "question": "4(c)(i)",
+      "marks": 2,
+      "page": 11,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Deduce molecular formula and empirical formula of oleic acid.",
+      "image": "img/2005-june-chm3w/q_q4ci.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm3w/ms_q4ci.jpg",
+      "markscheme_text": "4(c)(i) Molecular formula: C18H34O2 [1]\nEmpirical formula: C9H17O [1]"
+    },
+    {
+      "id": "2005-june-chm3w-q4cii",
+      "paper": "2005-june-chm3w",
+      "question": "4(c)(ii)",
+      "marks": 1,
+      "page": 11,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "State what is meant by the term unsaturated.",
+      "image": "img/2005-june-chm3w/q_q4cii.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm3w/ms_q4cii.jpg",
+      "markscheme_text": "4(c)(ii) Contains (at least) one double bond OR contains C=C [1]"
+    },
+    {
+      "id": "2005-june-chm3w-q4ciii",
+      "paper": "2005-june-chm3w",
+      "question": "4(c)(iii)",
+      "marks": 2,
+      "page": 11,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [
+        "practical",
+        "observation"
+      ],
+      "summary": "Reagent and observation for simple chemical test to show oleic acid is unsaturated.",
+      "image": "img/2005-june-chm3w/q_q4ciii.jpg",
+      "figures": [],
+      "markscheme": "img/2005-june-chm3w/ms_q4ciii.jpg",
+      "markscheme_text": "4(c)(iii) Reagent: Bromine water / Br2(aq) / bromine [1]\nObservation: Decolourised / goes colourless (from orange/brown to colourless) [1]"
     }
   ]
 }
