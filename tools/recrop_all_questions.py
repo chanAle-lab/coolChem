@@ -30,7 +30,12 @@ PDF_MAP = {
     '2002-june-chm2': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795094776962_62f7850d.pdf',
     '2002-june-chm3w': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795094776927_35605fd8.pdf',
     '2002-june-chm4': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795094776861_6b55f36d.pdf',
-    '2002-june-chm5': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795094776889_dcdc0dd5.pdf'
+    '2002-june-chm5': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795094776889_dcdc0dd5.pdf',
+    '2003-jan-chm1': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795372463563_9fb5ce0e.pdf',
+    '2003-jan-chm2': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795372463338_dbb54824.pdf',
+    '2003-jan-chm3w': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795372463606_01130d35.pdf',
+    '2003-jan-chm4': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795372463604_1e358153.pdf',
+    '2003-jan-chm5': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795372463561_eebd3925.pdf',
 }
 
 def extract_lines(page):
@@ -51,7 +56,7 @@ def main():
     with open(QUESTIONS_FILE, 'r', encoding='utf-8') as f:
         db = json.load(f)
 
-    # 1. Correct misindexed page numbers
+    # 1. Correct misindexed page numbers if any
     fixed_pages = 0
     for q in db['questions']:
         if q['id'] == '2002-jan-chm1-q3cii' and q.get('page') != 6:
@@ -73,7 +78,8 @@ def main():
         if q['paper'] in docs:
             pages[(q['paper'], q['page'])].append(q)
 
-    print(f"Processing 416 questions across {len(pages)} pages in 14 papers...")
+    total_target = sum(len(ql) for ql in pages.values())
+    print(f"Processing {total_target} questions across {len(pages)} pages in {len(docs)} papers...")
 
     success_count = 0
     total_count = 0
