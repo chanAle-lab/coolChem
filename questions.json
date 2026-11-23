@@ -1230,6 +1230,28 @@
       "date": "2008-06-19",
       "totalMarks": 40,
       "duration": "1 hour"
+    },
+    {
+      "id": "2009-jan-chm1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM1",
+      "level": "AS",
+      "title": "CHM1 – Atomic Structure, Bonding and Periodicity",
+      "date": "2009-01-09",
+      "totalMarks": 60,
+      "duration": "1 hour"
+    },
+    {
+      "id": "2009-jan-chm2",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM2",
+      "level": "AS",
+      "title": "CHM2 – Foundation Physical and Inorganic Chemistry",
+      "date": "2009-01-09",
+      "totalMarks": 60,
+      "duration": "1 hour"
     }
   ],
   "questions": [
@@ -49916,6 +49938,1210 @@
       "figures": [
         "img/2008-june-chm6w/fig-directions.jpg"
       ]
+    },
+    {
+      "id": "2009-jan-chm1-q1a",
+      "paper": "2009-jan-chm1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM1",
+      "level": "AS",
+      "question": "1(a)",
+      "questionNumber": "1(a)",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Identify part A in the simplified mass spectrometer diagram.",
+      "specRef": "3.1.1",
+      "image": "img/2009-jan-chm1/q1a.jpg",
+      "markscheme": "img/2009-jan-chm1/ms/q1a.png",
+      "figures": [
+        "img/2009-jan-chm1/fig-q1-ms.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chm1-q1bi",
+      "paper": "2009-jan-chm1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM1",
+      "level": "AS",
+      "question": "1(b)(i)",
+      "questionNumber": "1(b)(i)",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw the path followed by 88Sr+ ions compared to 87Sr+ ions in the mass spectrometer.",
+      "specRef": "3.1.1",
+      "image": "img/2009-jan-chm1/q1bi.jpg",
+      "markscheme": "img/2009-jan-chm1/ms/q1bi.png",
+      "figures": [
+        "img/2009-jan-chm1/fig-q1-ms.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chm1-q1bii",
+      "paper": "2009-jan-chm1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM1",
+      "level": "AS",
+      "question": "1(b)(ii)",
+      "questionNumber": "1(b)(ii)",
+      "page": 2,
+      "marks": 2,
+      "topics": [
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Explain why the path of 88Sr+ ions differs from that of 87Sr+ ions.",
+      "specRef": "3.1.1",
+      "image": "img/2009-jan-chm1/q1bii.jpg",
+      "markscheme": "img/2009-jan-chm1/ms/q1bii.png",
+      "figures": [
+        "img/2009-jan-chm1/fig-q1-ms.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chm1-q1c",
+      "paper": "2009-jan-chm1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM1",
+      "level": "AS",
+      "question": "1(c)",
+      "questionNumber": "1(c)",
+      "page": 5,
+      "marks": 2,
+      "topics": [
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "State and explain one adjustment to the mass spectrometer to detect 88Sr+ ions.",
+      "specRef": "3.1.1",
+      "image": "img/2009-jan-chm1/q1c.jpg",
+      "markscheme": "img/2009-jan-chm1/ms/q1c.png",
+      "figures": [
+        "img/2009-jan-chm1/fig-q1-ms.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chm1-q1d",
+      "paper": "2009-jan-chm1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM1",
+      "level": "AS",
+      "question": "1(d)",
+      "questionNumber": "1(d)",
+      "page": 5,
+      "marks": 2,
+      "topics": [
+        "Atomic Structure",
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Maths & Calculations"
+      ],
+      "summary": "Calculate the relative atomic mass of strontium to 1 d.p. from isotopic abundances.",
+      "specRef": "3.1.1",
+      "image": "img/2009-jan-chm1/q1d.jpg",
+      "markscheme": "img/2009-jan-chm1/ms/q1d.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm1-q1e",
+      "paper": "2009-jan-chm1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM1",
+      "level": "AS",
+      "question": "1(e)",
+      "questionNumber": "1(e)",
+      "page": 5,
+      "marks": 2,
+      "topics": [
+        "Atomic Structure",
+        "Periodicity"
+      ],
+      "skills": [
+        "Knowledge & Recall",
+        "Explanation"
+      ],
+      "summary": "State and explain the block in the Periodic Table to which strontium belongs.",
+      "specRef": "3.1.1",
+      "image": "img/2009-jan-chm1/q1e.jpg",
+      "markscheme": "img/2009-jan-chm1/ms/q1e.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm1-q2a",
+      "paper": "2009-jan-chm1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM1",
+      "level": "AS",
+      "question": "2(a)",
+      "questionNumber": "2(a)",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "Alkanes",
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Chemical Equations"
+      ],
+      "summary": "Write an equation for the complete combustion of ethyne (C2H2).",
+      "specRef": "3.1.2",
+      "image": "img/2009-jan-chm1/q2a.jpg",
+      "markscheme": "img/2009-jan-chm1/ms/q2a.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm1-q2b",
+      "paper": "2009-jan-chm1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM1",
+      "level": "AS",
+      "question": "2(b)",
+      "questionNumber": "2(b)",
+      "page": 6,
+      "marks": 4,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Maths & Calculations"
+      ],
+      "summary": "State the ideal gas equation and calculate the moles of ethyne collected.",
+      "specRef": "3.1.2",
+      "image": "img/2009-jan-chm1/q2b.jpg",
+      "markscheme": "img/2009-jan-chm1/ms/q2b.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm1-q2c",
+      "paper": "2009-jan-chm1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM1",
+      "level": "AS",
+      "question": "2(c)",
+      "questionNumber": "2(c)",
+      "page": 7,
+      "marks": 4,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Maths & Calculations"
+      ],
+      "summary": "Calculate the mass of CaC2 reacted and the percentage purity of the 1.33 g sample.",
+      "specRef": "3.1.2",
+      "image": "img/2009-jan-chm1/q2c.jpg",
+      "markscheme": "img/2009-jan-chm1/ms/q2c.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm1-q2d",
+      "paper": "2009-jan-chm1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM1",
+      "level": "AS",
+      "question": "2(d)",
+      "questionNumber": "2(d)",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Structure & Bonding"
+      ],
+      "summary": "Draw a diagram showing the bonding in a molecule of C2H2.",
+      "specRef": "3.1.3",
+      "image": "img/2009-jan-chm1/q2d.jpg",
+      "markscheme": "img/2009-jan-chm1/ms/q2d.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm1-q2ei",
+      "paper": "2009-jan-chm1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM1",
+      "level": "AS",
+      "question": "2(e)(i)",
+      "questionNumber": "2(e)(i)",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State what is meant by the term empirical formula.",
+      "specRef": "3.1.2",
+      "image": "img/2009-jan-chm1/q2ei.jpg",
+      "markscheme": "img/2009-jan-chm1/ms/q2ei.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm1-q2eii",
+      "paper": "2009-jan-chm1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM1",
+      "level": "AS",
+      "question": "2(e)(ii)",
+      "questionNumber": "2(e)(ii)",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Deduce the empirical formula of ethyne.",
+      "specRef": "3.1.2",
+      "image": "img/2009-jan-chm1/q2eii.jpg",
+      "markscheme": "img/2009-jan-chm1/ms/q2eii.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm1-q2f",
+      "paper": "2009-jan-chm1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM1",
+      "level": "AS",
+      "question": "2(f)",
+      "questionNumber": "2(f)",
+      "page": 8,
+      "marks": 3,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Maths & Calculations"
+      ],
+      "summary": "Calculate the empirical and molecular formulae of compound B (Mr = 215.8).",
+      "specRef": "3.1.2",
+      "image": "img/2009-jan-chm1/q2f.jpg",
+      "markscheme": "img/2009-jan-chm1/ms/q2f.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm1-q3ai",
+      "paper": "2009-jan-chm1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM1",
+      "level": "AS",
+      "question": "3(a)(i)",
+      "questionNumber": "3(a)(i)",
+      "page": 10,
+      "marks": 1,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State one way particle movement in a liquid differs from that in a solid.",
+      "specRef": "3.1.3",
+      "image": "img/2009-jan-chm1/q3ai.jpg",
+      "markscheme": "img/2009-jan-chm1/ms/q3ai.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm1-q3aii",
+      "paper": "2009-jan-chm1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM1",
+      "level": "AS",
+      "question": "3(a)(ii)",
+      "questionNumber": "3(a)(ii)",
+      "page": 10,
+      "marks": 1,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State one way particle positioning in a liquid differs from that in a gas.",
+      "specRef": "3.1.3",
+      "image": "img/2009-jan-chm1/q3aii.jpg",
+      "markscheme": "img/2009-jan-chm1/ms/q3aii.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm1-q3b",
+      "paper": "2009-jan-chm1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM1",
+      "level": "AS",
+      "question": "3(b)",
+      "questionNumber": "3(b)",
+      "page": 10,
+      "marks": 2,
+      "topics": [
+        "Bonding",
+        "Energetics"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Explain the heat energy change associated with boiling.",
+      "specRef": "3.1.3",
+      "image": "img/2009-jan-chm1/q3b.jpg",
+      "markscheme": "img/2009-jan-chm1/ms/q3b.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm1-q3ci",
+      "paper": "2009-jan-chm1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM1",
+      "level": "AS",
+      "question": "3(c)(i)",
+      "questionNumber": "3(c)(i)",
+      "page": 10,
+      "marks": 2,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Define the term electronegativity.",
+      "specRef": "3.1.3",
+      "image": "img/2009-jan-chm1/q3ci.jpg",
+      "markscheme": "img/2009-jan-chm1/ms/q3ci.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm1-q3cii",
+      "paper": "2009-jan-chm1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM1",
+      "level": "AS",
+      "question": "3(c)(ii)",
+      "questionNumber": "3(c)(ii)",
+      "page": 10,
+      "marks": 2,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Explain in terms of electronegativity why hydrogen bonds form in H2O but not H2S.",
+      "specRef": "3.1.3",
+      "image": "img/2009-jan-chm1/q3cii.jpg",
+      "markscheme": "img/2009-jan-chm1/ms/q3cii.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm1-q3ciii",
+      "paper": "2009-jan-chm1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM1",
+      "level": "AS",
+      "question": "3(c)(iii)",
+      "questionNumber": "3(c)(iii)",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Explain in terms of intermolecular forces why H2S has a much lower boiling point than H2O.",
+      "specRef": "3.1.3",
+      "image": "img/2009-jan-chm1/q3ciii.jpg",
+      "markscheme": "img/2009-jan-chm1/ms/q3ciii.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm1-q3civ",
+      "paper": "2009-jan-chm1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM1",
+      "level": "AS",
+      "question": "3(c)(iv)",
+      "questionNumber": "3(c)(iv)",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Identify an element other than oxygen that can form hydrogen bonds when bonded to H.",
+      "specRef": "3.1.3",
+      "image": "img/2009-jan-chm1/q3civ.jpg",
+      "markscheme": "img/2009-jan-chm1/ms/q3civ.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm1-q3d",
+      "paper": "2009-jan-chm1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM1",
+      "level": "AS",
+      "question": "3(d)",
+      "questionNumber": "3(d)",
+      "page": 11,
+      "marks": 3,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Structure & Bonding"
+      ],
+      "summary": "Draw a diagram showing hydrogen bonding between two water molecules with partial charges and lone pairs.",
+      "specRef": "3.1.3",
+      "image": "img/2009-jan-chm1/q3d.jpg",
+      "markscheme": "img/2009-jan-chm1/ms/q3d.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm1-q4a",
+      "paper": "2009-jan-chm1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM1",
+      "level": "AS",
+      "question": "4(a)",
+      "questionNumber": "4(a)",
+      "page": 12,
+      "marks": 2,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Knowledge & Recall",
+        "Explanation"
+      ],
+      "summary": "Name and describe how the bond forms between :CH2 and H+ to make CH3+.",
+      "specRef": "3.1.3",
+      "image": "img/2009-jan-chm1/q4a.jpg",
+      "markscheme": "img/2009-jan-chm1/ms/q4a.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm1-q4b",
+      "paper": "2009-jan-chm1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM1",
+      "level": "AS",
+      "question": "4(b)",
+      "questionNumber": "4(b)",
+      "page": 12,
+      "marks": 2,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Structure & Bonding"
+      ],
+      "summary": "Draw the shapes of CH2 (including lone pair) and CH3+.",
+      "specRef": "3.1.3",
+      "image": "img/2009-jan-chm1/q4b.jpg",
+      "markscheme": "img/2009-jan-chm1/ms/q4b.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm1-q4c",
+      "paper": "2009-jan-chm1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM1",
+      "level": "AS",
+      "question": "4(c)",
+      "questionNumber": "4(c)",
+      "page": 12,
+      "marks": 2,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Name the shapes of the CH2 molecule and the CH3+ ion.",
+      "specRef": "3.1.3",
+      "image": "img/2009-jan-chm1/q4c.jpg",
+      "markscheme": "img/2009-jan-chm1/ms/q4c.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm1-q4d",
+      "paper": "2009-jan-chm1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM1",
+      "level": "AS",
+      "question": "4(d)",
+      "questionNumber": "4(d)",
+      "page": 12,
+      "marks": 1,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State the bond angle in the CH3+ ion.",
+      "specRef": "3.1.3",
+      "image": "img/2009-jan-chm1/q4d.jpg",
+      "markscheme": "img/2009-jan-chm1/ms/q4d.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm2-q1a",
+      "paper": "2009-jan-chm2",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM2",
+      "level": "AS",
+      "question": "1(a)",
+      "questionNumber": "1(a)",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "Equilibria"
+      ],
+      "skills": [
+        "Data Analysis"
+      ],
+      "summary": "Mark X on the time axis where equilibrium is first established.",
+      "specRef": "3.1.6",
+      "image": "img/2009-jan-chm2/q1a.jpg",
+      "markscheme": "img/2009-jan-chm2/ms/q1a.png",
+      "figures": [
+        "img/2009-jan-chm2/fig-q1-eq.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chm2-q1b",
+      "paper": "2009-jan-chm2",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM2",
+      "level": "AS",
+      "question": "1(b)",
+      "questionNumber": "1(b)",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "Equilibria"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State Le Chatelier's principle.",
+      "specRef": "3.1.6",
+      "image": "img/2009-jan-chm2/q1b.jpg",
+      "markscheme": "img/2009-jan-chm2/ms/q1b.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm2-q1c",
+      "paper": "2009-jan-chm2",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM2",
+      "level": "AS",
+      "question": "1(c)",
+      "questionNumber": "1(c)",
+      "page": 2,
+      "marks": 2,
+      "topics": [
+        "Equilibria"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "State and explain the effect of increasing pressure on the equilibrium yield of hydrogen.",
+      "specRef": "3.1.6",
+      "image": "img/2009-jan-chm2/q1c.jpg",
+      "markscheme": "img/2009-jan-chm2/ms/q1c.png",
+      "figures": [
+        "img/2009-jan-chm2/fig-q1-eq.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chm2-q1di",
+      "paper": "2009-jan-chm2",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM2",
+      "level": "AS",
+      "question": "1(d)(i)",
+      "questionNumber": "1(d)(i)",
+      "page": 3,
+      "marks": 2,
+      "topics": [
+        "Kinetics"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "State and explain the effect of raising temperature above 450 C on the rate of hydrogen production.",
+      "specRef": "3.1.4",
+      "image": "img/2009-jan-chm2/q1di.jpg",
+      "markscheme": "img/2009-jan-chm2/ms/q1di.png",
+      "figures": [
+        "img/2009-jan-chm2/fig-q1-eq.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chm2-q1dii",
+      "paper": "2009-jan-chm2",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM2",
+      "level": "AS",
+      "question": "1(d)(ii)",
+      "questionNumber": "1(d)(ii)",
+      "page": 3,
+      "marks": 3,
+      "topics": [
+        "Kinetics"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "State and explain the effect of a catalyst on the rate of a reaction.",
+      "specRef": "3.1.4",
+      "image": "img/2009-jan-chm2/q1dii.jpg",
+      "markscheme": "img/2009-jan-chm2/ms/q1dii.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm2-q1diii",
+      "paper": "2009-jan-chm2",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM2",
+      "level": "AS",
+      "question": "1(d)(iii)",
+      "questionNumber": "1(d)(iii)",
+      "page": 3,
+      "marks": 1,
+      "topics": [
+        "Equilibria"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Deduce the sign of the enthalpy change given that yield decreases above 450 C.",
+      "specRef": "3.1.6",
+      "image": "img/2009-jan-chm2/q1diii.jpg",
+      "markscheme": "img/2009-jan-chm2/ms/q1diii.png",
+      "figures": [
+        "img/2009-jan-chm2/fig-q1-eq.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chm2-q1e",
+      "paper": "2009-jan-chm2",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM2",
+      "level": "AS",
+      "question": "1(e)",
+      "questionNumber": "1(e)",
+      "page": 3,
+      "marks": 3,
+      "topics": [
+        "Equilibria"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "State and explain the effect on equilibrium yield of hydrogen if CO2 is removed.",
+      "specRef": "3.1.6",
+      "image": "img/2009-jan-chm2/q1e.jpg",
+      "markscheme": "img/2009-jan-chm2/ms/q1e.png",
+      "figures": [
+        "img/2009-jan-chm2/fig-q1-eq.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chm2-q2ai",
+      "paper": "2009-jan-chm2",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM2",
+      "level": "AS",
+      "question": "2(a)(i)",
+      "questionNumber": "2(a)(i)",
+      "page": 4,
+      "marks": 1,
+      "topics": [
+        "Extraction of Metals"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Give the formula of the aluminium compound in bauxite.",
+      "specRef": "3.2.4",
+      "image": "img/2009-jan-chm2/q2ai.jpg",
+      "markscheme": "img/2009-jan-chm2/ms/q2ai.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm2-q2aii",
+      "paper": "2009-jan-chm2",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM2",
+      "level": "AS",
+      "question": "2(a)(ii)",
+      "questionNumber": "2(a)(ii)",
+      "page": 4,
+      "marks": 1,
+      "topics": [
+        "Extraction of Metals",
+        "Bonding"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State why aluminium electrolysis requires a molten electrolyte.",
+      "specRef": "3.2.4",
+      "image": "img/2009-jan-chm2/q2aii.jpg",
+      "markscheme": "img/2009-jan-chm2/ms/q2aii.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm2-q2aiii",
+      "paper": "2009-jan-chm2",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM2",
+      "level": "AS",
+      "question": "2(a)(iii)",
+      "questionNumber": "2(a)(iii)",
+      "page": 4,
+      "marks": 1,
+      "topics": [
+        "Extraction of Metals"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Give one reason why molten bauxite alone is not used in aluminium electrolysis.",
+      "specRef": "3.2.4",
+      "image": "img/2009-jan-chm2/q2aiii.jpg",
+      "markscheme": "img/2009-jan-chm2/ms/q2aiii.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm2-q2aiv",
+      "paper": "2009-jan-chm2",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM2",
+      "level": "AS",
+      "question": "2(a)(iv)",
+      "questionNumber": "2(a)(iv)",
+      "page": 4,
+      "marks": 2,
+      "topics": [
+        "Extraction of Metals",
+        "Redox"
+      ],
+      "skills": [
+        "Chemical Equations"
+      ],
+      "summary": "Write half-equations for the electrode reactions in aluminium extraction.",
+      "specRef": "3.2.4",
+      "image": "img/2009-jan-chm2/q2aiv.jpg",
+      "markscheme": "img/2009-jan-chm2/ms/q2aiv.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm2-q2b",
+      "paper": "2009-jan-chm2",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM2",
+      "level": "AS",
+      "question": "2(b)",
+      "questionNumber": "2(b)",
+      "page": 4,
+      "marks": 2,
+      "topics": [
+        "Extraction of Metals"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State two reasons why aluminium is recycled despite plentiful bauxite.",
+      "specRef": "3.2.4",
+      "image": "img/2009-jan-chm2/q2b.jpg",
+      "markscheme": "img/2009-jan-chm2/ms/q2b.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm2-q2ci",
+      "paper": "2009-jan-chm2",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM2",
+      "level": "AS",
+      "question": "2(c)(i)",
+      "questionNumber": "2(c)(i)",
+      "page": 5,
+      "marks": 2,
+      "topics": [
+        "Extraction of Metals"
+      ],
+      "skills": [
+        "Chemical Equations",
+        "Knowledge & Recall"
+      ],
+      "summary": "Write an equation and state a condition for the reduction of iron(III) oxide with CO.",
+      "specRef": "3.2.4",
+      "image": "img/2009-jan-chm2/q2ci.jpg",
+      "markscheme": "img/2009-jan-chm2/ms/q2ci.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm2-q2cii",
+      "paper": "2009-jan-chm2",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM2",
+      "level": "AS",
+      "question": "2(c)(ii)",
+      "questionNumber": "2(c)(ii)",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "Extraction of Metals",
+        "Redox"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State the role of carbon monoxide in the reduction of iron(III) oxide.",
+      "specRef": "3.2.4",
+      "image": "img/2009-jan-chm2/q2cii.jpg",
+      "markscheme": "img/2009-jan-chm2/ms/q2cii.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm2-q2ciii",
+      "paper": "2009-jan-chm2",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM2",
+      "level": "AS",
+      "question": "2(c)(iii)",
+      "questionNumber": "2(c)(iii)",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "Extraction of Metals",
+        "Kinetics"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Suggest why iron(III) oxide is more likely to react with CO than with carbon.",
+      "specRef": "3.2.4",
+      "image": "img/2009-jan-chm2/q2ciii.jpg",
+      "markscheme": "img/2009-jan-chm2/ms/q2ciii.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm2-q3a",
+      "paper": "2009-jan-chm2",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM2",
+      "level": "AS",
+      "question": "3(a)",
+      "questionNumber": "3(a)",
+      "page": 6,
+      "marks": 2,
+      "topics": [
+        "Energetics"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Explain the meaning of the term enthalpy change of a reaction.",
+      "specRef": "3.1.5",
+      "image": "img/2009-jan-chm2/q3a.jpg",
+      "markscheme": "img/2009-jan-chm2/ms/q3a.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm2-q3b",
+      "paper": "2009-jan-chm2",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM2",
+      "level": "AS",
+      "question": "3(b)",
+      "questionNumber": "3(b)",
+      "page": 6,
+      "marks": 2,
+      "topics": [
+        "Energetics"
+      ],
+      "skills": [
+        "Chemical Equations"
+      ],
+      "summary": "Write an equation with state symbols for the standard enthalpy of formation of CS2(l).",
+      "specRef": "3.1.5",
+      "image": "img/2009-jan-chm2/q3b.jpg",
+      "markscheme": "img/2009-jan-chm2/ms/q3b.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm2-q3c",
+      "paper": "2009-jan-chm2",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM2",
+      "level": "AS",
+      "question": "3(c)",
+      "questionNumber": "3(c)",
+      "page": 6,
+      "marks": 3,
+      "topics": [
+        "Energetics"
+      ],
+      "skills": [
+        "Maths & Calculations"
+      ],
+      "summary": "Calculate the standard enthalpy of formation of carbon disulphide from enthalpy data.",
+      "specRef": "3.1.5",
+      "image": "img/2009-jan-chm2/q3c.jpg",
+      "markscheme": "img/2009-jan-chm2/ms/q3c.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm2-q3di",
+      "paper": "2009-jan-chm2",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM2",
+      "level": "AS",
+      "question": "3(d)(i)",
+      "questionNumber": "3(d)(i)",
+      "page": 7,
+      "marks": 4,
+      "topics": [
+        "Energetics"
+      ],
+      "skills": [
+        "Maths & Calculations"
+      ],
+      "summary": "Calculate the heat produced and molar enthalpy change of combustion of CS2 from calorimetry data.",
+      "specRef": "3.1.5",
+      "image": "img/2009-jan-chm2/q3di.jpg",
+      "markscheme": "img/2009-jan-chm2/ms/q3di.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm2-q3dii",
+      "paper": "2009-jan-chm2",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM2",
+      "level": "AS",
+      "question": "3(d)(ii)",
+      "questionNumber": "3(d)(ii)",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "Energetics"
+      ],
+      "skills": [
+        "Practical Skills"
+      ],
+      "summary": "Explain why the experimental enthalpy of combustion of CS2 is lower than the data book value.",
+      "specRef": "3.1.5",
+      "image": "img/2009-jan-chm2/q3dii.jpg",
+      "markscheme": "img/2009-jan-chm2/ms/q3dii.png",
+      "figures": [
+        "img/2009-jan-chm2/fig-q3c.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chm2-q4a",
+      "paper": "2009-jan-chm2",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM2",
+      "level": "AS",
+      "question": "4(a)",
+      "questionNumber": "4(a)",
+      "page": 8,
+      "marks": 2,
+      "topics": [
+        "Redox"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Define reduction and reducing agent in terms of electrons.",
+      "specRef": "3.1.6",
+      "image": "img/2009-jan-chm2/q4a.jpg",
+      "markscheme": "img/2009-jan-chm2/ms/q4a.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm2-q4b",
+      "paper": "2009-jan-chm2",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM2",
+      "level": "AS",
+      "question": "4(b)",
+      "questionNumber": "4(b)",
+      "page": 8,
+      "marks": 3,
+      "topics": [
+        "Redox"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Deduce the oxidation state of nitrogen in NaNO3, NO2, and Mg3N2.",
+      "specRef": "3.1.6",
+      "image": "img/2009-jan-chm2/q4b.jpg",
+      "markscheme": "img/2009-jan-chm2/ms/q4b.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm2-q4ci",
+      "paper": "2009-jan-chm2",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM2",
+      "level": "AS",
+      "question": "4(c)(i)",
+      "questionNumber": "4(c)(i)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "Redox"
+      ],
+      "skills": [
+        "Chemical Equations"
+      ],
+      "summary": "Write a half-equation for sulphur being converted into sulphuric acid.",
+      "specRef": "3.1.6",
+      "image": "img/2009-jan-chm2/q4ci.jpg",
+      "markscheme": "img/2009-jan-chm2/ms/q4ci.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm2-q4cii",
+      "paper": "2009-jan-chm2",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM2",
+      "level": "AS",
+      "question": "4(c)(ii)",
+      "questionNumber": "4(c)(ii)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "Redox"
+      ],
+      "skills": [
+        "Chemical Equations"
+      ],
+      "summary": "Write a half-equation for nitric acid being converted into NO2 and water.",
+      "specRef": "3.1.6",
+      "image": "img/2009-jan-chm2/q4cii.jpg",
+      "markscheme": "img/2009-jan-chm2/ms/q4cii.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm2-q4ciii",
+      "paper": "2009-jan-chm2",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM2",
+      "level": "AS",
+      "question": "4(c)(iii)",
+      "questionNumber": "4(c)(iii)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "Redox"
+      ],
+      "skills": [
+        "Chemical Equations"
+      ],
+      "summary": "Write the overall equation for concentrated nitric acid reacting with sulphur.",
+      "specRef": "3.1.6",
+      "image": "img/2009-jan-chm2/q4ciii.jpg",
+      "markscheme": "img/2009-jan-chm2/ms/q4ciii.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm2-q4civ",
+      "paper": "2009-jan-chm2",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM2",
+      "level": "AS",
+      "question": "4(c)(iv)",
+      "questionNumber": "4(c)(iv)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "Redox"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "State the role of sulphur in its reaction with concentrated nitric acid.",
+      "specRef": "3.1.6",
+      "image": "img/2009-jan-chm2/q4civ.jpg",
+      "markscheme": "img/2009-jan-chm2/ms/q4civ.png",
+      "figures": []
     }
   ]
 }
