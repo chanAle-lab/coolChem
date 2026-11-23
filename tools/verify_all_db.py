@@ -35,6 +35,8 @@ def verify():
         ms_rel = q.get("markscheme")
         if isinstance(ms_rel, dict):
             ms_rel = ms_rel.get("image")
+        elif isinstance(ms_rel, list):
+            ms_rel = ms_rel[0] if ms_rel else None
         if not ms_rel:
             invalid_ms_key.append(q["id"])
         else:
