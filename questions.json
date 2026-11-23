@@ -1080,6 +1080,54 @@
       "spec": "AQA Chemistry",
       "totalMarks": 90,
       "duration": "1 hour 30 mins"
+    },
+    {
+      "id": "2007-june-chm2",
+      "year": 2007,
+      "series": "June",
+      "date": "2007-06-06",
+      "code": "CHM2",
+      "unit": "Unit 2: Foundation Physical and Inorganic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "totalMarks": 60,
+      "duration": "1 hour"
+    },
+    {
+      "id": "2007-june-chm3w",
+      "year": 2007,
+      "series": "June",
+      "date": "2007-06-06",
+      "code": "CHM3/W",
+      "unit": "Unit 3(a): Introduction to Organic Chemistry",
+      "level": "AS",
+      "spec": "AQA Chemistry",
+      "totalMarks": 60,
+      "duration": "1 hour"
+    },
+    {
+      "id": "2007-june-chm5",
+      "year": 2007,
+      "series": "June",
+      "date": "2007-06-25",
+      "code": "CHM5",
+      "unit": "Unit 5: Thermodynamics and Further Inorganic Chemistry",
+      "level": "A",
+      "spec": "AQA Chemistry",
+      "totalMarks": 120,
+      "duration": "2 hours"
+    },
+    {
+      "id": "2007-june-chm4",
+      "year": 2007,
+      "series": "June",
+      "date": "2007-06-18",
+      "code": "CHM4",
+      "unit": "Unit 4: Further Physical and Organic Chemistry",
+      "level": "A",
+      "spec": "AQA Chemistry",
+      "totalMarks": 90,
+      "duration": "1 hour 30 mins"
     }
   ],
   "questions": [
@@ -41005,6 +41053,2388 @@
         "img/2007-jan-chm4/fig-q5-curve.jpg"
       ],
       "markscheme": "img/2007-jan-chm4/ms_q5cii.jpg"
+    },
+    {
+      "id": "2007-june-chm2-q1ai",
+      "paper": "2007-june-chm2",
+      "question": "1(a)(i)",
+      "marks": 2,
+      "page": 2,
+      "topics": [
+        "3.1.5"
+      ],
+      "skills": [
+        "practical",
+        "recall"
+      ],
+      "summary": "Draw a Maxwell-Boltzmann distribution of molecular energies for a gas at temperature T on the given axes.",
+      "question_text": "Draw a Maxwell-Boltzmann distribution of molecular energies for a gas at temperature T on the given axes.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm2/2007-june-chm2-q1ai.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm2/ms_q1ai.jpg"
+    },
+    {
+      "id": "2007-june-chm2-q1aii",
+      "paper": "2007-june-chm2",
+      "question": "1(a)(ii)",
+      "marks": 2,
+      "page": 2,
+      "topics": [
+        "3.1.5"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "State the meaning of the term activation energy.",
+      "question_text": "State the meaning of the term activation energy.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm2/2007-june-chm2-q1aii.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm2/ms_q1aii.jpg"
+    },
+    {
+      "id": "2007-june-chm2-q1aiii",
+      "paper": "2007-june-chm2",
+      "question": "1(a)(iii)",
+      "marks": 1,
+      "page": 2,
+      "topics": [
+        "3.1.5"
+      ],
+      "skills": [
+        "application"
+      ],
+      "summary": "Shade on the graph the area that represents the number of molecules which can react at temperature T.",
+      "question_text": "Shade on the graph the area that represents the number of molecules which can react at temperature T.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm2/2007-june-chm2-q1aiii.jpg",
+      "figures": [
+        "img/2007-june-chm2/fig-q1-axes.jpg"
+      ],
+      "markscheme": "img/2007-june-chm2/ms_q1aiii.jpg"
+    },
+    {
+      "id": "2007-june-chm2-q1bi",
+      "paper": "2007-june-chm2",
+      "question": "1(b)(i)",
+      "marks": 1,
+      "page": 2,
+      "topics": [
+        "3.1.5"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "State the effect on the activation energy of increasing the temperature.",
+      "question_text": "State the effect on the activation energy of increasing the temperature.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm2/2007-june-chm2-q1bi.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm2/ms_q1bi.jpg"
+    },
+    {
+      "id": "2007-june-chm2-q1bii",
+      "paper": "2007-june-chm2",
+      "question": "1(b)(ii)",
+      "marks": 2,
+      "page": 2,
+      "topics": [
+        "3.1.5"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "Explain why reactions involving gases become faster as the temperature increases.",
+      "question_text": "Explain why reactions involving gases become faster as the temperature increases.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm2/2007-june-chm2-q1bii.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm2/ms_q1bii.jpg"
+    },
+    {
+      "id": "2007-june-chm2-q1c",
+      "paper": "2007-june-chm2",
+      "question": "1(c)",
+      "marks": 3,
+      "page": 2,
+      "topics": [
+        "3.1.5"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "State and explain the effect of a catalyst on the rate of a gas-phase reaction.",
+      "question_text": "State and explain the effect of a catalyst on the rate of a gas-phase reaction.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm2/2007-june-chm2-q1c.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm2/ms_q1c.jpg"
+    },
+    {
+      "id": "2007-june-chm2-q2ai",
+      "paper": "2007-june-chm2",
+      "question": "2(a)(i)",
+      "marks": 2,
+      "page": 5,
+      "topics": [
+        "3.1.7"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "In terms of electrons, state what is meant by reduction and reducing agent.",
+      "question_text": "In terms of electrons, state what is meant by reduction and reducing agent.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm2/2007-june-chm2-q2ai.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm2/ms_q2ai.jpg"
+    },
+    {
+      "id": "2007-june-chm2-q2aii",
+      "paper": "2007-june-chm2",
+      "question": "2(a)(ii)",
+      "marks": 2,
+      "page": 5,
+      "topics": [
+        "3.1.7"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Identify a reducing agent that can reduce Fe2O3 to iron in the Blast Furnace and write an equation for the reaction.",
+      "question_text": "Identify a reducing agent that can reduce Fe2O3 to iron in the Blast Furnace and write an equation for the reaction.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm2/2007-june-chm2-q2aii.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm2/ms_q2aii.jpg"
+    },
+    {
+      "id": "2007-june-chm2-q2aiii",
+      "paper": "2007-june-chm2",
+      "question": "2(a)(iii)",
+      "marks": 1,
+      "page": 5,
+      "topics": [
+        "3.1.7"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Give one essential condition needed for the reduction of Fe2O3 in the Blast Furnace.",
+      "question_text": "Give one essential condition needed for the reduction of Fe2O3 in the Blast Furnace.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm2/2007-june-chm2-q2aiii.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm2/ms_q2aiii.jpg"
+    },
+    {
+      "id": "2007-june-chm2-q2b",
+      "paper": "2007-june-chm2",
+      "question": "2(b)",
+      "marks": 2,
+      "page": 5,
+      "topics": [
+        "3.1.7"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "Explain how carbon impurity is removed from molten iron obtained from the Blast Furnace.",
+      "question_text": "Explain how carbon impurity is removed from molten iron obtained from the Blast Furnace.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm2/2007-june-chm2-q2b.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm2/ms_q2b.jpg"
+    },
+    {
+      "id": "2007-june-chm2-q2ci",
+      "paper": "2007-june-chm2",
+      "question": "2(c)(i)",
+      "marks": 2,
+      "page": 5,
+      "topics": [
+        "3.1.7"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Write equations for Stage 1 and Stage 2 in the two-stage extraction of titanium from TiO2.",
+      "question_text": "Write equations for Stage 1 and Stage 2 in the two-stage extraction of titanium from TiO2.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm2/2007-june-chm2-q2ci.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm2/ms_q2ci.jpg"
+    },
+    {
+      "id": "2007-june-chm2-q2cii",
+      "paper": "2007-june-chm2",
+      "question": "2(c)(ii)",
+      "marks": 2,
+      "page": 5,
+      "topics": [
+        "3.1.7"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "Give one essential condition, other than temperature, for the second stage of titanium extraction and state why it is necessary.",
+      "question_text": "Give one essential condition, other than temperature, for the second stage of titanium extraction and state why it is necessary.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm2/2007-june-chm2-q2cii.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm2/ms_q2cii.jpg"
+    },
+    {
+      "id": "2007-june-chm2-q2d",
+      "paper": "2007-june-chm2",
+      "question": "2(d)",
+      "marks": 2,
+      "page": 5,
+      "topics": [
+        "3.1.7"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Give two reasons why titanium is expensive to extract.",
+      "question_text": "Give two reasons why titanium is expensive to extract.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm2/2007-june-chm2-q2d.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm2/ms_q2d.jpg"
+    },
+    {
+      "id": "2007-june-chm2-q3a",
+      "paper": "2007-june-chm2",
+      "question": "3(a)",
+      "marks": 3,
+      "page": 6,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Define the term standard enthalpy of formation.",
+      "question_text": "Define the term standard enthalpy of formation.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm2/2007-june-chm2-q3a.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm2/ms_q3a.jpg"
+    },
+    {
+      "id": "2007-june-chm2-q3b",
+      "paper": "2007-june-chm2",
+      "question": "3(b)",
+      "marks": 2,
+      "page": 6,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [
+        "application"
+      ],
+      "summary": "Write an equation, including state symbols, for the reaction with an enthalpy change equal to the standard enthalpy of formation of liquid nitric acid, HNO3.",
+      "question_text": "Write an equation, including state symbols, for the reaction with an enthalpy change equal to the standard enthalpy of formation of liquid nitric acid, HNO3.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm2/2007-june-chm2-q3b.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm2/ms_q3b.jpg"
+    },
+    {
+      "id": "2007-june-chm2-q3c",
+      "paper": "2007-june-chm2",
+      "question": "3(c)",
+      "marks": 1,
+      "page": 6,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "State Hess's Law.",
+      "question_text": "State Hess's Law.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm2/2007-june-chm2-q3c.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm2/ms_q3c.jpg"
+    },
+    {
+      "id": "2007-june-chm2-q3di",
+      "paper": "2007-june-chm2",
+      "question": "3(d)(i)",
+      "marks": 1,
+      "page": 6,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "State why the standard enthalpy of formation of O2(g) is zero.",
+      "question_text": "State why the standard enthalpy of formation of O2(g) is zero.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm2/2007-june-chm2-q3di.jpg",
+      "figures": [
+        "img/2007-june-chm2/fig-q3-table.jpg"
+      ],
+      "markscheme": "img/2007-june-chm2/ms_q3di.jpg"
+    },
+    {
+      "id": "2007-june-chm2-q3dii",
+      "paper": "2007-june-chm2",
+      "question": "3(d)(ii)",
+      "marks": 4,
+      "page": 6,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Use the enthalpy of formation data and ΔH = -128 kJ mol-1 for H2O(l) + 2NO2(g) + 1/2 O2(g) -> 2HNO3(l) to calculate ΔHf for nitric acid.",
+      "question_text": "Use the enthalpy of formation data and ΔH = -128 kJ mol-1 for H2O(l) + 2NO2(g) + 1/2 O2(g) -> 2HNO3(l) to calculate ΔHf for nitric acid.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm2/2007-june-chm2-q3dii.jpg",
+      "figures": [
+        "img/2007-june-chm2/fig-q3-table.jpg"
+      ],
+      "markscheme": "img/2007-june-chm2/ms_q3dii.jpg"
+    },
+    {
+      "id": "2007-june-chm2-q4a",
+      "paper": "2007-june-chm2",
+      "question": "4(a)",
+      "marks": 2,
+      "page": 7,
+      "topics": [
+        "3.1.6"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "State what is meant by dynamic equilibrium for 2NO(g) + O2(g) <-> 2NO2(g).",
+      "question_text": "State what is meant by dynamic equilibrium for 2NO(g) + O2(g) <-> 2NO2(g).",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm2/2007-june-chm2-q4a.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm2/ms_q4a.jpg"
+    },
+    {
+      "id": "2007-june-chm2-q4b",
+      "paper": "2007-june-chm2",
+      "question": "4(b)",
+      "marks": 3,
+      "page": 7,
+      "topics": [
+        "3.1.6"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "State and explain how the total pressure should be changed to give a higher equilibrium yield of NO2 in 2NO(g) + O2(g) <-> 2NO2(g).",
+      "question_text": "State and explain how the total pressure should be changed to give a higher equilibrium yield of NO2 in 2NO(g) + O2(g) <-> 2NO2(g).",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm2/2007-june-chm2-q4b.jpg",
+      "figures": [
+        "img/2007-june-chm2/fig-q4-eq.jpg"
+      ],
+      "markscheme": "img/2007-june-chm2/ms_q4b.jpg"
+    },
+    {
+      "id": "2007-june-chm2-q4c",
+      "paper": "2007-june-chm2",
+      "question": "4(c)",
+      "marks": 3,
+      "page": 7,
+      "topics": [
+        "3.1.6"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "State and explain the effect of an increase in temperature on the yield of NO2 in 2NO(g) + O2(g) <-> 2NO2(g), ΔH = -115 kJ mol-1.",
+      "question_text": "State and explain the effect of an increase in temperature on the yield of NO2 in 2NO(g) + O2(g) <-> 2NO2(g), ΔH = -115 kJ mol-1.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm2/2007-june-chm2-q4c.jpg",
+      "figures": [
+        "img/2007-june-chm2/fig-q4-eq.jpg"
+      ],
+      "markscheme": "img/2007-june-chm2/ms_q4c.jpg"
+    },
+    {
+      "id": "2007-june-chm2-q4d",
+      "paper": "2007-june-chm2",
+      "question": "4(d)",
+      "marks": 2,
+      "page": 7,
+      "topics": [
+        "3.1.7"
+      ],
+      "skills": [
+        "application"
+      ],
+      "summary": "Deduce the oxidation state of nitrogen in NO3- and in NO2+.",
+      "question_text": "Deduce the oxidation state of nitrogen in NO3- and in NO2+.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm2/2007-june-chm2-q4d.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm2/ms_q4d.jpg"
+    },
+    {
+      "id": "2007-june-chm3w-q1ai",
+      "paper": "2007-june-chm3w",
+      "question": "1(a)(i)",
+      "marks": 1,
+      "page": 4,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "State what is meant by the term hydrocarbon.",
+      "question_text": "State what is meant by the term hydrocarbon.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm3w/2007-june-chm3w-q1ai.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm3w/ms_q1ai.jpg"
+    },
+    {
+      "id": "2007-june-chm3w-q1aii",
+      "paper": "2007-june-chm3w",
+      "question": "1(a)(ii)",
+      "marks": 2,
+      "page": 4,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "State the two physical changes which occur during the fractional distillation of petroleum.",
+      "question_text": "State the two physical changes which occur during the fractional distillation of petroleum.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm3w/2007-june-chm3w-q1aii.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm3w/ms_q1aii.jpg"
+    },
+    {
+      "id": "2007-june-chm3w-q1bi",
+      "paper": "2007-june-chm3w",
+      "question": "1(b)(i)",
+      "marks": 1,
+      "page": 4,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [
+        "application"
+      ],
+      "summary": "Draw the structure of the repeating unit of poly(ethene).",
+      "question_text": "Draw the structure of the repeating unit of poly(ethene).",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm3w/2007-june-chm3w-q1bi.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm3w/ms_q1bi.jpg"
+    },
+    {
+      "id": "2007-june-chm3w-q1bii",
+      "paper": "2007-june-chm3w",
+      "question": "1(b)(ii)",
+      "marks": 1,
+      "page": 4,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "State why epoxyethane is a very reactive compound.",
+      "question_text": "State why epoxyethane is a very reactive compound.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm3w/2007-june-chm3w-q1bii.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm3w/ms_q1bii.jpg"
+    },
+    {
+      "id": "2007-june-chm3w-q1biii",
+      "paper": "2007-june-chm3w",
+      "question": "1(b)(iii)",
+      "marks": 1,
+      "page": 4,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Name the product formed when epoxyethane reacts with water.",
+      "question_text": "Name the product formed when epoxyethane reacts with water.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm3w/2007-june-chm3w-q1biii.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm3w/ms_q1biii.jpg"
+    },
+    {
+      "id": "2007-june-chm3w-q2ai",
+      "paper": "2007-june-chm3w",
+      "question": "2(a)(i)",
+      "marks": 1,
+      "page": 5,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Name the type of reactive intermediate formed during the catalytic cracking of alkanes.",
+      "question_text": "Name the type of reactive intermediate formed during the catalytic cracking of alkanes.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm3w/2007-june-chm3w-q2ai.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm3w/ms_q2ai.jpg"
+    },
+    {
+      "id": "2007-june-chm3w-q2aii",
+      "paper": "2007-june-chm3w",
+      "question": "2(a)(ii)",
+      "marks": 1,
+      "page": 5,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Identify a catalyst used in catalytic cracking.",
+      "question_text": "Identify a catalyst used in catalytic cracking.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm3w/2007-june-chm3w-q2aii.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm3w/ms_q2aii.jpg"
+    },
+    {
+      "id": "2007-june-chm3w-q2bi",
+      "paper": "2007-june-chm3w",
+      "question": "2(b)(i)",
+      "marks": 1,
+      "page": 5,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Name the type of reactive intermediate formed during the thermal cracking of alkanes.",
+      "question_text": "Name the type of reactive intermediate formed during the thermal cracking of alkanes.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm3w/2007-june-chm3w-q2bi.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm3w/ms_q2bi.jpg"
+    },
+    {
+      "id": "2007-june-chm3w-q2bii",
+      "paper": "2007-june-chm3w",
+      "question": "2(b)(ii)",
+      "marks": 1,
+      "page": 5,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [
+        "application"
+      ],
+      "summary": "Write an equation for the thermal cracking of one molecule of C10H22 to produce a different alkane and propene only.",
+      "question_text": "Write an equation for the thermal cracking of one molecule of C10H22 to produce a different alkane and propene only.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm3w/2007-june-chm3w-q2bii.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm3w/ms_q2bii.jpg"
+    },
+    {
+      "id": "2007-june-chm3w-q2ci",
+      "paper": "2007-june-chm3w",
+      "question": "2(c)(i)",
+      "marks": 1,
+      "page": 5,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "State which type of cracking is more likely to produce cyclohexane as one of the products.",
+      "question_text": "State which type of cracking is more likely to produce cyclohexane as one of the products.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm3w/2007-june-chm3w-q2ci.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm3w/ms_q2ci.jpg"
+    },
+    {
+      "id": "2007-june-chm3w-q2cii",
+      "paper": "2007-june-chm3w",
+      "question": "2(c)(ii)",
+      "marks": 1,
+      "page": 5,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "State the conditions necessary for cyclohexane to undergo complete combustion.",
+      "question_text": "State the conditions necessary for cyclohexane to undergo complete combustion.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm3w/2007-june-chm3w-q2cii.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm3w/ms_q2cii.jpg"
+    },
+    {
+      "id": "2007-june-chm3w-q2ciii",
+      "paper": "2007-june-chm3w",
+      "question": "2(c)(iii)",
+      "marks": 1,
+      "page": 5,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [
+        "application"
+      ],
+      "summary": "Draw the structure of cyclohexane.",
+      "question_text": "Draw the structure of cyclohexane.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm3w/2007-june-chm3w-q2ciii.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm3w/ms_q2ciii.jpg"
+    },
+    {
+      "id": "2007-june-chm3w-q2civ",
+      "paper": "2007-june-chm3w",
+      "question": "2(c)(iv)",
+      "marks": 1,
+      "page": 5,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [
+        "application"
+      ],
+      "summary": "Write an equation for the incomplete combustion of C6H12 to form carbon and water only.",
+      "question_text": "Write an equation for the incomplete combustion of C6H12 to form carbon and water only.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm3w/2007-june-chm3w-q2civ.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm3w/ms_q2civ.jpg"
+    },
+    {
+      "id": "2007-june-chm3w-q2di",
+      "paper": "2007-june-chm3w",
+      "question": "2(d)(i)",
+      "marks": 2,
+      "page": 6,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Write an equation for the formation of nitrogen monoxide in a petrol engine and state one essential condition.",
+      "question_text": "Write an equation for the formation of nitrogen monoxide in a petrol engine and state one essential condition.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm3w/2007-june-chm3w-q2di.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm3w/ms_q2di.jpg"
+    },
+    {
+      "id": "2007-june-chm3w-q2dii",
+      "paper": "2007-june-chm3w",
+      "question": "2(d)(ii)",
+      "marks": 1,
+      "page": 6,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Identify one of the metals used as a catalyst in a catalytic converter.",
+      "question_text": "Identify one of the metals used as a catalyst in a catalytic converter.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm3w/2007-june-chm3w-q2dii.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm3w/ms_q2dii.jpg"
+    },
+    {
+      "id": "2007-june-chm3w-q2diii",
+      "paper": "2007-june-chm3w",
+      "question": "2(d)(iii)",
+      "marks": 1,
+      "page": 6,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Write an equation to show how carbon monoxide and nitrogen monoxide react together in a catalytic converter.",
+      "question_text": "Write an equation to show how carbon monoxide and nitrogen monoxide react together in a catalytic converter.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm3w/2007-june-chm3w-q2diii.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm3w/ms_q2diii.jpg"
+    },
+    {
+      "id": "2007-june-chm3w-q3ai",
+      "paper": "2007-june-chm3w",
+      "question": "3(a)(i)",
+      "marks": 1,
+      "page": 7,
+      "topics": [
+        "3.3.5"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Name the process occurring in Reaction 1 (glucose with yeast to form ethanol).",
+      "question_text": "Name the process occurring in Reaction 1 (glucose with yeast to form ethanol).",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm3w/2007-june-chm3w-q3ai.jpg",
+      "figures": [
+        "img/2007-june-chm3w/fig-q3-scheme.jpg"
+      ],
+      "markscheme": "img/2007-june-chm3w/ms_q3ai.jpg"
+    },
+    {
+      "id": "2007-june-chm3w-q3aii",
+      "paper": "2007-june-chm3w",
+      "question": "3(a)(ii)",
+      "marks": 2,
+      "page": 7,
+      "topics": [
+        "3.3.5"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Write an equation for Reaction 1 (fermentation of glucose) and state a suitable temperature.",
+      "question_text": "Write an equation for Reaction 1 (fermentation of glucose) and state a suitable temperature.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm3w/2007-june-chm3w-q3aii.jpg",
+      "figures": [
+        "img/2007-june-chm3w/fig-q3-scheme.jpg"
+      ],
+      "markscheme": "img/2007-june-chm3w/ms_q3aii.jpg"
+    },
+    {
+      "id": "2007-june-chm3w-q3b",
+      "paper": "2007-june-chm3w",
+      "question": "3(b)",
+      "marks": 1,
+      "page": 7,
+      "topics": [
+        "3.3.5"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Name the type of mechanism in Reaction 2 (ethanol to ethene).",
+      "question_text": "Name the type of mechanism in Reaction 2 (ethanol to ethene).",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm3w/2007-june-chm3w-q3b.jpg",
+      "figures": [
+        "img/2007-june-chm3w/fig-q3-scheme.jpg"
+      ],
+      "markscheme": "img/2007-june-chm3w/ms_q3b.jpg"
+    },
+    {
+      "id": "2007-june-chm3w-q3c",
+      "paper": "2007-june-chm3w",
+      "question": "3(c)",
+      "marks": 4,
+      "page": 7,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [
+        "mechanism"
+      ],
+      "summary": "Outline a mechanism for Reaction 3 (ethene + Br2 -> 1,2-dibromoethane).",
+      "question_text": "Outline a mechanism for Reaction 3 (ethene + Br2 -> 1,2-dibromoethane).",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm3w/2007-june-chm3w-q3c.jpg",
+      "figures": [
+        "img/2007-june-chm3w/fig-q3-scheme.jpg"
+      ],
+      "markscheme": "img/2007-june-chm3w/ms_q3c.jpg"
+    },
+    {
+      "id": "2007-june-chm3w-q3di",
+      "paper": "2007-june-chm3w",
+      "question": "3(d)(i)",
+      "marks": 1,
+      "page": 8,
+      "topics": [
+        "3.3.3"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Name the type of mechanism in Reaction 4 (1,2-dibromoethane with KCN -> Compound W).",
+      "question_text": "Name the type of mechanism in Reaction 4 (1,2-dibromoethane with KCN -> Compound W).",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm3w/2007-june-chm3w-q3di.jpg",
+      "figures": [
+        "img/2007-june-chm3w/fig-q3-scheme.jpg"
+      ],
+      "markscheme": "img/2007-june-chm3w/ms_q3di.jpg"
+    },
+    {
+      "id": "2007-june-chm3w-q3dii",
+      "paper": "2007-june-chm3w",
+      "question": "3(d)(ii)",
+      "marks": 1,
+      "page": 8,
+      "topics": [
+        "3.3.3"
+      ],
+      "skills": [
+        "application"
+      ],
+      "summary": "Draw the structural formula of compound W (Mr = 80.0), showing all of the bonds in the molecule.",
+      "question_text": "Draw the structural formula of compound W (Mr = 80.0), showing all of the bonds in the molecule.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm3w/2007-june-chm3w-q3dii.jpg",
+      "figures": [
+        "img/2007-june-chm3w/fig-q3-scheme.jpg"
+      ],
+      "markscheme": "img/2007-june-chm3w/ms_q3dii.jpg"
+    },
+    {
+      "id": "2007-june-chm3w-q4ai",
+      "paper": "2007-june-chm3w",
+      "question": "4(a)(i)",
+      "marks": 1,
+      "page": 9,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [
+        "application"
+      ],
+      "summary": "Name Compound X, CH3CH(OH)CH3.",
+      "question_text": "Name Compound X, CH3CH(OH)CH3.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm3w/2007-june-chm3w-q4ai.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm3w/ms_q4ai.jpg"
+    },
+    {
+      "id": "2007-june-chm3w-q4aii",
+      "paper": "2007-june-chm3w",
+      "question": "4(a)(ii)",
+      "marks": 1,
+      "page": 9,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [
+        "application"
+      ],
+      "summary": "Draw the structure of the position isomer of Compound X (CH3CH(OH)CH3).",
+      "question_text": "Draw the structure of the position isomer of Compound X (CH3CH(OH)CH3).",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm3w/2007-june-chm3w-q4aii.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm3w/ms_q4aii.jpg"
+    },
+    {
+      "id": "2007-june-chm3w-q4bi",
+      "paper": "2007-june-chm3w",
+      "question": "4(b)(i)",
+      "marks": 1,
+      "page": 9,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [
+        "application"
+      ],
+      "summary": "Name Compound Y, (CH3)2C=C(CH3)2.",
+      "question_text": "Name Compound Y, (CH3)2C=C(CH3)2.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm3w/2007-june-chm3w-q4bi.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm3w/ms_q4bi.jpg"
+    },
+    {
+      "id": "2007-june-chm3w-q4bii",
+      "paper": "2007-june-chm3w",
+      "question": "4(b)(ii)",
+      "marks": 1,
+      "page": 9,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [
+        "application"
+      ],
+      "summary": "Draw the structure of a straight-chain isomer of Compound Y ((CH3)2C=C(CH3)2).",
+      "question_text": "Draw the structure of a straight-chain isomer of Compound Y ((CH3)2C=C(CH3)2).",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm3w/2007-june-chm3w-q4bii.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm3w/ms_q4bii.jpg"
+    },
+    {
+      "id": "2007-june-chm3w-q4ci",
+      "paper": "2007-june-chm3w",
+      "question": "4(c)(i)",
+      "marks": 1,
+      "page": 9,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [
+        "application"
+      ],
+      "summary": "Name Compound Z, CH3CH2COCH2CH3.",
+      "question_text": "Name Compound Z, CH3CH2COCH2CH3.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm3w/2007-june-chm3w-q4ci.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm3w/ms_q4ci.jpg"
+    },
+    {
+      "id": "2007-june-chm3w-q4cii",
+      "paper": "2007-june-chm3w",
+      "question": "4(c)(ii)",
+      "marks": 1,
+      "page": 9,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [
+        "application"
+      ],
+      "summary": "Draw the structure of a functional group isomer of Compound Z (CH3CH2COCH2CH3) which contains a C=O group.",
+      "question_text": "Draw the structure of a functional group isomer of Compound Z (CH3CH2COCH2CH3) which contains a C=O group.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm3w/2007-june-chm3w-q4cii.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm3w/ms_q4cii.jpg"
+    },
+    {
+      "id": "2007-june-chm3w-q4di",
+      "paper": "2007-june-chm3w",
+      "question": "4(d)(i)",
+      "marks": 1,
+      "page": 10,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Name the type of stereoisomerism shown by 1,2-dibromoethene.",
+      "question_text": "Name the type of stereoisomerism shown by 1,2-dibromoethene.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm3w/2007-june-chm3w-q4di.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm3w/ms_q4di.jpg"
+    },
+    {
+      "id": "2007-june-chm3w-q4dii",
+      "paper": "2007-june-chm3w",
+      "question": "4(d)(ii)",
+      "marks": 2,
+      "page": 10,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [
+        "application"
+      ],
+      "summary": "Draw and name the two stereoisomers of 1,2-dibromoethene.",
+      "question_text": "Draw and name the two stereoisomers of 1,2-dibromoethene.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm3w/2007-june-chm3w-q4dii.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm3w/ms_q4dii.jpg"
+    },
+    {
+      "id": "2007-june-chm3w-q4e",
+      "paper": "2007-june-chm3w",
+      "question": "4(e)",
+      "marks": 1,
+      "page": 10,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "State what feature of the double bond in 1,2-dibromoethene prevents Stereoisomer 1 from changing into Stereoisomer 2.",
+      "question_text": "State what feature of the double bond in 1,2-dibromoethene prevents Stereoisomer 1 from changing into Stereoisomer 2.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm3w/2007-june-chm3w-q4e.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm3w/ms_q4e.jpg"
+    },
+    {
+      "id": "2007-june-chm3w-q5a",
+      "paper": "2007-june-chm3w",
+      "question": "5(a)",
+      "marks": 1,
+      "page": 11,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [
+        "application"
+      ],
+      "summary": "Give the molecular formula of stearic acid, CH3(CH2)16COOH.",
+      "question_text": "Give the molecular formula of stearic acid, CH3(CH2)16COOH.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm3w/2007-june-chm3w-q5a.jpg",
+      "figures": [
+        "img/2007-june-chm3w/fig-q5-table.jpg"
+      ],
+      "markscheme": "img/2007-june-chm3w/ms_q5a.jpg"
+    },
+    {
+      "id": "2007-june-chm3w-q5bi",
+      "paper": "2007-june-chm3w",
+      "question": "5(b)(i)",
+      "marks": 1,
+      "page": 11,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [
+        "application"
+      ],
+      "summary": "Give the empirical formula of linoleic acid, CH3(CH2)4CH=CHCH2CH=CH(CH2)7COOH.",
+      "question_text": "Give the empirical formula of linoleic acid, CH3(CH2)4CH=CHCH2CH=CH(CH2)7COOH.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm3w/2007-june-chm3w-q5bi.jpg",
+      "figures": [
+        "img/2007-june-chm3w/fig-q5-table.jpg"
+      ],
+      "markscheme": "img/2007-june-chm3w/ms_q5bi.jpg"
+    },
+    {
+      "id": "2007-june-chm3w-q5bii",
+      "paper": "2007-june-chm3w",
+      "question": "5(b)(ii)",
+      "marks": 2,
+      "page": 11,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Identify the reagent and catalyst needed to convert linoleic acid into stearic acid.",
+      "question_text": "Identify the reagent and catalyst needed to convert linoleic acid into stearic acid.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm3w/2007-june-chm3w-q5bii.jpg",
+      "figures": [
+        "img/2007-june-chm3w/fig-q5-table.jpg"
+      ],
+      "markscheme": "img/2007-june-chm3w/ms_q5bii.jpg"
+    },
+    {
+      "id": "2007-june-chm3w-q5ci",
+      "paper": "2007-june-chm3w",
+      "question": "5(c)(i)",
+      "marks": 1,
+      "page": 11,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Name the type of reaction involved in converting linoleic acid into ricinoleic acid.",
+      "question_text": "Name the type of reaction involved in converting linoleic acid into ricinoleic acid.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm3w/2007-june-chm3w-q5ci.jpg",
+      "figures": [
+        "img/2007-june-chm3w/fig-q5-table.jpg"
+      ],
+      "markscheme": "img/2007-june-chm3w/ms_q5ci.jpg"
+    },
+    {
+      "id": "2007-june-chm3w-q5cii",
+      "paper": "2007-june-chm3w",
+      "question": "5(c)(ii)",
+      "marks": 1,
+      "page": 11,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "Suggest why the conversion of linoleic acid into ricinoleic acid leads to the formation of more than one organic product.",
+      "question_text": "Suggest why the conversion of linoleic acid into ricinoleic acid leads to the formation of more than one organic product.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm3w/2007-june-chm3w-q5cii.jpg",
+      "figures": [
+        "img/2007-june-chm3w/fig-q5-table.jpg"
+      ],
+      "markscheme": "img/2007-june-chm3w/ms_q5cii.jpg"
+    },
+    {
+      "id": "2007-june-chm3w-q5d",
+      "paper": "2007-june-chm3w",
+      "question": "5(d)",
+      "marks": 1,
+      "page": 11,
+      "topics": [
+        "3.3.5"
+      ],
+      "skills": [
+        "application"
+      ],
+      "summary": "Identify the class of alcohols to which ricinoleic acid, CH3(CH2)4CH2CH(OH)CH2CH=CH(CH2)7COOH, belongs.",
+      "question_text": "Identify the class of alcohols to which ricinoleic acid, CH3(CH2)4CH2CH(OH)CH2CH=CH(CH2)7COOH, belongs.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm3w/2007-june-chm3w-q5d.jpg",
+      "figures": [
+        "img/2007-june-chm3w/fig-q5-table.jpg"
+      ],
+      "markscheme": "img/2007-june-chm3w/ms_q5d.jpg"
+    },
+    {
+      "id": "2007-june-chm5-q1a",
+      "paper": "2007-june-chm5",
+      "question": "1(a)",
+      "marks": 4,
+      "page": 2,
+      "topics": [
+        "3.1.8"
+      ],
+      "skills": [
+        "application"
+      ],
+      "summary": "Complete the Born-Haber cycle for magnesium chloride by writing the appropriate chemical formulae with state symbols.",
+      "question_text": "Complete the Born-Haber cycle for magnesium chloride by writing the appropriate chemical formulae with state symbols.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm5/2007-june-chm5-q1a.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm5/ms_q1a.jpg"
+    },
+    {
+      "id": "2007-june-chm5-q1b",
+      "paper": "2007-june-chm5",
+      "question": "1(b)",
+      "marks": 3,
+      "page": 2,
+      "topics": [
+        "3.1.8"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Use the Born-Haber cycle and table of data to calculate the second ionisation enthalpy of magnesium.",
+      "question_text": "Use the Born-Haber cycle and table of data to calculate the second ionisation enthalpy of magnesium.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm5/2007-june-chm5-q1b.jpg",
+      "figures": [
+        "img/2007-june-chm5/fig-q1-cycle-table.jpg"
+      ],
+      "markscheme": "img/2007-june-chm5/ms_q1b.jpg"
+    },
+    {
+      "id": "2007-june-chm5-q1c",
+      "paper": "2007-june-chm5",
+      "question": "1(c)",
+      "marks": 3,
+      "page": 5,
+      "topics": [
+        "3.1.8"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate the enthalpy of solution of magnesium chloride using hydration enthalpies (-1920 and -364 kJ mol-1) and lattice enthalpy.",
+      "question_text": "Calculate the enthalpy of solution of magnesium chloride using hydration enthalpies (-1920 and -364 kJ mol-1) and lattice enthalpy.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm5/2007-june-chm5-q1c.jpg",
+      "figures": [
+        "img/2007-june-chm5/fig-q1-cycle-table.jpg"
+      ],
+      "markscheme": "img/2007-june-chm5/ms_q1c.jpg"
+    },
+    {
+      "id": "2007-june-chm5-q1di",
+      "paper": "2007-june-chm5",
+      "question": "1(d)(i)",
+      "marks": 2,
+      "page": 5,
+      "topics": [
+        "3.1.8"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "Explain why ammonium chloride dissolves spontaneously in water even though its enthalpy of solution is +15 kJ mol-1 (endothermic).",
+      "question_text": "Explain why ammonium chloride dissolves spontaneously in water even though its enthalpy of solution is +15 kJ mol-1 (endothermic).",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm5/2007-june-chm5-q1di.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm5/ms_q1di.jpg"
+    },
+    {
+      "id": "2007-june-chm5-q1dii",
+      "paper": "2007-june-chm5",
+      "question": "1(d)(ii)",
+      "marks": 5,
+      "page": 5,
+      "topics": [
+        "3.1.4",
+        "3.1.8"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate the temperature change and final temperature when 2.0 g NH4Cl dissolves in 50 g water at 20 °C (c = 4.2 J K-1 g-1).",
+      "question_text": "Calculate the temperature change and final temperature when 2.0 g NH4Cl dissolves in 50 g water at 20 °C (c = 4.2 J K-1 g-1).",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm5/2007-june-chm5-q1dii.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm5/ms_q1dii.jpg"
+    },
+    {
+      "id": "2007-june-chm5-q2a",
+      "paper": "2007-june-chm5",
+      "question": "2(a)",
+      "marks": 8,
+      "page": 6,
+      "topics": [
+        "3.1.8"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate ΔH, ΔS and ΔG at 298 K for Al2O3(s) + 3C(s) -> 2Al(s) + 3CO(g) and suggest why it is not feasible at 298 K.",
+      "question_text": "Calculate ΔH, ΔS and ΔG at 298 K for Al2O3(s) + 3C(s) -> 2Al(s) + 3CO(g) and suggest why it is not feasible at 298 K.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm5/2007-june-chm5-q2a.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm5/ms_q2a.jpg"
+    },
+    {
+      "id": "2007-june-chm5-q2b",
+      "paper": "2007-june-chm5",
+      "question": "2(b)",
+      "marks": 2,
+      "page": 7,
+      "topics": [
+        "3.1.8"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate the temperature above which the reduction of Al2O3 by carbon is feasible.",
+      "question_text": "Calculate the temperature above which the reduction of Al2O3 by carbon is feasible.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm5/2007-june-chm5-q2b.jpg",
+      "figures": [
+        "img/2007-june-chm5/fig-q2-table.jpg"
+      ],
+      "markscheme": "img/2007-june-chm5/ms_q2b.jpg"
+    },
+    {
+      "id": "2007-june-chm5-q2c",
+      "paper": "2007-june-chm5",
+      "question": "2(c)",
+      "marks": 1,
+      "page": 7,
+      "topics": [
+        "3.1.5",
+        "3.1.8"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "Give one reason why Al2O3 reduction by carbon does not occur significantly until ~1000 K above the minimum feasible temperature.",
+      "question_text": "Give one reason why Al2O3 reduction by carbon does not occur significantly until ~1000 K above the minimum feasible temperature.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm5/2007-june-chm5-q2c.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm5/ms_q2c.jpg"
+    },
+    {
+      "id": "2007-june-chm5-q2d",
+      "paper": "2007-june-chm5",
+      "question": "2(d)",
+      "marks": 3,
+      "page": 7,
+      "topics": [
+        "3.1.7"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "State the method and essential conditions used to reduce aluminium oxide on an industrial scale.",
+      "question_text": "State the method and essential conditions used to reduce aluminium oxide on an industrial scale.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm5/2007-june-chm5-q2d.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm5/ms_q2d.jpg"
+    },
+    {
+      "id": "2007-june-chm5-q3ai",
+      "paper": "2007-june-chm5",
+      "question": "3(a)(i)",
+      "marks": 2,
+      "page": 8,
+      "topics": [
+        "3.1.11"
+      ],
+      "skills": [
+        "application"
+      ],
+      "summary": "Predict the products, if any, when iron metal is mixed with aqueous zinc(II) ions and explain using E° values.",
+      "question_text": "Predict the products, if any, when iron metal is mixed with aqueous zinc(II) ions and explain using E° values.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm5/2007-june-chm5-q3ai.jpg",
+      "figures": [
+        "img/2007-june-chm5/fig-q3-table.jpg"
+      ],
+      "markscheme": "img/2007-june-chm5/ms_q3ai.jpg"
+    },
+    {
+      "id": "2007-june-chm5-q3aii",
+      "paper": "2007-june-chm5",
+      "question": "3(a)(ii)",
+      "marks": 3,
+      "page": 8,
+      "topics": [
+        "3.1.11"
+      ],
+      "skills": [
+        "application"
+      ],
+      "summary": "Predict the products when aqueous iron(III) ions are mixed with aqueous chromium(II) ions and explain using E° values.",
+      "question_text": "Predict the products when aqueous iron(III) ions are mixed with aqueous chromium(II) ions and explain using E° values.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm5/2007-june-chm5-q3aii.jpg",
+      "figures": [
+        "img/2007-june-chm5/fig-q3-table.jpg"
+      ],
+      "markscheme": "img/2007-june-chm5/ms_q3aii.jpg"
+    },
+    {
+      "id": "2007-june-chm5-q3b",
+      "paper": "2007-june-chm5",
+      "question": "3(b)",
+      "marks": 2,
+      "page": 8,
+      "topics": [
+        "3.1.11"
+      ],
+      "skills": [
+        "calculation",
+        "application"
+      ],
+      "summary": "Calculate the e.m.f. and deduce an overall equation for the cell Zn(s)|Zn2+(aq)||Cr3+(aq),Cr2+(aq)|Pt.",
+      "question_text": "Calculate the e.m.f. and deduce an overall equation for the cell Zn(s)|Zn2+(aq)||Cr3+(aq),Cr2+(aq)|Pt.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm5/2007-june-chm5-q3b.jpg",
+      "figures": [
+        "img/2007-june-chm5/fig-q3-table.jpg"
+      ],
+      "markscheme": "img/2007-june-chm5/ms_q3b.jpg"
+    },
+    {
+      "id": "2007-june-chm5-q3c",
+      "paper": "2007-june-chm5",
+      "question": "3(c)",
+      "marks": 5,
+      "page": 9,
+      "topics": [
+        "3.1.12",
+        "3.2.6"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate the pH of a 0.500 mol dm-3 solution of [Cr(H2O)6]3+(aq) given Ka = 1.15 x 10^-4 mol dm-3.",
+      "question_text": "Calculate the pH of a 0.500 mol dm-3 solution of [Cr(H2O)6]3+(aq) given Ka = 1.15 x 10^-4 mol dm-3.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm5/2007-june-chm5-q3c.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm5/ms_q3c.jpg"
+    },
+    {
+      "id": "2007-june-chm5-q3di",
+      "paper": "2007-june-chm5",
+      "question": "3(d)(i)",
+      "marks": 2,
+      "page": 9,
+      "topics": [
+        "3.2.6"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "State the observation(s) and give the formula of the chromium-containing product when an excess of NaOH(aq) is added to [Cr(H2O)6]3+(aq).",
+      "question_text": "State the observation(s) and give the formula of the chromium-containing product when an excess of NaOH(aq) is added to [Cr(H2O)6]3+(aq).",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm5/2007-june-chm5-q3di.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm5/ms_q3di.jpg"
+    },
+    {
+      "id": "2007-june-chm5-q3dii",
+      "paper": "2007-june-chm5",
+      "question": "3(d)(ii)",
+      "marks": 3,
+      "page": 9,
+      "topics": [
+        "3.2.6"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "State the observation(s) and give the formula of the chromium-containing product when Na2CO3(aq) is added to [Cr(H2O)6]3+(aq).",
+      "question_text": "State the observation(s) and give the formula of the chromium-containing product when Na2CO3(aq) is added to [Cr(H2O)6]3+(aq).",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm5/2007-june-chm5-q3dii.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm5/ms_q3dii.jpg"
+    },
+    {
+      "id": "2007-june-chm5-q4a",
+      "paper": "2007-june-chm5",
+      "question": "4(a)",
+      "marks": 2,
+      "page": 10,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Give the meaning of the term electronegativity.",
+      "question_text": "Give the meaning of the term electronegativity.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm5/2007-june-chm5-q4a.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm5/ms_q4a.jpg"
+    },
+    {
+      "id": "2007-june-chm5-q4b",
+      "paper": "2007-june-chm5",
+      "question": "4(b)",
+      "marks": 3,
+      "page": 10,
+      "topics": [
+        "3.2.1",
+        "3.1.3"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "State and explain the trend in electronegativity across Period 3 from Na to Cl.",
+      "question_text": "State and explain the trend in electronegativity across Period 3 from Na to Cl.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm5/2007-june-chm5-q4b.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm5/ms_q4b.jpg"
+    },
+    {
+      "id": "2007-june-chm5-q4ci",
+      "paper": "2007-june-chm5",
+      "question": "4(c)(i)",
+      "marks": 2,
+      "page": 10,
+      "topics": [
+        "3.2.4",
+        "3.1.3"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Name the main type of bonding in each of the Period 3 oxides MgO and P4O10.",
+      "question_text": "Name the main type of bonding in each of the Period 3 oxides MgO and P4O10.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm5/2007-june-chm5-q4ci.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm5/ms_q4ci.jpg"
+    },
+    {
+      "id": "2007-june-chm5-q4cii",
+      "paper": "2007-june-chm5",
+      "question": "4(c)(ii)",
+      "marks": 1,
+      "page": 10,
+      "topics": [
+        "3.1.3",
+        "3.2.4"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "Explain how the type of bonding in P4O10 can be predicted by a consideration of electronegativity.",
+      "question_text": "Explain how the type of bonding in P4O10 can be predicted by a consideration of electronegativity.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm5/2007-june-chm5-q4cii.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm5/ms_q4cii.jpg"
+    },
+    {
+      "id": "2007-june-chm5-q4d",
+      "paper": "2007-june-chm5",
+      "question": "4(d)",
+      "marks": 2,
+      "page": 10,
+      "topics": [
+        "3.2.4"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Write equations for the reaction of Na2O and of SO2 with water.",
+      "question_text": "Write equations for the reaction of Na2O and of SO2 with water.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm5/2007-june-chm5-q4d.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm5/ms_q4d.jpg"
+    },
+    {
+      "id": "2007-june-chm5-q4e",
+      "paper": "2007-june-chm5",
+      "question": "4(e)",
+      "marks": 1,
+      "page": 10,
+      "topics": [
+        "3.2.4"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Write an equation for the reaction of MgO with dilute hydrochloric acid.",
+      "question_text": "Write an equation for the reaction of MgO with dilute hydrochloric acid.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm5/2007-june-chm5-q4e.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm5/ms_q4e.jpg"
+    },
+    {
+      "id": "2007-june-chm5-q4f",
+      "paper": "2007-june-chm5",
+      "question": "4(f)",
+      "marks": 1,
+      "page": 10,
+      "topics": [
+        "3.2.4"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Write an equation for the reaction of P4O10 with an excess of aqueous sodium hydroxide.",
+      "question_text": "Write an equation for the reaction of P4O10 with an excess of aqueous sodium hydroxide.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm5/2007-june-chm5-q4f.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm5/ms_q4f.jpg"
+    },
+    {
+      "id": "2007-june-chm4-q1ai",
+      "paper": "2007-june-chm4",
+      "question": "1(a)(i)",
+      "marks": 1,
+      "page": 3,
+      "topics": [
+        "3.1.10"
+      ],
+      "skills": [
+        "application"
+      ],
+      "summary": "Deduce the units of Kp for 2SO2(g) + O2(g) <-> 2SO3(g) when pressures are measured in kPa.",
+      "question_text": "Deduce the units of Kp for 2SO2(g) + O2(g) <-> 2SO3(g) when pressures are measured in kPa.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm4/2007-june-chm4-q1ai.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm4/ms_q1ai.jpg"
+    },
+    {
+      "id": "2007-june-chm4-q1aii",
+      "paper": "2007-june-chm4",
+      "question": "1(a)(ii)",
+      "marks": 3,
+      "page": 3,
+      "topics": [
+        "3.1.10"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate the partial pressure of oxygen given p(SO2) = 10.6 kPa, p(SO3) = 90.8 kPa, and Kp = 1.42.",
+      "question_text": "Calculate the partial pressure of oxygen given p(SO2) = 10.6 kPa, p(SO3) = 90.8 kPa, and Kp = 1.42.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm4/2007-june-chm4-q1aii.jpg",
+      "figures": [
+        "img/2007-june-chm4/fig-q1-eq.jpg"
+      ],
+      "markscheme": "img/2007-june-chm4/ms_q1aii.jpg"
+    },
+    {
+      "id": "2007-june-chm4-q1bi",
+      "paper": "2007-june-chm4",
+      "question": "1(b)(i)",
+      "marks": 2,
+      "page": 3,
+      "topics": [
+        "3.1.10",
+        "3.1.6"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "State and explain the effect on the mole fraction of SO3 if the container volume is decreased at constant temperature.",
+      "question_text": "State and explain the effect on the mole fraction of SO3 if the container volume is decreased at constant temperature.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm4/2007-june-chm4-q1bi.jpg",
+      "figures": [
+        "img/2007-june-chm4/fig-q1-eq.jpg"
+      ],
+      "markscheme": "img/2007-june-chm4/ms_q1bi.jpg"
+    },
+    {
+      "id": "2007-june-chm4-q1bii",
+      "paper": "2007-june-chm4",
+      "question": "1(b)(ii)",
+      "marks": 1,
+      "page": 3,
+      "topics": [
+        "3.1.10"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "State the effect on the value of Kp if the container volume is decreased at constant temperature.",
+      "question_text": "State the effect on the value of Kp if the container volume is decreased at constant temperature.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm4/2007-june-chm4-q1bii.jpg",
+      "figures": [
+        "img/2007-june-chm4/fig-q1-eq.jpg"
+      ],
+      "markscheme": "img/2007-june-chm4/ms_q1bii.jpg"
+    },
+    {
+      "id": "2007-june-chm4-q1biii",
+      "paper": "2007-june-chm4",
+      "question": "1(b)(iii)",
+      "marks": 2,
+      "page": 6,
+      "topics": [
+        "3.1.10",
+        "3.1.6"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "Deduce whether T1 or T2 is higher when changing from T1 to T2 decreases p(SO3) (ΔH = -196 kJ mol-1).",
+      "question_text": "Deduce whether T1 or T2 is higher when changing from T1 to T2 decreases p(SO3) (ΔH = -196 kJ mol-1).",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm4/2007-june-chm4-q1biii.jpg",
+      "figures": [
+        "img/2007-june-chm4/fig-q1-eq.jpg"
+      ],
+      "markscheme": "img/2007-june-chm4/ms_q1biii.jpg"
+    },
+    {
+      "id": "2007-june-chm4-q1ci",
+      "paper": "2007-june-chm4",
+      "question": "1(c)(i)",
+      "marks": 1,
+      "page": 6,
+      "topics": [
+        "3.1.10"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate the mole fraction of oxygen when the mole fractions of SO3 and SO2 are 0.75 and 0.17.",
+      "question_text": "Calculate the mole fraction of oxygen when the mole fractions of SO3 and SO2 are 0.75 and 0.17.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm4/2007-june-chm4-q1ci.jpg",
+      "figures": [
+        "img/2007-june-chm4/fig-q1-eq.jpg"
+      ],
+      "markscheme": "img/2007-june-chm4/ms_q1ci.jpg"
+    },
+    {
+      "id": "2007-june-chm4-q1cii",
+      "paper": "2007-june-chm4",
+      "question": "1(c)(ii)",
+      "marks": 1,
+      "page": 6,
+      "topics": [
+        "3.1.10"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Write an expression relating the partial pressure of a gas to its mole fraction and total pressure P.",
+      "question_text": "Write an expression relating the partial pressure of a gas to its mole fraction and total pressure P.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm4/2007-june-chm4-q1cii.jpg",
+      "figures": [
+        "img/2007-june-chm4/fig-q1-eq.jpg"
+      ],
+      "markscheme": "img/2007-june-chm4/ms_q1cii.jpg"
+    },
+    {
+      "id": "2007-june-chm4-q1ciii",
+      "paper": "2007-june-chm4",
+      "question": "1(c)(iii)",
+      "marks": 3,
+      "page": 6,
+      "topics": [
+        "3.1.10"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Use the mole fractions and Kp = 1.42 from (a)(ii) to calculate a value for the total pressure P.",
+      "question_text": "Use the mole fractions and Kp = 1.42 from (a)(ii) to calculate a value for the total pressure P.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm4/2007-june-chm4-q1ciii.jpg",
+      "figures": [
+        "img/2007-june-chm4/fig-q1-eq.jpg",
+        "img/2007-june-chm4/fig-q1-aii-kp.jpg",
+        "img/2007-june-chm4/fig-q1-c-data.jpg"
+      ],
+      "markscheme": "img/2007-june-chm4/ms_q1ciii.jpg"
+    },
+    {
+      "id": "2007-june-chm4-q2ai",
+      "paper": "2007-june-chm4",
+      "question": "2(a)(i)",
+      "marks": 1,
+      "page": 7,
+      "topics": [
+        "3.1.12"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Write an expression for the term pH.",
+      "question_text": "Write an expression for the term pH.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm4/2007-june-chm4-q2ai.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm4/ms_q2ai.jpg"
+    },
+    {
+      "id": "2007-june-chm4-q2aii",
+      "paper": "2007-june-chm4",
+      "question": "2(a)(ii)",
+      "marks": 1,
+      "page": 7,
+      "topics": [
+        "3.1.12"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate the concentration of hydrochloric acid which has a pH value of 0.36.",
+      "question_text": "Calculate the concentration of hydrochloric acid which has a pH value of 0.36.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm4/2007-june-chm4-q2aii.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm4/ms_q2aii.jpg"
+    },
+    {
+      "id": "2007-june-chm4-q2bi",
+      "paper": "2007-june-chm4",
+      "question": "2(b)(i)",
+      "marks": 2,
+      "page": 7,
+      "topics": [
+        "3.1.12"
+      ],
+      "skills": [
+        "application"
+      ],
+      "summary": "Write equations for the reactions occurring before equivalence point A and between equivalence points A and B when HCl is added to Na2CO3(aq).",
+      "question_text": "Write equations for the reactions occurring before equivalence point A and between equivalence points A and B when HCl is added to Na2CO3(aq).",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm4/2007-june-chm4-q2bi.jpg",
+      "figures": [
+        "img/2007-june-chm4/fig-q2-curve.jpg"
+      ],
+      "markscheme": "img/2007-june-chm4/ms_q2bi.jpg"
+    },
+    {
+      "id": "2007-june-chm4-q2bii",
+      "paper": "2007-june-chm4",
+      "question": "2(b)(ii)",
+      "marks": 2,
+      "page": 8,
+      "topics": [
+        "3.1.12"
+      ],
+      "skills": [
+        "application"
+      ],
+      "summary": "Select the best indicator from the list for equivalence point A and for equivalence point B.",
+      "question_text": "Select the best indicator from the list for equivalence point A and for equivalence point B.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm4/2007-june-chm4-q2bii.jpg",
+      "figures": [
+        "img/2007-june-chm4/fig-q2-curve.jpg"
+      ],
+      "markscheme": "img/2007-june-chm4/ms_q2bii.jpg"
+    },
+    {
+      "id": "2007-june-chm4-q2biii",
+      "paper": "2007-june-chm4",
+      "question": "2(b)(iii)",
+      "marks": 1,
+      "page": 8,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate the number of moles of Na2CO3 in a 40.0 cm3 sample of 0.150 mol dm-3 aqueous sodium carbonate.",
+      "question_text": "Calculate the number of moles of Na2CO3 in a 40.0 cm3 sample of 0.150 mol dm-3 aqueous sodium carbonate.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm4/2007-june-chm4-q2biii.jpg",
+      "figures": [
+        "img/2007-june-chm4/fig-q2-curve.jpg"
+      ],
+      "markscheme": "img/2007-june-chm4/ms_q2biii.jpg"
+    },
+    {
+      "id": "2007-june-chm4-q2biv",
+      "paper": "2007-june-chm4",
+      "question": "2(b)(iv)",
+      "marks": 2,
+      "page": 8,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Use the volume of HCl added at equivalence point B to calculate the concentration of the hydrochloric acid used.",
+      "question_text": "Use the volume of HCl added at equivalence point B to calculate the concentration of the hydrochloric acid used.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm4/2007-june-chm4-q2biv.jpg",
+      "figures": [
+        "img/2007-june-chm4/fig-q2-curve.jpg"
+      ],
+      "markscheme": "img/2007-june-chm4/ms_q2biv.jpg"
+    },
+    {
+      "id": "2007-june-chm4-q3a",
+      "paper": "2007-june-chm4",
+      "question": "3(a)",
+      "marks": 3,
+      "page": 9,
+      "topics": [
+        "3.1.12"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate the pH at 298 K of a 0.550 mol dm-3 solution of propanoic acid (Ka = 1.35 x 10^-5 mol dm-3).",
+      "question_text": "Calculate the pH at 298 K of a 0.550 mol dm-3 solution of propanoic acid (Ka = 1.35 x 10^-5 mol dm-3).",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm4/2007-june-chm4-q3a.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm4/ms_q3a.jpg"
+    },
+    {
+      "id": "2007-june-chm4-q3bi",
+      "paper": "2007-june-chm4",
+      "question": "3(b)(i)",
+      "marks": 1,
+      "page": 9,
+      "topics": [
+        "3.1.12",
+        "3.1.2"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate the number of moles of propanoic acid originally present in 30.0 cm3 of 0.550 mol dm-3 solution.",
+      "question_text": "Calculate the number of moles of propanoic acid originally present in 30.0 cm3 of 0.550 mol dm-3 solution.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm4/2007-june-chm4-q3bi.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm4/ms_q3bi.jpg"
+    },
+    {
+      "id": "2007-june-chm4-q3bii",
+      "paper": "2007-june-chm4",
+      "question": "3(b)(ii)",
+      "marks": 1,
+      "page": 9,
+      "topics": [
+        "3.1.12",
+        "3.1.2"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate the number of moles of sodium hydroxide added (10.0 cm3 of 0.230 mol dm-3).",
+      "question_text": "Calculate the number of moles of sodium hydroxide added (10.0 cm3 of 0.230 mol dm-3).",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm4/2007-june-chm4-q3bii.jpg",
+      "figures": [
+        "img/2007-june-chm4/fig-q3-b-stem.jpg"
+      ],
+      "markscheme": "img/2007-june-chm4/ms_q3bii.jpg"
+    },
+    {
+      "id": "2007-june-chm4-q3biii",
+      "paper": "2007-june-chm4",
+      "question": "3(b)(iii)",
+      "marks": 1,
+      "page": 9,
+      "topics": [
+        "3.1.12",
+        "3.1.2"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate the number of moles of propanoic acid present in the buffer solution.",
+      "question_text": "Calculate the number of moles of propanoic acid present in the buffer solution.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm4/2007-june-chm4-q3biii.jpg",
+      "figures": [
+        "img/2007-june-chm4/fig-q3-b-stem.jpg"
+      ],
+      "markscheme": "img/2007-june-chm4/ms_q3biii.jpg"
+    },
+    {
+      "id": "2007-june-chm4-q3biv",
+      "paper": "2007-june-chm4",
+      "question": "3(b)(iv)",
+      "marks": 3,
+      "page": 9,
+      "topics": [
+        "3.1.12"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate the pH of the propanoic acid / sodium propanoate buffer solution to 2 decimal places.",
+      "question_text": "Calculate the pH of the propanoic acid / sodium propanoate buffer solution to 2 decimal places.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm4/2007-june-chm4-q3biv.jpg",
+      "figures": [
+        "img/2007-june-chm4/fig-q3-ka.jpg",
+        "img/2007-june-chm4/fig-q3-b-stem.jpg"
+      ],
+      "markscheme": "img/2007-june-chm4/ms_q3biv.jpg"
+    },
+    {
+      "id": "2007-june-chm4-q4ai",
+      "paper": "2007-june-chm4",
+      "question": "4(a)(i)",
+      "marks": 3,
+      "page": 10,
+      "topics": [
+        "3.1.9"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate the rate constant k and deduce its units for rate = k[C][D]^2 when [C] = 0.15, [D] = 0.24 and rate = 0.65 mol dm-3 s-1.",
+      "question_text": "Calculate the rate constant k and deduce its units for rate = k[C][D]^2 when [C] = 0.15, [D] = 0.24 and rate = 0.65 mol dm-3 s-1.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm4/2007-june-chm4-q4ai.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm4/ms_q4ai.jpg"
+    },
+    {
+      "id": "2007-june-chm4-q4aii",
+      "paper": "2007-june-chm4",
+      "question": "4(a)(ii)",
+      "marks": 1,
+      "page": 10,
+      "topics": [
+        "3.1.9"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate the initial rate when the concentrations of both C and D are halved compared to part (a)(i).",
+      "question_text": "Calculate the initial rate when the concentrations of both C and D are halved compared to part (a)(i).",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm4/2007-june-chm4-q4aii.jpg",
+      "figures": [
+        "img/2007-june-chm4/fig-q4-a-stem.jpg"
+      ],
+      "markscheme": "img/2007-june-chm4/ms_q4aii.jpg"
+    },
+    {
+      "id": "2007-june-chm4-q4bi",
+      "paper": "2007-june-chm4",
+      "question": "4(b)(i)",
+      "marks": 1,
+      "page": 10,
+      "topics": [
+        "3.1.9"
+      ],
+      "skills": [
+        "application"
+      ],
+      "summary": "Deduce the order of reaction with respect to E from the initial rate data table.",
+      "question_text": "Deduce the order of reaction with respect to E from the initial rate data table.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm4/2007-june-chm4-q4bi.jpg",
+      "figures": [
+        "img/2007-june-chm4/fig-q4-table.jpg"
+      ],
+      "markscheme": "img/2007-june-chm4/ms_q4bi.jpg"
+    },
+    {
+      "id": "2007-june-chm4-q4bii",
+      "paper": "2007-june-chm4",
+      "question": "4(b)(ii)",
+      "marks": 1,
+      "page": 10,
+      "topics": [
+        "3.1.9"
+      ],
+      "skills": [
+        "application"
+      ],
+      "summary": "Deduce the order of reaction with respect to F from the initial rate data table.",
+      "question_text": "Deduce the order of reaction with respect to F from the initial rate data table.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm4/2007-june-chm4-q4bii.jpg",
+      "figures": [
+        "img/2007-june-chm4/fig-q4-table.jpg"
+      ],
+      "markscheme": "img/2007-june-chm4/ms_q4bii.jpg"
+    },
+    {
+      "id": "2007-june-chm4-q5ai",
+      "paper": "2007-june-chm4",
+      "question": "5(a)(i)",
+      "marks": 1,
+      "page": 11,
+      "topics": [
+        "3.3.13"
+      ],
+      "skills": [
+        "application"
+      ],
+      "summary": "Draw the structure of the zwitterion formed by alanine, H2N-CH(CH3)-COOH.",
+      "question_text": "Draw the structure of the zwitterion formed by alanine, H2N-CH(CH3)-COOH.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm4/2007-june-chm4-q5ai.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm4/ms_q5ai.jpg"
+    },
+    {
+      "id": "2007-june-chm4-q5aii",
+      "paper": "2007-june-chm4",
+      "question": "5(a)(ii)",
+      "marks": 3,
+      "page": 11,
+      "topics": [
+        "3.3.13"
+      ],
+      "skills": [
+        "application"
+      ],
+      "summary": "Draw the organic product formed when alanine reacts with CH3OH/conc. H2SO4, with Na2CO3, and with CH3Cl (1:1).",
+      "question_text": "Draw the organic product formed when alanine reacts with CH3OH/conc. H2SO4, with Na2CO3, and with CH3Cl (1:1).",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm4/2007-june-chm4-q5aii.jpg",
+      "figures": [
+        "img/2007-june-chm4/fig-q5-alanine.jpg"
+      ],
+      "markscheme": "img/2007-june-chm4/ms_q5aii.jpg"
+    },
+    {
+      "id": "2007-june-chm4-q5b",
+      "paper": "2007-june-chm4",
+      "question": "5(b)",
+      "marks": 1,
+      "page": 12,
+      "topics": [
+        "3.3.13"
+      ],
+      "skills": [
+        "application"
+      ],
+      "summary": "Draw the structure of the lysine species present in a solution at low pH.",
+      "question_text": "Draw the structure of the lysine species present in a solution at low pH.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm4/2007-june-chm4-q5b.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm4/ms_q5b.jpg"
+    },
+    {
+      "id": "2007-june-chm4-q5c",
+      "paper": "2007-june-chm4",
+      "question": "5(c)",
+      "marks": 1,
+      "page": 12,
+      "topics": [
+        "3.3.13"
+      ],
+      "skills": [
+        "application"
+      ],
+      "summary": "Draw the structure of the dipeptide formed from two proline molecules.",
+      "question_text": "Draw the structure of the dipeptide formed from two proline molecules.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm4/2007-june-chm4-q5c.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm4/ms_q5c.jpg"
+    },
+    {
+      "id": "2007-june-chm4-q6ai",
+      "paper": "2007-june-chm4",
+      "question": "6(a)(i)",
+      "marks": 1,
+      "page": 13,
+      "topics": [
+        "3.3.5",
+        "3.3.1"
+      ],
+      "skills": [
+        "application"
+      ],
+      "summary": "Name compound J, CH3CH2CH(CH3)CH2OH.",
+      "question_text": "Name compound J, CH3CH2CH(CH3)CH2OH.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm4/2007-june-chm4-q6ai.jpg",
+      "figures": [
+        "img/2007-june-chm4/fig-q6-scheme.jpg"
+      ],
+      "markscheme": "img/2007-june-chm4/ms_q6ai.jpg"
+    },
+    {
+      "id": "2007-june-chm4-q6aii",
+      "paper": "2007-june-chm4",
+      "question": "6(a)(ii)",
+      "marks": 1,
+      "page": 13,
+      "topics": [
+        "3.3.7"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Name the type of stereoisomerism shown by compound J.",
+      "question_text": "Name the type of stereoisomerism shown by compound J.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm4/2007-june-chm4-q6aii.jpg",
+      "figures": [
+        "img/2007-june-chm4/fig-q6-scheme.jpg"
+      ],
+      "markscheme": "img/2007-june-chm4/ms_q6aii.jpg"
+    },
+    {
+      "id": "2007-june-chm4-q6bi",
+      "paper": "2007-june-chm4",
+      "question": "6(b)(i)",
+      "marks": 1,
+      "page": 13,
+      "topics": [
+        "3.3.5"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Name the type of mechanism for Reaction 1 (conversion of alcohol J into alkene K).",
+      "question_text": "Name the type of mechanism for Reaction 1 (conversion of alcohol J into alkene K).",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm4/2007-june-chm4-q6bi.jpg",
+      "figures": [
+        "img/2007-june-chm4/fig-q6-scheme.jpg"
+      ],
+      "markscheme": "img/2007-june-chm4/ms_q6bi.jpg"
+    },
+    {
+      "id": "2007-june-chm4-q6bii",
+      "paper": "2007-june-chm4",
+      "question": "6(b)(ii)",
+      "marks": 2,
+      "page": 13,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [
+        "application"
+      ],
+      "summary": "Draw the repeating unit of the polymer formed by alkene K and name the type of polymerisation involved.",
+      "question_text": "Draw the repeating unit of the polymer formed by alkene K and name the type of polymerisation involved.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm4/2007-june-chm4-q6bii.jpg",
+      "figures": [
+        "img/2007-june-chm4/fig-q6-scheme.jpg"
+      ],
+      "markscheme": "img/2007-june-chm4/ms_q6bii.jpg"
+    },
+    {
+      "id": "2007-june-chm4-q6biii",
+      "paper": "2007-june-chm4",
+      "question": "6(b)(iii)",
+      "marks": 1,
+      "page": 13,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [
+        "application"
+      ],
+      "summary": "Draw the structure of an isomer of alkene K (C5H10) which shows stereoisomerism.",
+      "question_text": "Draw the structure of an isomer of alkene K (C5H10) which shows stereoisomerism.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm4/2007-june-chm4-q6biii.jpg",
+      "figures": [
+        "img/2007-june-chm4/fig-q6-scheme.jpg"
+      ],
+      "markscheme": "img/2007-june-chm4/ms_q6biii.jpg"
+    },
+    {
+      "id": "2007-june-chm4-q6biv",
+      "paper": "2007-june-chm4",
+      "question": "6(b)(iv)",
+      "marks": 1,
+      "page": 14,
+      "topics": [
+        "3.3.15"
+      ],
+      "skills": [
+        "application"
+      ],
+      "summary": "Draw the structure of an isomer of alkene K (C5H10) which has only one peak in its proton n.m.r. spectrum.",
+      "question_text": "Draw the structure of an isomer of alkene K (C5H10) which has only one peak in its proton n.m.r. spectrum.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm4/2007-june-chm4-q6biv.jpg",
+      "figures": [
+        "img/2007-june-chm4/fig-q6-scheme.jpg"
+      ],
+      "markscheme": "img/2007-june-chm4/ms_q6biv.jpg"
+    },
+    {
+      "id": "2007-june-chm4-q6ci",
+      "paper": "2007-june-chm4",
+      "question": "6(c)(i)",
+      "marks": 1,
+      "page": 14,
+      "topics": [
+        "3.3.8",
+        "3.3.15"
+      ],
+      "skills": [
+        "application"
+      ],
+      "summary": "Draw the structure of an isomer of aldehyde L (C5H10O) which has no effect on Fehling's or Tollens' reagents and has only two peaks in its 1H n.m.r. spectrum.",
+      "question_text": "Draw the structure of an isomer of aldehyde L (C5H10O) which has no effect on Fehling's or Tollens' reagents and has only two peaks in its 1H n.m.r. spectrum.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm4/2007-june-chm4-q6ci.jpg",
+      "figures": [
+        "img/2007-june-chm4/fig-q6-scheme.jpg"
+      ],
+      "markscheme": "img/2007-june-chm4/ms_q6ci.jpg"
+    },
+    {
+      "id": "2007-june-chm4-q6cii",
+      "paper": "2007-june-chm4",
+      "question": "6(c)(ii)",
+      "marks": 1,
+      "page": 14,
+      "topics": [
+        "3.3.5"
+      ],
+      "skills": [
+        "practical",
+        "recall"
+      ],
+      "summary": "State the practical technique used with acidified potassium dichromate(VI) to obtain carboxylic acid M rather than aldehyde L from alcohol J.",
+      "question_text": "State the practical technique used with acidified potassium dichromate(VI) to obtain carboxylic acid M rather than aldehyde L from alcohol J.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm4/2007-june-chm4-q6cii.jpg",
+      "figures": [
+        "img/2007-june-chm4/fig-q6-scheme.jpg"
+      ],
+      "markscheme": "img/2007-june-chm4/ms_q6cii.jpg"
+    },
+    {
+      "id": "2007-june-chm4-q6d",
+      "paper": "2007-june-chm4",
+      "question": "6(d)",
+      "marks": 4,
+      "page": 14,
+      "topics": [
+        "3.3.6"
+      ],
+      "skills": [
+        "application"
+      ],
+      "summary": "Match the four infra-red spectra I, II, III and IV to compounds J, K, L and M using Table 2 on the data sheet.",
+      "question_text": "Match the four infra-red spectra I, II, III and IV to compounds J, K, L and M using Table 2 on the data sheet.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm4/2007-june-chm4-q6d.jpg",
+      "figures": [
+        "img/2007-june-chm4/fig-q6-scheme.jpg",
+        "img/2007-june-chm4/fig-q6-ir-spectra.jpg",
+        "img/2007-june-chm4/fig-q6-ir-table.jpg"
+      ],
+      "markscheme": "img/2007-june-chm4/ms_q6d.jpg"
+    },
+    {
+      "id": "2007-june-chm4-q6ei",
+      "paper": "2007-june-chm4",
+      "question": "6(e)(i)",
+      "marks": 1,
+      "page": 14,
+      "topics": [
+        "3.3.6"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Give an approximate range of wavenumbers for the fingerprint region in an infra-red spectrum.",
+      "question_text": "Give an approximate range of wavenumbers for the fingerprint region in an infra-red spectrum.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm4/2007-june-chm4-q6ei.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm4/ms_q6ei.jpg"
+    },
+    {
+      "id": "2007-june-chm4-q6eii",
+      "paper": "2007-june-chm4",
+      "question": "6(e)(ii)",
+      "marks": 2,
+      "page": 14,
+      "topics": [
+        "3.3.6"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Describe how the fingerprint region can be used to identify a compound.",
+      "question_text": "Describe how the fingerprint region can be used to identify a compound.",
+      "markscheme_text": "Official AQA mark scheme table",
+      "image": "img/2007-june-chm4/2007-june-chm4-q6eii.jpg",
+      "figures": [],
+      "markscheme": "img/2007-june-chm4/ms_q6eii.jpg"
     }
   ]
 }

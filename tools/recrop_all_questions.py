@@ -77,6 +77,10 @@ PDF_MAP = {
     '2007-jan-chm2': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795469473824_f40f348a.pdf',
     '2007-jan-chm3w': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795469473822_32602c73.pdf',
     '2007-jan-chm4': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795469473872_8c753ee3.pdf',
+    '2007-june-chm2': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795470222360_1bff8756.pdf',
+    '2007-june-chm3w': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795470222448_63b0d554.pdf',
+    '2007-june-chm4': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795470222468_a1e6a223.pdf',
+    '2007-june-chm5': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795470222573_c7a4b8b1.pdf',
 }
 
 def extract_lines(page):
@@ -87,7 +91,7 @@ def extract_lines(page):
             for l in b['lines']:
                 txt = ''.join([s['text'] for s in l['spans']]).strip()
                 bbox = l['bbox']
-                if txt and 60 <= bbox[1] <= 800:
+                if txt and 60 <= bbox[1] <= 814:
                     lines.append((bbox, txt))
     lines.sort(key=lambda x: (x[0][1], x[0][0]))
     return lines
@@ -230,18 +234,33 @@ def main():
                 y1 = located[i+1][2] - 6.0
             else:
                 # Last question on page: capture down through marks/lines
+                max_y_end = 815.0 if paper.startswith('2007-june-') else 785.0
+                max_y1 = 815.0 if paper.startswith('2007-june-') else 775.0
                 after_lines = [
                     l for l in lines 
-                    if l[0][1] >= ly0 and l[0][3] < 785 
+                    if l[0][1] >= ly0 and l[0][3] < max_y_end
                     and 'Turn over' not in l[1] 
                     and 'APW/' not in l[1] 
+                    and 'Section B' not in l[1]
+                    and 'Answer these questions' not in l[1]
                     and not re.match(r'^\d+$', l[1].strip())
                 ]
                 if after_lines:
                     last_y = max(l[0][3] for l in after_lines)
-                    y1 = min(775.0, last_y + 18.0)
+                    y1 = min(max_y1, last_y + 18.0)
                 else:
-                    y1 = min(775.0, ly0 + 120.0)
+                    y1 = min(max_y1, ly0 + 120.0)
+                if paper.startswith('2007-june-'):
+                    notice_y0s = [
+                        l[0][1] for l in lines
+                        if l[0][1] > ly0 and (
+                            'Section B' in l[1]
+                            or 'Answer these questions' in l[1]
+                            or 'Turn over' in l[1]
+                        )
+                    ]
+                    if notice_y0s:
+                        y1 = min(y1, min(notice_y0s) - 3.0)
 
             # Render high-resolution crop
             rect = fitz.Rect(35, y0, 545, y1)
