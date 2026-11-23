@@ -3465,10 +3465,10 @@ function renderTeacherDashboard() {
   const html = `
     <div class="teacher-hub-wrap">
       <nav class="teacher-nav">
-        <button type="button" class="teacher-nav-btn active" onclick="switchTeacherTab('hub')">🎓 Overview & Presets</button>
+        <button type="button" class="teacher-nav-btn active" onclick="switchTeacherTab('hub')">Overview & Presets</button>
         
-        <button type="button" class="teacher-nav-btn" onclick="switchTeacherTab('quiz')">🎮 Fun Quiz Generator</button>
-        <button type="button" class="teacher-nav-btn" onclick="switchTeacherTab('worksheet')">📝 Question & Worksheet Generator</button>
+        <button type="button" class="teacher-nav-btn" onclick="switchTeacherTab('quiz')">Quiz Generator</button>
+        <button type="button" class="teacher-nav-btn" onclick="switchTeacherTab('worksheet')">Question & Worksheet Generator</button>
       </nav>
 
       <div class="teacher-hero-header">
@@ -3481,7 +3481,7 @@ function renderTeacherDashboard() {
         <article class="teacher-card">
           <div>
             <span class="teacher-card-badge">Classroom Gamification</span>
-            <h2 class="teacher-card-title">🎮 Fun Quiz Show Generator</h2>
+            <h2 class="teacher-card-title">Quiz Show Generator</h2>
             <p class="teacher-card-desc">Run engaging, high-energy quizzes on your classroom projector or smartboard. Supports team competitions, rapid multiple-choice, timers, and audio effects.</p>
             <ul class="teacher-card-features">
               <li>Team 1 vs Team 2 scoreboard with live +1/-1 point adjustments</li>
@@ -3496,7 +3496,7 @@ function renderTeacherDashboard() {
         <article class="teacher-card">
           <div>
             <span class="teacher-card-badge">Assessment Creator</span>
-            <h2 class="teacher-card-title">📝 Question & Worksheet Generator</h2>
+            <h2 class="teacher-card-title">Question & Worksheet Generator</h2>
             <p class="teacher-card-desc">Assemble tailored, printable assessment papers and homework booklets from official AQA past paper questions with diagrams and mark schemes.</p>
             <ul class="teacher-card-features">
               <li>Target specific mark totals (10m, 20m, 30m, 50m) or custom topics</li>
@@ -3510,7 +3510,7 @@ function renderTeacherDashboard() {
       </div>
 
       <div>
-        <h2 class="teacher-section-title">⚡ Quick-Start Lesson Presets</h2>
+        <h2 class="teacher-section-title">Quick-Start Lesson Presets</h2>
         <div class="teacher-presets-grid">
           
             <span class="preset-action" style="color:#dc2626">Launch Drill →</span>
@@ -3613,10 +3613,10 @@ function renderQuizSetup() {
   const html = `
     <div class="teacher-hub-wrap">
       <nav class="teacher-nav">
-        <button type="button" class="teacher-nav-btn" onclick="switchTeacherTab('hub')">🎓 Overview & Presets</button>
+        <button type="button" class="teacher-nav-btn" onclick="switchTeacherTab('hub')">Overview & Presets</button>
         
-        <button type="button" class="teacher-nav-btn active" onclick="switchTeacherTab('quiz')">🎮 Fun Quiz Generator</button>
-        <button type="button" class="teacher-nav-btn" onclick="switchTeacherTab('worksheet')">📝 Question & Worksheet Generator</button>
+        <button type="button" class="teacher-nav-btn active" onclick="switchTeacherTab('quiz')">Quiz Generator</button>
+        <button type="button" class="teacher-nav-btn" onclick="switchTeacherTab('worksheet')">Question & Worksheet Generator</button>
       </nav>
 
       <div class="quiz-panel">
@@ -3687,9 +3687,9 @@ function renderQuizSetup() {
         ` : ''}
 
         <div style="display:flex;gap:10px;justify-content:flex-end;flex-wrap:wrap">
-          <button type="button" class="btn-minimal" onclick="printQuizHandout()">📄 Export as Printable Multiple-Choice Quiz</button>
+          <button type="button" class="btn-minimal" onclick="printQuizHandout()">Export as Printable Multiple-Choice Quiz</button>
           <button type="button" class="btn-print-primary" onclick="startQuiz()" style="padding:10px 22px;font-size:0.92rem">
-            🚀 Start Multiple-Choice Quiz
+            Start Multiple-Choice Quiz
           </button>
         </div>
       </div>
@@ -3833,12 +3833,12 @@ function renderQuizLive() {
           <div style="display:flex;align-items:center;gap:12px">
             ${quizState.timerSeconds > 0 ? `
               <div class="quiz-timer-box ${quizState.timerRemaining<=5?'urgent':''}">
-                ⏱️ <span id="quiz-timer-num">${quizState.timerRemaining}</span>s
+                <span id="quiz-timer-num">${quizState.timerRemaining}</span>s
               </div>
             ` : ''}
 
             <button type="button" class="btn-minimal" onclick="quizState.soundEnabled=!quizState.soundEnabled;QuizAudio.enabled=quizState.soundEnabled;renderQuizLive();" title="Toggle sound">
-              ${quizState.soundEnabled ? '🔊 Sound On' : '🔇 Muted'}
+              ${quizState.soundEnabled ? 'Sound On' : 'Muted'}
             </button>
             <button type="button" class="btn-minimal" onclick="endQuiz()" title="End quiz now">Exit Quiz</button>
           </div>
@@ -3847,7 +3847,7 @@ function renderQuizLive() {
         ${quizState.mode === 'team' ? `
           <div class="quiz-scoreboard-grid">
             <div class="team-score-card">
-              <span class="team-name">🦕 ${esc(quizState.team1Name)}</span>
+              <span class="team-name">${esc(quizState.team1Name)}</span>
               <div class="team-score-controls">
                 <button type="button" class="btn-score-adjust" onclick="adjustTeamScore(1, -1)">-</button>
                 <span class="team-score-num">${quizState.team1Score}</span>
@@ -3856,7 +3856,7 @@ function renderQuizLive() {
             </div>
 
             <div class="team-score-card">
-              <span class="team-name">🐚 ${esc(quizState.team2Name)}</span>
+              <span class="team-name">${esc(quizState.team2Name)}</span>
               <div class="team-score-controls">
                 <button type="button" class="btn-score-adjust" onclick="adjustTeamScore(2, -1)">-</button>
                 <span class="team-score-num">${quizState.team2Score}</span>
@@ -3867,7 +3867,7 @@ function renderQuizLive() {
         ` : `
           <div style="display:flex;justify-content:space-between;align-items:center;font-size:0.85rem;color:var(--muted)">
             <span>Score: <b style="color:var(--ink)">${quizState.soloScore}</b> pts</span>
-            <span>Streak: <b style="color:#d97706">🔥 ${quizState.streak}</b> (Best: ${quizState.maxStreak})</span>
+            <span>Streak: <b style="color:#d97706">${quizState.streak}</b> (Best: ${quizState.maxStreak})</span>
           </div>
         `}
 
@@ -3920,7 +3920,7 @@ function renderQuizLive() {
             <button type="button" class="btn-minimal" ${quizState.currentIdx===0?'disabled':''} onclick="prevQuizQuestion()">← Previous</button>
             <span style="font-size:0.78rem;color:var(--muted)">Shortcuts: 1/A · 2/B · 3/C · 4/D · Space/Enter to advance</span>
             <button type="button" class="btn-minimal" style="font-weight:600;color:var(--ink)" onclick="nextQuizQuestion()">
-              ${isLast ? 'Finish Quiz 🏁' : 'Next Question →'}
+              ${isLast ? 'Finish Quiz' : 'Next Question →'}
             </button>
           </div>
         </div>
@@ -3997,19 +3997,19 @@ function renderQuizSummary() {
   let winnerHtml = '';
   if (quizState.mode === 'team') {
     if (quizState.team1Score > quizState.team2Score) {
-      winnerHtml = `🏆 <b>${esc(quizState.team1Name)}</b> Wins! (${quizState.team1Score} - ${quizState.team2Score})`;
+      winnerHtml = `<b>${esc(quizState.team1Name)}</b> Wins! (${quizState.team1Score} - ${quizState.team2Score})`;
     } else if (quizState.team2Score > quizState.team1Score) {
-      winnerHtml = `🏆 <b>${esc(quizState.team2Name)}</b> Wins! (${quizState.team2Score} - ${quizState.team1Score})`;
+      winnerHtml = `<b>${esc(quizState.team2Name)}</b> Wins! (${quizState.team2Score} - ${quizState.team1Score})`;
     } else {
-      winnerHtml = `🤝 It's a Chemistry Tie! ( - )`;
+      winnerHtml = `It's a Chemistry Tie!`;
     }
   } else {
     const maxScore = quizState.questions.length * 100;
     const pct = Math.round((quizState.soloScore / maxScore) * 100) || 0;
     let rank = 'Novice Chemist';
-    if (pct >= 90) rank = '⚗️ Master Chemist';
-    else if (pct >= 70) rank = '🧪 Senior Synthesist';
-    else if (pct >= 50) rank = '⛏️ Field Specialist';
+    if (pct >= 90) rank = 'Master Chemist';
+    else if (pct >= 70) rank = 'Senior Synthesist';
+    else if (pct >= 50) rank = 'Field Specialist';
     winnerHtml = `Score: <b>${quizState.soloScore}</b> pts · ${rank} (${pct}%)`;
   }
 
@@ -4017,15 +4017,15 @@ function renderQuizSummary() {
     <div class="teacher-hub-wrap">
       <div class="quiz-panel">
         <div class="quiz-summary-box">
-          <div style="font-size:3rem">🎉</div>
+          
           <div class="quiz-winner-badge">${winnerHtml}</div>
           <p class="quiz-result-score">Quiz completed! ${quizState.questions.length} multiple-choice questions reviewed.</p>
 
           <div style="display:flex;gap:12px;margin-top:10px;flex-wrap:wrap;justify-content:center">
-            <button type="button" class="btn-print-primary" onclick="startQuiz()">🔄 Play Again</button>
-            <button type="button" class="btn-minimal" onclick="printQuizHandout()">📄 Print Quiz & Answers</button>
-            <button type="button" class="btn-minimal" onclick="quizState.screen='setup';renderQuizSetup()">⚙️ Quiz Settings</button>
-            <button type="button" class="btn-minimal" onclick="switchTeacherTab('hub')">🎓 Teacher's Hub</button>
+            <button type="button" class="btn-print-primary" onclick="startQuiz()">Play Again</button>
+            <button type="button" class="btn-minimal" onclick="printQuizHandout()">Print Quiz & Answers</button>
+            <button type="button" class="btn-minimal" onclick="quizState.screen='setup';renderQuizSetup()">Quiz Settings</button>
+            <button type="button" class="btn-minimal" onclick="switchTeacherTab('hub')">Teacher's Hub</button>
           </div>
         </div>
 
@@ -4140,10 +4140,10 @@ function renderWorksheetGenerator() {
   const html = `
     <div class="teacher-hub-wrap">
       <nav class="teacher-nav">
-        <button type="button" class="teacher-nav-btn" onclick="switchTeacherTab('hub')">🎓 Overview & Presets</button>
+        <button type="button" class="teacher-nav-btn" onclick="switchTeacherTab('hub')">Overview & Presets</button>
         
-        <button type="button" class="teacher-nav-btn" onclick="switchTeacherTab('quiz')">🎮 Fun Quiz Generator</button>
-        <button type="button" class="teacher-nav-btn active" onclick="switchTeacherTab('worksheet')">📝 Question & Worksheet Generator</button>
+        <button type="button" class="teacher-nav-btn" onclick="switchTeacherTab('quiz')">Quiz Generator</button>
+        <button type="button" class="teacher-nav-btn active" onclick="switchTeacherTab('worksheet')">Question & Worksheet Generator</button>
       </nav>
 
       <div class="ws-controls-card">
@@ -4212,13 +4212,13 @@ function renderWorksheetGenerator() {
           </div>
 
           <div class="ws-export-btns">
-            <button type="button" class="btn-minimal" onclick="generateWorksheet();renderWorksheetGenerator();">🎲 Reshuffle Questions</button>
-            <button type="button" class="btn-minimal" onclick="addWorksheetQuestion()">➕ Add Question</button>
+            <button type="button" class="btn-minimal" onclick="generateWorksheet();renderWorksheetGenerator();">Reshuffle Questions</button>
+            <button type="button" class="btn-minimal" onclick="addWorksheetQuestion()">Add Question</button>
             <button type="button" class="btn-print-primary" onclick="executePrintWorksheet({isTeacherKey:false})">
-              🖨️ Print Student Worksheet (PDF)
+              Print Student Worksheet (PDF)
             </button>
             <button type="button" class="btn-minimal" style="font-weight:600;color:#15803d;border-color:#16a34a" onclick="executePrintWorksheet({isTeacherKey:true})">
-              📋 Print Teacher Mark Scheme (PDF)
+              Print Teacher Mark Scheme (PDF)
             </button>
           </div>
         </div>
@@ -4257,10 +4257,10 @@ function renderWorksheetGenerator() {
                 <div class="ws-q-toolbar">
                   <span class="ws-q-number">Question ${idx + 1} &nbsp;<span class="q-mark" style="font-size:0.75rem">${q.marks} ${q.marks===1?'mark':'marks'}</span></span>
                   <div class="ws-q-actions">
-                    <button type="button" class="btn-q-action" onclick="swapWorksheetQuestion(${idx})" title="Swap for another question from this topic">🔄 Swap</button>
-                    <button type="button" class="btn-q-action" onclick="moveWorksheetQuestion(${idx}, -1)" ${idx===0?'disabled':''} title="Move up">⬆</button>
-                    <button type="button" class="btn-q-action" onclick="moveWorksheetQuestion(${idx}, 1)" ${idx===wsState.questions.length-1?'disabled':''} title="Move down">⬇</button>
-                    <button type="button" class="btn-q-action" style="color:#dc2626" onclick="removeWorksheetQuestion(${idx})" title="Remove question">✕</button>
+                    <button type="button" class="btn-q-action" onclick="swapWorksheetQuestion(${idx})" title="Swap for another question from this topic">Swap</button>
+                    <button type="button" class="btn-q-action" onclick="moveWorksheetQuestion(${idx}, -1)" ${idx===0?'disabled':''} title="Move up">&uarr;</button>
+                    <button type="button" class="btn-q-action" onclick="moveWorksheetQuestion(${idx}, 1)" ${idx===wsState.questions.length-1?'disabled':''} title="Move down">&darr;</button>
+                    <button type="button" class="btn-q-action" style="color:#dc2626" onclick="removeWorksheetQuestion(${idx})" title="Remove question">&times;</button>
                   </div>
                 </div>
 
@@ -4287,7 +4287,7 @@ function renderWorksheetGenerator() {
         </div>
 
         <div style="margin-top:24px;text-align:center">
-          <button type="button" class="btn-minimal" onclick="addWorksheetQuestion()">➕ Add Another Question from Bank</button>
+          <button type="button" class="btn-minimal" onclick="addWorksheetQuestion()">Add Another Question from Bank</button>
         </div>
       </div>
     </div>
