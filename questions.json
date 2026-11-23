@@ -1252,6 +1252,28 @@
       "date": "2009-01-09",
       "totalMarks": 60,
       "duration": "1 hour"
+    },
+    {
+      "id": "2009-jan-chm3w",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "title": "CHM3/W – Introduction to Organic Chemistry (Section A)",
+      "date": "2009-01-09",
+      "totalMarks": 60,
+      "duration": "1 hour"
+    },
+    {
+      "id": "2009-jan-chm4",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM4",
+      "level": "A",
+      "title": "CHM4 – Further Physical and Organic Chemistry (Section A)",
+      "date": "2009-01-20",
+      "totalMarks": 90,
+      "duration": "1 hour 30 minutes"
     }
   ],
   "questions": [
@@ -51142,6 +51164,1522 @@
       "image": "img/2009-jan-chm2/q4civ.jpg",
       "markscheme": "img/2009-jan-chm2/ms/q4civ.png",
       "figures": []
+    },
+    {
+      "id": "2009-jan-chm3w-q1a",
+      "paper": "2009-jan-chm3w",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "question": "1(a)",
+      "questionNumber": "1(a)",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "Alkanes",
+        "Reaction Mechanisms"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Name the type of mechanism in Reaction 1 (cyclohexane to chlorocyclohexane).",
+      "specRef": "3.3.1",
+      "image": "img/2009-jan-chm3w/q1a.jpg",
+      "markscheme": "img/2009-jan-chm3w/ms/q1a.png",
+      "figures": [
+        "img/2009-jan-chm3w/fig-q1-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chm3w-q1b",
+      "paper": "2009-jan-chm3w",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "question": "1(b)",
+      "questionNumber": "1(b)",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "Haloalkanes",
+        "Reaction Mechanisms"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Name the type of mechanism in Reaction 2 (chlorocyclohexane to cyclohexanol with KOH(aq)).",
+      "specRef": "3.3.2",
+      "image": "img/2009-jan-chm3w/q1b.jpg",
+      "markscheme": "img/2009-jan-chm3w/ms/q1b.png",
+      "figures": [
+        "img/2009-jan-chm3w/fig-q1-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chm3w-q1c",
+      "paper": "2009-jan-chm3w",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "question": "1(c)",
+      "questionNumber": "1(c)",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "Alcohols",
+        "Alkenes"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Identify a catalyst for Reaction 3 (dehydration of cyclohexanol to cyclohexene).",
+      "specRef": "3.3.4",
+      "image": "img/2009-jan-chm3w/q1c.jpg",
+      "markscheme": "img/2009-jan-chm3w/ms/q1c.png",
+      "figures": [
+        "img/2009-jan-chm3w/fig-q1-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chm3w-q1di",
+      "paper": "2009-jan-chm3w",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "question": "1(d)(i)",
+      "questionNumber": "1(d)(i)",
+      "page": 3,
+      "marks": 1,
+      "topics": [
+        "Alcohols"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "State the class of alcohols to which cyclohexanol belongs.",
+      "specRef": "3.3.4",
+      "image": "img/2009-jan-chm3w/q1di.jpg",
+      "markscheme": "img/2009-jan-chm3w/ms/q1di.png",
+      "figures": [
+        "img/2009-jan-chm3w/fig-q1-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chm3w-q1dii",
+      "paper": "2009-jan-chm3w",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "question": "1(d)(ii)",
+      "questionNumber": "1(d)(ii)",
+      "page": 3,
+      "marks": 1,
+      "topics": [
+        "Alcohols"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Identify the functional group formed when cyclohexanol is oxidised by acidified potassium dichromate(VI).",
+      "specRef": "3.3.4",
+      "image": "img/2009-jan-chm3w/q1dii.jpg",
+      "markscheme": "img/2009-jan-chm3w/ms/q1dii.png",
+      "figures": [
+        "img/2009-jan-chm3w/fig-q1-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chm3w-q1ei",
+      "paper": "2009-jan-chm3w",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "question": "1(e)(i)",
+      "questionNumber": "1(e)(i)",
+      "page": 3,
+      "marks": 1,
+      "topics": [
+        "Alkenes"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State what is meant by the term unsaturated as applied to a hydrocarbon.",
+      "specRef": "3.3.3",
+      "image": "img/2009-jan-chm3w/q1ei.jpg",
+      "markscheme": "img/2009-jan-chm3w/ms/q1ei.png",
+      "figures": [
+        "img/2009-jan-chm3w/fig-q1-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chm3w-q1eii",
+      "paper": "2009-jan-chm3w",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "question": "1(e)(ii)",
+      "questionNumber": "1(e)(ii)",
+      "page": 3,
+      "marks": 2,
+      "topics": [
+        "Alkenes"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Identify a reagent and a catalyst for Reaction 4 (cyclohexene to cyclohexane).",
+      "specRef": "3.3.3",
+      "image": "img/2009-jan-chm3w/q1eii.jpg",
+      "markscheme": "img/2009-jan-chm3w/ms/q1eii.png",
+      "figures": [
+        "img/2009-jan-chm3w/fig-q1-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chm3w-q2a",
+      "paper": "2009-jan-chm3w",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "question": "2(a)",
+      "questionNumber": "2(a)",
+      "page": 4,
+      "marks": 1,
+      "topics": [
+        "Haloalkanes",
+        "Nomenclature & Isomerism"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Name the major product of the reaction between methylpropene and hydrogen bromide.",
+      "specRef": "3.3.3",
+      "image": "img/2009-jan-chm3w/q2a.jpg",
+      "markscheme": "img/2009-jan-chm3w/ms/q2a.png",
+      "figures": [
+        "img/2009-jan-chm3w/fig-q2-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chm3w-q2b",
+      "paper": "2009-jan-chm3w",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "question": "2(b)",
+      "questionNumber": "2(b)",
+      "page": 4,
+      "marks": 5,
+      "topics": [
+        "Alkenes",
+        "Reaction Mechanisms"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Name and outline the mechanism for the reaction between methylpropene and hydrogen bromide.",
+      "specRef": "3.3.3",
+      "image": "img/2009-jan-chm3w/q2b.jpg",
+      "markscheme": "img/2009-jan-chm3w/ms/q2b.png",
+      "figures": [
+        "img/2009-jan-chm3w/fig-q2-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chm3w-q2ci",
+      "paper": "2009-jan-chm3w",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "question": "2(c)(i)",
+      "questionNumber": "2(c)(i)",
+      "page": 4,
+      "marks": 1,
+      "topics": [
+        "Alkenes",
+        "Haloalkanes"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw the structure of the minor product formed when methylpropene reacts with hydrogen bromide.",
+      "specRef": "3.3.3",
+      "image": "img/2009-jan-chm3w/q2ci.jpg",
+      "markscheme": "img/2009-jan-chm3w/ms/q2ci.png",
+      "figures": [
+        "img/2009-jan-chm3w/fig-q2-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chm3w-q2cii",
+      "paper": "2009-jan-chm3w",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "question": "2(c)(ii)",
+      "questionNumber": "2(c)(ii)",
+      "page": 5,
+      "marks": 2,
+      "topics": [
+        "Alkenes",
+        "Reaction Mechanisms"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Explain why only a relatively small amount of the minor product is formed.",
+      "specRef": "3.3.3",
+      "image": "img/2009-jan-chm3w/q2cii.jpg",
+      "markscheme": "img/2009-jan-chm3w/ms/q2cii.png",
+      "figures": [
+        "img/2009-jan-chm3w/fig-q2-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chm3w-q2di",
+      "paper": "2009-jan-chm3w",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "question": "2(d)(i)",
+      "questionNumber": "2(d)(i)",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "Alkenes",
+        "Alcohols"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "State the overall role of the sulphuric acid in the two-stage conversion of methylpropene to a tertiary alcohol.",
+      "specRef": "3.3.3",
+      "image": "img/2009-jan-chm3w/q2di.jpg",
+      "markscheme": "img/2009-jan-chm3w/ms/q2di.png",
+      "figures": [
+        "img/2009-jan-chm3w/fig-q2d.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chm3w-q2dii",
+      "paper": "2009-jan-chm3w",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "question": "2(d)(ii)",
+      "questionNumber": "2(d)(ii)",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "Alcohols"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Name the type of reaction in Stage 2 (reaction of alkyl hydrogensulphate with water).",
+      "specRef": "3.3.3",
+      "image": "img/2009-jan-chm3w/q2dii.jpg",
+      "markscheme": "img/2009-jan-chm3w/ms/q2dii.png",
+      "figures": [
+        "img/2009-jan-chm3w/fig-q2d.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chm3w-q2diii",
+      "paper": "2009-jan-chm3w",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "question": "2(d)(iii)",
+      "questionNumber": "2(d)(iii)",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "Alcohols",
+        "Nomenclature & Isomerism"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Name the tertiary alcohol formed by this two-stage process.",
+      "specRef": "3.3.4",
+      "image": "img/2009-jan-chm3w/q2diii.jpg",
+      "markscheme": "img/2009-jan-chm3w/ms/q2diii.png",
+      "figures": [
+        "img/2009-jan-chm3w/fig-q2d.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chm3w-q2div",
+      "paper": "2009-jan-chm3w",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "question": "2(d)(iv)",
+      "questionNumber": "2(d)(iv)",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "Alcohols"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "State why tertiary alcohols are resistant to oxidation by acidified potassium dichromate(VI).",
+      "specRef": "3.3.4",
+      "image": "img/2009-jan-chm3w/q2div.jpg",
+      "markscheme": "img/2009-jan-chm3w/ms/q2div.png",
+      "figures": [
+        "img/2009-jan-chm3w/fig-q2d.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chm3w-q3a",
+      "paper": "2009-jan-chm3w",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "question": "3(a)",
+      "questionNumber": "3(a)",
+      "page": 6,
+      "marks": 3,
+      "topics": [
+        "Amount of Substance",
+        "Alcohols"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Give the empirical formula of glucose and name the two different types of functional group present.",
+      "specRef": "3.1.2",
+      "image": "img/2009-jan-chm3w/q3a.jpg",
+      "markscheme": "img/2009-jan-chm3w/ms/q3a.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm3w-q3bi",
+      "paper": "2009-jan-chm3w",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "question": "3(b)(i)",
+      "questionNumber": "3(b)(i)",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "Alcohols"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Name the process converting aqueous glucose into ethanol and carbon dioxide.",
+      "specRef": "3.3.4",
+      "image": "img/2009-jan-chm3w/q3bi.jpg",
+      "markscheme": "img/2009-jan-chm3w/ms/q3bi.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm3w-q3bii",
+      "paper": "2009-jan-chm3w",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "question": "3(b)(ii)",
+      "questionNumber": "3(b)(ii)",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "Alcohols",
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Write an equation for the fermentation of glucose.",
+      "specRef": "3.3.4",
+      "image": "img/2009-jan-chm3w/q3bii.jpg",
+      "markscheme": "img/2009-jan-chm3w/ms/q3bii.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm3w-q3biii",
+      "paper": "2009-jan-chm3w",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "question": "3(b)(iii)",
+      "questionNumber": "3(b)(iii)",
+      "page": 6,
+      "marks": 2,
+      "topics": [
+        "Alcohols"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Give two disadvantages (excluding cost) of making ethanol by fermentation on a large scale.",
+      "specRef": "3.3.4",
+      "image": "img/2009-jan-chm3w/q3biii.jpg",
+      "markscheme": "img/2009-jan-chm3w/ms/q3biii.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm3w-q3biv",
+      "paper": "2009-jan-chm3w",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "question": "3(b)(iv)",
+      "questionNumber": "3(b)(iv)",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "Alcohols",
+        "Energetics"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Write an equation for the complete combustion of ethanol.",
+      "specRef": "3.3.4",
+      "image": "img/2009-jan-chm3w/q3biv.jpg",
+      "markscheme": "img/2009-jan-chm3w/ms/q3biv.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm3w-q4a",
+      "paper": "2009-jan-chm3w",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "question": "4(a)",
+      "questionNumber": "4(a)",
+      "page": 7,
+      "marks": 5,
+      "topics": [
+        "Haloalkanes",
+        "Reaction Mechanisms"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Name and outline a mechanism for the reaction of ammonia with 1-bromobutane.",
+      "specRef": "3.3.2",
+      "image": "img/2009-jan-chm3w/q4a.jpg",
+      "markscheme": "img/2009-jan-chm3w/ms/q4a.png",
+      "figures": [
+        "img/2009-jan-chm3w/fig-q4-eqn.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chm3w-q4b",
+      "paper": "2009-jan-chm3w",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "question": "4(b)",
+      "questionNumber": "4(b)",
+      "page": 7,
+      "marks": 2,
+      "topics": [
+        "Haloalkanes",
+        "Nomenclature & Isomerism"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Name compound Q (CH3CH2CH2CH2NH2) and draw the structure of a position isomer of Q.",
+      "specRef": "3.3.2",
+      "image": "img/2009-jan-chm3w/q4b.jpg",
+      "markscheme": "img/2009-jan-chm3w/ms/q4b.png",
+      "figures": [
+        "img/2009-jan-chm3w/fig-q4-eqn.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chm3w-q5a",
+      "paper": "2009-jan-chm3w",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "question": "5(a)",
+      "questionNumber": "5(a)",
+      "page": 8,
+      "marks": 4,
+      "topics": [
+        "Haloalkanes",
+        "Reaction Mechanisms"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Name and outline a mechanism for the formation of but-2-ene from 2-bromobutane with NaOH.",
+      "specRef": "3.3.2",
+      "image": "img/2009-jan-chm3w/q5a.jpg",
+      "markscheme": "img/2009-jan-chm3w/ms/q5a.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm3w-q5bi",
+      "paper": "2009-jan-chm3w",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "question": "5(b)(i)",
+      "questionNumber": "5(b)(i)",
+      "page": 8,
+      "marks": 2,
+      "topics": [
+        "Alkenes",
+        "Nomenclature & Isomerism"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State what is meant by the term stereoisomers.",
+      "specRef": "3.3.3",
+      "image": "img/2009-jan-chm3w/q5bi.jpg",
+      "markscheme": "img/2009-jan-chm3w/ms/q5bi.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm3w-q5bii",
+      "paper": "2009-jan-chm3w",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "question": "5(b)(ii)",
+      "questionNumber": "5(b)(ii)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "Alkenes",
+        "Nomenclature & Isomerism"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Name the type of stereoisomerism shown by but-2-ene.",
+      "specRef": "3.3.3",
+      "image": "img/2009-jan-chm3w/q5bii.jpg",
+      "markscheme": "img/2009-jan-chm3w/ms/q5bii.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm3w-q5biii",
+      "paper": "2009-jan-chm3w",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "question": "5(b)(iii)",
+      "questionNumber": "5(b)(iii)",
+      "page": 8,
+      "marks": 2,
+      "topics": [
+        "Alkenes",
+        "Nomenclature & Isomerism"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw and name the structures of the two stereoisomers of but-2-ene.",
+      "specRef": "3.3.3",
+      "image": "img/2009-jan-chm3w/q5biii.jpg",
+      "markscheme": "img/2009-jan-chm3w/ms/q5biii.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm4-q1ai",
+      "paper": "2009-jan-chm4",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "1(a)(i)",
+      "questionNumber": "1(a)(i)",
+      "page": 3,
+      "marks": 1,
+      "topics": [
+        "Acids & Bases"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Write an expression for pH.",
+      "specRef": "3.4.3",
+      "image": "img/2009-jan-chm4/q1ai.jpg",
+      "markscheme": "img/2009-jan-chm4/ms/q1ai.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm4-q1aii",
+      "paper": "2009-jan-chm4",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "1(a)(ii)",
+      "questionNumber": "1(a)(ii)",
+      "page": 3,
+      "marks": 1,
+      "topics": [
+        "Acids & Bases"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the pH of a 0.150 mol dm-3 solution of hydrochloric acid to 2 decimal places.",
+      "specRef": "3.4.3",
+      "image": "img/2009-jan-chm4/q1aii.jpg",
+      "markscheme": "img/2009-jan-chm4/ms/q1aii.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm4-q1bi",
+      "paper": "2009-jan-chm4",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "1(b)(i)",
+      "questionNumber": "1(b)(i)",
+      "page": 3,
+      "marks": 1,
+      "topics": [
+        "Amount of Substance",
+        "Acids & Bases"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the number of moles of potassium hydroxide in 60.0 cm3 of 0.0850 mol dm-3 KOH.",
+      "specRef": "3.4.3",
+      "image": "img/2009-jan-chm4/q1bi.jpg",
+      "markscheme": "img/2009-jan-chm4/ms/q1bi.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm4-q1bii",
+      "paper": "2009-jan-chm4",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "1(b)(ii)",
+      "questionNumber": "1(b)(ii)",
+      "page": 3,
+      "marks": 1,
+      "topics": [
+        "Amount of Substance",
+        "Acids & Bases"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the number of moles of hydrochloric acid in 30.0 cm3 of 0.150 mol dm-3 HCl.",
+      "specRef": "3.4.3",
+      "image": "img/2009-jan-chm4/q1bii.jpg",
+      "markscheme": "img/2009-jan-chm4/ms/q1bii.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm4-q1biii",
+      "paper": "2009-jan-chm4",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "1(b)(iii)",
+      "questionNumber": "1(b)(iii)",
+      "page": 3,
+      "marks": 5,
+      "topics": [
+        "Acids & Bases"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the moles of excess KOH and the pH at 298 K of the resulting 90.0 cm3 solution.",
+      "specRef": "3.4.3",
+      "image": "img/2009-jan-chm4/q1biii.jpg",
+      "markscheme": "img/2009-jan-chm4/ms/q1biii.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm4-q2ai",
+      "paper": "2009-jan-chm4",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "2(a)(i)",
+      "questionNumber": "2(a)(i)",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "Acids & Bases"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Write an expression for the acid dissociation constant Ka for the weak acid HX.",
+      "specRef": "3.4.3",
+      "image": "img/2009-jan-chm4/q2ai.jpg",
+      "markscheme": "img/2009-jan-chm4/ms/q2ai.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm4-q2aii",
+      "paper": "2009-jan-chm4",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "2(a)(ii)",
+      "questionNumber": "2(a)(ii)",
+      "page": 6,
+      "marks": 3,
+      "topics": [
+        "Acids & Bases"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate Ka for a 0.150 mol dm-3 solution of weak acid HX with pH 3.48 at 298 K.",
+      "specRef": "3.4.3",
+      "image": "img/2009-jan-chm4/q2aii.jpg",
+      "markscheme": "img/2009-jan-chm4/ms/q2aii.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm4-q2b",
+      "paper": "2009-jan-chm4",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "2(b)",
+      "questionNumber": "2(b)",
+      "page": 6,
+      "marks": 4,
+      "topics": [
+        "Acids & Bases"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the pH of the buffer formed by dissolving 0.0300 mol NaY in 500 cm3 of 0.250 mol dm-3 HY (Ka = 2.65 x 10-4).",
+      "specRef": "3.4.3",
+      "image": "img/2009-jan-chm4/q2b.jpg",
+      "markscheme": "img/2009-jan-chm4/ms/q2b.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm4-q3ai",
+      "paper": "2009-jan-chm4",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "3(a)(i)",
+      "questionNumber": "3(a)(i)",
+      "page": 7,
+      "marks": 2,
+      "topics": [
+        "Equilibria"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the equilibrium moles of CO and H2 given 0.360 mol CO, 0.640 mol H2 initially and 0.120 mol CH3OH at equilibrium.",
+      "specRef": "3.4.2",
+      "image": "img/2009-jan-chm4/q3ai.jpg",
+      "markscheme": "img/2009-jan-chm4/ms/q3ai.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm4-q3aii",
+      "paper": "2009-jan-chm4",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "3(a)(ii)",
+      "questionNumber": "3(a)(ii)",
+      "page": 7,
+      "marks": 2,
+      "topics": [
+        "Equilibria"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the mole fraction of CO in the equilibrium mixture.",
+      "specRef": "3.4.2",
+      "image": "img/2009-jan-chm4/q3aii.jpg",
+      "markscheme": "img/2009-jan-chm4/ms/q3aii.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm4-q3bi",
+      "paper": "2009-jan-chm4",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "3(b)(i)",
+      "questionNumber": "3(b)(i)",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "Equilibria"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Write a general expression relating partial pressure of a gas to its mole fraction.",
+      "specRef": "3.4.2",
+      "image": "img/2009-jan-chm4/q3bi.jpg",
+      "markscheme": "img/2009-jan-chm4/ms/q3bi.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm4-q3bii",
+      "paper": "2009-jan-chm4",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "3(b)(ii)",
+      "questionNumber": "3(b)(ii)",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "Equilibria"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the partial pressure of CO when the total pressure is 268 kPa.",
+      "specRef": "3.4.2",
+      "image": "img/2009-jan-chm4/q3bii.jpg",
+      "markscheme": "img/2009-jan-chm4/ms/q3bii.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm4-q3ci",
+      "paper": "2009-jan-chm4",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "3(c)(i)",
+      "questionNumber": "3(c)(i)",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "Equilibria"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the partial pressure of CH3OH in a mixture at 500 kPa where p(CO) = 75.0 kPa and p(H2) = 300 kPa.",
+      "specRef": "3.4.2",
+      "image": "img/2009-jan-chm4/q3ci.jpg",
+      "markscheme": "img/2009-jan-chm4/ms/q3ci.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm4-q3cii",
+      "paper": "2009-jan-chm4",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "3(c)(ii)",
+      "questionNumber": "3(c)(ii)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "Equilibria"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Write an expression for Kp for CO(g) + 2H2(g) <=> CH3OH(g).",
+      "specRef": "3.4.2",
+      "image": "img/2009-jan-chm4/q3cii.jpg",
+      "markscheme": "img/2009-jan-chm4/ms/q3cii.png",
+      "figures": [
+        "img/2009-jan-chm4/fig-q3-eqn.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chm4-q3ciii",
+      "paper": "2009-jan-chm4",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "3(c)(iii)",
+      "questionNumber": "3(c)(iii)",
+      "page": 8,
+      "marks": 3,
+      "topics": [
+        "Equilibria"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate Kp and state its units.",
+      "specRef": "3.4.2",
+      "image": "img/2009-jan-chm4/q3ciii.jpg",
+      "markscheme": "img/2009-jan-chm4/ms/q3ciii.png",
+      "figures": [
+        "img/2009-jan-chm4/fig-q3-eqn.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chm4-q3di",
+      "paper": "2009-jan-chm4",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "3(d)(i)",
+      "questionNumber": "3(d)(i)",
+      "page": 8,
+      "marks": 2,
+      "topics": [
+        "Equilibria"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "State the effect at constant temperature of an increase in total pressure on the mole fraction of CH3OH and on Kp.",
+      "specRef": "3.4.2",
+      "image": "img/2009-jan-chm4/q3di.jpg",
+      "markscheme": "img/2009-jan-chm4/ms/q3di.png",
+      "figures": [
+        "img/2009-jan-chm4/fig-q3-eqn.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chm4-q3dii",
+      "paper": "2009-jan-chm4",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "3(d)(ii)",
+      "questionNumber": "3(d)(ii)",
+      "page": 8,
+      "marks": 2,
+      "topics": [
+        "Equilibria"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "State the effect at constant pressure of an increase in temperature on the mole fraction of CH3OH and on Kp.",
+      "specRef": "3.4.2",
+      "image": "img/2009-jan-chm4/q3dii.jpg",
+      "markscheme": "img/2009-jan-chm4/ms/q3dii.png",
+      "figures": [
+        "img/2009-jan-chm4/fig-q3-eqn.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chm4-q4a",
+      "paper": "2009-jan-chm4",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "4(a)",
+      "questionNumber": "4(a)",
+      "page": 9,
+      "marks": 1,
+      "topics": [
+        "Haloalkanes",
+        "Nomenclature & Isomerism"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Name compound A.",
+      "specRef": "3.3.2",
+      "image": "img/2009-jan-chm4/q4a.jpg",
+      "markscheme": "img/2009-jan-chm4/ms/q4a.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm4-q4bi",
+      "paper": "2009-jan-chm4",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "4(b)(i)",
+      "questionNumber": "4(b)(i)",
+      "page": 9,
+      "marks": 3,
+      "topics": [
+        "Haloalkanes",
+        "Alkenes"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Give the reagent, conditions, and type of reaction used to convert A into B.",
+      "specRef": "3.3.2",
+      "image": "img/2009-jan-chm4/q4bi.jpg",
+      "markscheme": "img/2009-jan-chm4/ms/q4bi.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm4-q4bii",
+      "paper": "2009-jan-chm4",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "4(b)(ii)",
+      "questionNumber": "4(b)(ii)",
+      "page": 9,
+      "marks": 1,
+      "topics": [
+        "Alkenes",
+        "Nomenclature & Isomerism"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw the structural isomer of B also formed from A under the same conditions.",
+      "specRef": "3.3.3",
+      "image": "img/2009-jan-chm4/q4bii.jpg",
+      "markscheme": "img/2009-jan-chm4/ms/q4bii.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm4-q4ci",
+      "paper": "2009-jan-chm4",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "4(c)(i)",
+      "questionNumber": "4(c)(i)",
+      "page": 9,
+      "marks": 1,
+      "topics": [
+        "Alkenes",
+        "Nomenclature & Isomerism"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Name the type of stereoisomerism shown by compound B.",
+      "specRef": "3.4.5",
+      "image": "img/2009-jan-chm4/q4ci.jpg",
+      "markscheme": "img/2009-jan-chm4/ms/q4ci.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm4-q4cii",
+      "paper": "2009-jan-chm4",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "4(c)(ii)",
+      "questionNumber": "4(c)(ii)",
+      "page": 9,
+      "marks": 2,
+      "topics": [
+        "Alkenes",
+        "Nomenclature & Isomerism"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Explain why this type of stereoisomerism is possible in B.",
+      "specRef": "3.4.5",
+      "image": "img/2009-jan-chm4/q4cii.jpg",
+      "markscheme": "img/2009-jan-chm4/ms/q4cii.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm4-q4di",
+      "paper": "2009-jan-chm4",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "4(d)(i)",
+      "questionNumber": "4(d)(i)",
+      "page": 10,
+      "marks": 2,
+      "topics": [
+        "Analytical Techniques",
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Suggest why the mass spectrum of A (C6H13Br) contains two molecular ion peaks of almost equal intensity at m/z = 164 and 166.",
+      "specRef": "3.4.12",
+      "image": "img/2009-jan-chm4/q4di.jpg",
+      "markscheme": "img/2009-jan-chm4/ms/q4di.png",
+      "figures": [
+        "img/2009-jan-chm4/fig-q4-ab.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chm4-q4dii",
+      "paper": "2009-jan-chm4",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "4(d)(ii)",
+      "questionNumber": "4(d)(ii)",
+      "page": 10,
+      "marks": 2,
+      "topics": [
+        "Analytical Techniques",
+        "Haloalkanes"
+      ],
+      "skills": [
+        "Application",
+        "Explanation"
+      ],
+      "summary": "Draw the structure of the species giving the major peak at m/z = 85 in the mass spectrum of A and give one reason why it is a major peak.",
+      "specRef": "3.4.12",
+      "image": "img/2009-jan-chm4/q4dii.jpg",
+      "markscheme": "img/2009-jan-chm4/ms/q4dii.png",
+      "figures": [
+        "img/2009-jan-chm4/fig-q4-ab.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chm4-q5ai",
+      "paper": "2009-jan-chm4",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "5(a)(i)",
+      "questionNumber": "5(a)(i)",
+      "page": 11,
+      "marks": 2,
+      "topics": [
+        "Analytical Techniques"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Identify the bonds responsible for absorptions I and II in the infra-red spectra of compounds C and D.",
+      "specRef": "3.4.12",
+      "image": "img/2009-jan-chm4/q5ai.jpg",
+      "markscheme": "img/2009-jan-chm4/ms/q5ai.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm4-q5aii",
+      "paper": "2009-jan-chm4",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "5(a)(ii)",
+      "questionNumber": "5(a)(ii)",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "Analytical Techniques",
+        "Alcohols"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Suggest one possible impurity in D that would produce absorption III in its infra-red spectrum.",
+      "specRef": "3.4.12",
+      "image": "img/2009-jan-chm4/q5aii.jpg",
+      "markscheme": "img/2009-jan-chm4/ms/q5aii.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm4-q5bi",
+      "paper": "2009-jan-chm4",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "5(b)(i)",
+      "questionNumber": "5(b)(i)",
+      "page": 12,
+      "marks": 1,
+      "topics": [
+        "Analytical Techniques"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "State what can be deduced about C from the singlet peak at delta = 0.89 (integration 9) in its 1H NMR spectrum.",
+      "specRef": "3.4.12",
+      "image": "img/2009-jan-chm4/q5bi.jpg",
+      "markscheme": "img/2009-jan-chm4/ms/q5bi.png",
+      "figures": [
+        "img/2009-jan-chm4/fig-q5-nmr.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chm4-q5bii",
+      "paper": "2009-jan-chm4",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "5(b)(ii)",
+      "questionNumber": "5(b)(ii)",
+      "page": 12,
+      "marks": 1,
+      "topics": [
+        "Analytical Techniques"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "State what can be deduced about C from the quartet at delta = 3.47 (int 1) and doublet at delta = 1.12 (int 3).",
+      "specRef": "3.4.12",
+      "image": "img/2009-jan-chm4/q5bii.jpg",
+      "markscheme": "img/2009-jan-chm4/ms/q5bii.png",
+      "figures": [
+        "img/2009-jan-chm4/fig-q5-nmr.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chm4-q5biii",
+      "paper": "2009-jan-chm4",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "5(b)(iii)",
+      "questionNumber": "5(b)(iii)",
+      "page": 12,
+      "marks": 2,
+      "topics": [
+        "Analytical Techniques",
+        "Alcohols"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Deduce the structure of compound C (C6H14O) from the IR and 1H NMR data.",
+      "specRef": "3.4.12",
+      "image": "img/2009-jan-chm4/q5biii.jpg",
+      "markscheme": "img/2009-jan-chm4/ms/q5biii.png",
+      "figures": [
+        "img/2009-jan-chm4/fig-q5-nmr.jpg",
+        "img/2009-jan-chm4/fig-q5-ir.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chm4-q5ci",
+      "paper": "2009-jan-chm4",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "5(c)(i)",
+      "questionNumber": "5(c)(i)",
+      "page": 13,
+      "marks": 1,
+      "topics": [
+        "Analytical Techniques",
+        "Alcohols"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw the structure of an isomer of C (C6H14O) unaffected by acidified dichromate(VI) with 4 peaks in its 1H NMR spectrum.",
+      "specRef": "3.4.12",
+      "image": "img/2009-jan-chm4/q5ci.jpg",
+      "markscheme": "img/2009-jan-chm4/ms/q5ci.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm4-q5cii",
+      "paper": "2009-jan-chm4",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "5(c)(ii)",
+      "questionNumber": "5(c)(ii)",
+      "page": 13,
+      "marks": 1,
+      "topics": [
+        "Analytical Techniques",
+        "Nomenclature & Isomerism"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw an alcohol isomer of C that exhibits optical isomerism and has 6 peaks (per Erratum) in its 1H NMR spectrum.",
+      "specRef": "3.4.12",
+      "image": "img/2009-jan-chm4/q5cii.jpg",
+      "markscheme": "img/2009-jan-chm4/ms/q5cii.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm4-q5d",
+      "paper": "2009-jan-chm4",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "5(d)",
+      "questionNumber": "5(d)",
+      "page": 13,
+      "marks": 1,
+      "topics": [
+        "Analytical Techniques",
+        "Alcohols"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw the structure of an alcohol isomer of D (C6H12O) with no IR absorption between 1620 and 1680 cm-1.",
+      "specRef": "3.4.12",
+      "image": "img/2009-jan-chm4/q5d.jpg",
+      "markscheme": "img/2009-jan-chm4/ms/q5d.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm4-q6ai",
+      "paper": "2009-jan-chm4",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "6(a)(i)",
+      "questionNumber": "6(a)(i)",
+      "page": 14,
+      "marks": 3,
+      "topics": [
+        "Kinetics"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the rate constant k and state its units for rate = k[E][F]2.",
+      "specRef": "3.4.1",
+      "image": "img/2009-jan-chm4/q6ai.jpg",
+      "markscheme": "img/2009-jan-chm4/ms/q6ai.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm4-q6aii",
+      "paper": "2009-jan-chm4",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "6(a)(ii)",
+      "questionNumber": "6(a)(ii)",
+      "page": 14,
+      "marks": 1,
+      "topics": [
+        "Kinetics"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the initial rate when [E] is doubled and [F] is halved at the same temperature.",
+      "specRef": "3.4.1",
+      "image": "img/2009-jan-chm4/q6aii.jpg",
+      "markscheme": "img/2009-jan-chm4/ms/q6aii.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chm4-q6bi",
+      "paper": "2009-jan-chm4",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "6(b)(i)",
+      "questionNumber": "6(b)(i)",
+      "page": 14,
+      "marks": 1,
+      "topics": [
+        "Kinetics"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Deduce the order of reaction with respect to G from the experimental data.",
+      "specRef": "3.4.1",
+      "image": "img/2009-jan-chm4/q6bi.jpg",
+      "markscheme": "img/2009-jan-chm4/ms/q6bi.png",
+      "figures": [
+        "img/2009-jan-chm4/fig-q6-table.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chm4-q6bii",
+      "paper": "2009-jan-chm4",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "6(b)(ii)",
+      "questionNumber": "6(b)(ii)",
+      "page": 14,
+      "marks": 1,
+      "topics": [
+        "Kinetics"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Deduce the order of reaction with respect to H from the experimental data.",
+      "specRef": "3.4.1",
+      "image": "img/2009-jan-chm4/q6bii.jpg",
+      "markscheme": "img/2009-jan-chm4/ms/q6bii.png",
+      "figures": [
+        "img/2009-jan-chm4/fig-q6-table.jpg"
+      ]
     }
   ]
 }
