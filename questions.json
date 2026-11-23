@@ -1197,6 +1197,39 @@
       "date": "2008-06-04",
       "totalMarks": 60,
       "duration": "1 hour"
+    },
+    {
+      "id": "2008-june-chm4",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "title": "CHM4 – Further Physical and Organic Chemistry",
+      "date": "2008-06-12",
+      "totalMarks": 90,
+      "duration": "1 hour 30 minutes"
+    },
+    {
+      "id": "2008-june-chm5",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM5",
+      "level": "A",
+      "title": "CHM5 – Thermodynamics and Further Inorganic Chemistry",
+      "date": "2008-06-19",
+      "totalMarks": 120,
+      "duration": "2 hours"
+    },
+    {
+      "id": "2008-june-chm6w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM6/W",
+      "level": "A",
+      "title": "CHM6/W – Synoptic Assessment",
+      "date": "2008-06-19",
+      "totalMarks": 40,
+      "duration": "1 hour"
     }
   ],
   "questions": [
@@ -47358,6 +47391,2531 @@
       ],
       "question": "5(d)",
       "page": 11
+    },
+    {
+      "id": "2008-june-chm4-q1a",
+      "paper": "2008-june-chm4",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "1(a)",
+      "questionNumber": "1(a)",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "Acids & Bases"
+      ],
+      "skills": [
+        "Maths & Calculations"
+      ],
+      "summary": "Calculate the pH of 0.0380 mol dm-3 hydrochloric acid to 2 d.p.",
+      "specRef": "3.1.12",
+      "image": "img/2008-june-chm4/q1a.jpg",
+      "markscheme": "img/2008-june-chm4/ms/q1a.png",
+      "figures": []
+    },
+    {
+      "id": "2008-june-chm4-q1b",
+      "paper": "2008-june-chm4",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "1(b)",
+      "questionNumber": "1(b)",
+      "page": 2,
+      "marks": 2,
+      "topics": [
+        "Acids & Bases"
+      ],
+      "skills": [
+        "Maths & Calculations"
+      ],
+      "summary": "Calculate the pH after diluting 100 cm3 of 0.0380 mol dm-3 HCl with 100 cm3 of water.",
+      "specRef": "3.1.12",
+      "image": "img/2008-june-chm4/q1b.jpg",
+      "markscheme": "img/2008-june-chm4/ms/q1b.png",
+      "figures": []
+    },
+    {
+      "id": "2008-june-chm4-q1ci",
+      "paper": "2008-june-chm4",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "1(c)(i)",
+      "questionNumber": "1(c)(i)",
+      "page": 2,
+      "marks": 2,
+      "topics": [
+        "Acids & Bases"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Explain the terms weak and Bronsted-Lowry acid as applied to HX.",
+      "specRef": "3.1.12",
+      "image": "img/2008-june-chm4/q1ci.jpg",
+      "markscheme": "img/2008-june-chm4/ms/q1ci.png",
+      "figures": []
+    },
+    {
+      "id": "2008-june-chm4-q1cii",
+      "paper": "2008-june-chm4",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "1(c)(ii)",
+      "questionNumber": "1(c)(ii)",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "Acids & Bases"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Write an expression for the dissociation constant Ka for HX.",
+      "specRef": "3.1.12",
+      "image": "img/2008-june-chm4/q1cii.jpg",
+      "markscheme": "img/2008-june-chm4/ms/q1cii.png",
+      "figures": []
+    },
+    {
+      "id": "2008-june-chm4-q1ciii",
+      "paper": "2008-june-chm4",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "1(c)(iii)",
+      "questionNumber": "1(c)(iii)",
+      "page": 5,
+      "marks": 3,
+      "topics": [
+        "Acids & Bases"
+      ],
+      "skills": [
+        "Maths & Calculations"
+      ],
+      "summary": "Calculate Ka for HX given pH 3.48 of a 0.0630 mol dm-3 solution.",
+      "specRef": "3.1.12",
+      "image": "img/2008-june-chm4/q1ciii.jpg",
+      "markscheme": "img/2008-june-chm4/ms/q1ciii.png",
+      "figures": []
+    },
+    {
+      "id": "2008-june-chm4-q1di",
+      "paper": "2008-june-chm4",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "1(d)(i)",
+      "questionNumber": "1(d)(i)",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "Acids & Bases"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Deduce the pH of a buffer solution after adding 100 cm3 of pure water to 100 cm3 of buffer.",
+      "specRef": "3.1.12",
+      "image": "img/2008-june-chm4/q1di.jpg",
+      "markscheme": "img/2008-june-chm4/ms/q1di.png",
+      "figures": []
+    },
+    {
+      "id": "2008-june-chm4-q1dii",
+      "paper": "2008-june-chm4",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "1(d)(ii)",
+      "questionNumber": "1(d)(ii)",
+      "page": 5,
+      "marks": 5,
+      "topics": [
+        "Acids & Bases"
+      ],
+      "skills": [
+        "Maths & Calculations"
+      ],
+      "summary": "Calculate the pH after adding 10.0 cm3 of 0.130 mol dm-3 NaOH to 100 cm3 of the HA/NaA buffer.",
+      "specRef": "3.1.12",
+      "image": "img/2008-june-chm4/q1dii.jpg",
+      "markscheme": "img/2008-june-chm4/ms/q1dii.png",
+      "figures": []
+    },
+    {
+      "id": "2008-june-chm4-q2a",
+      "paper": "2008-june-chm4",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "2(a)",
+      "questionNumber": "2(a)",
+      "page": 6,
+      "marks": 2,
+      "topics": [
+        "Kinetics"
+      ],
+      "skills": [
+        "Data Analysis"
+      ],
+      "summary": "Deduce the orders of reaction with respect to A and B from initial rates data.",
+      "specRef": "3.1.9",
+      "image": "img/2008-june-chm4/q2a.jpg",
+      "markscheme": "img/2008-june-chm4/ms/q2a.png",
+      "figures": []
+    },
+    {
+      "id": "2008-june-chm4-q2bi",
+      "paper": "2008-june-chm4",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "2(b)(i)",
+      "questionNumber": "2(b)(i)",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "Kinetics"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Write the rate equation for a reaction first order in C and second order in D.",
+      "specRef": "3.1.9",
+      "image": "img/2008-june-chm4/q2bi.jpg",
+      "markscheme": "img/2008-june-chm4/ms/q2bi.png",
+      "figures": []
+    },
+    {
+      "id": "2008-june-chm4-q2bii",
+      "paper": "2008-june-chm4",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "2(b)(ii)",
+      "questionNumber": "2(b)(ii)",
+      "page": 6,
+      "marks": 3,
+      "topics": [
+        "Kinetics"
+      ],
+      "skills": [
+        "Maths & Calculations"
+      ],
+      "summary": "Calculate the rate constant k and deduce its units.",
+      "specRef": "3.1.9",
+      "image": "img/2008-june-chm4/q2bii.jpg",
+      "markscheme": "img/2008-june-chm4/ms/q2bii.png",
+      "figures": []
+    },
+    {
+      "id": "2008-june-chm4-q3ai",
+      "paper": "2008-june-chm4",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "3(a)(i)",
+      "questionNumber": "3(a)(i)",
+      "page": 7,
+      "marks": 2,
+      "topics": [
+        "Equilibria"
+      ],
+      "skills": [
+        "Maths & Calculations"
+      ],
+      "summary": "Calculate the partial pressure of hydrazine given mole fraction 0.22 and total pressure 150 kPa.",
+      "specRef": "3.1.10",
+      "image": "img/2008-june-chm4/q3ai.jpg",
+      "markscheme": "img/2008-june-chm4/ms/q3ai.png",
+      "figures": [
+        "img/2008-june-chm4/fig-q3-eq.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm4-q3aii",
+      "paper": "2008-june-chm4",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "3(a)(ii)",
+      "questionNumber": "3(a)(ii)",
+      "page": 7,
+      "marks": 3,
+      "topics": [
+        "Equilibria"
+      ],
+      "skills": [
+        "Maths & Calculations"
+      ],
+      "summary": "Calculate the partial pressures of nitrogen and hydrogen in the hydrazine decomposition equilibrium.",
+      "specRef": "3.1.10",
+      "image": "img/2008-june-chm4/q3aii.jpg",
+      "markscheme": "img/2008-june-chm4/ms/q3aii.png",
+      "figures": [
+        "img/2008-june-chm4/fig-q3-eq.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm4-q3bi",
+      "paper": "2008-june-chm4",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "3(b)(i)",
+      "questionNumber": "3(b)(i)",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "Equilibria"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Write an expression for Kp for the decomposition of hydrazine.",
+      "specRef": "3.1.10",
+      "image": "img/2008-june-chm4/q3bi.jpg",
+      "markscheme": "img/2008-june-chm4/ms/q3bi.png",
+      "figures": [
+        "img/2008-june-chm4/fig-q3-eq.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm4-q3bii",
+      "paper": "2008-june-chm4",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "3(b)(ii)",
+      "questionNumber": "3(b)(ii)",
+      "page": 7,
+      "marks": 3,
+      "topics": [
+        "Equilibria"
+      ],
+      "skills": [
+        "Maths & Calculations"
+      ],
+      "summary": "Calculate the value of Kp and deduce its units.",
+      "specRef": "3.1.10",
+      "image": "img/2008-june-chm4/q3bii.jpg",
+      "markscheme": "img/2008-june-chm4/ms/q3bii.png",
+      "figures": []
+    },
+    {
+      "id": "2008-june-chm4-q3c",
+      "paper": "2008-june-chm4",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "3(c)",
+      "questionNumber": "3(c)",
+      "page": 7,
+      "marks": 2,
+      "topics": [
+        "Equilibria"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Explain why halving the container volume more than doubles the partial pressure of hydrazine.",
+      "specRef": "3.1.10",
+      "image": "img/2008-june-chm4/q3c.jpg",
+      "markscheme": "img/2008-june-chm4/ms/q3c.png",
+      "figures": [
+        "img/2008-june-chm4/fig-q3-eq.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm4-q4a",
+      "paper": "2008-june-chm4",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "4(a)",
+      "questionNumber": "4(a)",
+      "page": 8,
+      "marks": 3,
+      "topics": [
+        "Polymers"
+      ],
+      "skills": [
+        "Knowledge & Recall",
+        "Application"
+      ],
+      "summary": "Name the polymerisation type and draw the repeating unit formed from propane-1,3-diamine and pentanedioic acid.",
+      "specRef": "3.3.10",
+      "image": "img/2008-june-chm4/q4a.jpg",
+      "markscheme": "img/2008-june-chm4/ms/q4a.png",
+      "figures": []
+    },
+    {
+      "id": "2008-june-chm4-q4bi",
+      "paper": "2008-june-chm4",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "4(b)(i)",
+      "questionNumber": "4(b)(i)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "Polymers",
+        "Alkenes"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw the structure of the monomer used to make PVA.",
+      "specRef": "3.3.10",
+      "image": "img/2008-june-chm4/q4bi.jpg",
+      "markscheme": "img/2008-june-chm4/ms/q4bi.png",
+      "figures": [
+        "img/2008-june-chm4/fig-q4b-pva.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm4-q4bii",
+      "paper": "2008-june-chm4",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "4(b)(ii)",
+      "questionNumber": "4(b)(ii)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "Polymers",
+        "Carboxylic Acids & Esters"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw the repeating unit of the polymer formed when PVA reacts with excess aqueous NaOH.",
+      "specRef": "3.3.10",
+      "image": "img/2008-june-chm4/q4bii.jpg",
+      "markscheme": "img/2008-june-chm4/ms/q4bii.png",
+      "figures": [
+        "img/2008-june-chm4/fig-q4b-pva.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm4-q4ci",
+      "paper": "2008-june-chm4",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "4(c)(i)",
+      "questionNumber": "4(c)(i)",
+      "page": 9,
+      "marks": 2,
+      "topics": [
+        "Amino Acids & Proteins"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw the structures of the two dipeptides formed by reacting alanine with serine.",
+      "specRef": "3.3.11",
+      "image": "img/2008-june-chm4/q4ci.jpg",
+      "markscheme": "img/2008-june-chm4/ms/q4ci.png",
+      "figures": [
+        "img/2008-june-chm4/fig-q4c-amino.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm4-q4cii",
+      "paper": "2008-june-chm4",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "4(c)(ii)",
+      "questionNumber": "4(c)(ii)",
+      "page": 9,
+      "marks": 1,
+      "topics": [
+        "Amino Acids & Proteins"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw the structure of the zwitterion of serine.",
+      "specRef": "3.3.11",
+      "image": "img/2008-june-chm4/q4cii.jpg",
+      "markscheme": "img/2008-june-chm4/ms/q4cii.png",
+      "figures": [
+        "img/2008-june-chm4/fig-q4c-amino.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm4-q4ciii",
+      "paper": "2008-june-chm4",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "4(c)(iii)",
+      "questionNumber": "4(c)(iii)",
+      "page": 9,
+      "marks": 1,
+      "topics": [
+        "Amino Acids & Proteins",
+        "Carboxylic Acids & Esters"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw the organic compound formed when alanine reacts with methanol and concentrated H2SO4.",
+      "specRef": "3.3.11",
+      "image": "img/2008-june-chm4/q4ciii.jpg",
+      "markscheme": "img/2008-june-chm4/ms/q4ciii.png",
+      "figures": [
+        "img/2008-june-chm4/fig-q4c-amino.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm4-q4civ",
+      "paper": "2008-june-chm4",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "4(c)(iv)",
+      "questionNumber": "4(c)(iv)",
+      "page": 9,
+      "marks": 2,
+      "topics": [
+        "Amino Acids & Proteins",
+        "Acyl Derivatives"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw the organic compound formed when one molecule of serine reacts with two molecules of ethanoyl chloride.",
+      "specRef": "3.3.11",
+      "image": "img/2008-june-chm4/q4civ.jpg",
+      "markscheme": "img/2008-june-chm4/ms/q4civ.png",
+      "figures": [
+        "img/2008-june-chm4/fig-q4c-amino.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm4-q5ai",
+      "paper": "2008-june-chm4",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "5(a)(i)",
+      "questionNumber": "5(a)(i)",
+      "page": 10,
+      "marks": 1,
+      "topics": [
+        "Alkenes"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Name the mechanism for Reaction 1 (alkene E + HBr -> 2-bromobutane).",
+      "specRef": "3.3.4",
+      "image": "img/2008-june-chm4/q5ai.jpg",
+      "markscheme": "img/2008-june-chm4/ms/q5ai.png",
+      "figures": [
+        "img/2008-june-chm4/fig-q5-seq.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm4-q5aii",
+      "paper": "2008-june-chm4",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "5(a)(ii)",
+      "questionNumber": "5(a)(ii)",
+      "page": 10,
+      "marks": 1,
+      "topics": [
+        "Alkenes"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Deduce the structure of alkene E given that 2-bromobutane is the only product with HBr.",
+      "specRef": "3.3.4",
+      "image": "img/2008-june-chm4/q5aii.jpg",
+      "markscheme": "img/2008-june-chm4/ms/q5aii.png",
+      "figures": [
+        "img/2008-june-chm4/fig-q5-seq.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm4-q5b",
+      "paper": "2008-june-chm4",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "5(b)",
+      "questionNumber": "5(b)",
+      "page": 10,
+      "marks": 5,
+      "topics": [
+        "Haloalkanes",
+        "Amines"
+      ],
+      "skills": [
+        "Mechanisms"
+      ],
+      "summary": "Name and outline the mechanism for Reaction 2 (2-bromobutane reacting with NH3).",
+      "specRef": "3.3.9",
+      "image": "img/2008-june-chm4/q5b.jpg",
+      "markscheme": "img/2008-june-chm4/ms/q5b.png",
+      "figures": [
+        "img/2008-june-chm4/fig-q5-seq.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm4-q5ci",
+      "paper": "2008-june-chm4",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "5(c)(i)",
+      "questionNumber": "5(c)(i)",
+      "page": 10,
+      "marks": 3,
+      "topics": [
+        "Amount of Substance",
+        "Amines"
+      ],
+      "skills": [
+        "Maths & Calculations"
+      ],
+      "summary": "Calculate the mass of amine G formed from 10.0 g of F at 53.4% conversion.",
+      "specRef": "3.1.2",
+      "image": "img/2008-june-chm4/q5ci.jpg",
+      "markscheme": "img/2008-june-chm4/ms/q5ci.png",
+      "figures": [
+        "img/2008-june-chm4/fig-q5-seq.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm4-q5cii",
+      "paper": "2008-june-chm4",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "5(c)(ii)",
+      "questionNumber": "5(c)(ii)",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "Amines"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Suggest why the percentage conversion of F into primary amine G is relatively low.",
+      "specRef": "3.3.9",
+      "image": "img/2008-june-chm4/q5cii.jpg",
+      "markscheme": "img/2008-june-chm4/ms/q5cii.png",
+      "figures": [
+        "img/2008-june-chm4/fig-q5-seq.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm4-q5d",
+      "paper": "2008-june-chm4",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "5(d)",
+      "questionNumber": "5(d)",
+      "page": 11,
+      "marks": 3,
+      "topics": [
+        "Spectroscopy"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Predict the number of 1H NMR peaks for F and the splitting patterns for protons a and b.",
+      "specRef": "3.3.12",
+      "image": "img/2008-june-chm4/q5d.jpg",
+      "markscheme": "img/2008-june-chm4/ms/q5d.png",
+      "figures": [
+        "img/2008-june-chm4/fig-q5-seq.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm4-q5ei",
+      "paper": "2008-june-chm4",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "5(e)(i)",
+      "questionNumber": "5(e)(i)",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "Amines",
+        "Spectroscopy"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw the primary amine isomer of G with two peaks in its proton NMR spectrum.",
+      "specRef": "3.3.12",
+      "image": "img/2008-june-chm4/q5ei.jpg",
+      "markscheme": "img/2008-june-chm4/ms/q5ei.png",
+      "figures": [
+        "img/2008-june-chm4/fig-q5-seq.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm4-q5eii",
+      "paper": "2008-june-chm4",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "5(e)(ii)",
+      "questionNumber": "5(e)(ii)",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "Amines",
+        "Spectroscopy"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw the secondary amine isomer of G with four peaks in its proton NMR spectrum.",
+      "specRef": "3.3.12",
+      "image": "img/2008-june-chm4/q5eii.jpg",
+      "markscheme": "img/2008-june-chm4/ms/q5eii.png",
+      "figures": [
+        "img/2008-june-chm4/fig-q5-seq.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm4-q5eiii",
+      "paper": "2008-june-chm4",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "5(e)(iii)",
+      "questionNumber": "5(e)(iii)",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "Amines"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw the tertiary amine isomer of G.",
+      "specRef": "3.3.9",
+      "image": "img/2008-june-chm4/q5eiii.jpg",
+      "markscheme": "img/2008-june-chm4/ms/q5eiii.png",
+      "figures": [
+        "img/2008-june-chm4/fig-q5-seq.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm5-q1a",
+      "paper": "2008-june-chm5",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM5",
+      "level": "A",
+      "question": "1(a)",
+      "questionNumber": "1(a)",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "Acids & Bases"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Define the term Bronsted-Lowry base.",
+      "specRef": "3.1.12",
+      "image": "img/2008-june-chm5/q1a.jpg",
+      "markscheme": "img/2008-june-chm5/ms/q1a.png",
+      "figures": []
+    },
+    {
+      "id": "2008-june-chm5-q1b",
+      "paper": "2008-june-chm5",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM5",
+      "level": "A",
+      "question": "1(b)",
+      "questionNumber": "1(b)",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "Transition Metals"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Define the term Lewis base.",
+      "specRef": "3.2.8",
+      "image": "img/2008-june-chm5/q1b.jpg",
+      "markscheme": "img/2008-june-chm5/ms/q1b.png",
+      "figures": []
+    },
+    {
+      "id": "2008-june-chm5-q1c",
+      "paper": "2008-june-chm5",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM5",
+      "level": "A",
+      "question": "1(c)",
+      "questionNumber": "1(c)",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "Haloalkanes",
+        "Acyl Derivatives"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Define the term nucleophile.",
+      "specRef": "3.3.3",
+      "image": "img/2008-june-chm5/q1c.jpg",
+      "markscheme": "img/2008-june-chm5/ms/q1c.png",
+      "figures": []
+    },
+    {
+      "id": "2008-june-chm5-q1d",
+      "paper": "2008-june-chm5",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM5",
+      "level": "A",
+      "question": "1(d)",
+      "questionNumber": "1(d)",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "Acids & Bases"
+      ],
+      "skills": [
+        "Chemical Equations"
+      ],
+      "summary": "Write an ionic equation for ammonia acting as a Bronsted-Lowry base with HCl.",
+      "specRef": "3.1.12",
+      "image": "img/2008-june-chm5/q1d.jpg",
+      "markscheme": "img/2008-june-chm5/ms/q1d.png",
+      "figures": []
+    },
+    {
+      "id": "2008-june-chm5-q1e",
+      "paper": "2008-june-chm5",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM5",
+      "level": "A",
+      "question": "1(e)",
+      "questionNumber": "1(e)",
+      "page": 5,
+      "marks": 4,
+      "topics": [
+        "Transition Metals"
+      ],
+      "skills": [
+        "Chemical Equations",
+        "Practical Skills"
+      ],
+      "summary": "Write an equation for ammonia reacting with aqueous copper(II) ions as a Lewis base and state the colours.",
+      "specRef": "3.2.8",
+      "image": "img/2008-june-chm5/q1e.jpg",
+      "markscheme": "img/2008-june-chm5/ms/q1e.png",
+      "figures": []
+    },
+    {
+      "id": "2008-june-chm5-q1f",
+      "paper": "2008-june-chm5",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM5",
+      "level": "A",
+      "question": "1(f)",
+      "questionNumber": "1(f)",
+      "page": 5,
+      "marks": 6,
+      "topics": [
+        "Acyl Derivatives"
+      ],
+      "skills": [
+        "Chemical Equations",
+        "Mechanisms"
+      ],
+      "summary": "Write the equation and name/outline the mechanism for ammonia reacting with ethanoyl chloride.",
+      "specRef": "3.3.8",
+      "image": "img/2008-june-chm5/q1f.jpg",
+      "markscheme": "img/2008-june-chm5/ms/q1f.png",
+      "figures": []
+    },
+    {
+      "id": "2008-june-chm5-q2a",
+      "paper": "2008-june-chm5",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM5",
+      "level": "A",
+      "question": "2(a)",
+      "questionNumber": "2(a)",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "Thermodynamics"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State the equation relating free-energy change, enthalpy change, and entropy change.",
+      "specRef": "3.1.8",
+      "image": "img/2008-june-chm5/q2a.jpg",
+      "markscheme": "img/2008-june-chm5/ms/q2a.png",
+      "figures": []
+    },
+    {
+      "id": "2008-june-chm5-q2b",
+      "paper": "2008-june-chm5",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM5",
+      "level": "A",
+      "question": "2(b)",
+      "questionNumber": "2(b)",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "Thermodynamics"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Suggest why the free-energy change is zero when a liquid boils.",
+      "specRef": "3.1.8",
+      "image": "img/2008-june-chm5/q2b.jpg",
+      "markscheme": "img/2008-june-chm5/ms/q2b.png",
+      "figures": []
+    },
+    {
+      "id": "2008-june-chm5-q2c",
+      "paper": "2008-june-chm5",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM5",
+      "level": "A",
+      "question": "2(c)",
+      "questionNumber": "2(c)",
+      "page": 6,
+      "marks": 2,
+      "topics": [
+        "Thermodynamics"
+      ],
+      "skills": [
+        "Maths & Calculations"
+      ],
+      "summary": "Calculate the standard entropy change in J K-1 mol-1 when liquid ammonia boils.",
+      "specRef": "3.1.8",
+      "image": "img/2008-june-chm5/q2c.jpg",
+      "markscheme": "img/2008-june-chm5/ms/q2c.png",
+      "figures": [
+        "img/2008-june-chm5/fig-q2-table.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm5-q2d",
+      "paper": "2008-june-chm5",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM5",
+      "level": "A",
+      "question": "2(d)",
+      "questionNumber": "2(d)",
+      "page": 6,
+      "marks": 3,
+      "topics": [
+        "Bonding",
+        "Thermodynamics"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Explain in terms of intermolecular forces why HF has a greater enthalpy of vaporisation than NH3.",
+      "specRef": "3.1.3",
+      "image": "img/2008-june-chm5/q2d.jpg",
+      "markscheme": "img/2008-june-chm5/ms/q2d.png",
+      "figures": [
+        "img/2008-june-chm5/fig-q2-table.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm5-q3a",
+      "paper": "2008-june-chm5",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM5",
+      "level": "A",
+      "question": "3(a)",
+      "questionNumber": "3(a)",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "Energetics"
+      ],
+      "skills": [
+        "Chemical Equations"
+      ],
+      "summary": "Write an equation for the formation of one mole of ammonia from its elements.",
+      "specRef": "3.1.5",
+      "image": "img/2008-june-chm5/q3a.jpg",
+      "markscheme": "img/2008-june-chm5/ms/q3a.png",
+      "figures": []
+    },
+    {
+      "id": "2008-june-chm5-q3b",
+      "paper": "2008-june-chm5",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM5",
+      "level": "A",
+      "question": "3(b)",
+      "questionNumber": "3(b)",
+      "page": 7,
+      "marks": 3,
+      "topics": [
+        "Thermodynamics"
+      ],
+      "skills": [
+        "Maths & Calculations"
+      ],
+      "summary": "Calculate the entropy change for the formation of one mole of ammonia from its elements.",
+      "specRef": "3.1.8",
+      "image": "img/2008-june-chm5/q3b.jpg",
+      "markscheme": "img/2008-june-chm5/ms/q3b.png",
+      "figures": [
+        "img/2008-june-chm5/fig-q3-table.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm5-q3ci",
+      "paper": "2008-june-chm5",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM5",
+      "level": "A",
+      "question": "3(c)(i)",
+      "questionNumber": "3(c)(i)",
+      "page": 7,
+      "marks": 2,
+      "topics": [
+        "Thermodynamics"
+      ],
+      "skills": [
+        "Maths & Calculations"
+      ],
+      "summary": "Calculate the free-energy change Delta G for the formation of one mole of ammonia at 700 K.",
+      "specRef": "3.1.8",
+      "image": "img/2008-june-chm5/q3ci.jpg",
+      "markscheme": "img/2008-june-chm5/ms/q3ci.png",
+      "figures": [
+        "img/2008-june-chm5/fig-q3-table.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm5-q3cii",
+      "paper": "2008-june-chm5",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM5",
+      "level": "A",
+      "question": "3(c)(ii)",
+      "questionNumber": "3(c)(ii)",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "Thermodynamics"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Predict qualitatively what happens to Delta G at temperatures lower than 700 K.",
+      "specRef": "3.1.8",
+      "image": "img/2008-june-chm5/q3cii.jpg",
+      "markscheme": "img/2008-june-chm5/ms/q3cii.png",
+      "figures": [
+        "img/2008-june-chm5/fig-q3-table.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm5-q3d",
+      "paper": "2008-june-chm5",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM5",
+      "level": "A",
+      "question": "3(d)",
+      "questionNumber": "3(d)",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "Kinetics",
+        "Equilibria"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Suggest one industrial advantage of operating ammonia synthesis above 700 K.",
+      "specRef": "3.1.9",
+      "image": "img/2008-june-chm5/q3d.jpg",
+      "markscheme": "img/2008-june-chm5/ms/q3d.png",
+      "figures": []
+    },
+    {
+      "id": "2008-june-chm5-q4ai",
+      "paper": "2008-june-chm5",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM5",
+      "level": "A",
+      "question": "4(a)(i)",
+      "questionNumber": "4(a)(i)",
+      "page": 8,
+      "marks": 4,
+      "topics": [
+        "Electrode Potentials"
+      ],
+      "skills": [
+        "Knowledge & Recall",
+        "Practical Skills"
+      ],
+      "summary": "Identify substances W, X, Y, and Z in the electrochemical cell used to measure the electrode potential of magnesium.",
+      "specRef": "3.1.11",
+      "image": "img/2008-june-chm5/q4ai.jpg",
+      "markscheme": "img/2008-june-chm5/ms/q4ai.png",
+      "figures": [
+        "img/2008-june-chm5/fig-q4a-cell.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm5-q4aii",
+      "paper": "2008-june-chm5",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM5",
+      "level": "A",
+      "question": "4(a)(ii)",
+      "questionNumber": "4(a)(ii)",
+      "page": 8,
+      "marks": 2,
+      "topics": [
+        "Electrode Potentials"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Give the conventional cell representation for the Mg / SHE electrochemical cell.",
+      "specRef": "3.1.11",
+      "image": "img/2008-june-chm5/q4aii.jpg",
+      "markscheme": "img/2008-june-chm5/ms/q4aii.png",
+      "figures": [
+        "img/2008-june-chm5/fig-q4a-cell.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm5-q4bi",
+      "paper": "2008-june-chm5",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM5",
+      "level": "A",
+      "question": "4(b)(i)",
+      "questionNumber": "4(b)(i)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "Electrode Potentials"
+      ],
+      "skills": [
+        "Maths & Calculations"
+      ],
+      "summary": "Calculate the electrode potential of the manganese oxide electrode given cell e.m.f. = 1.60 V.",
+      "specRef": "3.1.11",
+      "image": "img/2008-june-chm5/q4bi.jpg",
+      "markscheme": "img/2008-june-chm5/ms/q4bi.png",
+      "figures": [
+        "img/2008-june-chm5/fig-q4b-half.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm5-q4bii",
+      "paper": "2008-june-chm5",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM5",
+      "level": "A",
+      "question": "4(b)(ii)",
+      "questionNumber": "4(b)(ii)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "Redox",
+        "Transition Metals"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Deduce the oxidation state of manganese in MnO(OH).",
+      "specRef": "3.1.6",
+      "image": "img/2008-june-chm5/q4bii.jpg",
+      "markscheme": "img/2008-june-chm5/ms/q4bii.png",
+      "figures": [
+        "img/2008-june-chm5/fig-q4b-half.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm5-q4biii",
+      "paper": "2008-june-chm5",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM5",
+      "level": "A",
+      "question": "4(b)(iii)",
+      "questionNumber": "4(b)(iii)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "Electrode Potentials",
+        "Redox"
+      ],
+      "skills": [
+        "Chemical Equations"
+      ],
+      "summary": "Write an equation for the overall reaction in the Zn/MnO2 alkaline cell.",
+      "specRef": "3.1.11",
+      "image": "img/2008-june-chm5/q4biii.jpg",
+      "markscheme": "img/2008-june-chm5/ms/q4biii.png",
+      "figures": [
+        "img/2008-june-chm5/fig-q4b-half.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm5-q4biv",
+      "paper": "2008-june-chm5",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM5",
+      "level": "A",
+      "question": "4(b)(iv)",
+      "questionNumber": "4(b)(iv)",
+      "page": 9,
+      "marks": 2,
+      "topics": [
+        "Electrode Potentials",
+        "Redox"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Identify the oxidising agent and reducing agent in the alkaline cell.",
+      "specRef": "3.1.11",
+      "image": "img/2008-june-chm5/q4biv.jpg",
+      "markscheme": "img/2008-june-chm5/ms/q4biv.png",
+      "figures": [
+        "img/2008-june-chm5/fig-q4b-half.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm5-q4bv",
+      "paper": "2008-june-chm5",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM5",
+      "level": "A",
+      "question": "4(b)(v)",
+      "questionNumber": "4(b)(v)",
+      "page": 9,
+      "marks": 1,
+      "topics": [
+        "Electrode Potentials"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Give one reason why the e.m.f. of the cell decreases after prolonged use.",
+      "specRef": "3.1.11",
+      "image": "img/2008-june-chm5/q4bv.jpg",
+      "markscheme": "img/2008-june-chm5/ms/q4bv.png",
+      "figures": [
+        "img/2008-june-chm5/fig-q4b-half.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm5-q4ci",
+      "paper": "2008-june-chm5",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM5",
+      "level": "A",
+      "question": "4(c)(i)",
+      "questionNumber": "4(c)(i)",
+      "page": 9,
+      "marks": 3,
+      "topics": [
+        "Redox",
+        "Group 7"
+      ],
+      "skills": [
+        "Chemical Equations"
+      ],
+      "summary": "Write half-equations and an overall equation for the redox reaction of concentrated H2SO4 with KBr.",
+      "specRef": "3.2.3",
+      "image": "img/2008-june-chm5/q4ci.jpg",
+      "markscheme": "img/2008-june-chm5/ms/q4ci.png",
+      "figures": []
+    },
+    {
+      "id": "2008-june-chm5-q4cii",
+      "paper": "2008-june-chm5",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM5",
+      "level": "A",
+      "question": "4(c)(ii)",
+      "questionNumber": "4(c)(ii)",
+      "page": 9,
+      "marks": 2,
+      "topics": [
+        "Redox",
+        "Group 7"
+      ],
+      "skills": [
+        "Explanation",
+        "Chemical Equations"
+      ],
+      "summary": "Explain why concentrated H2SO4 does not undergo a redox reaction with KCl and write the equation for the reaction that does occur.",
+      "specRef": "3.2.3",
+      "image": "img/2008-june-chm5/q4cii.jpg",
+      "markscheme": "img/2008-june-chm5/ms/q4cii.png",
+      "figures": []
+    },
+    {
+      "id": "2008-june-chm5-q5a",
+      "paper": "2008-june-chm5",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM5",
+      "level": "A",
+      "question": "5(a)",
+      "questionNumber": "5(a)",
+      "page": 10,
+      "marks": 2,
+      "topics": [
+        "Kinetics"
+      ],
+      "skills": [
+        "Data Analysis"
+      ],
+      "summary": "Use the concentration-time curves to deduce and explain the order of reaction with respect to iodide ions.",
+      "specRef": "3.1.9",
+      "image": "img/2008-june-chm5/q5a.jpg",
+      "markscheme": "img/2008-june-chm5/ms/q5a.png",
+      "figures": [
+        "img/2008-june-chm5/fig-q5-graph.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm5-q5b",
+      "paper": "2008-june-chm5",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM5",
+      "level": "A",
+      "question": "5(b)",
+      "questionNumber": "5(b)",
+      "page": 10,
+      "marks": 2,
+      "topics": [
+        "Kinetics"
+      ],
+      "skills": [
+        "Data Analysis"
+      ],
+      "summary": "Sketch curve X for experiment B repeated at a lower temperature.",
+      "specRef": "3.1.9",
+      "image": "img/2008-june-chm5/q5b.jpg",
+      "markscheme": "img/2008-june-chm5/ms/q5b.png",
+      "figures": [
+        "img/2008-june-chm5/fig-q5-graph.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm5-q5c",
+      "paper": "2008-june-chm5",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM5",
+      "level": "A",
+      "question": "5(c)",
+      "questionNumber": "5(c)",
+      "page": 10,
+      "marks": 2,
+      "topics": [
+        "Kinetics"
+      ],
+      "skills": [
+        "Data Analysis"
+      ],
+      "summary": "Sketch curve Y for experiment A repeated with an Fe2+(aq) catalyst.",
+      "specRef": "3.1.9",
+      "image": "img/2008-june-chm5/q5c.jpg",
+      "markscheme": "img/2008-june-chm5/ms/q5c.png",
+      "figures": [
+        "img/2008-june-chm5/fig-q5-graph.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm5-q5di",
+      "paper": "2008-june-chm5",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM5",
+      "level": "A",
+      "question": "5(d)(i)",
+      "questionNumber": "5(d)(i)",
+      "page": 11,
+      "marks": 2,
+      "topics": [
+        "Transition Metals",
+        "Kinetics"
+      ],
+      "skills": [
+        "Chemical Equations"
+      ],
+      "summary": "Write equations for the two steps in which Fe2+ ions catalyse the reaction between I- and S2O8^2-.",
+      "specRef": "3.2.8",
+      "image": "img/2008-june-chm5/q5di.jpg",
+      "markscheme": "img/2008-june-chm5/ms/q5di.png",
+      "figures": []
+    },
+    {
+      "id": "2008-june-chm5-q5dii",
+      "paper": "2008-june-chm5",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM5",
+      "level": "A",
+      "question": "5(d)(ii)",
+      "questionNumber": "5(d)(ii)",
+      "page": 11,
+      "marks": 2,
+      "topics": [
+        "Transition Metals",
+        "Kinetics"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Give two reasons why Fe2+ ions are regarded as a catalyst in this reaction.",
+      "specRef": "3.2.8",
+      "image": "img/2008-june-chm5/q5dii.jpg",
+      "markscheme": "img/2008-june-chm5/ms/q5dii.png",
+      "figures": []
+    },
+    {
+      "id": "2008-june-chm5-q5ei",
+      "paper": "2008-june-chm5",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM5",
+      "level": "A",
+      "question": "5(e)(i)",
+      "questionNumber": "5(e)(i)",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "Transition Metals",
+        "Kinetics"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Explain the meaning of the term heterogeneous as applied to the silver catalyst.",
+      "specRef": "3.2.8",
+      "image": "img/2008-june-chm5/q5ei.jpg",
+      "markscheme": "img/2008-june-chm5/ms/q5ei.png",
+      "figures": []
+    },
+    {
+      "id": "2008-june-chm5-q5eii",
+      "paper": "2008-june-chm5",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM5",
+      "level": "A",
+      "question": "5(e)(ii)",
+      "questionNumber": "5(e)(ii)",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "Transition Metals"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Give one reason why silver is a poor heterogeneous catalyst.",
+      "specRef": "3.2.8",
+      "image": "img/2008-june-chm5/q5eii.jpg",
+      "markscheme": "img/2008-june-chm5/ms/q5eii.png",
+      "figures": []
+    },
+    {
+      "id": "2008-june-chm5-q5eiii",
+      "paper": "2008-june-chm5",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM5",
+      "level": "A",
+      "question": "5(e)(iii)",
+      "questionNumber": "5(e)(iii)",
+      "page": 11,
+      "marks": 2,
+      "topics": [
+        "Transition Metals",
+        "Kinetics"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Explain why it is not desirable to use a very effective catalyst for epoxyethane synthesis.",
+      "specRef": "3.2.8",
+      "image": "img/2008-june-chm5/q5eiii.jpg",
+      "markscheme": "img/2008-june-chm5/ms/q5eiii.png",
+      "figures": []
+    },
+    {
+      "id": "2008-june-chm6w-q1",
+      "paper": "2008-june-chm6w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM6/W",
+      "level": "A",
+      "question": "1",
+      "questionNumber": "1",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Identify the solid containing covalent bonds but not ionic bonds (C6H5COOH).",
+      "specRef": "3.1.3",
+      "image": "img/2008-june-chm6w/q1.jpg",
+      "markscheme": "img/2008-june-chm6w/ms/q1.png",
+      "figures": []
+    },
+    {
+      "id": "2008-june-chm6w-q2",
+      "paper": "2008-june-chm6w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM6/W",
+      "level": "A",
+      "question": "2",
+      "questionNumber": "2",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Identify the species with the same electronic arrangement as Li+ (Be2+).",
+      "specRef": "3.1.1",
+      "image": "img/2008-june-chm6w/q2.jpg",
+      "markscheme": "img/2008-june-chm6w/ms/q2.png",
+      "figures": []
+    },
+    {
+      "id": "2008-june-chm6w-q3",
+      "paper": "2008-june-chm6w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM6/W",
+      "level": "A",
+      "question": "3",
+      "questionNumber": "3",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "Acids & Bases"
+      ],
+      "skills": [
+        "Maths & Calculations"
+      ],
+      "summary": "Calculate the pH of a propanoic acid / sodium propanoate buffer (5.19).",
+      "specRef": "3.1.12",
+      "image": "img/2008-june-chm6w/q3.jpg",
+      "markscheme": "img/2008-june-chm6w/ms/q3.png",
+      "figures": []
+    },
+    {
+      "id": "2008-june-chm6w-q4",
+      "paper": "2008-june-chm6w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM6/W",
+      "level": "A",
+      "question": "4",
+      "questionNumber": "4",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "Acids & Bases"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Identify the diagram representing a strong acid solution (B).",
+      "specRef": "3.1.12",
+      "image": "img/2008-june-chm6w/q4.jpg",
+      "markscheme": "img/2008-june-chm6w/ms/q4.png",
+      "figures": [
+        "img/2008-june-chm6w/fig-q4-6.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm6w-q5",
+      "paper": "2008-june-chm6w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM6/W",
+      "level": "A",
+      "question": "5",
+      "questionNumber": "5",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "Acids & Bases"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Identify the diagram representing a salt from a strong acid and NaOH (D).",
+      "specRef": "3.1.12",
+      "image": "img/2008-june-chm6w/q5.jpg",
+      "markscheme": "img/2008-june-chm6w/ms/q5.png",
+      "figures": [
+        "img/2008-june-chm6w/fig-q4-6.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm6w-q6",
+      "paper": "2008-june-chm6w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM6/W",
+      "level": "A",
+      "question": "6",
+      "questionNumber": "6",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "Acids & Bases"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Identify the diagram representing a weak acid partially neutralised by NaOH (C).",
+      "specRef": "3.1.12",
+      "image": "img/2008-june-chm6w/q6.jpg",
+      "markscheme": "img/2008-june-chm6w/ms/q6.png",
+      "figures": [
+        "img/2008-june-chm6w/fig-q4-6.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm6w-q7",
+      "paper": "2008-june-chm6w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM6/W",
+      "level": "A",
+      "question": "7",
+      "questionNumber": "7",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Maths & Calculations"
+      ],
+      "summary": "Find which chloride solution precipitates the largest mass of AgCl.",
+      "specRef": "3.1.2",
+      "image": "img/2008-june-chm6w/q7.jpg",
+      "markscheme": "img/2008-june-chm6w/ms/q7.png",
+      "figures": []
+    },
+    {
+      "id": "2008-june-chm6w-q8",
+      "paper": "2008-june-chm6w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM6/W",
+      "level": "A",
+      "question": "8",
+      "questionNumber": "8",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Maths & Calculations"
+      ],
+      "summary": "Calculate percentage by mass of Ti in a 95% TiO2 concentrate (57%).",
+      "specRef": "3.1.2",
+      "image": "img/2008-june-chm6w/q8.jpg",
+      "markscheme": "img/2008-june-chm6w/ms/q8.png",
+      "figures": []
+    },
+    {
+      "id": "2008-june-chm6w-q9",
+      "paper": "2008-june-chm6w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM6/W",
+      "level": "A",
+      "question": "9",
+      "questionNumber": "9",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Maths & Calculations"
+      ],
+      "summary": "Find which N2O5 decomposition gives the largest mole fraction of O2.",
+      "specRef": "3.1.2",
+      "image": "img/2008-june-chm6w/q9.jpg",
+      "markscheme": "img/2008-june-chm6w/ms/q9.png",
+      "figures": []
+    },
+    {
+      "id": "2008-june-chm6w-q10",
+      "paper": "2008-june-chm6w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM6/W",
+      "level": "A",
+      "question": "10",
+      "questionNumber": "10",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "Carboxylic Acids & Esters",
+        "Alkenes"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Identify the correct statement about isopropyl ethanoate.",
+      "specRef": "3.3.7",
+      "image": "img/2008-june-chm6w/q10.jpg",
+      "markscheme": "img/2008-june-chm6w/ms/q10.png",
+      "figures": []
+    },
+    {
+      "id": "2008-june-chm6w-q11",
+      "paper": "2008-june-chm6w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM6/W",
+      "level": "A",
+      "question": "11",
+      "questionNumber": "11",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "Polymers",
+        "Haloalkanes"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Identify the reaction forming a chloroalkene monomer for addition polymerisation.",
+      "specRef": "3.3.4",
+      "image": "img/2008-june-chm6w/q11.jpg",
+      "markscheme": "img/2008-june-chm6w/ms/q11.png",
+      "figures": []
+    },
+    {
+      "id": "2008-june-chm6w-q12",
+      "paper": "2008-june-chm6w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM6/W",
+      "level": "A",
+      "question": "12",
+      "questionNumber": "12",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "Polymers"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Identify which product reacts with butanedioic acid to form a condensation polymer.",
+      "specRef": "3.3.10",
+      "image": "img/2008-june-chm6w/q12.jpg",
+      "markscheme": "img/2008-june-chm6w/ms/q12.png",
+      "figures": []
+    },
+    {
+      "id": "2008-june-chm6w-q13",
+      "paper": "2008-june-chm6w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM6/W",
+      "level": "A",
+      "question": "13",
+      "questionNumber": "13",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "Amines"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Identify the product when excess bromomethane reacts with diethylamine.",
+      "specRef": "3.3.9",
+      "image": "img/2008-june-chm6w/q13.jpg",
+      "markscheme": "img/2008-june-chm6w/ms/q13.png",
+      "figures": []
+    },
+    {
+      "id": "2008-june-chm6w-q14",
+      "paper": "2008-june-chm6w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM6/W",
+      "level": "A",
+      "question": "14",
+      "questionNumber": "14",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "Aromatic Chemistry",
+        "Synthesis"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Identify the reagents for the 4-step synthesis from 3-phenylpropanoyl chloride.",
+      "specRef": "3.3.6",
+      "image": "img/2008-june-chm6w/q14.jpg",
+      "markscheme": "img/2008-june-chm6w/ms/q14.png",
+      "figures": []
+    },
+    {
+      "id": "2008-june-chm6w-q15",
+      "paper": "2008-june-chm6w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM6/W",
+      "level": "A",
+      "question": "15",
+      "questionNumber": "15",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Maths & Calculations"
+      ],
+      "summary": "Calculate volume of O2 at 295 K and 100 kPa for incomplete combustion of 0.10 mol butane (11 dm3).",
+      "specRef": "3.1.2",
+      "image": "img/2008-june-chm6w/q15.jpg",
+      "markscheme": "img/2008-june-chm6w/ms/q15.png",
+      "figures": []
+    },
+    {
+      "id": "2008-june-chm6w-q16",
+      "paper": "2008-june-chm6w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM6/W",
+      "level": "A",
+      "question": "16",
+      "questionNumber": "16",
+      "page": 9,
+      "marks": 1,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Maths & Calculations"
+      ],
+      "summary": "Calculate percentage yield of phenyl benzoate from 1.20 g benzoyl chloride (47.3%).",
+      "specRef": "3.1.2",
+      "image": "img/2008-june-chm6w/q16.jpg",
+      "markscheme": "img/2008-june-chm6w/ms/q16.png",
+      "figures": []
+    },
+    {
+      "id": "2008-june-chm6w-q17",
+      "paper": "2008-june-chm6w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM6/W",
+      "level": "A",
+      "question": "17",
+      "questionNumber": "17",
+      "page": 9,
+      "marks": 1,
+      "topics": [
+        "Nomenclature & Isomerism",
+        "Haloalkanes"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Count structural isomers of C2HBrClF3 including halothane (4).",
+      "specRef": "3.3.1",
+      "image": "img/2008-june-chm6w/q17.jpg",
+      "markscheme": "img/2008-june-chm6w/ms/q17.png",
+      "figures": []
+    },
+    {
+      "id": "2008-june-chm6w-q18",
+      "paper": "2008-june-chm6w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM6/W",
+      "level": "A",
+      "question": "18",
+      "questionNumber": "18",
+      "page": 9,
+      "marks": 1,
+      "topics": [
+        "Group 7"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Identify the correct trend statement (reducing ability of halide ions increases down Group 7).",
+      "specRef": "3.2.3",
+      "image": "img/2008-june-chm6w/q18.jpg",
+      "markscheme": "img/2008-june-chm6w/ms/q18.png",
+      "figures": []
+    },
+    {
+      "id": "2008-june-chm6w-q19",
+      "paper": "2008-june-chm6w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM6/W",
+      "level": "A",
+      "question": "19",
+      "questionNumber": "19",
+      "page": 9,
+      "marks": 1,
+      "topics": [
+        "Group 7",
+        "Transition Metals"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Identify the correct inorganic statement (AgBr dissolves in conc NH3 to form [Ag(NH3)2]+).",
+      "specRef": "3.2.3",
+      "image": "img/2008-june-chm6w/q19.jpg",
+      "markscheme": "img/2008-june-chm6w/ms/q19.png",
+      "figures": []
+    },
+    {
+      "id": "2008-june-chm6w-q20",
+      "paper": "2008-june-chm6w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM6/W",
+      "level": "A",
+      "question": "20",
+      "questionNumber": "20",
+      "page": 10,
+      "marks": 1,
+      "topics": [
+        "Electrode Potentials"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Identify the incorrect statement from E0 values for V, Cr, and Co half-cells.",
+      "specRef": "3.1.11",
+      "image": "img/2008-june-chm6w/q20.jpg",
+      "markscheme": "img/2008-june-chm6w/ms/q20.png",
+      "figures": []
+    },
+    {
+      "id": "2008-june-chm6w-q21",
+      "paper": "2008-june-chm6w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM6/W",
+      "level": "A",
+      "question": "21",
+      "questionNumber": "21",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "Transition Metals",
+        "Haloalkanes"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Identify reactions of NH3 that are substitution reactions (1 and 3 only).",
+      "specRef": "3.2.8",
+      "image": "img/2008-june-chm6w/q21.jpg",
+      "markscheme": "img/2008-june-chm6w/ms/q21.png",
+      "figures": [
+        "img/2008-june-chm6w/fig-directions.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm6w-q22",
+      "paper": "2008-june-chm6w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM6/W",
+      "level": "A",
+      "question": "22",
+      "questionNumber": "22",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "Amount of Substance",
+        "Alkanes"
+      ],
+      "skills": [
+        "Maths & Calculations"
+      ],
+      "summary": "Identify hydrocarbons with 85.7% C by mass (empirical formula CH2: 1 and 3 only).",
+      "specRef": "3.1.2",
+      "image": "img/2008-june-chm6w/q22.jpg",
+      "markscheme": "img/2008-june-chm6w/ms/q22.png",
+      "figures": [
+        "img/2008-june-chm6w/fig-directions.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm6w-q23",
+      "paper": "2008-june-chm6w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM6/W",
+      "level": "A",
+      "question": "23",
+      "questionNumber": "23",
+      "page": 12,
+      "marks": 1,
+      "topics": [
+        "Kinetics"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Identify true statements for rate = k[X][Y]^2 (1 and 3 only).",
+      "specRef": "3.1.9",
+      "image": "img/2008-june-chm6w/q23.jpg",
+      "markscheme": "img/2008-june-chm6w/ms/q23.png",
+      "figures": [
+        "img/2008-june-chm6w/fig-directions.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm6w-q24",
+      "paper": "2008-june-chm6w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM6/W",
+      "level": "A",
+      "question": "24",
+      "questionNumber": "24",
+      "page": 13,
+      "marks": 1,
+      "topics": [
+        "Kinetics"
+      ],
+      "skills": [
+        "Data Analysis"
+      ],
+      "summary": "Identify true statements about Maxwell-Boltzmann curves P, Q, R, S (4 only).",
+      "specRef": "3.1.9",
+      "image": "img/2008-june-chm6w/q24.jpg",
+      "markscheme": "img/2008-june-chm6w/ms/q24.png",
+      "figures": [
+        "img/2008-june-chm6w/fig-q24-25.jpg",
+        "img/2008-june-chm6w/fig-directions.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm6w-q25",
+      "paper": "2008-june-chm6w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM6/W",
+      "level": "A",
+      "question": "25",
+      "questionNumber": "25",
+      "page": 13,
+      "marks": 1,
+      "topics": [
+        "Kinetics"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Identify diagrams showing changes that alter the rate constant k (1 and 3 only).",
+      "specRef": "3.1.9",
+      "image": "img/2008-june-chm6w/q25.jpg",
+      "markscheme": "img/2008-june-chm6w/ms/q25.png",
+      "figures": [
+        "img/2008-june-chm6w/fig-q24-25.jpg",
+        "img/2008-june-chm6w/fig-directions.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm6w-q26",
+      "paper": "2008-june-chm6w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM6/W",
+      "level": "A",
+      "question": "26",
+      "questionNumber": "26",
+      "page": 14,
+      "marks": 1,
+      "topics": [
+        "Periodicity",
+        "Acyl Derivatives"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Identify substances forming acidic solutions in water (1, 2, and 3 only).",
+      "specRef": "3.2.5",
+      "image": "img/2008-june-chm6w/q26.jpg",
+      "markscheme": "img/2008-june-chm6w/ms/q26.png",
+      "figures": [
+        "img/2008-june-chm6w/fig-directions.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm6w-q27",
+      "paper": "2008-june-chm6w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM6/W",
+      "level": "A",
+      "question": "27",
+      "questionNumber": "27",
+      "page": 14,
+      "marks": 1,
+      "topics": [
+        "Bonding",
+        "Transition Metals"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Identify species with at least one 90 degree bond angle (1, 2, and 3 only).",
+      "specRef": "3.1.3",
+      "image": "img/2008-june-chm6w/q27.jpg",
+      "markscheme": "img/2008-june-chm6w/ms/q27.png",
+      "figures": [
+        "img/2008-june-chm6w/fig-directions.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm6w-q28",
+      "paper": "2008-june-chm6w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM6/W",
+      "level": "A",
+      "question": "28",
+      "questionNumber": "28",
+      "page": 14,
+      "marks": 1,
+      "topics": [
+        "Acids & Bases",
+        "Transition Metals"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Identify solutions that effervesce with solid Na2CO3 (2 and 4 only).",
+      "specRef": "3.2.8",
+      "image": "img/2008-june-chm6w/q28.jpg",
+      "markscheme": "img/2008-june-chm6w/ms/q28.png",
+      "figures": [
+        "img/2008-june-chm6w/fig-directions.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm6w-q29",
+      "paper": "2008-june-chm6w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM6/W",
+      "level": "A",
+      "question": "29",
+      "questionNumber": "29",
+      "page": 14,
+      "marks": 1,
+      "topics": [
+        "Equilibria",
+        "Thermodynamics"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Identify true statements about endothermic decomposition of ClF3(g) (1 and 3 only).",
+      "specRef": "3.1.10",
+      "image": "img/2008-june-chm6w/q29.jpg",
+      "markscheme": "img/2008-june-chm6w/ms/q29.png",
+      "figures": [
+        "img/2008-june-chm6w/fig-directions.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm6w-q30",
+      "paper": "2008-june-chm6w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM6/W",
+      "level": "A",
+      "question": "30",
+      "questionNumber": "30",
+      "page": 15,
+      "marks": 1,
+      "topics": [
+        "Aromatic Chemistry",
+        "Acyl Derivatives"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Identify mechanism types in the 5-step aromatic synthesis (2 and 4 only).",
+      "specRef": "3.3.6",
+      "image": "img/2008-june-chm6w/q30.jpg",
+      "markscheme": "img/2008-june-chm6w/ms/q30.png",
+      "figures": [
+        "img/2008-june-chm6w/fig-directions.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm6w-q31",
+      "paper": "2008-june-chm6w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM6/W",
+      "level": "A",
+      "question": "31",
+      "questionNumber": "31",
+      "page": 16,
+      "marks": 1,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Identify substances where covalent bonds break on melting (4 only).",
+      "specRef": "3.1.3",
+      "image": "img/2008-june-chm6w/q31.jpg",
+      "markscheme": "img/2008-june-chm6w/ms/q31.png",
+      "figures": [
+        "img/2008-june-chm6w/fig-directions.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm6w-q32",
+      "paper": "2008-june-chm6w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM6/W",
+      "level": "A",
+      "question": "32",
+      "questionNumber": "32",
+      "page": 16,
+      "marks": 1,
+      "topics": [
+        "Amino Acids & Proteins"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Identify true statements about aspartame (1, 2, and 3 only).",
+      "specRef": "3.3.11",
+      "image": "img/2008-june-chm6w/q32.jpg",
+      "markscheme": "img/2008-june-chm6w/ms/q32.png",
+      "figures": [
+        "img/2008-june-chm6w/fig-directions.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm6w-q33",
+      "paper": "2008-june-chm6w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM6/W",
+      "level": "A",
+      "question": "33",
+      "questionNumber": "33",
+      "page": 16,
+      "marks": 1,
+      "topics": [
+        "Redox",
+        "Transition Metals"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Identify species that can act as both oxidising and reducing agents (1 and 3 only).",
+      "specRef": "3.1.6",
+      "image": "img/2008-june-chm6w/q33.jpg",
+      "markscheme": "img/2008-june-chm6w/ms/q33.png",
+      "figures": [
+        "img/2008-june-chm6w/fig-directions.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm6w-q34",
+      "paper": "2008-june-chm6w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM6/W",
+      "level": "A",
+      "question": "34",
+      "questionNumber": "34",
+      "page": 16,
+      "marks": 1,
+      "topics": [
+        "Nomenclature & Isomerism"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Identify reactions forming a chiral product (1 and 3 only).",
+      "specRef": "3.3.1",
+      "image": "img/2008-june-chm6w/q34.jpg",
+      "markscheme": "img/2008-june-chm6w/ms/q34.png",
+      "figures": [
+        "img/2008-june-chm6w/fig-directions.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm6w-q35",
+      "paper": "2008-june-chm6w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM6/W",
+      "level": "A",
+      "question": "35",
+      "questionNumber": "35",
+      "page": 17,
+      "marks": 1,
+      "topics": [
+        "Spectroscopy"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Identify compounds matching IR ~1700 cm-1, 2 NMR peaks, m/z 57 (2 and 4 only).",
+      "specRef": "3.3.12",
+      "image": "img/2008-june-chm6w/q35.jpg",
+      "markscheme": "img/2008-june-chm6w/ms/q35.png",
+      "figures": [
+        "img/2008-june-chm6w/fig-directions.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm6w-q36",
+      "paper": "2008-june-chm6w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM6/W",
+      "level": "A",
+      "question": "36",
+      "questionNumber": "36",
+      "page": 17,
+      "marks": 1,
+      "topics": [
+        "Alkenes",
+        "Aromatic Chemistry"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Identify true statements about tamoxifen (1, 2, and 3 only).",
+      "specRef": "3.3.4",
+      "image": "img/2008-june-chm6w/q36.jpg",
+      "markscheme": "img/2008-june-chm6w/ms/q36.png",
+      "figures": [
+        "img/2008-june-chm6w/fig-directions.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm6w-q37",
+      "paper": "2008-june-chm6w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM6/W",
+      "level": "A",
+      "question": "37",
+      "questionNumber": "37",
+      "page": 18,
+      "marks": 1,
+      "topics": [
+        "Alkenes",
+        "Carbonyls"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Identify mechanisms involved in reactions of ionone (1 and 3 only).",
+      "specRef": "3.3.4",
+      "image": "img/2008-june-chm6w/q37.jpg",
+      "markscheme": "img/2008-june-chm6w/ms/q37.png",
+      "figures": [
+        "img/2008-june-chm6w/fig-directions.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm6w-q38",
+      "paper": "2008-june-chm6w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM6/W",
+      "level": "A",
+      "question": "38",
+      "questionNumber": "38",
+      "page": 18,
+      "marks": 1,
+      "topics": [
+        "Nomenclature & Isomerism"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Identify pairs of functional group isomers (2 and 4 only).",
+      "specRef": "3.3.1",
+      "image": "img/2008-june-chm6w/q38.jpg",
+      "markscheme": "img/2008-june-chm6w/ms/q38.png",
+      "figures": [
+        "img/2008-june-chm6w/fig-directions.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm6w-q39",
+      "paper": "2008-june-chm6w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM6/W",
+      "level": "A",
+      "question": "39",
+      "questionNumber": "39",
+      "page": 18,
+      "marks": 1,
+      "topics": [
+        "Periodicity"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Identify correct statements about Period 3 chlorides and elements (1, 2, and 3 only).",
+      "specRef": "3.2.5",
+      "image": "img/2008-june-chm6w/q39.jpg",
+      "markscheme": "img/2008-june-chm6w/ms/q39.png",
+      "figures": [
+        "img/2008-june-chm6w/fig-directions.jpg"
+      ]
+    },
+    {
+      "id": "2008-june-chm6w-q40",
+      "paper": "2008-june-chm6w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM6/W",
+      "level": "A",
+      "question": "40",
+      "questionNumber": "40",
+      "page": 19,
+      "marks": 1,
+      "topics": [
+        "Thermodynamics"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Identify true statements for N2O4(g) -> 2NO2(g) (1 and 3 only).",
+      "specRef": "3.1.8",
+      "image": "img/2008-june-chm6w/q40.jpg",
+      "markscheme": "img/2008-june-chm6w/ms/q40.png",
+      "figures": [
+        "img/2008-june-chm6w/fig-directions.jpg"
+      ]
     }
   ]
 }
