@@ -2033,6 +2033,7 @@ let state = {
   status: '',
   q: '',
   pick: '',
+  cardLimit: 40,
   practiceIdx: 0,
   timerRunning: false,
   timerSeconds: 0,
@@ -2322,6 +2323,7 @@ function initApp() {
     btn.onclick = () => {
       state.view = btn.dataset.view;
       state.pick = '';
+      state.cardLimit = 40;
       syncViewButtons();
       toHash();
       render();
@@ -2330,6 +2332,7 @@ function initApp() {
 
   $$('.chip-btn[data-chip]').forEach(chip => {
     chip.onclick = () => {
+      state.cardLimit = 40;
       const c = chip.dataset.chip;
       if (c === 'all') { state.level = ''; state.min = 0; state.skill = ''; state.status = ''; }
       else if (c === 'as') { state.level = 'AS'; }
@@ -2388,6 +2391,7 @@ function onFilterChange() {
   state.min = +$('#min').value || 0;
   state.status = $('#status').value;
   state.pick = '';
+  state.cardLimit = 40;
   if ((state.topic || state.skill || state.year || state.min || state.q || state.status) && state.view === 'strata') {
     state.view = 'cards';
   }
@@ -2397,7 +2401,7 @@ function onFilterChange() {
 }
 
 function resetFilters() {
-  state = { ...state, level:'', topic:'', skill:'', year:'', min:0, status:'', q:'', pick:'' };
+  state = { ...state, level:'', topic:'', skill:'', year:'', min:0, status:'', q:'', pick:'', cardLimit:40 };
   syncControls();
   toHash();
   render();
@@ -2606,7 +2610,22 @@ function renderCards(list) {
     return;
   }
 
-  const html = `<div class="cards-list">` + list.map(q => renderCard(q)).join('') + `</div>`;
+  const limit = state.pick ? list.length : (state.cardLimit || 40);
+  const visible = list.slice(0, limit);
+
+  let html = `<div class="cards-list">` + visible.map(q => renderCard(q)).join('') + `</div>`;
+
+  if (list.length > limit) {
+    html += `
+      <div style="text-align:center;padding:36px 0 64px 0;display:flex;flex-direction:column;align-items:center;gap:12px">
+        <span style="font-size:0.88rem;color:var(--muted)">Showing <b>${visible.length}</b> of <b>${list.length.toLocaleString()}</b> questions</span>
+        <div style="display:flex;gap:10px;flex-wrap:wrap;justify-content:center">
+          <button type="button" class="btn-minimal" style="padding:10px 22px;font-weight:600;background:var(--surface);border:1px solid var(--border-strong);border-radius:var(--radius);cursor:pointer;color:var(--ink)" onclick="state.cardLimit = (state.cardLimit || 40) + 40; render();">Load Next 40 Questions</button>
+          <button type="button" class="btn-minimal" style="padding:10px 22px;color:var(--muted);background:transparent;border:1px solid var(--border);border-radius:var(--radius);cursor:pointer" onclick="state.cardLimit = ${list.length}; render();">Show All ${list.length.toLocaleString()} Questions</button>
+        </div>
+      </div>
+    `;
+  }
   $('#app-view').innerHTML = html;
 }
 
