@@ -2263,7 +2263,7 @@ function loadQuestionBank() {
   fetch('cheatsheets.json').then(r => r.json()).then(c => { CHEATS = c; buildFlashcards(); }).catch(() => {});
   fetch('flashcards.json').then(r => r.json()).then(fc => { FLASHCARDS = fc; }).catch(() => {});
   fetch('questions.json')
-    .then(r => { if (!r.ok && r.status !== 0) throw 0; return r.json(); })
+    .then(r => { if (!r.ok && r.status !== 0) throw new Error('HTTP ' + r.status); return r.json(); })
     .then(d => {
       D = d;
       d.papers.forEach(p => { p.level = p.level || 'AS'; });
@@ -2273,7 +2273,8 @@ function loadQuestionBank() {
       d.questions.forEach((x, i) => x.i = i);
       initApp();
     })
-    .catch(() => {
+    .catch((err) => {
+      console.error('Error loading questions:', err);
       $('#app-view').innerHTML = '<p style="color:var(--muted);text-align:center;padding:40px 0">Could not load questions.json</p>';
     });
 }
@@ -2432,11 +2433,12 @@ function toHash() {
 function filtered() {
   const query = state.q.toLowerCase();
   return D.questions.filter(x => {
+    const p = D.P[x.paper] || {};
     if (state.pick && x.id !== state.pick) return false;
-    if (state.level && D.P[x.paper].level !== state.level) return false;
+    if (state.level && (p.level || 'AS') !== state.level) return false;
     if (state.topic && !x.topics.includes(state.topic)) return false;
     if (state.skill && !x.skills.includes(state.skill)) return false;
-    if (state.year && D.P[x.paper].year != state.year) return false;
+    if (state.year && (p.year || 0) != state.year) return false;
     if (x.marks < state.min) return false;
     if (state.status === 'mastered' && !mastered.has(x.id)) return false;
     if (state.status === 'unmastered' && mastered.has(x.id)) return false;
@@ -2446,7 +2448,7 @@ function filtered() {
       if (!blob.includes(query)) return false;
     }
     return true;
-  }).sort((a, b) => D.P[b.paper].year - D.P[a.paper].year || a.i - b.i);
+  }).sort((a, b) => (((D.P[b.paper] || {}).year || 0) - ((D.P[a.paper] || {}).year || 0)) || a.i - b.i);
 }
 
 function updateMasteryStats() {
@@ -2523,7 +2525,7 @@ function render() {
    VIEW 1: SPECIFICATION CURRICULUM (MINIMALIST)
    ======================================================== */
 function renderStrata() {
-  const inLevel = x => !state.level || D.P[x.paper].level === state.level;
+  const inLevel = x => !state.level || ((D.P[x.paper] || {}).level || 'AS') === state.level;
   const groups = {};
   D.topics.forEach(t => { const g = t.group || 'Topics'; (groups[g] = groups[g] || []).push(t); });
 
@@ -2581,7 +2583,7 @@ function renderCards(list) {
 }
 
 function renderCard(x) {
-  const p = D.P[x.paper];
+  const p = D.P[x.paper] || {};
   const isMastered = mastered.has(x.id);
   const isBookmarked = bookmarked.has(x.id);
   const isSelected = selectedQuestions.has(x.id);
@@ -3032,7 +3034,7 @@ function openModal(qid, tab = 'question', figureIndex = 0) {
   activeModalQ = q;
   activeModalTab = tab === 'figure' ? 'figures' : tab;
 
-  $('#modal-title-txt').textContent = `Question ${q.question} (${q.marks}m) · ${D.P[q.paper].year}`;
+  $('#modal-title-txt').textContent = `Question ${q.question} (${q.marks}m) · ${(D.P[q.paper] || {}).year || ''}`;
 
   const hasFigures = q.figures && q.figures.length > 0;
   $('#modal-tab-figures').style.display = hasFigures ? 'inline-block' : 'none';
@@ -4258,7 +4260,7 @@ function buildWorksheetTopicOptions() {
 function generateWorksheet() {
   if (!D || !D.questions) return;
   let pool = D.questions.filter(q => {
-    if (wsState.level && D.P[q.paper].level !== wsState.level) return false;
+    if (wsState.level && ((D.P[q.paper] || {}).level || 'AS') !== wsState.level) return false;
     if (wsState.topic && !q.topics.includes(wsState.topic)) return false;
     if (wsState.skill && !q.skills.includes(wsState.skill)) return false;
     return true;
@@ -4285,7 +4287,7 @@ function swapWorksheetQuestion(idx) {
   const currentIds = new Set(wsState.questions.map(q => q.id));
   const pool = D.questions.filter(q => {
     if (currentIds.has(q.id)) return false;
-    if (wsState.level && D.P[q.paper].level !== wsState.level) return false;
+    if (wsState.level && ((D.P[q.paper] || {}).level || 'AS') !== wsState.level) return false;
     if (wsState.topic && !q.topics.includes(wsState.topic)) return false;
     return true;
   });
