@@ -3,6 +3,9 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
 <title>coolChem · AQA Chemistry Past Papers & Revision</title>
 <meta name="description" content="Past paper revision question bank, cheatsheets, and interactive practice for AQA AS & A-level Chemistry (7404/7405), organised by specification topic.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -2269,10 +2272,10 @@ let QUIZ_BANK = [ { "id":  "3.1.1-01", "topic":  "3.1.1", "question":  "In a tim
 
 function loadQuestionBank() {
   if (D) return;
-  fetch('quiz_questions.json').then(r => r.json()).then(q => { if (q && q.length) QUIZ_BANK = q; }).catch(() => {});
-  fetch('cheatsheets.json').then(r => r.json()).then(c => { CHEATS = c; buildFlashcards(); }).catch(() => {});
-  fetch('flashcards.json').then(r => r.json()).then(fc => { FLASHCARDS = fc; }).catch(() => {});
-  fetch('questions.json')
+  fetch('quiz_questions.json', { cache: 'no-cache' }).then(r => r.json()).then(q => { if (q && q.length) QUIZ_BANK = q; }).catch(() => {});
+  fetch('cheatsheets.json', { cache: 'no-cache' }).then(r => r.json()).then(c => { CHEATS = c; buildFlashcards(); }).catch(() => {});
+  fetch('flashcards.json', { cache: 'no-cache' }).then(r => r.json()).then(fc => { FLASHCARDS = fc; }).catch(() => {});
+  fetch('questions.json', { cache: 'no-cache' })
     .then(r => { if (!r.ok && r.status !== 0) throw new Error('HTTP ' + r.status); return r.json(); })
     .then(d => {
       D = d;
