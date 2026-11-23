@@ -1164,6 +1164,39 @@
       "spec": "AQA Chemistry",
       "totalMarks": 90,
       "duration": "1 hour 30 mins"
+    },
+    {
+      "id": "2008-june-chm1",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM1",
+      "level": "AS",
+      "title": "CHM1 – Atomic Structure, Bonding and Periodicity",
+      "date": "2008-06-04",
+      "totalMarks": 60,
+      "duration": "1 hour"
+    },
+    {
+      "id": "2008-june-chm2",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM2",
+      "level": "AS",
+      "title": "CHM2 – Foundation Physical and Inorganic Chemistry",
+      "date": "2008-06-04",
+      "totalMarks": 60,
+      "duration": "1 hour"
+    },
+    {
+      "id": "2008-june-chm3w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "title": "CHM3/W – Introduction to Organic Chemistry",
+      "date": "2008-06-04",
+      "totalMarks": 60,
+      "duration": "1 hour"
     }
   ],
   "questions": [
@@ -45282,6 +45315,2049 @@
       "image": "img/2008-jan-chm4/2008-jan-chm4-q6b.jpg",
       "figures": [],
       "markscheme": "img/2008-jan-chm4/ms_q6b.jpg"
+    },
+    {
+      "id": "2008-june-chm1-q1a",
+      "paper": "2008-june-chm1",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM1",
+      "level": "AS",
+      "questionNumber": "1(a)",
+      "marks": 1,
+      "topics": [
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Define isotopes in terms of protons and neutrons.",
+      "specRef": "3.1.1",
+      "image": "img/2008-june-chm1/q1a.jpg",
+      "markscheme": "img/2008-june-chm1/ms/q1a.png",
+      "figures": [],
+      "question": "1(a)",
+      "page": 2
+    },
+    {
+      "id": "2008-june-chm1-q1b",
+      "paper": "2008-june-chm1",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM1",
+      "level": "AS",
+      "questionNumber": "1(b)",
+      "marks": 2,
+      "topics": [
+        "Atomic Structure",
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Maths & Calculations"
+      ],
+      "summary": "Calculate relative atomic mass of lead from mass spectrum isotopic abundances.",
+      "specRef": "3.1.1",
+      "image": "img/2008-june-chm1/q1b.jpg",
+      "markscheme": "img/2008-june-chm1/ms/q1b.png",
+      "figures": [],
+      "question": "1(b)",
+      "page": 2
+    },
+    {
+      "id": "2008-june-chm1-q1ci",
+      "paper": "2008-june-chm1",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM1",
+      "level": "AS",
+      "questionNumber": "1(c)(i)",
+      "marks": 1,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Chemical Equations"
+      ],
+      "summary": "Balance the overall equation for a lead-acid car battery.",
+      "specRef": "3.1.2",
+      "image": "img/2008-june-chm1/q1ci.jpg",
+      "markscheme": "img/2008-june-chm1/ms/q1ci.png",
+      "figures": [],
+      "question": "1(c)(i)",
+      "page": 5
+    },
+    {
+      "id": "2008-june-chm1-q1cii",
+      "paper": "2008-june-chm1",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM1",
+      "level": "AS",
+      "questionNumber": "1(c)(ii)",
+      "marks": 2,
+      "topics": [
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Knowledge & Recall",
+        "Explanation"
+      ],
+      "summary": "State and explain any chemical difference between 204Pb and 206Pb.",
+      "specRef": "3.1.1",
+      "image": "img/2008-june-chm1/q1cii.jpg",
+      "markscheme": "img/2008-june-chm1/ms/q1cii.png",
+      "figures": [],
+      "question": "1(c)(ii)",
+      "page": 5
+    },
+    {
+      "id": "2008-june-chm1-q1d",
+      "paper": "2008-june-chm1",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM1",
+      "level": "AS",
+      "questionNumber": "1(d)",
+      "marks": 2,
+      "topics": [
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Deduce the symbol and mass number of an atom from proton and neutron ratios relative to 7Li.",
+      "specRef": "3.1.1",
+      "image": "img/2008-june-chm1/q1d.jpg",
+      "markscheme": "img/2008-june-chm1/ms/q1d.png",
+      "figures": [],
+      "question": "1(d)",
+      "page": 5
+    },
+    {
+      "id": "2008-june-chm1-q1ei",
+      "paper": "2008-june-chm1",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM1",
+      "level": "AS",
+      "questionNumber": "1(e)(i)",
+      "marks": 2,
+      "topics": [
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Explain how gaseous atoms are ionised in a mass spectrometer.",
+      "specRef": "3.1.1",
+      "image": "img/2008-june-chm1/q1ei.jpg",
+      "markscheme": "img/2008-june-chm1/ms/q1ei.png",
+      "figures": [],
+      "question": "1(e)(i)",
+      "page": 5
+    },
+    {
+      "id": "2008-june-chm1-q1eii",
+      "paper": "2008-june-chm1",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM1",
+      "level": "AS",
+      "questionNumber": "1(e)(ii)",
+      "marks": 1,
+      "topics": [
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Identify another process in a mass spectrometer that depends on ionisation.",
+      "specRef": "3.1.1",
+      "image": "img/2008-june-chm1/q1eii.jpg",
+      "markscheme": "img/2008-june-chm1/ms/q1eii.png",
+      "figures": [],
+      "question": "1(e)(ii)",
+      "page": 5
+    },
+    {
+      "id": "2008-june-chm1-q2a",
+      "paper": "2008-june-chm1",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM1",
+      "level": "AS",
+      "questionNumber": "2(a)",
+      "marks": 3,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Maths & Calculations"
+      ],
+      "summary": "Calculate moles of H2O2 in solution and moles of O2 produced on decomposition.",
+      "specRef": "3.1.2",
+      "image": "img/2008-june-chm1/q2a.jpg",
+      "markscheme": "img/2008-june-chm1/ms/q2a.png",
+      "figures": [],
+      "question": "2(a)",
+      "page": 6
+    },
+    {
+      "id": "2008-june-chm1-q2bi",
+      "paper": "2008-june-chm1",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM1",
+      "level": "AS",
+      "questionNumber": "2(b)(i)",
+      "marks": 1,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Maths & Calculations"
+      ],
+      "summary": "Calculate the number of moles of PH3 in 1.43 g.",
+      "specRef": "3.1.2",
+      "image": "img/2008-june-chm1/q2bi.jpg",
+      "markscheme": "img/2008-june-chm1/ms/q2bi.png",
+      "figures": [],
+      "question": "2(b)(i)",
+      "page": 6
+    },
+    {
+      "id": "2008-june-chm1-q2bii",
+      "paper": "2008-june-chm1",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM1",
+      "level": "AS",
+      "questionNumber": "2(b)(ii)",
+      "marks": 1,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Maths & Calculations"
+      ],
+      "summary": "Calculate the number of moles of oxygen reacted with PH3.",
+      "specRef": "3.1.2",
+      "image": "img/2008-june-chm1/q2bii.jpg",
+      "markscheme": "img/2008-june-chm1/ms/q2bii.png",
+      "figures": [],
+      "question": "2(b)(ii)",
+      "page": 6
+    },
+    {
+      "id": "2008-june-chm1-q2biii",
+      "paper": "2008-june-chm1",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM1",
+      "level": "AS",
+      "questionNumber": "2(b)(iii)",
+      "marks": 2,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Maths & Calculations"
+      ],
+      "summary": "Calculate the mass of phosphoric acid formed from 1.43 g of phosphine.",
+      "specRef": "3.1.2",
+      "image": "img/2008-june-chm1/q2biii.jpg",
+      "markscheme": "img/2008-june-chm1/ms/q2biii.png",
+      "figures": [],
+      "question": "2(b)(iii)",
+      "page": 6
+    },
+    {
+      "id": "2008-june-chm1-q2c",
+      "paper": "2008-june-chm1",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM1",
+      "level": "AS",
+      "questionNumber": "2(c)",
+      "marks": 4,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Maths & Calculations",
+        "Knowledge & Recall"
+      ],
+      "summary": "State the ideal gas equation and calculate the pressure of unreacted oxygen.",
+      "specRef": "3.1.2",
+      "image": "img/2008-june-chm1/q2c.jpg",
+      "markscheme": "img/2008-june-chm1/ms/q2c.png",
+      "figures": [],
+      "question": "2(c)",
+      "page": 7
+    },
+    {
+      "id": "2008-june-chm1-q3a",
+      "paper": "2008-june-chm1",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM1",
+      "level": "AS",
+      "questionNumber": "3(a)",
+      "marks": 2,
+      "topics": [
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Define the term first ionisation energy of an atom.",
+      "specRef": "3.1.1",
+      "image": "img/2008-june-chm1/q3a.jpg",
+      "markscheme": "img/2008-june-chm1/ms/q3a.png",
+      "figures": [],
+      "question": "3(a)",
+      "page": 8
+    },
+    {
+      "id": "2008-june-chm1-q3b",
+      "paper": "2008-june-chm1",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM1",
+      "level": "AS",
+      "questionNumber": "3(b)",
+      "marks": 2,
+      "topics": [
+        "Atomic Structure",
+        "Periodicity"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Explain the general increase in first ionisation energies across Period 3 (Na to Ar).",
+      "specRef": "3.1.1",
+      "image": "img/2008-june-chm1/q3b.jpg",
+      "markscheme": "img/2008-june-chm1/ms/q3b.png",
+      "figures": [],
+      "question": "3(b)",
+      "page": 8
+    },
+    {
+      "id": "2008-june-chm1-q3c",
+      "paper": "2008-june-chm1",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM1",
+      "level": "AS",
+      "questionNumber": "3(c)",
+      "marks": 3,
+      "topics": [
+        "Atomic Structure",
+        "Periodicity"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "State and explain how the first ionisation energy of sulphur deviates from the Period 3 trend.",
+      "specRef": "3.1.1",
+      "image": "img/2008-june-chm1/q3c.jpg",
+      "markscheme": "img/2008-june-chm1/ms/q3c.png",
+      "figures": [],
+      "question": "3(c)",
+      "page": 8
+    },
+    {
+      "id": "2008-june-chm1-q3di",
+      "paper": "2008-june-chm1",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM1",
+      "level": "AS",
+      "questionNumber": "3(d)(i)",
+      "marks": 2,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Structure & Bonding"
+      ],
+      "summary": "Draw the shapes of BF3 and H2S molecules showing any lone pairs.",
+      "specRef": "3.1.3",
+      "image": "img/2008-june-chm1/q3di.jpg",
+      "markscheme": "img/2008-june-chm1/ms/q3di.png",
+      "figures": [],
+      "question": "3(d)(i)",
+      "page": 9
+    },
+    {
+      "id": "2008-june-chm1-q3dii",
+      "paper": "2008-june-chm1",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM1",
+      "level": "AS",
+      "questionNumber": "3(d)(ii)",
+      "marks": 2,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Explain why a BF3 molecule has a trigonal planar shape.",
+      "specRef": "3.1.3",
+      "image": "img/2008-june-chm1/q3dii.jpg",
+      "markscheme": "img/2008-june-chm1/ms/q3dii.png",
+      "figures": [],
+      "question": "3(d)(ii)",
+      "page": 9
+    },
+    {
+      "id": "2008-june-chm1-q3e",
+      "paper": "2008-june-chm1",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM1",
+      "level": "AS",
+      "questionNumber": "3(e)",
+      "marks": 1,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Predict the H-S-H bond angle in the H2S-BF3 adduct (compound A).",
+      "specRef": "3.1.3",
+      "image": "img/2008-june-chm1/q3e.jpg",
+      "markscheme": "img/2008-june-chm1/ms/q3e.png",
+      "figures": [],
+      "question": "3(e)",
+      "page": 9
+    },
+    {
+      "id": "2008-june-chm1-q4a",
+      "paper": "2008-june-chm1",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM1",
+      "level": "AS",
+      "questionNumber": "4(a)",
+      "marks": 4,
+      "topics": [
+        "Periodicity"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "State and explain whether a sodium atom or a chlorine atom has a larger atomic radius.",
+      "specRef": "3.1.4",
+      "image": "img/2008-june-chm1/q4a.jpg",
+      "markscheme": "img/2008-june-chm1/ms/q4a.png",
+      "figures": [],
+      "question": "4(a)",
+      "page": 10
+    },
+    {
+      "id": "2008-june-chm1-q4bi",
+      "paper": "2008-june-chm1",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM1",
+      "level": "AS",
+      "questionNumber": "4(b)(i)",
+      "marks": 1,
+      "topics": [
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Give the electron arrangement of a sodium atom.",
+      "specRef": "3.1.1",
+      "image": "img/2008-june-chm1/q4bi.jpg",
+      "markscheme": "img/2008-june-chm1/ms/q4bi.png",
+      "figures": [],
+      "question": "4(b)(i)",
+      "page": 10
+    },
+    {
+      "id": "2008-june-chm1-q4bii",
+      "paper": "2008-june-chm1",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM1",
+      "level": "AS",
+      "questionNumber": "4(b)(ii)",
+      "marks": 2,
+      "topics": [
+        "Atomic Structure",
+        "Periodicity"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "State and explain whether a sodium atom or Na+ ion has a larger radius.",
+      "specRef": "3.1.4",
+      "image": "img/2008-june-chm1/q4bii.jpg",
+      "markscheme": "img/2008-june-chm1/ms/q4bii.png",
+      "figures": [],
+      "question": "4(b)(ii)",
+      "page": 10
+    },
+    {
+      "id": "2008-june-chm1-q4biii",
+      "paper": "2008-june-chm1",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM1",
+      "level": "AS",
+      "questionNumber": "4(b)(iii)",
+      "marks": 2,
+      "topics": [
+        "Atomic Structure",
+        "Periodicity"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Suggest why a chloride ion (Cl-) has a larger radius than a chlorine atom.",
+      "specRef": "3.1.4",
+      "image": "img/2008-june-chm1/q4biii.jpg",
+      "markscheme": "img/2008-june-chm1/ms/q4biii.png",
+      "figures": [],
+      "question": "4(b)(iii)",
+      "page": 10
+    },
+    {
+      "id": "2008-june-chm1-q4ci",
+      "paper": "2008-june-chm1",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM1",
+      "level": "AS",
+      "questionNumber": "4(c)(i)",
+      "marks": 1,
+      "topics": [
+        "Group 2"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Give the formula of the least soluble Group 2 sulphate (Mg to Ba).",
+      "specRef": "3.2.2",
+      "image": "img/2008-june-chm1/q4ci.jpg",
+      "markscheme": "img/2008-june-chm1/ms/q4ci.png",
+      "figures": [],
+      "question": "4(c)(i)",
+      "page": 10
+    },
+    {
+      "id": "2008-june-chm1-q4cii",
+      "paper": "2008-june-chm1",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM1",
+      "level": "AS",
+      "questionNumber": "4(c)(ii)",
+      "marks": 1,
+      "topics": [
+        "Group 2"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Give the formula of the most soluble Group 2 hydroxide (Mg to Ba).",
+      "specRef": "3.2.2",
+      "image": "img/2008-june-chm1/q4cii.jpg",
+      "markscheme": "img/2008-june-chm1/ms/q4cii.png",
+      "figures": [],
+      "question": "4(c)(ii)",
+      "page": 10
+    },
+    {
+      "id": "2008-june-chm2-q1ai",
+      "paper": "2008-june-chm2",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM2",
+      "level": "AS",
+      "questionNumber": "1(a)(i)",
+      "marks": 2,
+      "topics": [
+        "Extraction of Metals"
+      ],
+      "skills": [
+        "Chemical Equations"
+      ],
+      "summary": "Write equations for the reduction of titanium(IV) chloride using sodium and using hydrogen.",
+      "specRef": "3.2.4",
+      "image": "img/2008-june-chm2/q1ai.jpg",
+      "markscheme": "img/2008-june-chm2/ms/q1ai.png",
+      "figures": [],
+      "question": "1(a)(i)",
+      "page": 2
+    },
+    {
+      "id": "2008-june-chm2-q1aii",
+      "paper": "2008-june-chm2",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM2",
+      "level": "AS",
+      "questionNumber": "1(a)(ii)",
+      "marks": 1,
+      "topics": [
+        "Extraction of Metals"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Give one reason, other than cost, why hydrogen is not the preferred reducing agent for titanium extraction.",
+      "specRef": "3.2.4",
+      "image": "img/2008-june-chm2/q1aii.jpg",
+      "markscheme": "img/2008-june-chm2/ms/q1aii.png",
+      "figures": [],
+      "question": "1(a)(ii)",
+      "page": 2
+    },
+    {
+      "id": "2008-june-chm2-q1b",
+      "paper": "2008-june-chm2",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM2",
+      "level": "AS",
+      "questionNumber": "1(b)",
+      "marks": 1,
+      "topics": [
+        "Extraction of Metals"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Suggest why carbon is not a suitable reducing agent for the extraction of titanium.",
+      "specRef": "3.2.4",
+      "image": "img/2008-june-chm2/q1b.jpg",
+      "markscheme": "img/2008-june-chm2/ms/q1b.png",
+      "figures": [],
+      "question": "1(b)",
+      "page": 2
+    },
+    {
+      "id": "2008-june-chm2-q1ci",
+      "paper": "2008-june-chm2",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM2",
+      "level": "AS",
+      "questionNumber": "1(c)(i)",
+      "marks": 2,
+      "topics": [
+        "Extraction of Metals"
+      ],
+      "skills": [
+        "Chemical Equations",
+        "Knowledge & Recall"
+      ],
+      "summary": "Write an equation and state a condition for the reduction of iron(III) oxide with carbon.",
+      "specRef": "3.2.4",
+      "image": "img/2008-june-chm2/q1ci.jpg",
+      "markscheme": "img/2008-june-chm2/ms/q1ci.png",
+      "figures": [],
+      "question": "1(c)(i)",
+      "page": 2
+    },
+    {
+      "id": "2008-june-chm2-q1cii",
+      "paper": "2008-june-chm2",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM2",
+      "level": "AS",
+      "questionNumber": "1(c)(ii)",
+      "marks": 3,
+      "topics": [
+        "Extraction of Metals"
+      ],
+      "skills": [
+        "Knowledge & Recall",
+        "Chemical Equations"
+      ],
+      "summary": "Name the raw material used to remove SiO2 impurity in iron extraction and write equations for slag formation.",
+      "specRef": "3.2.4",
+      "image": "img/2008-june-chm2/q1cii.jpg",
+      "markscheme": "img/2008-june-chm2/ms/q1cii.png",
+      "figures": [],
+      "question": "1(c)(ii)",
+      "page": 3
+    },
+    {
+      "id": "2008-june-chm2-q1ciii",
+      "paper": "2008-june-chm2",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM2",
+      "level": "AS",
+      "questionNumber": "1(c)(iii)",
+      "marks": 1,
+      "topics": [
+        "Extraction of Metals"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State one use of slag.",
+      "specRef": "3.2.4",
+      "image": "img/2008-june-chm2/q1ciii.jpg",
+      "markscheme": "img/2008-june-chm2/ms/q1ciii.png",
+      "figures": [],
+      "question": "1(c)(iii)",
+      "page": 3
+    },
+    {
+      "id": "2008-june-chm2-q1di",
+      "paper": "2008-june-chm2",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM2",
+      "level": "AS",
+      "questionNumber": "1(d)(i)",
+      "marks": 2,
+      "topics": [
+        "Extraction of Metals",
+        "Redox"
+      ],
+      "skills": [
+        "Chemical Equations"
+      ],
+      "summary": "Write half-equations for both electrode reactions in the extraction of aluminium.",
+      "specRef": "3.2.4",
+      "image": "img/2008-june-chm2/q1di.jpg",
+      "markscheme": "img/2008-june-chm2/ms/q1di.png",
+      "figures": [],
+      "question": "1(d)(i)",
+      "page": 3
+    },
+    {
+      "id": "2008-june-chm2-q1dii",
+      "paper": "2008-june-chm2",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM2",
+      "level": "AS",
+      "questionNumber": "1(d)(ii)",
+      "marks": 1,
+      "topics": [
+        "Extraction of Metals"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Give one reason why cryolite is used in aluminium extraction.",
+      "specRef": "3.2.4",
+      "image": "img/2008-june-chm2/q1dii.jpg",
+      "markscheme": "img/2008-june-chm2/ms/q1dii.png",
+      "figures": [],
+      "question": "1(d)(ii)",
+      "page": 3
+    },
+    {
+      "id": "2008-june-chm2-q1e",
+      "paper": "2008-june-chm2",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM2",
+      "level": "AS",
+      "questionNumber": "1(e)",
+      "marks": 1,
+      "topics": [
+        "Extraction of Metals"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Give the major reason why recycling aluminium is economically viable.",
+      "specRef": "3.2.4",
+      "image": "img/2008-june-chm2/q1e.jpg",
+      "markscheme": "img/2008-june-chm2/ms/q1e.png",
+      "figures": [],
+      "question": "1(e)",
+      "page": 3
+    },
+    {
+      "id": "2008-june-chm2-q2a",
+      "paper": "2008-june-chm2",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM2",
+      "level": "AS",
+      "questionNumber": "2(a)",
+      "marks": 3,
+      "topics": [
+        "Energetics"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Define the term standard enthalpy of combustion.",
+      "specRef": "3.1.5",
+      "image": "img/2008-june-chm2/q2a.jpg",
+      "markscheme": "img/2008-june-chm2/ms/q2a.png",
+      "figures": [],
+      "question": "2(a)",
+      "page": 4
+    },
+    {
+      "id": "2008-june-chm2-q2b",
+      "paper": "2008-june-chm2",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM2",
+      "level": "AS",
+      "questionNumber": "2(b)",
+      "marks": 1,
+      "topics": [
+        "Energetics"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State Hess's Law.",
+      "specRef": "3.1.5",
+      "image": "img/2008-june-chm2/q2b.jpg",
+      "markscheme": "img/2008-june-chm2/ms/q2b.png",
+      "figures": [],
+      "question": "2(b)",
+      "page": 4
+    },
+    {
+      "id": "2008-june-chm2-q2c",
+      "paper": "2008-june-chm2",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM2",
+      "level": "AS",
+      "questionNumber": "2(c)",
+      "marks": 3,
+      "topics": [
+        "Energetics"
+      ],
+      "skills": [
+        "Maths & Calculations"
+      ],
+      "summary": "Calculate the standard enthalpy of formation of buta-1,3-diene from enthalpy of combustion data.",
+      "specRef": "3.1.5",
+      "image": "img/2008-june-chm2/q2c.jpg",
+      "markscheme": "img/2008-june-chm2/ms/q2c.png",
+      "figures": [],
+      "question": "2(c)",
+      "page": 4
+    },
+    {
+      "id": "2008-june-chm2-q2d",
+      "paper": "2008-june-chm2",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM2",
+      "level": "AS",
+      "questionNumber": "2(d)",
+      "marks": 3,
+      "topics": [
+        "Energetics"
+      ],
+      "skills": [
+        "Maths & Calculations"
+      ],
+      "summary": "Calculate the C=C bond enthalpy from the enthalpy of hydrogenation of buta-1,3-diene.",
+      "specRef": "3.1.5",
+      "image": "img/2008-june-chm2/q2d.jpg",
+      "markscheme": "img/2008-june-chm2/ms/q2d.png",
+      "figures": [],
+      "question": "2(d)",
+      "page": 5
+    },
+    {
+      "id": "2008-june-chm2-q3a",
+      "paper": "2008-june-chm2",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM2",
+      "level": "AS",
+      "questionNumber": "3(a)",
+      "marks": 1,
+      "topics": [
+        "Redox"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State, in terms of electrons, what happens to an oxidising agent in a redox reaction.",
+      "specRef": "3.1.6",
+      "image": "img/2008-june-chm2/q3a.jpg",
+      "markscheme": "img/2008-june-chm2/ms/q3a.png",
+      "figures": [],
+      "question": "3(a)",
+      "page": 6
+    },
+    {
+      "id": "2008-june-chm2-q3bi",
+      "paper": "2008-june-chm2",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM2",
+      "level": "AS",
+      "questionNumber": "3(b)(i)",
+      "marks": 1,
+      "topics": [
+        "Redox",
+        "Group 7"
+      ],
+      "skills": [
+        "Chemical Equations"
+      ],
+      "summary": "Write a half-equation showing how SO2 is formed from concentrated sulphuric acid.",
+      "specRef": "3.2.3",
+      "image": "img/2008-june-chm2/q3bi.jpg",
+      "markscheme": "img/2008-june-chm2/ms/q3bi.png",
+      "figures": [],
+      "question": "3(b)(i)",
+      "page": 6
+    },
+    {
+      "id": "2008-june-chm2-q3bii",
+      "paper": "2008-june-chm2",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM2",
+      "level": "AS",
+      "questionNumber": "3(b)(ii)",
+      "marks": 1,
+      "topics": [
+        "Redox",
+        "Group 7"
+      ],
+      "skills": [
+        "Chemical Equations"
+      ],
+      "summary": "Write a half-equation showing how Br2 is formed from Br- ions.",
+      "specRef": "3.2.3",
+      "image": "img/2008-june-chm2/q3bii.jpg",
+      "markscheme": "img/2008-june-chm2/ms/q3bii.png",
+      "figures": [],
+      "question": "3(b)(ii)",
+      "page": 6
+    },
+    {
+      "id": "2008-june-chm2-q3biii",
+      "paper": "2008-june-chm2",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM2",
+      "level": "AS",
+      "questionNumber": "3(b)(iii)",
+      "marks": 1,
+      "topics": [
+        "Redox",
+        "Group 7"
+      ],
+      "skills": [
+        "Chemical Equations"
+      ],
+      "summary": "Write an overall equation for the reaction of Br- ions with concentrated sulphuric acid.",
+      "specRef": "3.2.3",
+      "image": "img/2008-june-chm2/q3biii.jpg",
+      "markscheme": "img/2008-june-chm2/ms/q3biii.png",
+      "figures": [],
+      "question": "3(b)(iii)",
+      "page": 6
+    },
+    {
+      "id": "2008-june-chm2-q3biv",
+      "paper": "2008-june-chm2",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM2",
+      "level": "AS",
+      "questionNumber": "3(b)(iv)",
+      "marks": 1,
+      "topics": [
+        "Redox",
+        "Group 7"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Deduce the role of Br- ions in their reaction with concentrated sulphuric acid.",
+      "specRef": "3.2.3",
+      "image": "img/2008-june-chm2/q3biv.jpg",
+      "markscheme": "img/2008-june-chm2/ms/q3biv.png",
+      "figures": [],
+      "question": "3(b)(iv)",
+      "page": 6
+    },
+    {
+      "id": "2008-june-chm2-q3ci",
+      "paper": "2008-june-chm2",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM2",
+      "level": "AS",
+      "questionNumber": "3(c)(i)",
+      "marks": 1,
+      "topics": [
+        "Group 7"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Identify a halide ion that does not produce SO2 when reacted with concentrated sulphuric acid.",
+      "specRef": "3.2.3",
+      "image": "img/2008-june-chm2/q3ci.jpg",
+      "markscheme": "img/2008-june-chm2/ms/q3ci.png",
+      "figures": [],
+      "question": "3(c)(i)",
+      "page": 6
+    },
+    {
+      "id": "2008-june-chm2-q3cii",
+      "paper": "2008-june-chm2",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM2",
+      "level": "AS",
+      "questionNumber": "3(c)(ii)",
+      "marks": 1,
+      "topics": [
+        "Group 7"
+      ],
+      "skills": [
+        "Chemical Equations"
+      ],
+      "summary": "Write an equation for the reaction of concentrated sulphuric acid with Cl- or F-.",
+      "specRef": "3.2.3",
+      "image": "img/2008-june-chm2/q3cii.jpg",
+      "markscheme": "img/2008-june-chm2/ms/q3cii.png",
+      "figures": [],
+      "question": "3(c)(ii)",
+      "page": 6
+    },
+    {
+      "id": "2008-june-chm2-q3ciii",
+      "paper": "2008-june-chm2",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM2",
+      "level": "AS",
+      "questionNumber": "3(c)(iii)",
+      "marks": 1,
+      "topics": [
+        "Group 7"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State the role of sulphuric acid in its reaction with Cl- or F-.",
+      "specRef": "3.2.3",
+      "image": "img/2008-june-chm2/q3ciii.jpg",
+      "markscheme": "img/2008-june-chm2/ms/q3ciii.png",
+      "figures": [],
+      "question": "3(c)(iii)",
+      "page": 7
+    },
+    {
+      "id": "2008-june-chm2-q3d",
+      "paper": "2008-june-chm2",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM2",
+      "level": "AS",
+      "questionNumber": "3(d)",
+      "marks": 1,
+      "topics": [
+        "Redox",
+        "Group 7"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Deduce the role of Cl2 in its reaction with aqueous sodium bromide.",
+      "specRef": "3.2.3",
+      "image": "img/2008-june-chm2/q3d.jpg",
+      "markscheme": "img/2008-june-chm2/ms/q3d.png",
+      "figures": [],
+      "question": "3(d)",
+      "page": 7
+    },
+    {
+      "id": "2008-june-chm2-q3ei",
+      "paper": "2008-june-chm2",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM2",
+      "level": "AS",
+      "questionNumber": "3(e)(i)",
+      "marks": 1,
+      "topics": [
+        "Group 7"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Identify a halide ion whose silver nitrate precipitate dissolves completely in dilute ammonia.",
+      "specRef": "3.2.3",
+      "image": "img/2008-june-chm2/q3ei.jpg",
+      "markscheme": "img/2008-june-chm2/ms/q3ei.png",
+      "figures": [],
+      "question": "3(e)(i)",
+      "page": 7
+    },
+    {
+      "id": "2008-june-chm2-q3eii",
+      "paper": "2008-june-chm2",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM2",
+      "level": "AS",
+      "questionNumber": "3(e)(ii)",
+      "marks": 1,
+      "topics": [
+        "Group 7"
+      ],
+      "skills": [
+        "Chemical Equations"
+      ],
+      "summary": "Write an ionic equation for the reaction between silver nitrate and chloride ions.",
+      "specRef": "3.2.3",
+      "image": "img/2008-june-chm2/q3eii.jpg",
+      "markscheme": "img/2008-june-chm2/ms/q3eii.png",
+      "figures": [],
+      "question": "3(e)(ii)",
+      "page": 7
+    },
+    {
+      "id": "2008-june-chm2-q3eiii",
+      "paper": "2008-june-chm2",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM2",
+      "level": "AS",
+      "questionNumber": "3(e)(iii)",
+      "marks": 1,
+      "topics": [
+        "Group 7"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Identify the halide ion that cannot be detected using silver nitrate.",
+      "specRef": "3.2.3",
+      "image": "img/2008-june-chm2/q3eiii.jpg",
+      "markscheme": "img/2008-june-chm2/ms/q3eiii.png",
+      "figures": [],
+      "question": "3(e)(iii)",
+      "page": 7
+    },
+    {
+      "id": "2008-june-chm2-q4a",
+      "paper": "2008-june-chm2",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM2",
+      "level": "AS",
+      "questionNumber": "4(a)",
+      "marks": 1,
+      "topics": [
+        "Equilibria"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Explain why reactant and product concentrations remain constant at equilibrium.",
+      "specRef": "3.1.6",
+      "image": "img/2008-june-chm2/q4a.jpg",
+      "markscheme": "img/2008-june-chm2/ms/q4a.png",
+      "figures": [
+        "img/2008-june-chm2/fig-q4-eq.jpg"
+      ],
+      "question": "4(a)",
+      "page": 8
+    },
+    {
+      "id": "2008-june-chm2-q4bi",
+      "paper": "2008-june-chm2",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM2",
+      "level": "AS",
+      "questionNumber": "4(b)(i)",
+      "marks": 2,
+      "topics": [
+        "Equilibria"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Explain why a high temperature is needed for a high equilibrium yield of hydrogen.",
+      "specRef": "3.1.6",
+      "image": "img/2008-june-chm2/q4bi.jpg",
+      "markscheme": "img/2008-june-chm2/ms/q4bi.png",
+      "figures": [
+        "img/2008-june-chm2/fig-q4-eq.jpg"
+      ],
+      "question": "4(b)(i)",
+      "page": 8
+    },
+    {
+      "id": "2008-june-chm2-q4bii",
+      "paper": "2008-june-chm2",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM2",
+      "level": "AS",
+      "questionNumber": "4(b)(ii)",
+      "marks": 1,
+      "topics": [
+        "Equilibria"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Give one disadvantage of using temperatures much higher than 1000 C.",
+      "specRef": "3.1.6",
+      "image": "img/2008-june-chm2/q4bii.jpg",
+      "markscheme": "img/2008-june-chm2/ms/q4bii.png",
+      "figures": [
+        "img/2008-june-chm2/fig-q4-eq.jpg"
+      ],
+      "question": "4(b)(ii)",
+      "page": 8
+    },
+    {
+      "id": "2008-june-chm2-q4c",
+      "paper": "2008-june-chm2",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM2",
+      "level": "AS",
+      "questionNumber": "4(c)",
+      "marks": 3,
+      "topics": [
+        "Equilibria"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "State and explain how overall pressure must be changed to increase equilibrium yield of hydrogen.",
+      "specRef": "3.1.6",
+      "image": "img/2008-june-chm2/q4c.jpg",
+      "markscheme": "img/2008-june-chm2/ms/q4c.png",
+      "figures": [
+        "img/2008-june-chm2/fig-q4-eq.jpg"
+      ],
+      "question": "4(c)",
+      "page": 9
+    },
+    {
+      "id": "2008-june-chm2-q4d",
+      "paper": "2008-june-chm2",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM2",
+      "level": "AS",
+      "questionNumber": "4(d)",
+      "marks": 2,
+      "topics": [
+        "Equilibria",
+        "Kinetics"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Explain why adding a catalyst has no effect on the equilibrium yield of hydrogen.",
+      "specRef": "3.1.6",
+      "image": "img/2008-june-chm2/q4d.jpg",
+      "markscheme": "img/2008-june-chm2/ms/q4d.png",
+      "figures": [
+        "img/2008-june-chm2/fig-q4-eq.jpg"
+      ],
+      "question": "4(d)",
+      "page": 9
+    },
+    {
+      "id": "2008-june-chm3w-q1ai",
+      "paper": "2008-june-chm3w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "questionNumber": "1(a)(i)",
+      "marks": 1,
+      "topics": [
+        "Alkanes"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State what is meant by the term hydrocarbon.",
+      "specRef": "3.3.2",
+      "image": "img/2008-june-chm3w/q1ai.jpg",
+      "markscheme": "img/2008-june-chm3w/ms/q1ai.png",
+      "figures": [],
+      "question": "1(a)(i)",
+      "page": 2
+    },
+    {
+      "id": "2008-june-chm3w-q1aii",
+      "paper": "2008-june-chm3w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "questionNumber": "1(a)(ii)",
+      "marks": 1,
+      "topics": [
+        "Alkanes"
+      ],
+      "skills": [
+        "Chemical Equations"
+      ],
+      "summary": "Write an equation for the incomplete combustion of nonane (C9H20) to form CO and H2O.",
+      "specRef": "3.3.2",
+      "image": "img/2008-june-chm3w/q1aii.jpg",
+      "markscheme": "img/2008-june-chm3w/ms/q1aii.png",
+      "figures": [],
+      "question": "1(a)(ii)",
+      "page": 2
+    },
+    {
+      "id": "2008-june-chm3w-q1aiii",
+      "paper": "2008-june-chm3w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "questionNumber": "1(a)(iii)",
+      "marks": 2,
+      "topics": [
+        "Alkanes"
+      ],
+      "skills": [
+        "Knowledge & Recall",
+        "Chemical Equations"
+      ],
+      "summary": "State one essential condition and write an equation for the formation of NO from air in a petrol engine.",
+      "specRef": "3.3.2",
+      "image": "img/2008-june-chm3w/q1aiii.jpg",
+      "markscheme": "img/2008-june-chm3w/ms/q1aiii.png",
+      "figures": [],
+      "question": "1(a)(iii)",
+      "page": 2
+    },
+    {
+      "id": "2008-june-chm3w-q1bi",
+      "paper": "2008-june-chm3w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "questionNumber": "1(b)(i)",
+      "marks": 1,
+      "topics": [
+        "Alkanes"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Identify a metal used as a catalyst in a catalytic converter.",
+      "specRef": "3.3.2",
+      "image": "img/2008-june-chm3w/q1bi.jpg",
+      "markscheme": "img/2008-june-chm3w/ms/q1bi.png",
+      "figures": [],
+      "question": "1(b)(i)",
+      "page": 3
+    },
+    {
+      "id": "2008-june-chm3w-q1bii",
+      "paper": "2008-june-chm3w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "questionNumber": "1(b)(ii)",
+      "marks": 1,
+      "topics": [
+        "Alkanes",
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Chemical Equations"
+      ],
+      "summary": "Balance the equation for the reaction of octane with nitrogen monoxide in a catalytic converter.",
+      "specRef": "3.3.2",
+      "image": "img/2008-june-chm3w/q1bii.jpg",
+      "markscheme": "img/2008-june-chm3w/ms/q1bii.png",
+      "figures": [],
+      "question": "1(b)(ii)",
+      "page": 3
+    },
+    {
+      "id": "2008-june-chm3w-q1c",
+      "paper": "2008-june-chm3w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "questionNumber": "1(c)",
+      "marks": 1,
+      "topics": [
+        "Alkanes",
+        "Energetics"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State what is meant by the term fuel.",
+      "specRef": "3.3.2",
+      "image": "img/2008-june-chm3w/q1c.jpg",
+      "markscheme": "img/2008-june-chm3w/ms/q1c.png",
+      "figures": [],
+      "question": "1(c)",
+      "page": 3
+    },
+    {
+      "id": "2008-june-chm3w-q1d",
+      "paper": "2008-june-chm3w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "questionNumber": "1(d)",
+      "marks": 1,
+      "topics": [
+        "Alkanes"
+      ],
+      "skills": [
+        "Chemical Equations"
+      ],
+      "summary": "Write an equation for the combustion of H2S in air to give SO2 and H2O.",
+      "specRef": "3.3.2",
+      "image": "img/2008-june-chm3w/q1d.jpg",
+      "markscheme": "img/2008-june-chm3w/ms/q1d.png",
+      "figures": [],
+      "question": "1(d)",
+      "page": 3
+    },
+    {
+      "id": "2008-june-chm3w-q2a",
+      "paper": "2008-june-chm3w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "questionNumber": "2(a)",
+      "marks": 2,
+      "topics": [
+        "Nomenclature & Isomerism"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Complete the table of C3H6O isomers by naming propanone and drawing propanal.",
+      "specRef": "3.3.1",
+      "image": "img/2008-june-chm3w/q2a.jpg",
+      "markscheme": "img/2008-june-chm3w/ms/q2a.png",
+      "figures": [
+        "img/2008-june-chm3w/fig-q2-table.jpg"
+      ],
+      "question": "2(a)",
+      "page": 4
+    },
+    {
+      "id": "2008-june-chm3w-q2b",
+      "paper": "2008-june-chm3w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "questionNumber": "2(b)",
+      "marks": 1,
+      "topics": [
+        "Nomenclature & Isomerism"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Name the type of structural isomerism shown by propanone, propanal, and prop-2-en-1-ol.",
+      "specRef": "3.3.1",
+      "image": "img/2008-june-chm3w/q2b.jpg",
+      "markscheme": "img/2008-june-chm3w/ms/q2b.png",
+      "figures": [
+        "img/2008-june-chm3w/fig-q2-table.jpg"
+      ],
+      "question": "2(b)",
+      "page": 4
+    },
+    {
+      "id": "2008-june-chm3w-q2c",
+      "paper": "2008-june-chm3w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "questionNumber": "2(c)",
+      "marks": 1,
+      "topics": [
+        "Nomenclature & Isomerism"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State what is meant by the term molecular formula.",
+      "specRef": "3.3.1",
+      "image": "img/2008-june-chm3w/q2c.jpg",
+      "markscheme": "img/2008-june-chm3w/ms/q2c.png",
+      "figures": [],
+      "question": "2(c)",
+      "page": 4
+    },
+    {
+      "id": "2008-june-chm3w-q2d",
+      "paper": "2008-june-chm3w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "questionNumber": "2(d)",
+      "marks": 1,
+      "topics": [
+        "Nomenclature & Isomerism"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Give the molecular formula for the C3H6O isomers.",
+      "specRef": "3.3.1",
+      "image": "img/2008-june-chm3w/q2d.jpg",
+      "markscheme": "img/2008-june-chm3w/ms/q2d.png",
+      "figures": [
+        "img/2008-june-chm3w/fig-q2-table.jpg"
+      ],
+      "question": "2(d)",
+      "page": 4
+    },
+    {
+      "id": "2008-june-chm3w-q2ei",
+      "paper": "2008-june-chm3w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "questionNumber": "2(e)(i)",
+      "marks": 1,
+      "topics": [
+        "Alcohols",
+        "Redox"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State the type of reaction when propanal reacts with acidified potassium dichromate(VI).",
+      "specRef": "3.3.5",
+      "image": "img/2008-june-chm3w/q2ei.jpg",
+      "markscheme": "img/2008-june-chm3w/ms/q2ei.png",
+      "figures": [],
+      "question": "2(e)(i)",
+      "page": 5
+    },
+    {
+      "id": "2008-june-chm3w-q2eii",
+      "paper": "2008-june-chm3w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "questionNumber": "2(e)(ii)",
+      "marks": 1,
+      "topics": [
+        "Alcohols"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw the structure of the carboxylic acid formed from propanal.",
+      "specRef": "3.3.5",
+      "image": "img/2008-june-chm3w/q2eii.jpg",
+      "markscheme": "img/2008-june-chm3w/ms/q2eii.png",
+      "figures": [],
+      "question": "2(e)(ii)",
+      "page": 5
+    },
+    {
+      "id": "2008-june-chm3w-q2eiii",
+      "paper": "2008-june-chm3w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "questionNumber": "2(e)(iii)",
+      "marks": 1,
+      "topics": [
+        "Alcohols"
+      ],
+      "skills": [
+        "Practical Skills"
+      ],
+      "summary": "Choose Tollens' or Fehling's reagent and state the observation if propanal is present.",
+      "specRef": "3.3.5",
+      "image": "img/2008-june-chm3w/q2eiii.jpg",
+      "markscheme": "img/2008-june-chm3w/ms/q2eiii.png",
+      "figures": [],
+      "question": "2(e)(iii)",
+      "page": 5
+    },
+    {
+      "id": "2008-june-chm3w-q2fi",
+      "paper": "2008-june-chm3w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "questionNumber": "2(f)(i)",
+      "marks": 1,
+      "topics": [
+        "Alkenes"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State what is meant by the term unsaturated.",
+      "specRef": "3.3.4",
+      "image": "img/2008-june-chm3w/q2fi.jpg",
+      "markscheme": "img/2008-june-chm3w/ms/q2fi.png",
+      "figures": [],
+      "question": "2(f)(i)",
+      "page": 5
+    },
+    {
+      "id": "2008-june-chm3w-q2fii",
+      "paper": "2008-june-chm3w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "questionNumber": "2(f)(ii)",
+      "marks": 1,
+      "topics": [
+        "Alcohols"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Identify the class of alcohol to which prop-2-en-1-ol belongs.",
+      "specRef": "3.3.5",
+      "image": "img/2008-june-chm3w/q2fii.jpg",
+      "markscheme": "img/2008-june-chm3w/ms/q2fii.png",
+      "figures": [
+        "img/2008-june-chm3w/fig-q2-table.jpg"
+      ],
+      "question": "2(f)(ii)",
+      "page": 5
+    },
+    {
+      "id": "2008-june-chm3w-q2fiii",
+      "paper": "2008-june-chm3w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "questionNumber": "2(f)(iii)",
+      "marks": 1,
+      "topics": [
+        "Alkenes"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw the structure of the product formed when prop-2-en-1-ol reacts with bromine.",
+      "specRef": "3.3.4",
+      "image": "img/2008-june-chm3w/q2fiii.jpg",
+      "markscheme": "img/2008-june-chm3w/ms/q2fiii.png",
+      "figures": [
+        "img/2008-june-chm3w/fig-q2-table.jpg"
+      ],
+      "question": "2(f)(iii)",
+      "page": 5
+    },
+    {
+      "id": "2008-june-chm3w-q3ai",
+      "paper": "2008-june-chm3w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "questionNumber": "3(a)(i)",
+      "marks": 1,
+      "topics": [
+        "Alkanes",
+        "Haloalkanes"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Name the type of mechanism for the reaction of chlorine with trichloromethane in sunlight.",
+      "specRef": "3.3.2",
+      "image": "img/2008-june-chm3w/q3ai.jpg",
+      "markscheme": "img/2008-june-chm3w/ms/q3ai.png",
+      "figures": [],
+      "question": "3(a)(i)",
+      "page": 6
+    },
+    {
+      "id": "2008-june-chm3w-q3aii",
+      "paper": "2008-june-chm3w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "questionNumber": "3(a)(ii)",
+      "marks": 4,
+      "topics": [
+        "Alkanes",
+        "Haloalkanes"
+      ],
+      "skills": [
+        "Mechanisms"
+      ],
+      "summary": "Outline initiation, propagation, and termination steps for the free-radical substitution of CHCl3 to form CCl4.",
+      "specRef": "3.3.2",
+      "image": "img/2008-june-chm3w/q3aii.jpg",
+      "markscheme": "img/2008-june-chm3w/ms/q3aii.png",
+      "figures": [],
+      "question": "3(a)(ii)",
+      "page": 6
+    },
+    {
+      "id": "2008-june-chm3w-q3bi",
+      "paper": "2008-june-chm3w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "questionNumber": "3(b)(i)",
+      "marks": 1,
+      "topics": [
+        "Nomenclature & Isomerism",
+        "Haloalkanes"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Give the IUPAC name of CF2Cl2.",
+      "specRef": "3.3.3",
+      "image": "img/2008-june-chm3w/q3bi.jpg",
+      "markscheme": "img/2008-june-chm3w/ms/q3bi.png",
+      "figures": [],
+      "question": "3(b)(i)",
+      "page": 7
+    },
+    {
+      "id": "2008-june-chm3w-q3bii",
+      "paper": "2008-june-chm3w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "questionNumber": "3(b)(ii)",
+      "marks": 1,
+      "topics": [
+        "Haloalkanes"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Name the type of reactive intermediate shown in the ozone depletion mechanism.",
+      "specRef": "3.3.3",
+      "image": "img/2008-june-chm3w/q3bii.jpg",
+      "markscheme": "img/2008-june-chm3w/ms/q3bii.png",
+      "figures": [],
+      "question": "3(b)(ii)",
+      "page": 7
+    },
+    {
+      "id": "2008-june-chm3w-q3biii",
+      "paper": "2008-june-chm3w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "questionNumber": "3(b)(iii)",
+      "marks": 1,
+      "topics": [
+        "Haloalkanes"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Name the type of mechanistic step illustrated by Step 3 (O3 + ClO. -> 2O2 + Cl.).",
+      "specRef": "3.3.3",
+      "image": "img/2008-june-chm3w/q3biii.jpg",
+      "markscheme": "img/2008-june-chm3w/ms/q3biii.png",
+      "figures": [],
+      "question": "3(b)(iii)",
+      "page": 7
+    },
+    {
+      "id": "2008-june-chm3w-q4ai",
+      "paper": "2008-june-chm3w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "questionNumber": "4(a)(i)",
+      "marks": 1,
+      "topics": [
+        "Haloalkanes",
+        "Bonding"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State what feature of bromoethane makes it susceptible to attack by ammonia.",
+      "specRef": "3.3.3",
+      "image": "img/2008-june-chm3w/q4ai.jpg",
+      "markscheme": "img/2008-june-chm3w/ms/q4ai.png",
+      "figures": [],
+      "question": "4(a)(i)",
+      "page": 8
+    },
+    {
+      "id": "2008-june-chm3w-q4aii",
+      "paper": "2008-june-chm3w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "questionNumber": "4(a)(ii)",
+      "marks": 4,
+      "topics": [
+        "Haloalkanes"
+      ],
+      "skills": [
+        "Mechanisms"
+      ],
+      "summary": "Outline the nucleophilic substitution mechanism for bromoethane reacting with ammonia.",
+      "specRef": "3.3.3",
+      "image": "img/2008-june-chm3w/q4aii.jpg",
+      "markscheme": "img/2008-june-chm3w/ms/q4aii.png",
+      "figures": [],
+      "question": "4(a)(ii)",
+      "page": 8
+    },
+    {
+      "id": "2008-june-chm3w-q4b",
+      "paper": "2008-june-chm3w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "questionNumber": "4(b)",
+      "marks": 2,
+      "topics": [
+        "Haloalkanes",
+        "Nomenclature & Isomerism"
+      ],
+      "skills": [
+        "Knowledge & Recall",
+        "Application"
+      ],
+      "summary": "Identify reagent A (to form CH3CH2CN from bromoethane) and name compound B.",
+      "specRef": "3.3.3",
+      "image": "img/2008-june-chm3w/q4b.jpg",
+      "markscheme": "img/2008-june-chm3w/ms/q4b.png",
+      "figures": [
+        "img/2008-june-chm3w/fig-q4-scheme.jpg"
+      ],
+      "question": "4(b)",
+      "page": 9
+    },
+    {
+      "id": "2008-june-chm3w-q4ci",
+      "paper": "2008-june-chm3w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "questionNumber": "4(c)(i)",
+      "marks": 1,
+      "topics": [
+        "Haloalkanes"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State what is meant by the term nucleophile.",
+      "specRef": "3.3.3",
+      "image": "img/2008-june-chm3w/q4ci.jpg",
+      "markscheme": "img/2008-june-chm3w/ms/q4ci.png",
+      "figures": [],
+      "question": "4(c)(i)",
+      "page": 9
+    },
+    {
+      "id": "2008-june-chm3w-q4cii",
+      "paper": "2008-june-chm3w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "questionNumber": "4(c)(ii)",
+      "marks": 1,
+      "topics": [
+        "Haloalkanes"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Identify the nucleophile in the reaction of aqueous KOH with bromoethane.",
+      "specRef": "3.3.3",
+      "image": "img/2008-june-chm3w/q4cii.jpg",
+      "markscheme": "img/2008-june-chm3w/ms/q4cii.png",
+      "figures": [
+        "img/2008-june-chm3w/fig-q4-scheme.jpg"
+      ],
+      "question": "4(c)(ii)",
+      "page": 9
+    },
+    {
+      "id": "2008-june-chm3w-q5a",
+      "paper": "2008-june-chm3w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "questionNumber": "5(a)",
+      "marks": 1,
+      "topics": [
+        "Nomenclature & Isomerism",
+        "Alkenes"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Give the IUPAC name of compound Q, (CH3)2CHCH=CH2.",
+      "specRef": "3.3.1",
+      "image": "img/2008-june-chm3w/q5a.jpg",
+      "markscheme": "img/2008-june-chm3w/ms/q5a.png",
+      "figures": [
+        "img/2008-june-chm3w/fig-q5-conv.jpg"
+      ],
+      "question": "5(a)",
+      "page": 10
+    },
+    {
+      "id": "2008-june-chm3w-q5b",
+      "paper": "2008-june-chm3w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "questionNumber": "5(b)",
+      "marks": 4,
+      "topics": [
+        "Haloalkanes",
+        "Alkenes"
+      ],
+      "skills": [
+        "Mechanisms"
+      ],
+      "summary": "Name and outline the elimination mechanism for converting compound P into compound Q.",
+      "specRef": "3.3.3",
+      "image": "img/2008-june-chm3w/q5b.jpg",
+      "markscheme": "img/2008-june-chm3w/ms/q5b.png",
+      "figures": [
+        "img/2008-june-chm3w/fig-q5-conv.jpg"
+      ],
+      "question": "5(b)",
+      "page": 10
+    },
+    {
+      "id": "2008-june-chm3w-q5ci",
+      "paper": "2008-june-chm3w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "questionNumber": "5(c)(i)",
+      "marks": 1,
+      "topics": [
+        "Alkenes",
+        "Haloalkanes"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Identify compound R formed when Q reacts with HBr (a position isomer of P).",
+      "specRef": "3.3.4",
+      "image": "img/2008-june-chm3w/q5ci.jpg",
+      "markscheme": "img/2008-june-chm3w/ms/q5ci.png",
+      "figures": [
+        "img/2008-june-chm3w/fig-q5-conv.jpg"
+      ],
+      "question": "5(c)(i)",
+      "page": 11
+    },
+    {
+      "id": "2008-june-chm3w-q5cii",
+      "paper": "2008-june-chm3w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "questionNumber": "5(c)(ii)",
+      "marks": 1,
+      "topics": [
+        "Alkenes"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Name the type of mechanism for the conversion of alkene Q into bromoalkane R.",
+      "specRef": "3.3.4",
+      "image": "img/2008-june-chm3w/q5cii.jpg",
+      "markscheme": "img/2008-june-chm3w/ms/q5cii.png",
+      "figures": [
+        "img/2008-june-chm3w/fig-q5-conv.jpg"
+      ],
+      "question": "5(c)(ii)",
+      "page": 11
+    },
+    {
+      "id": "2008-june-chm3w-q5d",
+      "paper": "2008-june-chm3w",
+      "year": 2008,
+      "series": "June",
+      "unit": "CHM3/W",
+      "level": "AS",
+      "questionNumber": "5(d)",
+      "marks": 2,
+      "topics": [
+        "Nomenclature & Isomerism",
+        "Alkenes"
+      ],
+      "skills": [
+        "Application",
+        "Knowledge & Recall"
+      ],
+      "summary": "Draw an alkene isomer of Q showing stereoisomerism and state the type of stereoisomerism.",
+      "specRef": "3.3.1",
+      "image": "img/2008-june-chm3w/q5d.jpg",
+      "markscheme": "img/2008-june-chm3w/ms/q5d.png",
+      "figures": [
+        "img/2008-june-chm3w/fig-q5-conv.jpg"
+      ],
+      "question": "5(d)",
+      "page": 11
     }
   ]
 }
