@@ -2270,7 +2270,20 @@ function loadQuestionBank() {
       D.P = Object.fromEntries(d.papers.map(p => [p.id, p]));
       d.topics.forEach(t => T[t.id] = t);
       d.skills.forEach(s => S[s.id] = s);
-      d.questions.forEach((x, i) => x.i = i);
+      d.questions.forEach((x, i) => {
+        x.i = i;
+        if (!x.topics) {
+          x.topics = x.topic ? (Array.isArray(x.topic) ? x.topic : [x.topic]) : [];
+        } else if (!Array.isArray(x.topics)) {
+          x.topics = [x.topics];
+        }
+        if (!x.skills) {
+          x.skills = x.tags ? (Array.isArray(x.tags) ? x.tags : [x.tags]) : (x.skill ? [x.skill] : []);
+        } else if (!Array.isArray(x.skills)) {
+          x.skills = [x.skills];
+        }
+        if (!x.summary) x.summary = x.question_text || `Question ${x.question || ''}`;
+      });
       initApp();
     })
     .catch((err) => {
@@ -2434,17 +2447,19 @@ function filtered() {
   const query = state.q.toLowerCase();
   return D.questions.filter(x => {
     const p = D.P[x.paper] || {};
+    const topics = x.topics || [];
+    const skills = x.skills || [];
     if (state.pick && x.id !== state.pick) return false;
     if (state.level && (p.level || 'AS') !== state.level) return false;
-    if (state.topic && !x.topics.includes(state.topic)) return false;
-    if (state.skill && !x.skills.includes(state.skill)) return false;
+    if (state.topic && !topics.includes(state.topic)) return false;
+    if (state.skill && !skills.includes(state.skill)) return false;
     if (state.year && (p.year || 0) != state.year) return false;
     if (x.marks < state.min) return false;
     if (state.status === 'mastered' && !mastered.has(x.id)) return false;
     if (state.status === 'unmastered' && mastered.has(x.id)) return false;
     if (state.status === 'bookmarked' && !bookmarked.has(x.id)) return false;
     if (query) {
-      const blob = (x.summary + ' ' + x.question + ' ' + x.topics.map(t => T[t] ? T[t].name : '').join(' ') + ' ' + x.skills.map(s => S[s] ? S[s].name : '').join(' ')).toLowerCase();
+      const blob = ((x.summary || '') + ' ' + (x.question || '') + ' ' + topics.map(t => T[t] ? T[t].name : '').join(' ') + ' ' + skills.map(s => S[s] ? S[s].name : '').join(' ')).toLowerCase();
       if (!blob.includes(query)) return false;
     }
     return true;
@@ -2533,7 +2548,7 @@ function renderStrata() {
 
   for (const [g, ts] of Object.entries(groups)) {
     const rows = ts.map(t => {
-      const qs = D.questions.filter(x => x.topics.includes(t.id) && inLevel(x));
+      const qs = D.questions.filter(x => (x.topics || []).includes(t.id) && inLevel(x));
       if (!qs.length) return '';
       const marks = qs.reduce((n, x) => n + x.marks, 0);
       const masteredInTopic = qs.filter(x => mastered.has(x.id)).reduce((n, x) => n + x.marks, 0);
@@ -2588,8 +2603,10 @@ function renderCard(x) {
   const isBookmarked = bookmarked.has(x.id);
   const isSelected = selectedQuestions.has(x.id);
 
-  const tags = x.topics.map(t => `<a class="q-tag" href="#view=cards&topic=${t}">${esc(t)} ${esc(T[t] ? T[t].name : '')}</a>`).join('')
-    + x.skills.map(s => `<span class="q-tag">${esc(S[s] ? S[s].name : s)}</span>`).join('');
+  const topics = x.topics || [];
+  const skills = x.skills || [];
+  const tags = topics.map(t => `<a class="q-tag" href="#view=cards&topic=${t}">${esc(t)} ${esc(T[t] ? T[t].name : '')}</a>`).join('')
+    + skills.map(s => `<span class="q-tag">${esc(S[s] ? S[s].name : s)}</span>`).join('');
 
   return `
     <article class="q-card ${isSelected ? 'is-selected' : ''}" id="q-${x.id}">
@@ -2661,7 +2678,7 @@ function renderCard(x) {
       ` : ''}
 
       <div class="q-footer" style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px">
-        <a href="javascript:void(0)" class="btn-compare-link" onclick="openSheet('${x.topics[0]}')">Cheatsheet: ${esc(x.topics[0])} ${esc(T[x.topics[0]] ? T[x.topics[0]].name : '')}</a>
+        ${topics[0] ? `<a href="javascript:void(0)" class="btn-compare-link" onclick="openSheet('${topics[0]}')">Cheatsheet: ${esc(topics[0])} ${esc(T[topics[0]] ? T[topics[0]].name : '')}</a>` : '<span></span>'}
         <button type="button" class="btn-compare-link" onclick="openModal('${x.id}', 'split')">View side-by-side with mark scheme</button>
       </div>
     </article>
@@ -4261,8 +4278,8 @@ function generateWorksheet() {
   if (!D || !D.questions) return;
   let pool = D.questions.filter(q => {
     if (wsState.level && ((D.P[q.paper] || {}).level || 'AS') !== wsState.level) return false;
-    if (wsState.topic && !q.topics.includes(wsState.topic)) return false;
-    if (wsState.skill && !q.skills.includes(wsState.skill)) return false;
+    if (wsState.topic && !(q.topics || []).includes(wsState.topic)) return false;
+    if (wsState.skill && !(q.skills || []).includes(wsState.skill)) return false;
     return true;
   });
   if (!pool.length) pool = D.questions.slice();
@@ -4288,7 +4305,7 @@ function swapWorksheetQuestion(idx) {
   const pool = D.questions.filter(q => {
     if (currentIds.has(q.id)) return false;
     if (wsState.level && ((D.P[q.paper] || {}).level || 'AS') !== wsState.level) return false;
-    if (wsState.topic && !q.topics.includes(wsState.topic)) return false;
+    if (wsState.topic && !(q.topics || []).includes(wsState.topic)) return false;
     return true;
   });
   if (!pool.length) {
@@ -4324,7 +4341,7 @@ function addWorksheetQuestion() {
   const currentIds = new Set(wsState.questions.map(q => q.id));
   const pool = D.questions.filter(q => {
     if (currentIds.has(q.id)) return false;
-    if (wsState.topic && !q.topics.includes(wsState.topic)) return false;
+    if (wsState.topic && !(q.topics || []).includes(wsState.topic)) return false;
     return true;
   });
   if (!pool.length) {
