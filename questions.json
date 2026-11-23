@@ -1274,6 +1274,28 @@
       "date": "2009-01-20",
       "totalMarks": 90,
       "duration": "1 hour 30 minutes"
+    },
+    {
+      "id": "2009-jan-chem1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "title": "CHEM1 – Foundation Chemistry",
+      "date": "2009-01-09",
+      "totalMarks": 70,
+      "duration": "1 hour 15 minutes"
+    },
+    {
+      "id": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "title": "CHEM4 – Kinetics, Equilibria and Organic Chemistry (Specimen)",
+      "date": "2009-01-01",
+      "totalMarks": 100,
+      "duration": "1 hour 45 minutes"
     }
   ],
   "questions": [
@@ -52680,6 +52702,2103 @@
       "figures": [
         "img/2009-jan-chm4/fig-q6-table.jpg"
       ]
+    },
+    {
+      "id": "2009-jan-chem1-q1a",
+      "paper": "2009-jan-chem1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "1(a)",
+      "questionNumber": "1(a)",
+      "page": 2,
+      "marks": 2,
+      "topics": [
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Complete the table giving the relative charge and relative mass of a proton and a neutron.",
+      "specRef": "3.1.1",
+      "image": "img/2009-jan-chem1/q1a.jpg",
+      "markscheme": "img/2009-jan-chem1/ms/q1a.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chem1-q1b",
+      "paper": "2009-jan-chem1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "1(b)",
+      "questionNumber": "1(b)",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "Atomic Structure",
+        "Periodicity"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State the block in the Periodic Table to which tungsten, W, belongs.",
+      "specRef": "3.1.1",
+      "image": "img/2009-jan-chem1/q1b.jpg",
+      "markscheme": "img/2009-jan-chem1/ms/q1b.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chem1-q1ci",
+      "paper": "2009-jan-chem1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "1(c)(i)",
+      "questionNumber": "1(c)(i)",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Deduce the number of protons in 182W.",
+      "specRef": "3.1.1",
+      "image": "img/2009-jan-chem1/q1ci.jpg",
+      "markscheme": "img/2009-jan-chem1/ms/q1ci.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chem1-q1cii",
+      "paper": "2009-jan-chem1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "1(c)(ii)",
+      "questionNumber": "1(c)(ii)",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Deduce the number of neutrons in 186W.",
+      "specRef": "3.1.1",
+      "image": "img/2009-jan-chem1/q1cii.jpg",
+      "markscheme": "img/2009-jan-chem1/ms/q1cii.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chem1-q1di",
+      "paper": "2009-jan-chem1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "1(d)(i)",
+      "questionNumber": "1(d)(i)",
+      "page": 3,
+      "marks": 2,
+      "topics": [
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Give two reasons why a sample must be ionised in a mass spectrometer.",
+      "specRef": "3.1.1",
+      "image": "img/2009-jan-chem1/q1di.jpg",
+      "markscheme": "img/2009-jan-chem1/ms/q1di.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chem1-q1dii",
+      "paper": "2009-jan-chem1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "1(d)(ii)",
+      "questionNumber": "1(d)(ii)",
+      "page": 3,
+      "marks": 1,
+      "topics": [
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State what can be adjusted in the mass spectrometer to direct ions of different isotopes onto the detector.",
+      "specRef": "3.1.1",
+      "image": "img/2009-jan-chem1/q1dii.jpg",
+      "markscheme": "img/2009-jan-chem1/ms/q1dii.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chem1-q1e",
+      "paper": "2009-jan-chem1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "1(e)",
+      "questionNumber": "1(e)",
+      "page": 3,
+      "marks": 2,
+      "topics": [
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "State and explain the difference, if any, between the chemical properties of 182W and 186W.",
+      "specRef": "3.1.1",
+      "image": "img/2009-jan-chem1/q1e.jpg",
+      "markscheme": "img/2009-jan-chem1/ms/q1e.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chem1-q1f",
+      "paper": "2009-jan-chem1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "1(f)",
+      "questionNumber": "1(f)",
+      "page": 3,
+      "marks": 2,
+      "topics": [
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the relative atomic mass of the sample of tungsten to 2 decimal places.",
+      "specRef": "3.1.1",
+      "image": "img/2009-jan-chem1/q1f.jpg",
+      "markscheme": "img/2009-jan-chem1/ms/q1f.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chem1-q2a",
+      "paper": "2009-jan-chem1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "2(a)",
+      "questionNumber": "2(a)",
+      "page": 4,
+      "marks": 2,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State the meaning of the term electronegativity.",
+      "specRef": "3.1.3",
+      "image": "img/2009-jan-chem1/q2a.jpg",
+      "markscheme": "img/2009-jan-chem1/ms/q2a.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chem1-q2b",
+      "paper": "2009-jan-chem1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "2(b)",
+      "questionNumber": "2(b)",
+      "page": 4,
+      "marks": 2,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State the strongest type of intermolecular force in methane (CH4) and ammonia (NH3).",
+      "specRef": "3.1.3",
+      "image": "img/2009-jan-chem1/q2b.jpg",
+      "markscheme": "img/2009-jan-chem1/ms/q2b.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chem1-q2c",
+      "paper": "2009-jan-chem1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "2(c)",
+      "questionNumber": "2(c)",
+      "page": 4,
+      "marks": 3,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Use the electronegativity values in the table to explain how hydrogen bonding arises between two molecules of ammonia.",
+      "specRef": "3.1.3",
+      "image": "img/2009-jan-chem1/q2c.jpg",
+      "markscheme": "img/2009-jan-chem1/ms/q2c.png",
+      "figures": [
+        "img/2009-jan-chem1/fig-q2-table.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chem1-q2d",
+      "paper": "2009-jan-chem1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "2(d)",
+      "questionNumber": "2(d)",
+      "page": 4,
+      "marks": 3,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Knowledge & Recall",
+        "Explanation"
+      ],
+      "summary": "Name the type of bond formed when PH3 reacts with H+ to form PH4+ and explain how it is formed.",
+      "specRef": "3.1.3",
+      "image": "img/2009-jan-chem1/q2d.jpg",
+      "markscheme": "img/2009-jan-chem1/ms/q2d.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chem1-q2e",
+      "paper": "2009-jan-chem1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "2(e)",
+      "questionNumber": "2(e)",
+      "page": 5,
+      "marks": 2,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw the shape of an AsH3 molecule including any lone pairs of electrons, and name the shape.",
+      "specRef": "3.1.3",
+      "image": "img/2009-jan-chem1/q2e.jpg",
+      "markscheme": "img/2009-jan-chem1/ms/q2e.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chem1-q2f",
+      "paper": "2009-jan-chem1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "2(f)",
+      "questionNumber": "2(f)",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Suggest why the boiling point of AsH3 (-62.5 C) is lower than that of NH3 (-33.0 C).",
+      "specRef": "3.1.3",
+      "image": "img/2009-jan-chem1/q2f.jpg",
+      "markscheme": "img/2009-jan-chem1/ms/q2f.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chem1-q2g",
+      "paper": "2009-jan-chem1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "2(g)",
+      "questionNumber": "2(g)",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Balance the equation for the formation of AsH3 from AsCl3 and NaBH4.",
+      "specRef": "3.1.2",
+      "image": "img/2009-jan-chem1/q2g.jpg",
+      "markscheme": "img/2009-jan-chem1/ms/q2g.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chem1-q3ai",
+      "paper": "2009-jan-chem1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "3(a)(i)",
+      "questionNumber": "3(a)(i)",
+      "page": 6,
+      "marks": 2,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the percentage atom economy for the formation of TiO2 from TiCl4 and H2O.",
+      "specRef": "3.1.2",
+      "image": "img/2009-jan-chem1/q3ai.jpg",
+      "markscheme": "img/2009-jan-chem1/ms/q3ai.png",
+      "figures": [
+        "img/2009-jan-chem1/fig-q3-eqn.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chem1-q3aii",
+      "paper": "2009-jan-chem1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "3(a)(ii)",
+      "questionNumber": "3(a)(ii)",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Suggest how a company can maximise profits despite the low atom economy without changing conditions or costs.",
+      "specRef": "3.1.2",
+      "image": "img/2009-jan-chem1/q3aii.jpg",
+      "markscheme": "img/2009-jan-chem1/ms/q3aii.png",
+      "figures": [
+        "img/2009-jan-chem1/fig-q3-eqn.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chem1-q3bi",
+      "paper": "2009-jan-chem1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "3(b)(i)",
+      "questionNumber": "3(b)(i)",
+      "page": 6,
+      "marks": 2,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the amount, in moles, of TiCl4 in 165 g.",
+      "specRef": "3.1.2",
+      "image": "img/2009-jan-chem1/q3bi.jpg",
+      "markscheme": "img/2009-jan-chem1/ms/q3bi.png",
+      "figures": [
+        "img/2009-jan-chem1/fig-q3-eqn.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chem1-q3bii",
+      "paper": "2009-jan-chem1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "3(b)(ii)",
+      "questionNumber": "3(b)(ii)",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the maximum amount, in moles, of TiO2 which can be formed.",
+      "specRef": "3.1.2",
+      "image": "img/2009-jan-chem1/q3bii.jpg",
+      "markscheme": "img/2009-jan-chem1/ms/q3bii.png",
+      "figures": [
+        "img/2009-jan-chem1/fig-q3-eqn.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chem1-q3biii",
+      "paper": "2009-jan-chem1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "3(b)(iii)",
+      "questionNumber": "3(b)(iii)",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the maximum mass of TiO2 formed in this experiment.",
+      "specRef": "3.1.2",
+      "image": "img/2009-jan-chem1/q3biii.jpg",
+      "markscheme": "img/2009-jan-chem1/ms/q3biii.png",
+      "figures": [
+        "img/2009-jan-chem1/fig-q3-eqn.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chem1-q3biv",
+      "paper": "2009-jan-chem1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "3(b)(iv)",
+      "questionNumber": "3(b)(iv)",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the percentage yield of TiO2 when only 63.0 g were produced.",
+      "specRef": "3.1.2",
+      "image": "img/2009-jan-chem1/q3biv.jpg",
+      "markscheme": "img/2009-jan-chem1/ms/q3biv.png",
+      "figures": [
+        "img/2009-jan-chem1/fig-q3-eqn.jpg",
+        "img/2009-jan-chem1/fig-q3b-stem.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chem1-q4ai",
+      "paper": "2009-jan-chem1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "4(a)(i)",
+      "questionNumber": "4(a)(i)",
+      "page": 8,
+      "marks": 2,
+      "topics": [
+        "Atomic Structure",
+        "Periodicity"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Explain the meaning of the term first ionisation energy.",
+      "specRef": "3.1.1",
+      "image": "img/2009-jan-chem1/q4ai.jpg",
+      "markscheme": "img/2009-jan-chem1/ms/q4ai.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chem1-q4aii",
+      "paper": "2009-jan-chem1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "4(a)(ii)",
+      "questionNumber": "4(a)(ii)",
+      "page": 8,
+      "marks": 3,
+      "topics": [
+        "Periodicity",
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "State and explain the general trend in first ionisation energies for Period 3 elements Na to P.",
+      "specRef": "3.1.4",
+      "image": "img/2009-jan-chem1/q4aii.jpg",
+      "markscheme": "img/2009-jan-chem1/ms/q4aii.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chem1-q4aiii",
+      "paper": "2009-jan-chem1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "4(a)(iii)",
+      "questionNumber": "4(a)(iii)",
+      "page": 8,
+      "marks": 3,
+      "topics": [
+        "Periodicity",
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "State which element from Na to P deviates from the general trend in first ionisation energy and explain why.",
+      "specRef": "3.1.4",
+      "image": "img/2009-jan-chem1/q4aiii.jpg",
+      "markscheme": "img/2009-jan-chem1/ms/q4aiii.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chem1-q4b",
+      "paper": "2009-jan-chem1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "4(b)",
+      "questionNumber": "4(b)",
+      "page": 8,
+      "marks": 3,
+      "topics": [
+        "Periodicity",
+        "Bonding"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "State which element from Na to P has the highest melting point and explain your answer.",
+      "specRef": "3.1.4",
+      "image": "img/2009-jan-chem1/q4b.jpg",
+      "markscheme": "img/2009-jan-chem1/ms/q4b.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chem1-q5ai",
+      "paper": "2009-jan-chem1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "5(a)(i)",
+      "questionNumber": "5(a)(i)",
+      "page": 9,
+      "marks": 1,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the amount, in moles, of HCl (30.7 cm3 of 0.424 mol dm-3) which reacted with 0.548 g MCO3.",
+      "specRef": "3.1.2",
+      "image": "img/2009-jan-chem1/q5ai.jpg",
+      "markscheme": "img/2009-jan-chem1/ms/q5ai.png",
+      "figures": [
+        "img/2009-jan-chem1/fig-q5-stem.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chem1-q5aii",
+      "paper": "2009-jan-chem1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "5(a)(ii)",
+      "questionNumber": "5(a)(ii)",
+      "page": 9,
+      "marks": 1,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the amount, in moles, of MCO3 in 0.548 g.",
+      "specRef": "3.1.2",
+      "image": "img/2009-jan-chem1/q5aii.jpg",
+      "markscheme": "img/2009-jan-chem1/ms/q5aii.png",
+      "figures": [
+        "img/2009-jan-chem1/fig-q5-stem.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chem1-q5aiii",
+      "paper": "2009-jan-chem1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "5(a)(iii)",
+      "questionNumber": "5(a)(iii)",
+      "page": 9,
+      "marks": 1,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the relative formula mass of MCO3.",
+      "specRef": "3.1.2",
+      "image": "img/2009-jan-chem1/q5aiii.jpg",
+      "markscheme": "img/2009-jan-chem1/ms/q5aiii.png",
+      "figures": [
+        "img/2009-jan-chem1/fig-q5-stem.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chem1-q5b",
+      "paper": "2009-jan-chem1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "5(b)",
+      "questionNumber": "5(b)",
+      "page": 9,
+      "marks": 2,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Calculation",
+        "Application"
+      ],
+      "summary": "Deduce the relative atomic mass of metal M and suggest its identity.",
+      "specRef": "3.1.2",
+      "image": "img/2009-jan-chem1/q5b.jpg",
+      "markscheme": "img/2009-jan-chem1/ms/q5b.png",
+      "figures": [
+        "img/2009-jan-chem1/fig-q5-stem.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chem1-q6a",
+      "paper": "2009-jan-chem1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "6(a)",
+      "questionNumber": "6(a)",
+      "page": 10,
+      "marks": 3,
+      "topics": [
+        "Alkanes",
+        "Nomenclature & Isomerism"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State the meaning of saturated and hydrocarbon, and name the homologous series to which C8H18 belongs.",
+      "specRef": "3.1.6",
+      "image": "img/2009-jan-chem1/q6a.jpg",
+      "markscheme": "img/2009-jan-chem1/ms/q6a.png",
+      "figures": [
+        "img/2009-jan-chem1/fig-q6-stem.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chem1-q6b",
+      "paper": "2009-jan-chem1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "6(b)",
+      "questionNumber": "6(b)",
+      "page": 11,
+      "marks": 4,
+      "topics": [
+        "Alkanes"
+      ],
+      "skills": [
+        "Knowledge & Recall",
+        "Explanation"
+      ],
+      "summary": "Outline the essential features of the fractional distillation of crude oil.",
+      "specRef": "3.1.6",
+      "image": "img/2009-jan-chem1/q6b.jpg",
+      "markscheme": "img/2009-jan-chem1/ms/q6b.png",
+      "figures": [
+        "img/2009-jan-chem1/fig-q6-stem.jpg"
+      ]
+    },
+    {
+      "id": "2009-jan-chem1-q6c",
+      "paper": "2009-jan-chem1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "6(c)",
+      "questionNumber": "6(c)",
+      "page": 12,
+      "marks": 4,
+      "topics": [
+        "Alkanes"
+      ],
+      "skills": [
+        "Knowledge & Recall",
+        "Application"
+      ],
+      "summary": "Define cracking, name the catalyst in catalytic cracking, write an equation for cracking C14H30 into C8H18, and explain why heavy fractions are cracked.",
+      "specRef": "3.1.6",
+      "image": "img/2009-jan-chem1/q6c.jpg",
+      "markscheme": "img/2009-jan-chem1/ms/q6c.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chem1-q6d",
+      "paper": "2009-jan-chem1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "6(d)",
+      "questionNumber": "6(d)",
+      "page": 13,
+      "marks": 4,
+      "topics": [
+        "Alkanes"
+      ],
+      "skills": [
+        "Application",
+        "Knowledge & Recall"
+      ],
+      "summary": "Write equations for incomplete combustion of C8H18 and CO removal in a catalytic converter, identify a catalyst, and state why H2O contributes to global warming.",
+      "specRef": "3.1.6",
+      "image": "img/2009-jan-chem1/q6d.jpg",
+      "markscheme": "img/2009-jan-chem1/ms/q6d.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chem1-q6e",
+      "paper": "2009-jan-chem1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "6(e)",
+      "questionNumber": "6(e)",
+      "page": 14,
+      "marks": 2,
+      "topics": [
+        "Alkanes"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Suggest the effect of contaminated petrol on car performance and how the oil company might have recognised the problem before sale.",
+      "specRef": "3.1.6",
+      "image": "img/2009-jan-chem1/q6e.jpg",
+      "markscheme": "img/2009-jan-chem1/ms/q6e.png",
+      "figures": []
+    },
+    {
+      "id": "2009-jan-chem1-q6f",
+      "paper": "2009-jan-chem1",
+      "year": 2009,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "6(f)",
+      "questionNumber": "6(f)",
+      "page": 15,
+      "marks": 3,
+      "topics": [
+        "Nomenclature & Isomerism",
+        "Alkanes"
+      ],
+      "skills": [
+        "Knowledge & Recall",
+        "Application"
+      ],
+      "summary": "State what is meant by structural isomers and name the given structural isomer of C8H18.",
+      "specRef": "3.1.5",
+      "image": "img/2009-jan-chem1/q6f.jpg",
+      "markscheme": "img/2009-jan-chem1/ms/q6f.png",
+      "figures": []
+    },
+    {
+      "id": "2009-specimen-chem4-q1ai",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "1(a)(i)",
+      "questionNumber": "1(a)(i)",
+      "page": 3,
+      "marks": 1,
+      "topics": [
+        "Kinetics"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Deduce the order of reaction with respect to A from the experimental rate data.",
+      "specRef": "3.4.1",
+      "image": "img/2009-specimen-chem4/q1ai.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q1ai.png",
+      "figures": []
+    },
+    {
+      "id": "2009-specimen-chem4-q1aii",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "1(a)(ii)",
+      "questionNumber": "1(a)(ii)",
+      "page": 3,
+      "marks": 1,
+      "topics": [
+        "Kinetics"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Deduce the order of reaction with respect to B from the experimental rate data.",
+      "specRef": "3.4.1",
+      "image": "img/2009-specimen-chem4/q1aii.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q1aii.png",
+      "figures": []
+    },
+    {
+      "id": "2009-specimen-chem4-q1bi",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "1(b)(i)",
+      "questionNumber": "1(b)(i)",
+      "page": 4,
+      "marks": 3,
+      "topics": [
+        "Kinetics"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the rate constant k and state its units using Experiment 4 and rate = k[NO]2[O2].",
+      "specRef": "3.4.1",
+      "image": "img/2009-specimen-chem4/q1bi.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q1bi.png",
+      "figures": [
+        "img/2009-specimen-chem4/fig-q1b-table.jpg"
+      ]
+    },
+    {
+      "id": "2009-specimen-chem4-q1bii",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "1(b)(ii)",
+      "questionNumber": "1(b)(ii)",
+      "page": 4,
+      "marks": 1,
+      "topics": [
+        "Kinetics"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate a value for the initial rate in Experiment 5.",
+      "specRef": "3.4.1",
+      "image": "img/2009-specimen-chem4/q1bii.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q1bii.png",
+      "figures": [
+        "img/2009-specimen-chem4/fig-q1b-table.jpg"
+      ]
+    },
+    {
+      "id": "2009-specimen-chem4-q1biii",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "1(b)(iii)",
+      "questionNumber": "1(b)(iii)",
+      "page": 4,
+      "marks": 1,
+      "topics": [
+        "Kinetics"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Identify which step in the proposed two-step mechanism is the rate-determining step.",
+      "specRef": "3.4.1",
+      "image": "img/2009-specimen-chem4/q1biii.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q1biii.png",
+      "figures": []
+    },
+    {
+      "id": "2009-specimen-chem4-q2ai",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "2(a)(i)",
+      "questionNumber": "2(a)(i)",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "Equilibria"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Write an equation for the forward reaction given Kc = [C]2[D] / [E][F]3.",
+      "specRef": "3.4.2",
+      "image": "img/2009-specimen-chem4/q2ai.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q2ai.png",
+      "figures": []
+    },
+    {
+      "id": "2009-specimen-chem4-q2aii",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "2(a)(ii)",
+      "questionNumber": "2(a)(ii)",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "Equilibria"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Deduce the units of Kc = [C]2[D] / [E][F]3.",
+      "specRef": "3.4.2",
+      "image": "img/2009-specimen-chem4/q2aii.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q2aii.png",
+      "figures": []
+    },
+    {
+      "id": "2009-specimen-chem4-q2aiii",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "2(a)(iii)",
+      "questionNumber": "2(a)(iii)",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "Equilibria"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "State what can be deduced from Kc being larger at a lower temperature.",
+      "specRef": "3.4.2",
+      "image": "img/2009-specimen-chem4/q2aiii.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q2aiii.png",
+      "figures": []
+    },
+    {
+      "id": "2009-specimen-chem4-q2bi",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "2(b)(i)",
+      "questionNumber": "2(b)(i)",
+      "page": 5,
+      "marks": 2,
+      "topics": [
+        "Equilibria"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the equilibrium moles of iodine and hydrogen iodide from 0.218 mol HI and 0.023 mol H2.",
+      "specRef": "3.4.2",
+      "image": "img/2009-specimen-chem4/q2bi.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q2bi.png",
+      "figures": []
+    },
+    {
+      "id": "2009-specimen-chem4-q2bii",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "2(b)(ii)",
+      "questionNumber": "2(b)(ii)",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "Equilibria"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Write an expression for Kc for the equilibrium 2HI(g) <=> H2(g) + I2(g).",
+      "specRef": "3.4.2",
+      "image": "img/2009-specimen-chem4/q2bii.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q2bii.png",
+      "figures": []
+    },
+    {
+      "id": "2009-specimen-chem4-q2biii",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "2(b)(iii)",
+      "questionNumber": "2(b)(iii)",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "Equilibria"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "State why the volume of the flask need not be known when calculating Kc.",
+      "specRef": "3.4.2",
+      "image": "img/2009-specimen-chem4/q2biii.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q2biii.png",
+      "figures": [
+        "img/2009-specimen-chem4/fig-q2b-stem.jpg"
+      ]
+    },
+    {
+      "id": "2009-specimen-chem4-q2biv",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "2(b)(iv)",
+      "questionNumber": "2(b)(iv)",
+      "page": 6,
+      "marks": 2,
+      "topics": [
+        "Equilibria"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the value of Kc at 700 K for 2HI(g) <=> H2(g) + I2(g).",
+      "specRef": "3.4.2",
+      "image": "img/2009-specimen-chem4/q2biv.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q2biv.png",
+      "figures": [
+        "img/2009-specimen-chem4/fig-q2b-stem.jpg"
+      ]
+    },
+    {
+      "id": "2009-specimen-chem4-q2bv",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "2(b)(v)",
+      "questionNumber": "2(b)(v)",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "Equilibria"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the value of Kc at 700 K for the reverse equilibrium H2(g) + I2(g) <=> 2HI(g).",
+      "specRef": "3.4.2",
+      "image": "img/2009-specimen-chem4/q2bv.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q2bv.png",
+      "figures": []
+    },
+    {
+      "id": "2009-specimen-chem4-q3ai",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "3(a)(i)",
+      "questionNumber": "3(a)(i)",
+      "page": 7,
+      "marks": 3,
+      "topics": [
+        "Acids & Bases"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Match pH curves J, K, L, M to ammonia + HCl, ethanoic acid + NaOH, and NaOH + HCl.",
+      "specRef": "3.4.3",
+      "image": "img/2009-specimen-chem4/q3ai.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q3ai.png",
+      "figures": []
+    },
+    {
+      "id": "2009-specimen-chem4-q3aii",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "3(a)(ii)",
+      "questionNumber": "3(a)(ii)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "Acids & Bases"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Select an indicator from the table suitable for titration curve J but not curve K.",
+      "specRef": "3.4.3",
+      "image": "img/2009-specimen-chem4/q3aii.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q3aii.png",
+      "figures": [
+        "img/2009-specimen-chem4/fig-q3a-curves.jpg"
+      ]
+    },
+    {
+      "id": "2009-specimen-chem4-q3bi",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "3(b)(i)",
+      "questionNumber": "3(b)(i)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "Acids & Bases"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Write an expression for the term pH.",
+      "specRef": "3.4.3",
+      "image": "img/2009-specimen-chem4/q3bi.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q3bi.png",
+      "figures": []
+    },
+    {
+      "id": "2009-specimen-chem4-q3bii",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "3(b)(ii)",
+      "questionNumber": "3(b)(ii)",
+      "page": 8,
+      "marks": 3,
+      "topics": [
+        "Acids & Bases"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the pH of a 0.15 mol dm-3 solution of ethanoic acid (Ka = 1.74 x 10-5) to 2 decimal places.",
+      "specRef": "3.4.3",
+      "image": "img/2009-specimen-chem4/q3bii.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q3bii.png",
+      "figures": [
+        "img/2009-specimen-chem4/fig-q3b-stem.jpg"
+      ]
+    },
+    {
+      "id": "2009-specimen-chem4-q4ai",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "4(a)(i)",
+      "questionNumber": "4(a)(i)",
+      "page": 9,
+      "marks": 2,
+      "topics": [
+        "Acids & Bases"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Explain how the H2CO3 / HCO3- blood buffer maintains a constant pH when a small amount of acid enters.",
+      "specRef": "3.4.3",
+      "image": "img/2009-specimen-chem4/q4ai.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q4ai.png",
+      "figures": []
+    },
+    {
+      "id": "2009-specimen-chem4-q4aii",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "4(a)(ii)",
+      "questionNumber": "4(a)(ii)",
+      "page": 9,
+      "marks": 3,
+      "topics": [
+        "Acids & Bases"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate Ka for carbonic acid in blood at pH 7.41 with [HCO3-] = 2.50 x 10-2 and [H2CO3] = 1.25 x 10-3 mol dm-3.",
+      "specRef": "3.4.3",
+      "image": "img/2009-specimen-chem4/q4aii.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q4aii.png",
+      "figures": []
+    },
+    {
+      "id": "2009-specimen-chem4-q4bi",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "4(b)(i)",
+      "questionNumber": "4(b)(i)",
+      "page": 9,
+      "marks": 1,
+      "topics": [
+        "Amount of Substance",
+        "Acids & Bases"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the number of moles of HCl in 10.0 cm3 of 1.00 mol dm-3 hydrochloric acid.",
+      "specRef": "3.4.3",
+      "image": "img/2009-specimen-chem4/q4bi.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q4bi.png",
+      "figures": []
+    },
+    {
+      "id": "2009-specimen-chem4-q4bii",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "4(b)(ii)",
+      "questionNumber": "4(b)(ii)",
+      "page": 10,
+      "marks": 2,
+      "topics": [
+        "Acids & Bases"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the moles of ethanoic acid and sodium ethanoate in the buffer after adding the HCl.",
+      "specRef": "3.4.3",
+      "image": "img/2009-specimen-chem4/q4bii.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q4bii.png",
+      "figures": [
+        "img/2009-specimen-chem4/fig-q4b-stem.jpg"
+      ]
+    },
+    {
+      "id": "2009-specimen-chem4-q4biii",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "4(b)(iii)",
+      "questionNumber": "4(b)(iii)",
+      "page": 10,
+      "marks": 3,
+      "topics": [
+        "Acids & Bases"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the pH of the new buffer solution to 2 decimal places.",
+      "specRef": "3.4.3",
+      "image": "img/2009-specimen-chem4/q4biii.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q4biii.png",
+      "figures": [
+        "img/2009-specimen-chem4/fig-q4b-stem.jpg"
+      ]
+    },
+    {
+      "id": "2009-specimen-chem4-q5ai",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "5(a)(i)",
+      "questionNumber": "5(a)(i)",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "Amino Acids & Polymers"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw the structure of the given amino acid species present in a solution at pH 12.",
+      "specRef": "3.4.10",
+      "image": "img/2009-specimen-chem4/q5ai.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q5ai.png",
+      "figures": []
+    },
+    {
+      "id": "2009-specimen-chem4-q5aii",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "5(a)(ii)",
+      "questionNumber": "5(a)(ii)",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "Amino Acids & Polymers"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Deduce and sketch the structure of the dipeptide formed from two molecules of the given amino acid.",
+      "specRef": "3.4.10",
+      "image": "img/2009-specimen-chem4/q5aii.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q5aii.png",
+      "figures": [
+        "img/2009-specimen-chem4/fig-q5a-aa.jpg"
+      ]
+    },
+    {
+      "id": "2009-specimen-chem4-q5aiii",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "5(a)(iii)",
+      "questionNumber": "5(a)(iii)",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "Amino Acids & Polymers",
+        "Bonding"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Name the type of interaction responsible for holding a protein chain in the shape of a helix.",
+      "specRef": "3.4.10",
+      "image": "img/2009-specimen-chem4/q5aiii.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q5aiii.png",
+      "figures": []
+    },
+    {
+      "id": "2009-specimen-chem4-q5bi",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "5(b)(i)",
+      "questionNumber": "5(b)(i)",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "Amino Acids & Polymers",
+        "Alkenes"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw the repeating unit of the addition polymer formed from (CH3)2C=CHCH3.",
+      "specRef": "3.4.10",
+      "image": "img/2009-specimen-chem4/q5bi.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q5bi.png",
+      "figures": []
+    },
+    {
+      "id": "2009-specimen-chem4-q5bii",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "5(b)(ii)",
+      "questionNumber": "5(b)(ii)",
+      "page": 12,
+      "marks": 1,
+      "topics": [
+        "Alkenes",
+        "Nomenclature & Isomerism"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw the structure of an isomer of G ((CH3)2C=CHCH3) which shows E-Z isomerism.",
+      "specRef": "3.4.5",
+      "image": "img/2009-specimen-chem4/q5bii.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q5bii.png",
+      "figures": [
+        "img/2009-specimen-chem4/fig-q5b-g.jpg"
+      ]
+    },
+    {
+      "id": "2009-specimen-chem4-q5biii",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "5(b)(iii)",
+      "questionNumber": "5(b)(iii)",
+      "page": 12,
+      "marks": 1,
+      "topics": [
+        "Alkenes",
+        "Nomenclature & Isomerism"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw the structure of an isomer of G ((CH3)2C=CHCH3) which does not react with bromine water.",
+      "specRef": "3.4.5",
+      "image": "img/2009-specimen-chem4/q5biii.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q5biii.png",
+      "figures": [
+        "img/2009-specimen-chem4/fig-q5b-g.jpg"
+      ]
+    },
+    {
+      "id": "2009-specimen-chem4-q5c",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "5(c)",
+      "questionNumber": "5(c)",
+      "page": 12,
+      "marks": 2,
+      "topics": [
+        "Amino Acids & Polymers"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw the repeating unit of the polymer formed from butanedioic acid and hexane-1,6-diamine.",
+      "specRef": "3.4.10",
+      "image": "img/2009-specimen-chem4/q5c.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q5c.png",
+      "figures": []
+    },
+    {
+      "id": "2009-specimen-chem4-q5di",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "5(d)(i)",
+      "questionNumber": "5(d)(i)",
+      "page": 12,
+      "marks": 3,
+      "topics": [
+        "Amino Acids & Polymers"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Describe an experiment to compare the biodegradability of the polyalkene and polyamide objects.",
+      "specRef": "3.4.10",
+      "image": "img/2009-specimen-chem4/q5di.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q5di.png",
+      "figures": []
+    },
+    {
+      "id": "2009-specimen-chem4-q5dii",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "5(d)(ii)",
+      "questionNumber": "5(d)(ii)",
+      "page": 13,
+      "marks": 3,
+      "topics": [
+        "Amino Acids & Polymers"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Describe an advantage or disadvantage of a different method of polymer disposal compared with landfill.",
+      "specRef": "3.4.10",
+      "image": "img/2009-specimen-chem4/q5dii.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q5dii.png",
+      "figures": []
+    },
+    {
+      "id": "2009-specimen-chem4-q6a",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "6(a)",
+      "questionNumber": "6(a)",
+      "page": 15,
+      "marks": 1,
+      "topics": [
+        "Analytical Techniques"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Suggest how to obtain a sample of Q from a mixture of volatile liquids.",
+      "specRef": "3.4.12",
+      "image": "img/2009-specimen-chem4/q6a.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q6a.png",
+      "figures": []
+    },
+    {
+      "id": "2009-specimen-chem4-q6b",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "6(b)",
+      "questionNumber": "6(b)",
+      "page": 15,
+      "marks": 1,
+      "topics": [
+        "Analytical Techniques"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Identify the bond causing the major IR absorption at 1724 cm-1 in compound Q.",
+      "specRef": "3.4.12",
+      "image": "img/2009-specimen-chem4/q6b.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q6b.png",
+      "figures": []
+    },
+    {
+      "id": "2009-specimen-chem4-q6ci",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "6(c)(i)",
+      "questionNumber": "6(c)(i)",
+      "page": 15,
+      "marks": 1,
+      "topics": [
+        "Analytical Techniques",
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Suggest why the mass spectrum of Q (C4H7ClO) contains two molecular ion peaks at m/z = 106 and 108.",
+      "specRef": "3.4.12",
+      "image": "img/2009-specimen-chem4/q6ci.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q6ci.png",
+      "figures": []
+    },
+    {
+      "id": "2009-specimen-chem4-q6cii",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "6(c)(ii)",
+      "questionNumber": "6(c)(ii)",
+      "page": 15,
+      "marks": 2,
+      "topics": [
+        "Analytical Techniques"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Identify the fragment ion at m/z = 43 containing three elements and write an equation for its formation from Q.",
+      "specRef": "3.4.12",
+      "image": "img/2009-specimen-chem4/q6cii.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q6cii.png",
+      "figures": []
+    },
+    {
+      "id": "2009-specimen-chem4-q6di",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "6(d)(i)",
+      "questionNumber": "6(d)(i)",
+      "page": 15,
+      "marks": 1,
+      "topics": [
+        "Analytical Techniques"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Suggest a suitable solvent for recording the proton NMR spectrum of Q.",
+      "specRef": "3.4.12",
+      "image": "img/2009-specimen-chem4/q6di.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q6di.png",
+      "figures": []
+    },
+    {
+      "id": "2009-specimen-chem4-q6dii",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "6(d)(ii)",
+      "questionNumber": "6(d)(ii)",
+      "page": 15,
+      "marks": 1,
+      "topics": [
+        "Analytical Techniques"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Give the formula of the standard reference compound used in proton NMR spectroscopy.",
+      "specRef": "3.4.12",
+      "image": "img/2009-specimen-chem4/q6dii.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q6dii.png",
+      "figures": []
+    },
+    {
+      "id": "2009-specimen-chem4-q6e",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "6(e)",
+      "questionNumber": "6(e)",
+      "page": 16,
+      "marks": 1,
+      "topics": [
+        "Analytical Techniques"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Complete the 1H NMR table with the number of adjacent non-equivalent protons for Peak 2 (singlet) and Peak 3 (quartet).",
+      "specRef": "3.4.12",
+      "image": "img/2009-specimen-chem4/q6e.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q6e.png",
+      "figures": []
+    },
+    {
+      "id": "2009-specimen-chem4-q6f",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "6(f)",
+      "questionNumber": "6(f)",
+      "page": 16,
+      "marks": 1,
+      "topics": [
+        "Analytical Techniques",
+        "Carbonyls & Carboxylic Acids"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Deduce the structure of compound Q (C4H7ClO).",
+      "specRef": "3.4.12",
+      "image": "img/2009-specimen-chem4/q6f.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q6f.png",
+      "figures": [
+        "img/2009-specimen-chem4/fig-q6-stem.jpg",
+        "img/2009-specimen-chem4/fig-q6e-table.jpg"
+      ]
+    },
+    {
+      "id": "2009-specimen-chem4-q6g",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "6(g)",
+      "questionNumber": "6(g)",
+      "page": 16,
+      "marks": 1,
+      "topics": [
+        "Carbonyls & Carboxylic Acids"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Suggest a structure for a structural isomer of Q that reacts with cold water to produce misty fumes.",
+      "specRef": "3.4.7",
+      "image": "img/2009-specimen-chem4/q6g.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q6g.png",
+      "figures": [
+        "img/2009-specimen-chem4/fig-q6-stem.jpg"
+      ]
+    },
+    {
+      "id": "2009-specimen-chem4-q7a",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "7(a)",
+      "questionNumber": "7(a)",
+      "page": 17,
+      "marks": 1,
+      "topics": [
+        "Analytical Techniques"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Explain why there are three peaks in the 13C NMR spectrum of cyclohexan-1,2-diol.",
+      "specRef": "3.4.12",
+      "image": "img/2009-specimen-chem4/q7a.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q7a.png",
+      "figures": []
+    },
+    {
+      "id": "2009-specimen-chem4-q7aii",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "7(a)(ii)",
+      "questionNumber": "7(a)(ii)",
+      "page": 18,
+      "marks": 1,
+      "topics": [
+        "Analytical Techniques"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Suggest the delta value of the 13C NMR peak corresponding to carbon atom 1 in cyclohexan-1,2-diol.",
+      "specRef": "3.4.12",
+      "image": "img/2009-specimen-chem4/q7aii.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q7aii.png",
+      "figures": [
+        "img/2009-specimen-chem4/fig-q7-nmr.jpg"
+      ]
+    },
+    {
+      "id": "2009-specimen-chem4-q7bi",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "7(b)(i)",
+      "questionNumber": "7(b)(i)",
+      "page": 18,
+      "marks": 1,
+      "topics": [
+        "Analytical Techniques"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Predict the number of peaks in the 13C NMR spectrum of cyclohexan-1,3-diol.",
+      "specRef": "3.4.12",
+      "image": "img/2009-specimen-chem4/q7bi.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q7bi.png",
+      "figures": [
+        "img/2009-specimen-chem4/fig-q7-structs.jpg"
+      ]
+    },
+    {
+      "id": "2009-specimen-chem4-q7bii",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "7(b)(ii)",
+      "questionNumber": "7(b)(ii)",
+      "page": 18,
+      "marks": 1,
+      "topics": [
+        "Analytical Techniques"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Predict the number of peaks in the 13C NMR spectrum of cyclohexan-1,4-diol.",
+      "specRef": "3.4.12",
+      "image": "img/2009-specimen-chem4/q7bii.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q7bii.png",
+      "figures": [
+        "img/2009-specimen-chem4/fig-q7-structs.jpg"
+      ]
+    },
+    {
+      "id": "2009-specimen-chem4-q7c",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "7(c)",
+      "questionNumber": "7(c)",
+      "page": 18,
+      "marks": 1,
+      "topics": [
+        "Nomenclature & Isomerism"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Suggest why the cyclic diol structures drawn represent several stereoisomers.",
+      "specRef": "3.4.5",
+      "image": "img/2009-specimen-chem4/q7c.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q7c.png",
+      "figures": [
+        "img/2009-specimen-chem4/fig-q7-structs.jpg"
+      ]
+    },
+    {
+      "id": "2009-specimen-chem4-q8ai",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "8(a)(i)",
+      "questionNumber": "8(a)(i)",
+      "page": 19,
+      "marks": 3,
+      "topics": [
+        "Amount of Substance",
+        "Aromatic Chemistry"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the % atom economy for the production of N-phenylethanamide (Mr = 135.0) in Step 1.",
+      "specRef": "3.1.2",
+      "image": "img/2009-specimen-chem4/q8ai.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q8ai.png",
+      "figures": [
+        "img/2009-specimen-chem4/fig-q8-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2009-specimen-chem4-q8aii",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "8(a)(ii)",
+      "questionNumber": "8(a)(ii)",
+      "page": 19,
+      "marks": 2,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the percentage yield of N-phenylethanamide when 10.0 kg phenylamine gives 5.38 kg product.",
+      "specRef": "3.1.2",
+      "image": "img/2009-specimen-chem4/q8aii.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q8aii.png",
+      "figures": []
+    },
+    {
+      "id": "2009-specimen-chem4-q8aiii",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "8(a)(iii)",
+      "questionNumber": "8(a)(iii)",
+      "page": 19,
+      "marks": 2,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Comment on the % atom economy and % yield with reference to the commercial viability of the process.",
+      "specRef": "3.1.2",
+      "image": "img/2009-specimen-chem4/q8aiii.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q8aiii.png",
+      "figures": []
+    },
+    {
+      "id": "2009-specimen-chem4-q8b",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "8(b)",
+      "questionNumber": "8(b)",
+      "page": 19,
+      "marks": 5,
+      "topics": [
+        "Carbonyls & Carboxylic Acids",
+        "Reaction Mechanisms"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Name and outline a mechanism for Step 1 (reaction of phenylamine with ethanoyl chloride).",
+      "specRef": "3.4.7",
+      "image": "img/2009-specimen-chem4/q8b.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q8b.png",
+      "figures": [
+        "img/2009-specimen-chem4/fig-q8-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2009-specimen-chem4-q8c",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "8(c)",
+      "questionNumber": "8(c)",
+      "page": 19,
+      "marks": 4,
+      "topics": [
+        "Aromatic Chemistry",
+        "Reaction Mechanisms"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Write an equation for the formation of the electrophile in Step 2 (nitration) and outline its reaction with benzene.",
+      "specRef": "3.4.8",
+      "image": "img/2009-specimen-chem4/q8c.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q8c.png",
+      "figures": [
+        "img/2009-specimen-chem4/fig-q8-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2009-specimen-chem4-q9",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "9",
+      "questionNumber": "9",
+      "page": 20,
+      "marks": 9,
+      "topics": [
+        "Amines",
+        "Organic Synthesis",
+        "Reaction Mechanisms"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Identify H and S, give reagents/conditions for Steps 1 and 2, classify W, and draw the solid product + mechanism with excess CH3Br.",
+      "specRef": "3.4.9",
+      "image": "img/2009-specimen-chem4/q9.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q9.png",
+      "figures": []
+    },
+    {
+      "id": "2009-specimen-chem4-q10",
+      "paper": "2009-specimen-chem4",
+      "year": 2009,
+      "series": "Specimen",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "10",
+      "questionNumber": "10",
+      "page": 20,
+      "marks": 10,
+      "topics": [
+        "Alcohols",
+        "Carbonyls & Carboxylic Acids",
+        "Alkenes",
+        "Haloalkanes"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Suggest a series of test-tube reactions with reagents and observations to identify propan-2-ol, propanal, hexene and 1-bromopropane.",
+      "specRef": "3.4.11",
+      "image": "img/2009-specimen-chem4/q10.jpg",
+      "markscheme": "img/2009-specimen-chem4/ms/q10.png",
+      "figures": []
     }
   ]
 }
