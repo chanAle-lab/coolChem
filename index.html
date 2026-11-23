@@ -1849,7 +1849,17 @@ footer {
 const $ = s => document.querySelector(s);
 const $$ = s => document.querySelectorAll(s);
 const esc = s => String(s || '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-const imgSrc = u => u ? (esc(u) + (u.includes("?") ? "&" : "?") + "v=20261123") : "";
+const imgSrc = u => {
+  if (!u) return '';
+  if (typeof u === 'object') {
+    if (Array.isArray(u)) u = u[0] || '';
+    else if (u.image) u = u.image;
+    else if (u.src) u = u.src;
+    else u = '';
+  }
+  if (typeof u !== 'string' || !u) return '';
+  return esc(u) + (u.includes('?') ? '&' : '?') + 'v=20261123';
+};
 
 /* ========================================================
    Password Gate (Passcode: "chemistry")
