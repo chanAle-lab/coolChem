@@ -1296,6 +1296,17 @@
       "date": "2009-01-01",
       "totalMarks": 100,
       "duration": "1 hour 45 minutes"
+    },
+    {
+      "id": "2009-june-chm4",
+      "year": 2009,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "title": "CHM4 – Further Physical and Organic Chemistry (Section A)",
+      "date": "2009-06-11",
+      "totalMarks": 90,
+      "duration": "1 hour 30 minutes"
     }
   ],
   "questions": [
@@ -54799,6 +54810,653 @@
       "image": "img/2009-specimen-chem4/q10.jpg",
       "markscheme": "img/2009-specimen-chem4/ms/q10.png",
       "figures": []
+    },
+    {
+      "id": "2009-june-chm4-q1ai",
+      "paper": "2009-june-chm4",
+      "year": 2009,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "1(a)(i)",
+      "questionNumber": "1(a)(i)",
+      "page": 2,
+      "marks": 3,
+      "topics": [
+        "Kinetics"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Complete the rate data table for the reaction between P and Q (rate = k[P][Q]2).",
+      "specRef": "3.4.1",
+      "image": "img/2009-june-chm4/q1ai.jpg",
+      "markscheme": "img/2009-june-chm4/ms/q1ai.png",
+      "figures": []
+    },
+    {
+      "id": "2009-june-chm4-q1aii",
+      "paper": "2009-june-chm4",
+      "year": 2009,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "1(a)(ii)",
+      "questionNumber": "1(a)(ii)",
+      "page": 2,
+      "marks": 3,
+      "topics": [
+        "Kinetics"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the rate constant k from Experiment 1 and state its units.",
+      "specRef": "3.4.1",
+      "image": "img/2009-june-chm4/q1aii.jpg",
+      "markscheme": "img/2009-june-chm4/ms/q1aii.png",
+      "figures": [
+        "img/2009-june-chm4/fig-q1a-table.jpg"
+      ]
+    },
+    {
+      "id": "2009-june-chm4-q1b",
+      "paper": "2009-june-chm4",
+      "year": 2009,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "1(b)",
+      "questionNumber": "1(b)",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "Kinetics"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Sketch the relationship between initial rate and initial [R] for a zero-order reaction.",
+      "specRef": "3.4.1",
+      "image": "img/2009-june-chm4/q1b.jpg",
+      "markscheme": "img/2009-june-chm4/ms/q1b.png",
+      "figures": []
+    },
+    {
+      "id": "2009-june-chm4-q2a",
+      "paper": "2009-june-chm4",
+      "year": 2009,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "2(a)",
+      "questionNumber": "2(a)",
+      "page": 6,
+      "marks": 3,
+      "topics": [
+        "Equilibria"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the mole fraction of NO2 in the equilibrium mixture formed from 1.20 mol N2O4 containing 0.36 mol NO2.",
+      "specRef": "3.4.2",
+      "image": "img/2009-june-chm4/q2a.jpg",
+      "markscheme": "img/2009-june-chm4/ms/q2a.png",
+      "figures": []
+    },
+    {
+      "id": "2009-june-chm4-q2bi",
+      "paper": "2009-june-chm4",
+      "year": 2009,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "2(b)(i)",
+      "questionNumber": "2(b)(i)",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "Equilibria"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Write a general expression relating partial pressure of a gas to its mole fraction.",
+      "specRef": "3.4.2",
+      "image": "img/2009-june-chm4/q2bi.jpg",
+      "markscheme": "img/2009-june-chm4/ms/q2bi.png",
+      "figures": []
+    },
+    {
+      "id": "2009-june-chm4-q2bii",
+      "paper": "2009-june-chm4",
+      "year": 2009,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "2(b)(ii)",
+      "questionNumber": "2(b)(ii)",
+      "page": 6,
+      "marks": 2,
+      "topics": [
+        "Equilibria"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the partial pressures of NO2 and N2O4 when x(NO2) = 0.28 at 180 kPa total pressure.",
+      "specRef": "3.4.2",
+      "image": "img/2009-june-chm4/q2bii.jpg",
+      "markscheme": "img/2009-june-chm4/ms/q2bii.png",
+      "figures": []
+    },
+    {
+      "id": "2009-june-chm4-q2ci",
+      "paper": "2009-june-chm4",
+      "year": 2009,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "2(c)(i)",
+      "questionNumber": "2(c)(i)",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "Equilibria"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Write an expression for Kp for the equilibrium N2O4(g) <=> 2NO2(g).",
+      "specRef": "3.4.2",
+      "image": "img/2009-june-chm4/q2ci.jpg",
+      "markscheme": "img/2009-june-chm4/ms/q2ci.png",
+      "figures": [
+        "img/2009-june-chm4/fig-q2-eqn.jpg"
+      ]
+    },
+    {
+      "id": "2009-june-chm4-q2cii",
+      "paper": "2009-june-chm4",
+      "year": 2009,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "2(c)(ii)",
+      "questionNumber": "2(c)(ii)",
+      "page": 7,
+      "marks": 3,
+      "topics": [
+        "Equilibria"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate Kp and give its units when p(NO2) = 49.6 kPa and p(N2O4) = 132.0 kPa.",
+      "specRef": "3.4.2",
+      "image": "img/2009-june-chm4/q2cii.jpg",
+      "markscheme": "img/2009-june-chm4/ms/q2cii.png",
+      "figures": [
+        "img/2009-june-chm4/fig-q2-eqn.jpg"
+      ]
+    },
+    {
+      "id": "2009-june-chm4-q3ai",
+      "paper": "2009-june-chm4",
+      "year": 2009,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "3(a)(i)",
+      "questionNumber": "3(a)(i)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "Acids & Bases"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Write an expression for the term pH.",
+      "specRef": "3.4.3",
+      "image": "img/2009-june-chm4/q3ai.jpg",
+      "markscheme": "img/2009-june-chm4/ms/q3ai.png",
+      "figures": []
+    },
+    {
+      "id": "2009-june-chm4-q3aii",
+      "paper": "2009-june-chm4",
+      "year": 2009,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "3(a)(ii)",
+      "questionNumber": "3(a)(ii)",
+      "page": 8,
+      "marks": 2,
+      "topics": [
+        "Acids & Bases"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the pH of the solution formed when 5.0 cm3 of 0.135 mol dm-3 HCl is added to 995 cm3 of water.",
+      "specRef": "3.4.3",
+      "image": "img/2009-june-chm4/q3aii.jpg",
+      "markscheme": "img/2009-june-chm4/ms/q3aii.png",
+      "figures": []
+    },
+    {
+      "id": "2009-june-chm4-q3bi",
+      "paper": "2009-june-chm4",
+      "year": 2009,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "3(b)(i)",
+      "questionNumber": "3(b)(i)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "Acids & Bases"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Write an expression for Ka for 2-chloropropanoic acid (CH3CHClCOOH).",
+      "specRef": "3.4.3",
+      "image": "img/2009-june-chm4/q3bi.jpg",
+      "markscheme": "img/2009-june-chm4/ms/q3bi.png",
+      "figures": []
+    },
+    {
+      "id": "2009-june-chm4-q3bii",
+      "paper": "2009-june-chm4",
+      "year": 2009,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "3(b)(ii)",
+      "questionNumber": "3(b)(ii)",
+      "page": 8,
+      "marks": 3,
+      "topics": [
+        "Acids & Bases"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the pH of a 0.350 mol dm-3 solution of 2-chloropropanoic acid (Ka = 1.48 x 10-3).",
+      "specRef": "3.4.3",
+      "image": "img/2009-june-chm4/q3bii.jpg",
+      "markscheme": "img/2009-june-chm4/ms/q3bii.png",
+      "figures": [
+        "img/2009-june-chm4/fig-q3b-stem.jpg"
+      ]
+    },
+    {
+      "id": "2009-june-chm4-q3c",
+      "paper": "2009-june-chm4",
+      "year": 2009,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "3(c)",
+      "questionNumber": "3(c)",
+      "page": 9,
+      "marks": 3,
+      "topics": [
+        "Acids & Bases",
+        "Equilibria"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Predict and explain how the pH of 2-chloropropanoic acid changes when temperature is increased.",
+      "specRef": "3.4.3",
+      "image": "img/2009-june-chm4/q3c.jpg",
+      "markscheme": "img/2009-june-chm4/ms/q3c.png",
+      "figures": []
+    },
+    {
+      "id": "2009-june-chm4-q3d",
+      "paper": "2009-june-chm4",
+      "year": 2009,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "3(d)",
+      "questionNumber": "3(d)",
+      "page": 9,
+      "marks": 3,
+      "topics": [
+        "Nomenclature & Isomerism"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Name the type of stereoisomerism shown by 2-chloropropanoic acid and state how to distinguish its stereoisomers.",
+      "specRef": "3.4.5",
+      "image": "img/2009-june-chm4/q3d.jpg",
+      "markscheme": "img/2009-june-chm4/ms/q3d.png",
+      "figures": []
+    },
+    {
+      "id": "2009-june-chm4-q3e",
+      "paper": "2009-june-chm4",
+      "year": 2009,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "3(e)",
+      "questionNumber": "3(e)",
+      "page": 9,
+      "marks": 3,
+      "topics": [
+        "Acids & Bases"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate Ka for propanoic acid in a buffer of pH 4.69 containing 0.15 mol propanoic acid and 0.10 mol sodium propanoate.",
+      "specRef": "3.4.3",
+      "image": "img/2009-june-chm4/q3e.jpg",
+      "markscheme": "img/2009-june-chm4/ms/q3e.png",
+      "figures": []
+    },
+    {
+      "id": "2009-june-chm4-q4ai",
+      "paper": "2009-june-chm4",
+      "year": 2009,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "4(a)(i)",
+      "questionNumber": "4(a)(i)",
+      "page": 10,
+      "marks": 1,
+      "topics": [
+        "Acids & Bases"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Give the meaning of the term Bronsted-Lowry base.",
+      "specRef": "3.4.3",
+      "image": "img/2009-june-chm4/q4ai.jpg",
+      "markscheme": "img/2009-june-chm4/ms/q4ai.png",
+      "figures": []
+    },
+    {
+      "id": "2009-june-chm4-q4aii",
+      "paper": "2009-june-chm4",
+      "year": 2009,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "4(a)(ii)",
+      "questionNumber": "4(a)(ii)",
+      "page": 10,
+      "marks": 3,
+      "topics": [
+        "Amines",
+        "Acids & Bases"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "State and explain which of ammonia and butylamine is the stronger base.",
+      "specRef": "3.4.9",
+      "image": "img/2009-june-chm4/q4aii.jpg",
+      "markscheme": "img/2009-june-chm4/ms/q4aii.png",
+      "figures": []
+    },
+    {
+      "id": "2009-june-chm4-q4b",
+      "paper": "2009-june-chm4",
+      "year": 2009,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "4(b)",
+      "questionNumber": "4(b)",
+      "page": 10,
+      "marks": 1,
+      "topics": [
+        "Amines",
+        "Nomenclature & Isomerism"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw the structure of the tertiary amine which is an isomer of butylamine.",
+      "specRef": "3.4.9",
+      "image": "img/2009-june-chm4/q4b.jpg",
+      "markscheme": "img/2009-june-chm4/ms/q4b.png",
+      "figures": []
+    },
+    {
+      "id": "2009-june-chm4-q4ci",
+      "paper": "2009-june-chm4",
+      "year": 2009,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "4(c)(i)",
+      "questionNumber": "4(c)(i)",
+      "page": 10,
+      "marks": 1,
+      "topics": [
+        "Amines"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw the structure of the species formed when CH3(CH2)17NH2 reacts with excess CH3Br.",
+      "specRef": "3.4.9",
+      "image": "img/2009-june-chm4/q4ci.jpg",
+      "markscheme": "img/2009-june-chm4/ms/q4ci.png",
+      "figures": []
+    },
+    {
+      "id": "2009-june-chm4-q4cii",
+      "paper": "2009-june-chm4",
+      "year": 2009,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "4(c)(ii)",
+      "questionNumber": "4(c)(ii)",
+      "page": 10,
+      "marks": 2,
+      "topics": [
+        "Amines"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Name the type of compound formed in (c)(i) and give a use for such compounds.",
+      "specRef": "3.4.9",
+      "image": "img/2009-june-chm4/q4cii.jpg",
+      "markscheme": "img/2009-june-chm4/ms/q4cii.png",
+      "figures": []
+    },
+    {
+      "id": "2009-june-chm4-q4di",
+      "paper": "2009-june-chm4",
+      "year": 2009,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "4(d)(i)",
+      "questionNumber": "4(d)(i)",
+      "page": 10,
+      "marks": 1,
+      "topics": [
+        "Carbonyls & Carboxylic Acids",
+        "Nomenclature & Isomerism"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Name compound Z (CH3CONHCH3).",
+      "specRef": "3.4.7",
+      "image": "img/2009-june-chm4/q4di.jpg",
+      "markscheme": "img/2009-june-chm4/ms/q4di.png",
+      "figures": []
+    },
+    {
+      "id": "2009-june-chm4-q4dii",
+      "paper": "2009-june-chm4",
+      "year": 2009,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "4(d)(ii)",
+      "questionNumber": "4(d)(ii)",
+      "page": 11,
+      "marks": 5,
+      "topics": [
+        "Carbonyls & Carboxylic Acids",
+        "Reaction Mechanisms"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Name and outline a mechanism for the reaction in which Z is formed from CH3NH2 and CH3COCl.",
+      "specRef": "3.4.7",
+      "image": "img/2009-june-chm4/q4dii.jpg",
+      "markscheme": "img/2009-june-chm4/ms/q4dii.png",
+      "figures": [
+        "img/2009-june-chm4/fig-q4d-z.jpg"
+      ]
+    },
+    {
+      "id": "2009-june-chm4-q4e",
+      "paper": "2009-june-chm4",
+      "year": 2009,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "4(e)",
+      "questionNumber": "4(e)",
+      "page": 11,
+      "marks": 3,
+      "topics": [
+        "Amino Acids & Polymers"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw the species formed when alanine dissolves in water, reacts with HCl, and reacts with methanol/H2SO4.",
+      "specRef": "3.4.10",
+      "image": "img/2009-june-chm4/q4e.jpg",
+      "markscheme": "img/2009-june-chm4/ms/q4e.png",
+      "figures": [
+        "img/2009-june-chm4/fig-q4e-alanine.jpg"
+      ]
+    },
+    {
+      "id": "2009-june-chm4-q5ai",
+      "paper": "2009-june-chm4",
+      "year": 2009,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "5(a)(i)",
+      "questionNumber": "5(a)(i)",
+      "page": 12,
+      "marks": 3,
+      "topics": [
+        "Aromatic Chemistry"
+      ],
+      "skills": [
+        "Knowledge & Recall",
+        "Application"
+      ],
+      "summary": "Identify two other substances needed with ethene in Step 1 and write an equation forming CH3CH2+.",
+      "specRef": "3.4.8",
+      "image": "img/2009-june-chm4/q5ai.jpg",
+      "markscheme": "img/2009-june-chm4/ms/q5ai.png",
+      "figures": []
+    },
+    {
+      "id": "2009-june-chm4-q5aii",
+      "paper": "2009-june-chm4",
+      "year": 2009,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "5(a)(ii)",
+      "questionNumber": "5(a)(ii)",
+      "page": 12,
+      "marks": 4,
+      "topics": [
+        "Aromatic Chemistry",
+        "Reaction Mechanisms"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Name and outline a mechanism for the reaction of CH3CH2+ with benzene in Step 1.",
+      "specRef": "3.4.8",
+      "image": "img/2009-june-chm4/q5aii.jpg",
+      "markscheme": "img/2009-june-chm4/ms/q5aii.png",
+      "figures": [
+        "img/2009-june-chm4/fig-q5-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2009-june-chm4-q5b",
+      "paper": "2009-june-chm4",
+      "year": 2009,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "5(b)",
+      "questionNumber": "5(b)",
+      "page": 12,
+      "marks": 1,
+      "topics": [
+        "Aromatic Chemistry",
+        "Alkenes"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Give one reason why ethene is preferred over chloroethane for making ethylbenzene.",
+      "specRef": "3.4.8",
+      "image": "img/2009-june-chm4/q5b.jpg",
+      "markscheme": "img/2009-june-chm4/ms/q5b.png",
+      "figures": []
+    },
+    {
+      "id": "2009-june-chm4-q5c",
+      "paper": "2009-june-chm4",
+      "year": 2009,
+      "series": "June",
+      "unit": "CHM4",
+      "level": "A",
+      "question": "5(c)",
+      "questionNumber": "5(c)",
+      "page": 13,
+      "marks": 2,
+      "topics": [
+        "Amino Acids & Polymers",
+        "Alkenes"
+      ],
+      "skills": [
+        "Application",
+        "Knowledge & Recall"
+      ],
+      "summary": "Draw the repeating unit of poly(phenylethene) and name the type of polymerisation.",
+      "specRef": "3.4.10",
+      "image": "img/2009-june-chm4/q5c.jpg",
+      "markscheme": "img/2009-june-chm4/ms/q5c.png",
+      "figures": [
+        "img/2009-june-chm4/fig-q5-scheme.jpg"
+      ]
     }
   ]
 }

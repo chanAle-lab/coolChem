@@ -96,6 +96,7 @@ PDF_MAP = {
     '2009-jan-chm4': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795472300684_080e61c4.pdf',
     '2009-jan-chem1': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795472326013_11b23d94.pdf',
     '2009-specimen-chem4': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795472326003_2e90987b.pdf',
+    '2009-june-chm4': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795472598951_fd5640a0.pdf',
 }
 
 def extract_lines(page):
