@@ -73,6 +73,10 @@ PDF_MAP = {
     '2006-june-chm4': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795383083064_6e7b7914.pdf',
     '2006-june-chm5': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795383083059_3d319834.pdf',
     '2006-june-chm6w': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795383083058_f1d8cd22.pdf',
+    '2007-jan-chm1': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795469473805_adb08af9.pdf',
+    '2007-jan-chm2': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795469473824_f40f348a.pdf',
+    '2007-jan-chm3w': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795469473822_32602c73.pdf',
+    '2007-jan-chm4': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795469473872_8c753ee3.pdf',
 }
 
 def extract_lines(page):
