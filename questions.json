@@ -1395,6 +1395,28 @@
       "date": "2010-06-28",
       "totalMarks": 100,
       "duration": "1 hour 45 minutes"
+    },
+    {
+      "id": "2011-jan-chem1",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "title": "CHEM1 – Foundation Chemistry",
+      "date": "2011-01-13",
+      "totalMarks": 70,
+      "duration": "1 hour 15 minutes"
+    },
+    {
+      "id": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "title": "CHEM2 – Chemistry in Action",
+      "date": "2011-01-20",
+      "totalMarks": 100,
+      "duration": "1 hour 45 minutes"
     }
   ],
   "questions": [
@@ -64730,6 +64752,2508 @@
       "specRef": "3.5.2",
       "image": "img/2010-june-chem5/q7d.jpg",
       "markscheme": "img/2010-june-chem5/ms/q7d.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem1-q1a",
+      "paper": "2011-jan-chem1",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "1(a)",
+      "questionNumber": "1(a)",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Give one reason why ice is less dense than water with reference to the structure shown.",
+      "specRef": "3.1.3",
+      "image": "img/2011-jan-chem1/q1a.jpg",
+      "markscheme": "img/2011-jan-chem1/ms/q1a.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem1-q1bi",
+      "paper": "2011-jan-chem1",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "1(b)(i)",
+      "questionNumber": "1(b)(i)",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State the strongest type of intermolecular force holding water molecules together in ice.",
+      "specRef": "3.1.3",
+      "image": "img/2011-jan-chem1/q1bi.jpg",
+      "markscheme": "img/2011-jan-chem1/ms/q1bi.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem1-q1bii",
+      "paper": "2011-jan-chem1",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "1(b)(ii)",
+      "questionNumber": "1(b)(ii)",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State the strongest type of intermolecular force in methane.",
+      "specRef": "3.1.3",
+      "image": "img/2011-jan-chem1/q1bii.jpg",
+      "markscheme": "img/2011-jan-chem1/ms/q1bii.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem1-q1biii",
+      "paper": "2011-jan-chem1",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "1(b)(iii)",
+      "questionNumber": "1(b)(iii)",
+      "page": 3,
+      "marks": 1,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Give one reason why the melting point of ice is higher than that of methane.",
+      "specRef": "3.1.3",
+      "image": "img/2011-jan-chem1/q1biii.jpg",
+      "markscheme": "img/2011-jan-chem1/ms/q1biii.png",
+      "figures": [
+        "img/2011-jan-chem1/fig-q1b-table.jpg"
+      ]
+    },
+    {
+      "id": "2011-jan-chem1-q1ci",
+      "paper": "2011-jan-chem1",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "1(c)(i)",
+      "questionNumber": "1(c)(i)",
+      "page": 3,
+      "marks": 2,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw and name the shape of the H3O+ ion, including any lone pairs of electrons.",
+      "specRef": "3.1.3",
+      "image": "img/2011-jan-chem1/q1ci.jpg",
+      "markscheme": "img/2011-jan-chem1/ms/q1ci.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem1-q1cii",
+      "paper": "2011-jan-chem1",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "1(c)(ii)",
+      "questionNumber": "1(c)(ii)",
+      "page": 3,
+      "marks": 1,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Suggest a value for the bond angle in the H3O+ ion.",
+      "specRef": "3.1.3",
+      "image": "img/2011-jan-chem1/q1cii.jpg",
+      "markscheme": "img/2011-jan-chem1/ms/q1cii.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem1-q1ciii",
+      "paper": "2011-jan-chem1",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "1(c)(iii)",
+      "questionNumber": "1(c)(iii)",
+      "page": 3,
+      "marks": 1,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Identify one molecule with the same number of atoms, electrons, and shape as the H3O+ ion.",
+      "specRef": "3.1.3",
+      "image": "img/2011-jan-chem1/q1ciii.jpg",
+      "markscheme": "img/2011-jan-chem1/ms/q1ciii.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem1-q1d",
+      "paper": "2011-jan-chem1",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "1(d)",
+      "questionNumber": "1(d)",
+      "page": 3,
+      "marks": 1,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State the number of lone pairs of electrons in the hydroxide ion.",
+      "specRef": "3.1.3",
+      "image": "img/2011-jan-chem1/q1d.jpg",
+      "markscheme": "img/2011-jan-chem1/ms/q1d.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem1-q2a",
+      "paper": "2011-jan-chem1",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "2(a)",
+      "questionNumber": "2(a)",
+      "page": 4,
+      "marks": 1,
+      "topics": [
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Complete the electron configuration of indium beyond 4p6.",
+      "specRef": "3.1.1",
+      "image": "img/2011-jan-chem1/q2a.jpg",
+      "markscheme": "img/2011-jan-chem1/ms/q2a.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem1-q2bi",
+      "paper": "2011-jan-chem1",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "2(b)(i)",
+      "questionNumber": "2(b)(i)",
+      "page": 4,
+      "marks": 1,
+      "topics": [
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State what is used to ionise a sample of indium in a mass spectrometer.",
+      "specRef": "3.1.1",
+      "image": "img/2011-jan-chem1/q2bi.jpg",
+      "markscheme": "img/2011-jan-chem1/ms/q2bi.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem1-q2bii",
+      "paper": "2011-jan-chem1",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "2(b)(ii)",
+      "questionNumber": "2(b)(ii)",
+      "page": 4,
+      "marks": 1,
+      "topics": [
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Equations"
+      ],
+      "summary": "Write an equation, including state symbols, for the first ionisation of indium.",
+      "specRef": "3.1.1",
+      "image": "img/2011-jan-chem1/q2bii.jpg",
+      "markscheme": "img/2011-jan-chem1/ms/q2bii.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem1-q2biii",
+      "paper": "2011-jan-chem1",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "2(b)(iii)",
+      "questionNumber": "2(b)(iii)",
+      "page": 4,
+      "marks": 1,
+      "topics": [
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State why more than the minimum energy is not used to ionise the sample of indium.",
+      "specRef": "3.1.1",
+      "image": "img/2011-jan-chem1/q2biii.jpg",
+      "markscheme": "img/2011-jan-chem1/ms/q2biii.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem1-q2biv",
+      "paper": "2011-jan-chem1",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "2(b)(iv)",
+      "questionNumber": "2(b)(iv)",
+      "page": 4,
+      "marks": 2,
+      "topics": [
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Give two reasons why the sample of indium must be ionised in a mass spectrometer.",
+      "specRef": "3.1.1",
+      "image": "img/2011-jan-chem1/q2biv.jpg",
+      "markscheme": "img/2011-jan-chem1/ms/q2biv.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem1-q2ci",
+      "paper": "2011-jan-chem1",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "2(c)(i)",
+      "questionNumber": "2(c)(i)",
+      "page": 5,
+      "marks": 2,
+      "topics": [
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Give the meaning of the term relative atomic mass.",
+      "specRef": "3.1.1",
+      "image": "img/2011-jan-chem1/q2ci.jpg",
+      "markscheme": "img/2011-jan-chem1/ms/q2ci.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem1-q2cii",
+      "paper": "2011-jan-chem1",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "2(c)(ii)",
+      "questionNumber": "2(c)(ii)",
+      "page": 5,
+      "marks": 2,
+      "topics": [
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the ratio of relative abundances of 113In and 115In given Ar = 114.5.",
+      "specRef": "3.1.1",
+      "image": "img/2011-jan-chem1/q2cii.jpg",
+      "markscheme": "img/2011-jan-chem1/ms/q2cii.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem1-q2d",
+      "paper": "2011-jan-chem1",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "2(d)",
+      "questionNumber": "2(d)",
+      "page": 5,
+      "marks": 2,
+      "topics": [
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "State and explain the difference, if any, between the chemical properties of 113In and 115In.",
+      "specRef": "3.1.1",
+      "image": "img/2011-jan-chem1/q2d.jpg",
+      "markscheme": "img/2011-jan-chem1/ms/q2d.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem1-q2e",
+      "paper": "2011-jan-chem1",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "2(e)",
+      "questionNumber": "2(e)",
+      "page": 5,
+      "marks": 3,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the empirical formula of compound X (69.2% In, 1.8% H, remainder O).",
+      "specRef": "3.1.2",
+      "image": "img/2011-jan-chem1/q2e.jpg",
+      "markscheme": "img/2011-jan-chem1/ms/q2e.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem1-q3ai",
+      "paper": "2011-jan-chem1",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "3(a)(i)",
+      "questionNumber": "3(a)(i)",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the moles of HCl in 33.2 cm3 of 0.150 mol dm-3 HCl to 3 sig figs.",
+      "specRef": "3.1.2",
+      "image": "img/2011-jan-chem1/q3ai.jpg",
+      "markscheme": "img/2011-jan-chem1/ms/q3ai.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem1-q3aii",
+      "paper": "2011-jan-chem1",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "3(a)(ii)",
+      "questionNumber": "3(a)(ii)",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the moles of M2CO3 that reacted with this HCl to 3 sig figs.",
+      "specRef": "3.1.2",
+      "image": "img/2011-jan-chem1/q3aii.jpg",
+      "markscheme": "img/2011-jan-chem1/ms/q3aii.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem1-q3aiii",
+      "paper": "2011-jan-chem1",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "3(a)(iii)",
+      "questionNumber": "3(a)(iii)",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the moles of M2CO3 in the 3.44 g sample (250 cm3 total, 25.0 cm3 titrated).",
+      "specRef": "3.1.2",
+      "image": "img/2011-jan-chem1/q3aiii.jpg",
+      "markscheme": "img/2011-jan-chem1/ms/q3aiii.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem1-q3aiv",
+      "paper": "2011-jan-chem1",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "3(a)(iv)",
+      "questionNumber": "3(a)(iv)",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the relative formula mass Mr of M2CO3 to 1 decimal place.",
+      "specRef": "3.1.2",
+      "image": "img/2011-jan-chem1/q3aiv.jpg",
+      "markscheme": "img/2011-jan-chem1/ms/q3aiv.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem1-q3av",
+      "paper": "2011-jan-chem1",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "3(a)(v)",
+      "questionNumber": "3(a)(v)",
+      "page": 6,
+      "marks": 2,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Determine the relative atomic mass Ar of metal M and deduce its identity.",
+      "specRef": "3.1.2",
+      "image": "img/2011-jan-chem1/q3av.jpg",
+      "markscheme": "img/2011-jan-chem1/ms/q3av.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem1-q3b",
+      "paper": "2011-jan-chem1",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "3(b)",
+      "questionNumber": "3(b)",
+      "page": 7,
+      "marks": 3,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Use pV = nRT to calculate the temperature of 0.658 mol CO2 in 0.0220 m3 at 100 kPa.",
+      "specRef": "3.1.2",
+      "image": "img/2011-jan-chem1/q3b.jpg",
+      "markscheme": "img/2011-jan-chem1/ms/q3b.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem1-q3c",
+      "paper": "2011-jan-chem1",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "3(c)",
+      "questionNumber": "3(c)",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Suggest one possible danger when a metal carbonate reacts with an acid in a sealed flask.",
+      "specRef": "3.1.2",
+      "image": "img/2011-jan-chem1/q3c.jpg",
+      "markscheme": "img/2011-jan-chem1/ms/q3c.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem1-q3di",
+      "paper": "2011-jan-chem1",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "3(d)(i)",
+      "questionNumber": "3(d)(i)",
+      "page": 7,
+      "marks": 2,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the moles of MgCO3 in 6.27 g of magnesium carbonate.",
+      "specRef": "3.1.2",
+      "image": "img/2011-jan-chem1/q3di.jpg",
+      "markscheme": "img/2011-jan-chem1/ms/q3di.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem1-q3dii",
+      "paper": "2011-jan-chem1",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "3(d)(ii)",
+      "questionNumber": "3(d)(ii)",
+      "page": 7,
+      "marks": 3,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the mass of MgSO4 produced assuming a 95% yield.",
+      "specRef": "3.1.2",
+      "image": "img/2011-jan-chem1/q3dii.jpg",
+      "markscheme": "img/2011-jan-chem1/ms/q3dii.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem1-q4a",
+      "paper": "2011-jan-chem1",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "4(a)",
+      "questionNumber": "4(a)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "Alkanes"
+      ],
+      "skills": [
+        "Equations"
+      ],
+      "summary": "Write an equation for the complete combustion of cetane (C16H34).",
+      "specRef": "3.1.6",
+      "image": "img/2011-jan-chem1/q4a.jpg",
+      "markscheme": "img/2011-jan-chem1/ms/q4a.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem1-q4b",
+      "paper": "2011-jan-chem1",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "4(b)",
+      "questionNumber": "4(b)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "Alkanes"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Suggest why diesel vehicles may have ignition problems in polar regions (cetane m.p. 18 C).",
+      "specRef": "3.1.6",
+      "image": "img/2011-jan-chem1/q4b.jpg",
+      "markscheme": "img/2011-jan-chem1/ms/q4b.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem1-q4ci",
+      "paper": "2011-jan-chem1",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "4(c)(i)",
+      "questionNumber": "4(c)(i)",
+      "page": 8,
+      "marks": 2,
+      "topics": [
+        "Alkanes"
+      ],
+      "skills": [
+        "Equations",
+        "Knowledge & Recall"
+      ],
+      "summary": "Write an equation to show how NO is formed in petrol engines and give a condition needed.",
+      "specRef": "3.1.6",
+      "image": "img/2011-jan-chem1/q4ci.jpg",
+      "markscheme": "img/2011-jan-chem1/ms/q4ci.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem1-q4cii",
+      "paper": "2011-jan-chem1",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "4(c)(ii)",
+      "questionNumber": "4(c)(ii)",
+      "page": 8,
+      "marks": 2,
+      "topics": [
+        "Alkanes"
+      ],
+      "skills": [
+        "Equations",
+        "Knowledge & Recall"
+      ],
+      "summary": "Write an equation for removing NO in a catalytic converter and identify a catalyst.",
+      "specRef": "3.1.6",
+      "image": "img/2011-jan-chem1/q4cii.jpg",
+      "markscheme": "img/2011-jan-chem1/ms/q4cii.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem1-q4ciii",
+      "paper": "2011-jan-chem1",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "4(c)(iii)",
+      "questionNumber": "4(c)(iii)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "Alkanes"
+      ],
+      "skills": [
+        "Equations"
+      ],
+      "summary": "Deduce an equation to show how NO2 reacts with water and oxygen to form nitric acid.",
+      "specRef": "3.1.6",
+      "image": "img/2011-jan-chem1/q4ciii.jpg",
+      "markscheme": "img/2011-jan-chem1/ms/q4ciii.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem1-q4di",
+      "paper": "2011-jan-chem1",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "4(d)(i)",
+      "questionNumber": "4(d)(i)",
+      "page": 9,
+      "marks": 1,
+      "topics": [
+        "Alkanes"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State one condition used in the thermal cracking of cetane to hexane, butene, and ethene.",
+      "specRef": "3.1.6",
+      "image": "img/2011-jan-chem1/q4di.jpg",
+      "markscheme": "img/2011-jan-chem1/ms/q4di.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem1-q4dii",
+      "paper": "2011-jan-chem1",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "4(d)(ii)",
+      "questionNumber": "4(d)(ii)",
+      "page": 9,
+      "marks": 1,
+      "topics": [
+        "Alkanes"
+      ],
+      "skills": [
+        "Equations"
+      ],
+      "summary": "Write an equation for cracking one molecule of cetane (C16H34) into hexane, butene, and ethene.",
+      "specRef": "3.1.6",
+      "image": "img/2011-jan-chem1/q4dii.jpg",
+      "markscheme": "img/2011-jan-chem1/ms/q4dii.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem1-q4diii",
+      "paper": "2011-jan-chem1",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "4(d)(iii)",
+      "questionNumber": "4(d)(iii)",
+      "page": 9,
+      "marks": 1,
+      "topics": [
+        "Alkanes",
+        "Alkenes"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State one type of useful solid material that could be formed from alkenes.",
+      "specRef": "3.1.6",
+      "image": "img/2011-jan-chem1/q4diii.jpg",
+      "markscheme": "img/2011-jan-chem1/ms/q4diii.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem1-q5a",
+      "paper": "2011-jan-chem1",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "5(a)",
+      "questionNumber": "5(a)",
+      "page": 10,
+      "marks": 3,
+      "topics": [
+        "Bonding",
+        "Periodicity"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "State the structure of silicon and explain why its melting point is very high.",
+      "specRef": "3.1.3",
+      "image": "img/2011-jan-chem1/q5a.jpg",
+      "markscheme": "img/2011-jan-chem1/ms/q5a.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem1-q5b",
+      "paper": "2011-jan-chem1",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "5(b)",
+      "questionNumber": "5(b)",
+      "page": 10,
+      "marks": 3,
+      "topics": [
+        "Bonding",
+        "Periodicity"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "State the structure of sulfur and phosphorus and explain why sulfur has a higher melting point.",
+      "specRef": "3.1.3",
+      "image": "img/2011-jan-chem1/q5b.jpg",
+      "markscheme": "img/2011-jan-chem1/ms/q5b.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem1-q5c",
+      "paper": "2011-jan-chem1",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "5(c)",
+      "questionNumber": "5(c)",
+      "page": 11,
+      "marks": 3,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Draw a diagram of the particle arrangement in aluminium and explain why it is malleable.",
+      "specRef": "3.1.3",
+      "image": "img/2011-jan-chem1/q5c.jpg",
+      "markscheme": "img/2011-jan-chem1/ms/q5c.png",
+      "figures": [
+        "img/2011-jan-chem1/fig-q5-table.jpg"
+      ]
+    },
+    {
+      "id": "2011-jan-chem1-q5d",
+      "paper": "2011-jan-chem1",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "5(d)",
+      "questionNumber": "5(d)",
+      "page": 11,
+      "marks": 3,
+      "topics": [
+        "Bonding",
+        "Periodicity"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Explain why the melting point of aluminium is higher than that of sodium.",
+      "specRef": "3.1.3",
+      "image": "img/2011-jan-chem1/q5d.jpg",
+      "markscheme": "img/2011-jan-chem1/ms/q5d.png",
+      "figures": [
+        "img/2011-jan-chem1/fig-q5-table.jpg"
+      ]
+    },
+    {
+      "id": "2011-jan-chem1-q6a",
+      "paper": "2011-jan-chem1",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "6(a)",
+      "questionNumber": "6(a)",
+      "page": 12,
+      "marks": 2,
+      "topics": [
+        "Organic Chemistry",
+        "Alkanes"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State two characteristics of a homologous series.",
+      "specRef": "3.1.5",
+      "image": "img/2011-jan-chem1/q6a.jpg",
+      "markscheme": "img/2011-jan-chem1/ms/q6a.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem1-q6b",
+      "paper": "2011-jan-chem1",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "6(b)",
+      "questionNumber": "6(b)",
+      "page": 12,
+      "marks": 1,
+      "topics": [
+        "Alkanes"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Name a process used to separate octane from a mixture of alkanes.",
+      "specRef": "3.1.6",
+      "image": "img/2011-jan-chem1/q6b.jpg",
+      "markscheme": "img/2011-jan-chem1/ms/q6b.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem1-q6c",
+      "paper": "2011-jan-chem1",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "6(c)",
+      "questionNumber": "6(c)",
+      "page": 13,
+      "marks": 4,
+      "topics": [
+        "Isomerism",
+        "Nomenclature"
+      ],
+      "skills": [
+        "Knowledge & Recall",
+        "Nomenclature"
+      ],
+      "summary": "Define structural isomerism, name the branched isomer of octane shown, and state its empirical formula.",
+      "specRef": "3.1.5",
+      "image": "img/2011-jan-chem1/q6c.jpg",
+      "markscheme": "img/2011-jan-chem1/ms/q6c.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem1-q6d",
+      "paper": "2011-jan-chem1",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "6(d)",
+      "questionNumber": "6(d)",
+      "page": 13,
+      "marks": 2,
+      "topics": [
+        "Alkanes",
+        "Bonding"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Suggest why the branched-chain isomer has a lower boiling point than octane.",
+      "specRef": "3.1.6",
+      "image": "img/2011-jan-chem1/q6d.jpg",
+      "markscheme": "img/2011-jan-chem1/ms/q6d.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q1ai",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "1(a)(i)",
+      "questionNumber": "1(a)(i)",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "Haloalkanes",
+        "Nomenclature"
+      ],
+      "skills": [
+        "Nomenclature"
+      ],
+      "summary": "Give the IUPAC name of CF3Cl.",
+      "specRef": "3.2.9",
+      "image": "img/2011-jan-chem2/q1ai.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q1ai.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q1aii",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "1(a)(ii)",
+      "questionNumber": "1(a)(ii)",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "Haloalkanes"
+      ],
+      "skills": [
+        "Equations"
+      ],
+      "summary": "Complete the equation showing formation of a chlorine atom from CF3Cl.",
+      "specRef": "3.2.9",
+      "image": "img/2011-jan-chem2/q1aii.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q1aii.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q1aiii",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "1(a)(iii)",
+      "questionNumber": "1(a)(iii)",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "Haloalkanes"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State what the dot represents in Cl•.",
+      "specRef": "3.2.9",
+      "image": "img/2011-jan-chem2/q1aiii.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q1aiii.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q1b",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "1(b)",
+      "questionNumber": "1(b)",
+      "page": 2,
+      "marks": 2,
+      "topics": [
+        "Haloalkanes"
+      ],
+      "skills": [
+        "Equations"
+      ],
+      "summary": "Write two equations showing how chlorine atoms catalyse the decomposition of ozone into oxygen.",
+      "specRef": "3.2.9",
+      "image": "img/2011-jan-chem2/q1b.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q1b.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q1ci",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "1(c)(i)",
+      "questionNumber": "1(c)(i)",
+      "page": 3,
+      "marks": 1,
+      "topics": [
+        "Equilibria"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State Le Chatelier's principle.",
+      "specRef": "3.2.3",
+      "image": "img/2011-jan-chem2/q1ci.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q1ci.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q1cii",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "1(c)(ii)",
+      "questionNumber": "1(c)(ii)",
+      "page": 3,
+      "marks": 2,
+      "topics": [
+        "Equilibria"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Use Le Chatelier's principle to explain how an increase in temperature increases the equilibrium yield of ozone.",
+      "specRef": "3.2.3",
+      "image": "img/2011-jan-chem2/q1cii.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q1cii.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q1d",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "1(d)",
+      "questionNumber": "1(d)",
+      "page": 3,
+      "marks": 1,
+      "topics": [
+        "Haloalkanes"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "With reference to its formula, state why pentane is a more environmentally acceptable refrigerant than CFCs.",
+      "specRef": "3.2.9",
+      "image": "img/2011-jan-chem2/q1d.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q1d.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q2ai",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "2(a)(i)",
+      "questionNumber": "2(a)(i)",
+      "page": 4,
+      "marks": 2,
+      "topics": [
+        "Kinetics"
+      ],
+      "skills": [
+        "Graph Interpretation"
+      ],
+      "summary": "Sketch the Maxwell–Boltzmann distribution for the same sample of gas at a higher temperature.",
+      "specRef": "3.2.2",
+      "image": "img/2011-jan-chem2/q2ai.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q2ai.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q2aii",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "2(a)(ii)",
+      "questionNumber": "2(a)(ii)",
+      "page": 4,
+      "marks": 2,
+      "topics": [
+        "Kinetics"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Explain using the Maxwell–Boltzmann distribution why increasing temperature increases reaction rate.",
+      "specRef": "3.2.2",
+      "image": "img/2011-jan-chem2/q2aii.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q2aii.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q2bi",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "2(b)(i)",
+      "questionNumber": "2(b)(i)",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "Kinetics"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Deduce from the activation energy table which is the most effective catalyst for N2O decomposition.",
+      "specRef": "3.2.2",
+      "image": "img/2011-jan-chem2/q2bi.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q2bi.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q2bii",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "2(b)(ii)",
+      "questionNumber": "2(b)(ii)",
+      "page": 5,
+      "marks": 2,
+      "topics": [
+        "Kinetics"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Explain how a catalyst increases the rate of a reaction.",
+      "specRef": "3.2.2",
+      "image": "img/2011-jan-chem2/q2bii.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q2bii.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q3a",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "3(a)",
+      "questionNumber": "3(a)",
+      "page": 6,
+      "marks": 3,
+      "topics": [
+        "Halogens"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Give a reagent and observations to distinguish between NaF(aq) and NaCl(aq).",
+      "specRef": "3.2.7",
+      "image": "img/2011-jan-chem2/q3a.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q3a.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q3b",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "3(b)",
+      "questionNumber": "3(b)",
+      "page": 6,
+      "marks": 3,
+      "topics": [
+        "Group 2"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Give a reagent and observations to distinguish between BaCl2(aq) and MgCl2(aq).",
+      "specRef": "3.2.6",
+      "image": "img/2011-jan-chem2/q3b.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q3b.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q3c",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "3(c)",
+      "questionNumber": "3(c)",
+      "page": 6,
+      "marks": 3,
+      "topics": [
+        "Halogens"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Give a reagent and observations to distinguish between AgCl(s) and AgI(s).",
+      "specRef": "3.2.7",
+      "image": "img/2011-jan-chem2/q3c.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q3c.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q3d",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "3(d)",
+      "questionNumber": "3(d)",
+      "page": 6,
+      "marks": 3,
+      "topics": [
+        "Alcohols"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Give a reagent and observations to distinguish between butan-2-ol and 2-methylpropan-2-ol.",
+      "specRef": "3.2.10",
+      "image": "img/2011-jan-chem2/q3d.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q3d.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q4a",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "4(a)",
+      "questionNumber": "4(a)",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "Extraction of Metals",
+        "Redox"
+      ],
+      "skills": [
+        "Equations"
+      ],
+      "summary": "Write an equation for the reduction of MnO2 to manganese using carbon monoxide.",
+      "specRef": "3.2.5",
+      "image": "img/2011-jan-chem2/q4a.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q4a.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q4b",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "4(b)",
+      "questionNumber": "4(b)",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "Extraction of Metals",
+        "Redox"
+      ],
+      "skills": [
+        "Equations"
+      ],
+      "summary": "Deduce the redox half-equation for aluminium in 3Mn3O4 + 8Al -> 9Mn + 4Al2O3.",
+      "specRef": "3.2.4",
+      "image": "img/2011-jan-chem2/q4b.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q4b.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q4c",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "4(c)",
+      "questionNumber": "4(c)",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "Extraction of Metals",
+        "Redox"
+      ],
+      "skills": [
+        "Equations"
+      ],
+      "summary": "Write an equation for the high-temperature carbon reduction of copper(II) oxide.",
+      "specRef": "3.2.5",
+      "image": "img/2011-jan-chem2/q4c.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q4c.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q4di",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "4(d)(i)",
+      "questionNumber": "4(d)(i)",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "Extraction of Metals"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Give one reason, other than cost of scrap iron, why extracting copper with scrap iron is low-cost.",
+      "specRef": "3.2.5",
+      "image": "img/2011-jan-chem2/q4di.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q4di.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q4dii",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "4(d)(ii)",
+      "questionNumber": "4(d)(ii)",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "Extraction of Metals",
+        "Redox"
+      ],
+      "skills": [
+        "Equations"
+      ],
+      "summary": "Write the simplest ionic equation for the reaction of iron with Cu2+(aq) ions.",
+      "specRef": "3.2.5",
+      "image": "img/2011-jan-chem2/q4dii.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q4dii.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q5a",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "5(a)",
+      "questionNumber": "5(a)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "Group 2"
+      ],
+      "skills": [
+        "Equations"
+      ],
+      "summary": "Write the simplest ionic equation for precipitating magnesium hydroxide from sea water.",
+      "specRef": "3.2.6",
+      "image": "img/2011-jan-chem2/q5a.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q5a.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q5b",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "5(b)",
+      "questionNumber": "5(b)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "Group 2"
+      ],
+      "skills": [
+        "Equations"
+      ],
+      "summary": "Write an equation for the reaction of magnesium hydroxide with hydrochloric acid.",
+      "specRef": "3.2.6",
+      "image": "img/2011-jan-chem2/q5b.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q5b.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q5c",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "5(c)",
+      "questionNumber": "5(c)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "Extraction of Metals",
+        "Redox"
+      ],
+      "skills": [
+        "Equations"
+      ],
+      "summary": "Deduce the half-equation for the reaction at the negative electrode during electrolysis of molten MgCl2.",
+      "specRef": "3.2.5",
+      "image": "img/2011-jan-chem2/q5c.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q5c.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q5di",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "5(d)(i)",
+      "questionNumber": "5(d)(i)",
+      "page": 8,
+      "marks": 2,
+      "topics": [
+        "Extraction of Metals"
+      ],
+      "skills": [
+        "Equations"
+      ],
+      "summary": "Write an equation for the conversion of titanium(IV) oxide into titanium(IV) chloride.",
+      "specRef": "3.2.5",
+      "image": "img/2011-jan-chem2/q5di.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q5di.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q5dii",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "5(d)(ii)",
+      "questionNumber": "5(d)(ii)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "Extraction of Metals"
+      ],
+      "skills": [
+        "Equations"
+      ],
+      "summary": "Write an equation for the extraction of titanium from TiCl4 using magnesium.",
+      "specRef": "3.2.5",
+      "image": "img/2011-jan-chem2/q5dii.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q5dii.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q5diii",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "5(d)(iii)",
+      "questionNumber": "5(d)(iii)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "Extraction of Metals",
+        "Redox"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State the role of magnesium in the extraction of titanium.",
+      "specRef": "3.2.5",
+      "image": "img/2011-jan-chem2/q5diii.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q5diii.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q5e",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "5(e)",
+      "questionNumber": "5(e)",
+      "page": 9,
+      "marks": 2,
+      "topics": [
+        "Group 2"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Explain why water should not be used to put out a magnesium fire.",
+      "specRef": "3.2.6",
+      "image": "img/2011-jan-chem2/q5e.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q5e.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q6ai",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "6(a)(i)",
+      "questionNumber": "6(a)(i)",
+      "page": 10,
+      "marks": 1,
+      "topics": [
+        "Analytical Techniques"
+      ],
+      "skills": [
+        "Graph Interpretation"
+      ],
+      "summary": "Deduce from the IR spectra why water vapour is a more effective greenhouse gas than CO2.",
+      "specRef": "3.2.11",
+      "image": "img/2011-jan-chem2/q6ai.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q6ai.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q6aii",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "6(a)(ii)",
+      "questionNumber": "6(a)(ii)",
+      "page": 10,
+      "marks": 2,
+      "topics": [
+        "Analytical Techniques"
+      ],
+      "skills": [
+        "Graph Interpretation",
+        "Explanation"
+      ],
+      "summary": "State why the IR spectrum of CO2 is not as predicted from Table 1 on the Data Sheet.",
+      "specRef": "3.2.11",
+      "image": "img/2011-jan-chem2/q6aii.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q6aii.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q6bi",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "6(b)(i)",
+      "questionNumber": "6(b)(i)",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "Alcohols"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Give the meaning of the term carbon-neutral as applied to a fuel.",
+      "specRef": "3.2.10",
+      "image": "img/2011-jan-chem2/q6bi.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q6bi.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q6bii",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "6(b)(ii)",
+      "questionNumber": "6(b)(ii)",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Equations"
+      ],
+      "summary": "Balance the equation for serpentine reacting with CO2.",
+      "specRef": "3.1.2",
+      "image": "img/2011-jan-chem2/q6bii.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q6bii.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q7ai",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "7(a)(i)",
+      "questionNumber": "7(a)(i)",
+      "page": 12,
+      "marks": 1,
+      "topics": [
+        "Alkanes"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Name the type of mechanism for the bromination of propane.",
+      "specRef": "3.1.6",
+      "image": "img/2011-jan-chem2/q7ai.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q7ai.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q7aii",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "7(a)(ii)",
+      "questionNumber": "7(a)(ii)",
+      "page": 12,
+      "marks": 1,
+      "topics": [
+        "Alkanes"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Give an essential condition for initiation (Br2 -> 2Br•) to occur.",
+      "specRef": "3.1.6",
+      "image": "img/2011-jan-chem2/q7aii.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q7aii.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q7aiii",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "7(a)(iii)",
+      "questionNumber": "7(a)(iii)",
+      "page": 12,
+      "marks": 1,
+      "topics": [
+        "Alkanes"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Name the type of step illustrated by Steps 2 and 3.",
+      "specRef": "3.1.6",
+      "image": "img/2011-jan-chem2/q7aiii.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q7aiii.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q7aiv",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "7(a)(iv)",
+      "questionNumber": "7(a)(iv)",
+      "page": 12,
+      "marks": 2,
+      "topics": [
+        "Alkanes"
+      ],
+      "skills": [
+        "Knowledge & Recall",
+        "Equations"
+      ],
+      "summary": "Name the step where free radicals combine and write an equation for forming hexane.",
+      "specRef": "3.1.6",
+      "image": "img/2011-jan-chem2/q7aiv.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q7aiv.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q7av",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "7(a)(v)",
+      "questionNumber": "7(a)(v)",
+      "page": 12,
+      "marks": 1,
+      "topics": [
+        "Alkanes"
+      ],
+      "skills": [
+        "Equations"
+      ],
+      "summary": "Write an overall equation for propane reacting with bromine to produce C3Br8.",
+      "specRef": "3.1.6",
+      "image": "img/2011-jan-chem2/q7av.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q7av.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q7bi",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "7(b)(i)",
+      "questionNumber": "7(b)(i)",
+      "page": 13,
+      "marks": 2,
+      "topics": [
+        "Alkenes"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Explain why non-polar bromine molecules react with double bonds in alkenes.",
+      "specRef": "3.2.8",
+      "image": "img/2011-jan-chem2/q7bi.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q7bi.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q7bii",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "7(b)(ii)",
+      "questionNumber": "7(b)(ii)",
+      "page": 13,
+      "marks": 1,
+      "topics": [
+        "Alkenes"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Name the type of mechanism involved in the reaction of bromine with alkenes.",
+      "specRef": "3.2.8",
+      "image": "img/2011-jan-chem2/q7bii.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q7bii.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q7biii",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "7(b)(iii)",
+      "questionNumber": "7(b)(iii)",
+      "page": 13,
+      "marks": 1,
+      "topics": [
+        "Alkenes",
+        "Haloalkanes"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw the structure of the compound (Mr = 387.6) formed from penta-1,4-diene and excess bromine.",
+      "specRef": "3.2.8",
+      "image": "img/2011-jan-chem2/q7biii.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q7biii.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q7c",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "7(c)",
+      "questionNumber": "7(c)",
+      "page": 13,
+      "marks": 2,
+      "topics": [
+        "Alkenes"
+      ],
+      "skills": [
+        "Application",
+        "Knowledge & Recall"
+      ],
+      "summary": "Draw the intermediate leading to the major product of propene + HBr and name this type of intermediate.",
+      "specRef": "3.2.8",
+      "image": "img/2011-jan-chem2/q7c.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q7c.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q8ai",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "8(a)(i)",
+      "questionNumber": "8(a)(i)",
+      "page": 15,
+      "marks": 1,
+      "topics": [
+        "Haloalkanes"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Explain the meaning of the term nucleophile.",
+      "specRef": "3.2.9",
+      "image": "img/2011-jan-chem2/q8ai.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q8ai.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q8aii",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "8(a)(ii)",
+      "questionNumber": "8(a)(ii)",
+      "page": 15,
+      "marks": 1,
+      "topics": [
+        "Haloalkanes"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Explain the meaning of substitution in nucleophilic substitution of a haloalkane.",
+      "specRef": "3.2.9",
+      "image": "img/2011-jan-chem2/q8aii.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q8aii.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q8aiii",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "8(a)(iii)",
+      "questionNumber": "8(a)(iii)",
+      "page": 15,
+      "marks": 1,
+      "topics": [
+        "Haloalkanes"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Explain the meaning of hydrolysis.",
+      "specRef": "3.2.9",
+      "image": "img/2011-jan-chem2/q8aiii.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q8aiii.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q8aiv",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "8(a)(iv)",
+      "questionNumber": "8(a)(iv)",
+      "page": 15,
+      "marks": 1,
+      "topics": [
+        "Energetics",
+        "Haloalkanes"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Explain the meaning of bond enthalpy as applied to a carbon–halogen bond.",
+      "specRef": "3.2.1",
+      "image": "img/2011-jan-chem2/q8aiv.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q8aiv.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q8b",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "8(b)",
+      "questionNumber": "8(b)",
+      "page": 16,
+      "marks": 2,
+      "topics": [
+        "Haloalkanes"
+      ],
+      "skills": [
+        "Mechanisms"
+      ],
+      "summary": "Outline the nucleophilic substitution mechanism for 2-bromopropane with KOH to form propan-2-ol.",
+      "specRef": "3.2.9",
+      "image": "img/2011-jan-chem2/q8b.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q8b.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q8ci",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "8(c)(i)",
+      "questionNumber": "8(c)(i)",
+      "page": 16,
+      "marks": 3,
+      "topics": [
+        "Haloalkanes"
+      ],
+      "skills": [
+        "Mechanisms"
+      ],
+      "summary": "Outline the elimination mechanism for 2-bromopropane with KOH to form propene.",
+      "specRef": "3.2.9",
+      "image": "img/2011-jan-chem2/q8ci.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q8ci.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q8cii",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "8(c)(ii)",
+      "questionNumber": "8(c)(ii)",
+      "page": 17,
+      "marks": 2,
+      "topics": [
+        "Analytical Techniques",
+        "Alkenes"
+      ],
+      "skills": [
+        "Graph Interpretation"
+      ],
+      "summary": "Use the IR spectrum to explain how the student deduced that the elimination product was an alkene.",
+      "specRef": "3.2.11",
+      "image": "img/2011-jan-chem2/q8cii.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q8cii.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q9ai",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "9(a)(i)",
+      "questionNumber": "9(a)(i)",
+      "page": 18,
+      "marks": 1,
+      "topics": [
+        "Alcohols",
+        "Nomenclature"
+      ],
+      "skills": [
+        "Nomenclature"
+      ],
+      "summary": "Name alcohol X (CH3CH2CH2CH2CH2CH2OH).",
+      "specRef": "3.2.10",
+      "image": "img/2011-jan-chem2/q9ai.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q9ai.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q9aii",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "9(a)(ii)",
+      "questionNumber": "9(a)(ii)",
+      "page": 18,
+      "marks": 1,
+      "topics": [
+        "Organic Chemistry",
+        "Alcohols"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State the general name of the series shown by these primary alcohols.",
+      "specRef": "3.1.5",
+      "image": "img/2011-jan-chem2/q9aii.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q9aii.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q9aiii",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "9(a)(iii)",
+      "questionNumber": "9(a)(iii)",
+      "page": 18,
+      "marks": 1,
+      "topics": [
+        "Alcohols",
+        "Isomerism"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw the displayed formula of the position isomer of butan-1-ol.",
+      "specRef": "3.2.10",
+      "image": "img/2011-jan-chem2/q9aiii.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q9aiii.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q9aiv",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "9(a)(iv)",
+      "questionNumber": "9(a)(iv)",
+      "page": 18,
+      "marks": 1,
+      "topics": [
+        "Alcohols"
+      ],
+      "skills": [
+        "Equations"
+      ],
+      "summary": "Write an equation using [O] for the oxidation of butan-1-ol to an aldehyde.",
+      "specRef": "3.2.10",
+      "image": "img/2011-jan-chem2/q9aiv.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q9aiv.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q9av",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "9(a)(v)",
+      "questionNumber": "9(a)(v)",
+      "page": 19,
+      "marks": 1,
+      "topics": [
+        "Alcohols",
+        "Isomerism"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw the displayed formula of a functional group isomer of butanal.",
+      "specRef": "3.2.10",
+      "image": "img/2011-jan-chem2/q9av.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q9av.png",
+      "figures": [
+        "img/2011-jan-chem2/fig-q9aiv-stem.jpg"
+      ]
+    },
+    {
+      "id": "2011-jan-chem2-q9b",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "9(b)",
+      "questionNumber": "9(b)",
+      "page": 19,
+      "marks": 3,
+      "topics": [
+        "Energetics"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the experimental enthalpy change of combustion of butan-1-ol (175 g water, +8.0 C, 5.00 x 10^-3 mol).",
+      "specRef": "3.2.1",
+      "image": "img/2011-jan-chem2/q9b.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q9b.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q9ci",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "9(c)(i)",
+      "questionNumber": "9(c)(i)",
+      "page": 20,
+      "marks": 3,
+      "topics": [
+        "Energetics"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Give the meaning of the term standard enthalpy of combustion.",
+      "specRef": "3.2.1",
+      "image": "img/2011-jan-chem2/q9ci.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q9ci.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q9cii",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "9(c)(ii)",
+      "questionNumber": "9(c)(ii)",
+      "page": 20,
+      "marks": 3,
+      "topics": [
+        "Energetics"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the standard enthalpy of combustion of butan-1-ol using enthalpy of formation data.",
+      "specRef": "3.2.1",
+      "image": "img/2011-jan-chem2/q9cii.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q9cii.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q9di",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "9(d)(i)",
+      "questionNumber": "9(d)(i)",
+      "page": 21,
+      "marks": 2,
+      "topics": [
+        "Energetics"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Explain in terms of bonds broken and formed why calculated enthalpies of combustion of primary alcohols form a straight line vs Mr.",
+      "specRef": "3.2.1",
+      "image": "img/2011-jan-chem2/q9di.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q9di.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q9dii",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "9(d)(ii)",
+      "questionNumber": "9(d)(ii)",
+      "page": 21,
+      "marks": 2,
+      "topics": [
+        "Energetics"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Give two reasons why experimental enthalpies of combustion are lower than calculated values.",
+      "specRef": "3.2.1",
+      "image": "img/2011-jan-chem2/q9dii.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q9dii.png",
+      "figures": [
+        "img/2011-jan-chem2/fig-q9d-graph.jpg"
+      ]
+    },
+    {
+      "id": "2011-jan-chem2-q10ai",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "10(a)(i)",
+      "questionNumber": "10(a)(i)",
+      "page": 22,
+      "marks": 1,
+      "topics": [
+        "Redox"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Give the oxidation state of manganese in MnO2.",
+      "specRef": "3.2.4",
+      "image": "img/2011-jan-chem2/q10ai.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q10ai.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q10aii",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "10(a)(ii)",
+      "questionNumber": "10(a)(ii)",
+      "page": 22,
+      "marks": 1,
+      "topics": [
+        "Redox"
+      ],
+      "skills": [
+        "Equations"
+      ],
+      "summary": "Write a half-equation for the reduction of MnO2 in acid to Mn2+ and water.",
+      "specRef": "3.2.4",
+      "image": "img/2011-jan-chem2/q10aii.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q10aii.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q10aiii",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "10(a)(iii)",
+      "questionNumber": "10(a)(iii)",
+      "page": 22,
+      "marks": 1,
+      "topics": [
+        "Redox"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "In terms of electrons, state what happens to iodide ions when they are oxidised.",
+      "specRef": "3.2.4",
+      "image": "img/2011-jan-chem2/q10aiii.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q10aiii.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q10bi",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "10(b)(i)",
+      "questionNumber": "10(b)(i)",
+      "page": 22,
+      "marks": 2,
+      "topics": [
+        "Halogens",
+        "Redox"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Give the oxidation state of chlorine in Cl2 and in HClO.",
+      "specRef": "3.2.7",
+      "image": "img/2011-jan-chem2/q10bi.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q10bi.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q10bii",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "10(b)(ii)",
+      "questionNumber": "10(b)(ii)",
+      "page": 23,
+      "marks": 2,
+      "topics": [
+        "Equilibria",
+        "Halogens"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Deduce and explain what happens to the chlorine-water equilibrium as HClO reacts with bacteria.",
+      "specRef": "3.2.3",
+      "image": "img/2011-jan-chem2/q10bii.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q10bii.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q10ci",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "10(c)(i)",
+      "questionNumber": "10(c)(i)",
+      "page": 23,
+      "marks": 2,
+      "topics": [
+        "Halogens",
+        "Redox"
+      ],
+      "skills": [
+        "Equations"
+      ],
+      "summary": "Write the two half-equations for 2H+ + 2Br- + H2SO4 -> Br2 + SO2 + 2H2O.",
+      "specRef": "3.2.7",
+      "image": "img/2011-jan-chem2/q10ci.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q10ci.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q10cii",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "10(c)(ii)",
+      "questionNumber": "10(c)(ii)",
+      "page": 23,
+      "marks": 1,
+      "topics": [
+        "Halogens"
+      ],
+      "skills": [
+        "Equations"
+      ],
+      "summary": "Write an equation for the reaction of solid potassium chloride with concentrated sulfuric acid.",
+      "specRef": "3.2.7",
+      "image": "img/2011-jan-chem2/q10cii.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q10cii.png",
+      "figures": []
+    },
+    {
+      "id": "2011-jan-chem2-q10ciii",
+      "paper": "2011-jan-chem2",
+      "year": 2011,
+      "series": "January",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "10(c)(iii)",
+      "questionNumber": "10(c)(iii)",
+      "page": 24,
+      "marks": 2,
+      "topics": [
+        "Halogens",
+        "Redox"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Explain why chloride ions are weaker reducing agents than bromide ions.",
+      "specRef": "3.2.7",
+      "image": "img/2011-jan-chem2/q10ciii.jpg",
+      "markscheme": "img/2011-jan-chem2/ms/q10ciii.png",
       "figures": []
     }
   ]
