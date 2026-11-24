@@ -166,6 +166,8 @@ PDF_MAP = {
     '2022-june-7404-1': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795530579811_b2400ab6.pdf',
     '2022-june-7404-2': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795530579951_ed352888.pdf',
     '2022-june-7405-1': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795530579819_c0aebf68.pdf',
+    '2022-june-7405-2': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795530598538_e168391b.pdf',
+    '2022-june-7405-3': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795530598562_fb80a7fc.pdf',
 }
 
 def extract_lines(page):
