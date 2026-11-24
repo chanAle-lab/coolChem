@@ -22,7 +22,7 @@ def _find_table_x_bounds(page: fitz.Page, margin: float = 4.0) -> tuple[float, f
         r = d.get("rect")
         if not r:
             continue
-        if 90 < r.width < page.rect.width * 0.94 and r.y0 > 45 and r.y1 < page.rect.height - 35:
+        if 35 < r.width < page.rect.width * 0.94 and r.y0 > 45 and r.y1 < page.rect.height - 35:
             min_x = min(min_x, r.x0)
             max_x = max(max_x, r.x1)
     if min_x < max_x:
@@ -64,9 +64,9 @@ def _find_horizontal_rules(page: fitz.Page) -> list[float]:
         r = d.get("rect")
         if not r:
             continue
-        if r.x0 < 100 and r.width > 90 and r.height <= 3.0 and 45 < r.y0 < page.rect.height - 30:
+        if r.x0 < 100 and r.width > 35 and r.height <= 3.0 and 45 < r.y0 < page.rect.height - 30:
             ys.append(round((r.y0 + r.y1) / 2.0, 1))
-        elif r.x0 < 100 and r.width > 90 and r.height > 10:
+        elif r.x0 < 100 and r.width > 35 and r.height > 10:
             # Rectangle border (e.g. cell box)
             if 45 < r.y0 < page.rect.height - 30:
                 ys.append(round(r.y0, 1))
@@ -141,12 +141,14 @@ def _find_question_anchors(doc: fitz.Document, start_page: int = 0) -> list[dict
         else:
             q_col_max_x = last_q_col_max_x
 
-        min_y = hdr.y1 if hdr else 52.0
+        min_y = hdr.y1 if (hdr and hdr.y0 < 130.0) else 52.0
         max_y = page.rect.height - 50.0
 
         for w in words:
             x0, y0, x1, y1, txt = w[:5]
             if y0 < min_y or y1 > max_y:
+                continue
+            if hdr and hdr.y0 - 2.0 <= y0 <= hdr.y1 + 2.0:
                 continue
             if x0 < 20.0 or x0 > q_col_max_x:
                 continue
@@ -269,7 +271,7 @@ def crop_official_markschemes(
 
             if p_idx == p_start:
                 y0 = _snap_to_rule_above(rules, curr["y0"])
-                if hdr:
+                if hdr and hdr.y0 < curr["y0"]:
                     last_hdr_img = _render_rect(page, fitz.Rect(tx0, hdr.y0, tx1, hdr.y1), dpi=dpi)
                     chunks.append(last_hdr_img)
                 elif last_hdr_img is not None:
@@ -278,8 +280,12 @@ def crop_official_markschemes(
                 # Continuation page: start right below header (or top rule)
                 y0 = hdr.y1 if hdr else (rules[0] if rules else 55.0)
 
-            if p_idx == p_end and nxt and (p_end > p_start and nxt_on_same_end or p_end == p_start):
-                y1 = _snap_to_rule_above(rules, nxt["y0"])
+            if p_idx == p_end and nxt and nxt["page_idx"] == p_idx:
+                if hdr and y0 < hdr.y0 < nxt["y0"]:
+                    pre_hdr_rules = [r for r in rules if y0 + 5 < r <= hdr.y0 - 5]
+                    y1 = pre_hdr_rules[-1] if pre_hdr_rules else _snap_to_rule_above(rules, hdr.y0)
+                else:
+                    y1 = _snap_to_rule_above(rules, nxt["y0"])
             else:
                 # End at the last horizontal rule on the page above the footer
                 bottom_rules = [r for r in rules if r < page.rect.height - 35.0]

@@ -1974,6 +1974,42 @@
       "totalMarks": 80,
       "pdf": null,
       "ms": null
+    },
+    {
+      "id": "2020-june-7405-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/1",
+      "level": "A-level",
+      "date": "2020-06-02",
+      "title": "7405/1 — A-level Paper 1: Inorganic and Physical Chemistry (June 2020)",
+      "totalMarks": 105,
+      "pdf": null,
+      "ms": null
+    },
+    {
+      "id": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "date": "2020-06-08",
+      "title": "7405/2 — A-level Paper 2: Organic and Physical Chemistry (June 2020)",
+      "totalMarks": 105,
+      "pdf": null,
+      "ms": null
+    },
+    {
+      "id": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "date": "2020-06-17",
+      "title": "7405/3 — A-level Paper 3: Practical Skills & Synoptic (June 2020)",
+      "totalMarks": 90,
+      "pdf": null,
+      "ms": null
     }
   ],
   "questions": [
@@ -120051,6 +120087,3147 @@
       "specRef": "3.1.4",
       "image": "img/2020-june-7404-2/q23.jpg",
       "markscheme": "img/2020-june-7404-2/ms/q23.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-1-q01.1",
+      "paper": "2020-june-7405-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "01.1",
+      "questionNumber": "01.1",
+      "page": 2,
+      "marks": 3,
+      "topics": [
+        "3.1.8"
+      ],
+      "skills": [],
+      "summary": "Use the Born-Haber cycle and Table 1 to calculate the electron affinity of chlorine.",
+      "specRef": "3.1.8",
+      "image": "img/2020-june-7405-1/q01-1.jpg",
+      "markscheme": "img/2020-june-7405-1/ms/q01-1.png",
+      "figures": [
+        "img/2020-june-7405-1/fig-q1-1-cont.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-1-q01.2",
+      "paper": "2020-june-7405-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "01.2",
+      "questionNumber": "01.2",
+      "page": 3,
+      "marks": 1,
+      "topics": [
+        "3.1.8"
+      ],
+      "skills": [],
+      "summary": "Match MgCl2, MgO and BaCl2 to their enthalpies of lattice formation.",
+      "specRef": "3.1.8",
+      "image": "img/2020-june-7405-1/q01-2.jpg",
+      "markscheme": "img/2020-june-7405-1/ms/q01-2.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-1-q01.3",
+      "paper": "2020-june-7405-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "01.3",
+      "questionNumber": "01.3",
+      "page": 4,
+      "marks": 1,
+      "topics": [
+        "3.1.8"
+      ],
+      "skills": [],
+      "summary": "State why there is a difference between the theoretical and experimental lattice enthalpies of AgCl.",
+      "specRef": "3.1.8",
+      "image": "img/2020-june-7405-1/q01-3.jpg",
+      "markscheme": "img/2020-june-7405-1/ms/q01-3.png",
+      "figures": [
+        "img/2020-june-7405-1/fig-q1-table2.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-1-q01.4",
+      "paper": "2020-june-7405-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "01.4",
+      "questionNumber": "01.4",
+      "page": 4,
+      "marks": 2,
+      "topics": [
+        "3.1.8"
+      ],
+      "skills": [],
+      "summary": "Explain why the enthalpy of hydration becomes less exothermic from Li+ to K+.",
+      "specRef": "3.1.8",
+      "image": "img/2020-june-7405-1/q01-4.jpg",
+      "markscheme": "img/2020-june-7405-1/ms/q01-4.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-1-q01.5",
+      "paper": "2020-june-7405-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "01.5",
+      "questionNumber": "01.5",
+      "page": 5,
+      "marks": 3,
+      "topics": [
+        "3.1.8"
+      ],
+      "skills": [],
+      "summary": "Calculate the enthalpy of hydration of bromide ions using Table 4.",
+      "specRef": "3.1.8",
+      "image": "img/2020-june-7405-1/q01-5.jpg",
+      "markscheme": "img/2020-june-7405-1/ms/q01-5.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-1-q02.1",
+      "paper": "2020-june-7405-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "02.1",
+      "questionNumber": "02.1",
+      "page": 6,
+      "marks": 2,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [],
+      "summary": "Give the meaning of the term relative atomic mass.",
+      "specRef": "3.1.1",
+      "image": "img/2020-june-7405-1/q02-1.jpg",
+      "markscheme": "img/2020-june-7405-1/ms/q02-1.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-1-q02.2",
+      "paper": "2020-june-7405-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "02.2",
+      "questionNumber": "02.2",
+      "page": 6,
+      "marks": 4,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [],
+      "summary": "Calculate the percentage abundances of 50Cr and 53Cr in a sample with Ar = 52.1 and 86.1% 52Cr.",
+      "specRef": "3.1.1",
+      "image": "img/2020-june-7405-1/q02-2.jpg",
+      "markscheme": "img/2020-june-7405-1/ms/q02-2.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-1-q02.3",
+      "paper": "2020-june-7405-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "02.3",
+      "questionNumber": "02.3",
+      "page": 7,
+      "marks": 2,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [],
+      "summary": "State one similarity and one difference between atoms of 50Cr and 53Cr in terms of fundamental particles.",
+      "specRef": "3.1.1",
+      "image": "img/2020-june-7405-1/q02-3.jpg",
+      "markscheme": "img/2020-june-7405-1/ms/q02-3.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-1-q02.4",
+      "paper": "2020-june-7405-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "02.4",
+      "questionNumber": "02.4",
+      "page": 7,
+      "marks": 2,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [],
+      "summary": "Give two reasons why it is necessary to ionise the isotopes of chromium in a TOF mass spectrometer.",
+      "specRef": "3.1.1",
+      "image": "img/2020-june-7405-1/q02-4.jpg",
+      "markscheme": "img/2020-june-7405-1/ms/q02-4.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-1-q02.5",
+      "paper": "2020-june-7405-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "02.5",
+      "questionNumber": "02.5",
+      "page": 8,
+      "marks": 5,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [],
+      "summary": "Calculate the time, in s, for a 53Cr+ ion (KE = 1.102 x 10^-13 J) to travel down a 1.25 m flight tube.",
+      "specRef": "3.1.1",
+      "image": "img/2020-june-7405-1/q02-5.jpg",
+      "markscheme": "img/2020-june-7405-1/ms/q02-5.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-1-q03.1",
+      "paper": "2020-june-7405-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "03.1",
+      "questionNumber": "03.1",
+      "page": 10,
+      "marks": 1,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [],
+      "summary": "Draw a cross on Figure 2 to show the second ionisation energy of silicon.",
+      "specRef": "3.1.1",
+      "image": "img/2020-june-7405-1/q03-1.jpg",
+      "markscheme": "img/2020-june-7405-1/ms/q03-1.png",
+      "figures": [
+        "img/2020-june-7405-1/fig-q3-fig2.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-1-q03.2",
+      "paper": "2020-june-7405-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "03.2",
+      "questionNumber": "03.2",
+      "page": 10,
+      "marks": 2,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [],
+      "summary": "Identify the Period 3 element with the highest second ionisation energy and give an equation with state symbols.",
+      "specRef": "3.1.1",
+      "image": "img/2020-june-7405-1/q03-2.jpg",
+      "markscheme": "img/2020-june-7405-1/ms/q03-2.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-1-q03.3",
+      "paper": "2020-june-7405-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "03.3",
+      "questionNumber": "03.3",
+      "page": 10,
+      "marks": 2,
+      "topics": [
+        "3.2.1"
+      ],
+      "skills": [],
+      "summary": "Explain why atomic radius decreases across Period 3 from sodium to chlorine.",
+      "specRef": "3.2.1",
+      "image": "img/2020-june-7405-1/q03-3.jpg",
+      "markscheme": "img/2020-june-7405-1/ms/q03-3.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-1-q03.4",
+      "paper": "2020-june-7405-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "03.4",
+      "questionNumber": "03.4",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [],
+      "summary": "Identify the Period 3 element, from sodium to chlorine, that has the highest electronegativity.",
+      "specRef": "3.1.3",
+      "image": "img/2020-june-7405-1/q03-4.jpg",
+      "markscheme": "img/2020-june-7405-1/ms/q03-4.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-1-q03.5",
+      "paper": "2020-june-7405-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "03.5",
+      "questionNumber": "03.5",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "3.2.4"
+      ],
+      "skills": [],
+      "summary": "Give an equation for phosphorus burning in air to form phosphorus(V) oxide.",
+      "specRef": "3.2.4",
+      "image": "img/2020-june-7405-1/q03-5.jpg",
+      "markscheme": "img/2020-june-7405-1/ms/q03-5.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-1-q04.1",
+      "paper": "2020-june-7405-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "04.1",
+      "questionNumber": "04.1",
+      "page": 12,
+      "marks": 1,
+      "topics": [
+        "3.1.12"
+      ],
+      "skills": [],
+      "summary": "State the meaning of the term weak acid.",
+      "specRef": "3.1.12",
+      "image": "img/2020-june-7405-1/q04-1.jpg",
+      "markscheme": "img/2020-june-7405-1/ms/q04-1.png",
+      "figures": [
+        "img/2020-june-7405-1/fig-q4-stem.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-1-q04.2",
+      "paper": "2020-june-7405-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "04.2",
+      "questionNumber": "04.2",
+      "page": 12,
+      "marks": 1,
+      "topics": [
+        "3.1.12"
+      ],
+      "skills": [],
+      "summary": "Give an expression for Ka for propanoic acid.",
+      "specRef": "3.1.12",
+      "image": "img/2020-june-7405-1/q04-2.jpg",
+      "markscheme": "img/2020-june-7405-1/ms/q04-2.png",
+      "figures": [
+        "img/2020-june-7405-1/fig-q4-stem.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-1-q04.3",
+      "paper": "2020-june-7405-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "04.3",
+      "questionNumber": "04.3",
+      "page": 12,
+      "marks": 4,
+      "topics": [
+        "3.1.12"
+      ],
+      "skills": [],
+      "summary": "Calculate the pH of a diluted propanoic acid solution (25.0 cm3 of 0.500 mol dm-3 diluted to 100.0 cm3).",
+      "specRef": "3.1.12",
+      "image": "img/2020-june-7405-1/q04-3.jpg",
+      "markscheme": "img/2020-june-7405-1/ms/q04-3.png",
+      "figures": [
+        "img/2020-june-7405-1/fig-q4-stem.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-1-q04.4",
+      "paper": "2020-june-7405-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "04.4",
+      "questionNumber": "04.4",
+      "page": 13,
+      "marks": 6,
+      "topics": [
+        "3.1.12"
+      ],
+      "skills": [],
+      "summary": "Calculate the mass x g of sodium propanoate needed to make 500 cm3 of pH 4.50 buffer with 0.250 mol dm-3 propanoic acid.",
+      "specRef": "3.1.12",
+      "image": "img/2020-june-7405-1/q04-4.jpg",
+      "markscheme": "img/2020-june-7405-1/ms/q04-4.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-1-q05.1",
+      "paper": "2020-june-7405-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "05.1",
+      "questionNumber": "05.1",
+      "page": 14,
+      "marks": 3,
+      "topics": [
+        "3.2.6"
+      ],
+      "skills": [],
+      "summary": "Give the formula of white precipitate B, another observation, and an equation for [Al(H2O)6]3+ + Na2CO3.",
+      "specRef": "3.2.6",
+      "image": "img/2020-june-7405-1/q05-1.jpg",
+      "markscheme": "img/2020-june-7405-1/ms/q05-1.png",
+      "figures": [
+        "img/2020-june-7405-1/fig-q5-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-1-q05.2",
+      "paper": "2020-june-7405-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "05.2",
+      "questionNumber": "05.2",
+      "page": 14,
+      "marks": 3,
+      "topics": [
+        "3.2.6"
+      ],
+      "skills": [],
+      "summary": "Give the formula of complex ion C, the condition needed, and an equation for its formation with NaOH.",
+      "specRef": "3.2.6",
+      "image": "img/2020-june-7405-1/q05-2.jpg",
+      "markscheme": "img/2020-june-7405-1/ms/q05-2.png",
+      "figures": [
+        "img/2020-june-7405-1/fig-q5-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-1-q05.3",
+      "paper": "2020-june-7405-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "05.3",
+      "questionNumber": "05.3",
+      "page": 15,
+      "marks": 1,
+      "topics": [
+        "3.2.5"
+      ],
+      "skills": [],
+      "summary": "Deduce the formula of complex ion A formed with Na4EDTA.",
+      "specRef": "3.2.5",
+      "image": "img/2020-june-7405-1/q05-3.jpg",
+      "markscheme": "img/2020-june-7405-1/ms/q05-3.png",
+      "figures": [
+        "img/2020-june-7405-1/fig-q5-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-1-q05.4",
+      "paper": "2020-june-7405-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "05.4",
+      "questionNumber": "05.4",
+      "page": 15,
+      "marks": 3,
+      "topics": [
+        "3.2.6"
+      ],
+      "skills": [],
+      "summary": "Explain, with the use of an equation, why a solution containing [Al(H2O)6]3+ has a pH < 7.",
+      "specRef": "3.2.6",
+      "image": "img/2020-june-7405-1/q05-4.jpg",
+      "markscheme": "img/2020-june-7405-1/ms/q05-4.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-1-q06.1",
+      "paper": "2020-june-7405-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "06.1",
+      "questionNumber": "06.1",
+      "page": 16,
+      "marks": 1,
+      "topics": [
+        "3.1.6"
+      ],
+      "skills": [],
+      "summary": "Draw a cross on Figure 3 when the methanol synthesis mixture reaches equilibrium.",
+      "specRef": "3.1.6",
+      "image": "img/2020-june-7405-1/q06-1.jpg",
+      "markscheme": "img/2020-june-7405-1/ms/q06-1.png",
+      "figures": [
+        "img/2020-june-7405-1/fig-q6-fig3.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-1-q06.2",
+      "paper": "2020-june-7405-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "06.2",
+      "questionNumber": "06.2",
+      "page": 16,
+      "marks": 4,
+      "topics": [
+        "3.1.10"
+      ],
+      "skills": [],
+      "summary": "Calculate the partial pressure of hydrogen at equilibrium for CO + 2H2 <=> CH3OH.",
+      "specRef": "3.1.10",
+      "image": "img/2020-june-7405-1/q06-2.jpg",
+      "markscheme": "img/2020-june-7405-1/ms/q06-2.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-1-q06.3",
+      "paper": "2020-june-7405-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "06.3",
+      "questionNumber": "06.3",
+      "page": 17,
+      "marks": 2,
+      "topics": [
+        "3.1.10"
+      ],
+      "skills": [],
+      "summary": "Give an expression for Kp for CO + 2H2 <=> CH3OH and state its units.",
+      "specRef": "3.1.10",
+      "image": "img/2020-june-7405-1/q06-3.jpg",
+      "markscheme": "img/2020-june-7405-1/ms/q06-3.png",
+      "figures": [
+        "img/2020-june-7405-1/fig-q6-fig3.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-1-q06.4",
+      "paper": "2020-june-7405-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "06.4",
+      "questionNumber": "06.4",
+      "page": 17,
+      "marks": 2,
+      "topics": [
+        "3.1.10"
+      ],
+      "skills": [],
+      "summary": "State the effect of adding more CO at constant temperature on the partial pressure of methanol and Kp.",
+      "specRef": "3.1.10",
+      "image": "img/2020-june-7405-1/q06-4.jpg",
+      "markscheme": "img/2020-june-7405-1/ms/q06-4.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-1-q06.5",
+      "paper": "2020-june-7405-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "06.5",
+      "questionNumber": "06.5",
+      "page": 17,
+      "marks": 2,
+      "topics": [
+        "3.1.10"
+      ],
+      "skills": [],
+      "summary": "State and explain the effect of adding a catalyst on the value of Kp.",
+      "specRef": "3.1.10",
+      "image": "img/2020-june-7405-1/q06-5.jpg",
+      "markscheme": "img/2020-june-7405-1/ms/q06-5.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-1-q07",
+      "paper": "2020-june-7405-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "07",
+      "questionNumber": "07",
+      "page": 18,
+      "marks": 6,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [],
+      "summary": "Explain why the melting point of XeF4 is higher than that of PF3 in terms of shapes and intermolecular forces.",
+      "specRef": "3.1.3",
+      "image": "img/2020-june-7405-1/q07.jpg",
+      "markscheme": "img/2020-june-7405-1/ms/q07.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-1-q08.1",
+      "paper": "2020-june-7405-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "08.1",
+      "questionNumber": "08.1",
+      "page": 20,
+      "marks": 7,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [],
+      "summary": "Calculate the percentage by mass of NaClO in the original bleach solution from the thiosulfate titration.",
+      "specRef": "3.1.2",
+      "image": "img/2020-june-7405-1/q08-1.jpg",
+      "markscheme": "img/2020-june-7405-1/ms/q08-1.png",
+      "figures": [
+        "img/2020-june-7405-1/fig-q8-method.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-1-q08.2",
+      "paper": "2020-june-7405-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "08.2",
+      "questionNumber": "08.2",
+      "page": 21,
+      "marks": 1,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [],
+      "summary": "Calculate the total percentage uncertainty in using the burette (+/- 0.15 cm3 for 33.50 cm3).",
+      "specRef": "3.1.2",
+      "image": "img/2020-june-7405-1/q08-2.jpg",
+      "markscheme": "img/2020-june-7405-1/ms/q08-2.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-1-q09.1",
+      "paper": "2020-june-7405-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "09.1",
+      "questionNumber": "09.1",
+      "page": 22,
+      "marks": 1,
+      "topics": [
+        "3.2.3"
+      ],
+      "skills": [],
+      "summary": "State what is observed when silver nitrate solution is added to sodium fluoride solution.",
+      "specRef": "3.2.3",
+      "image": "img/2020-june-7405-1/q09-1.jpg",
+      "markscheme": "img/2020-june-7405-1/ms/q09-1.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-1-q09.2",
+      "paper": "2020-june-7405-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "09.2",
+      "questionNumber": "09.2",
+      "page": 22,
+      "marks": 3,
+      "topics": [
+        "3.2.3"
+      ],
+      "skills": [],
+      "summary": "State an observation, equation, and role of chloride ions when solid NaCl reacts with concentrated H2SO4.",
+      "specRef": "3.2.3",
+      "image": "img/2020-june-7405-1/q09-2.jpg",
+      "markscheme": "img/2020-june-7405-1/ms/q09-2.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-1-q09.3",
+      "paper": "2020-june-7405-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "09.3",
+      "questionNumber": "09.3",
+      "page": 22,
+      "marks": 3,
+      "topics": [
+        "3.2.3"
+      ],
+      "skills": [],
+      "summary": "Give an equation for solid NaBr + concentrated H2SO4 and explain using oxidation states why it is a redox reaction.",
+      "specRef": "3.2.3",
+      "image": "img/2020-june-7405-1/q09-3.jpg",
+      "markscheme": "img/2020-june-7405-1/ms/q09-3.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-1-q09.4",
+      "paper": "2020-june-7405-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "09.4",
+      "questionNumber": "09.4",
+      "page": 22,
+      "marks": 2,
+      "topics": [
+        "3.2.3"
+      ],
+      "skills": [],
+      "summary": "State what is observed and give an ionic equation when aqueous chlorine is added to sodium bromide solution.",
+      "specRef": "3.2.3",
+      "image": "img/2020-june-7405-1/q09-4.jpg",
+      "markscheme": "img/2020-june-7405-1/ms/q09-4.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-1-q10.1",
+      "paper": "2020-june-7405-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "10.1",
+      "questionNumber": "10.1",
+      "page": 23,
+      "marks": 6,
+      "topics": [
+        "3.1.8"
+      ],
+      "skills": [],
+      "summary": "Calculate the Gibbs free-energy change (dG) at 890 K for CO2 + 3H2 <=> CH3OH + H2O using Table 5.",
+      "specRef": "3.1.8",
+      "image": "img/2020-june-7405-1/q10-1.jpg",
+      "markscheme": "img/2020-june-7405-1/ms/q10-1.png",
+      "figures": [
+        "img/2020-june-7405-1/fig-q10-table5.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-1-q10.2",
+      "paper": "2020-june-7405-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "10.2",
+      "questionNumber": "10.2",
+      "page": 25,
+      "marks": 4,
+      "topics": [
+        "3.1.8"
+      ],
+      "skills": [],
+      "summary": "Use the intercept and gradient of Figure 4 to calculate dH and dS for the gas phase reaction.",
+      "specRef": "3.1.8",
+      "image": "img/2020-june-7405-1/q10-2.jpg",
+      "markscheme": "img/2020-june-7405-1/ms/q10-2.png",
+      "figures": [
+        "img/2020-june-7405-1/fig-q10-fig4.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-1-q10.3",
+      "paper": "2020-june-7405-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "10.3",
+      "questionNumber": "10.3",
+      "page": 25,
+      "marks": 1,
+      "topics": [
+        "3.1.8"
+      ],
+      "skills": [],
+      "summary": "State what Figure 4 shows about the feasibility of the reaction.",
+      "specRef": "3.1.8",
+      "image": "img/2020-june-7405-1/q10-3.jpg",
+      "markscheme": "img/2020-june-7405-1/ms/q10-3.png",
+      "figures": [
+        "img/2020-june-7405-1/fig-q10-fig4.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-1-q11.1",
+      "paper": "2020-june-7405-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "11.1",
+      "questionNumber": "11.1",
+      "page": 26,
+      "marks": 1,
+      "topics": [
+        "3.1.11"
+      ],
+      "skills": [],
+      "summary": "Deduce the half-equation for the reaction at the negative electrode of the glucose-oxygen fuel cell.",
+      "specRef": "3.1.11",
+      "image": "img/2020-june-7405-1/q11-1.jpg",
+      "markscheme": "img/2020-june-7405-1/ms/q11-1.png",
+      "figures": [
+        "img/2020-june-7405-1/fig-q11-stem.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-1-q11.2",
+      "paper": "2020-june-7405-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "11.2",
+      "questionNumber": "11.2",
+      "page": 26,
+      "marks": 1,
+      "topics": [
+        "3.1.11"
+      ],
+      "skills": [],
+      "summary": "Deduce the half-equation for the reaction at the positive electrode of the glucose-oxygen fuel cell.",
+      "specRef": "3.1.11",
+      "image": "img/2020-june-7405-1/q11-2.jpg",
+      "markscheme": "img/2020-june-7405-1/ms/q11-2.png",
+      "figures": [
+        "img/2020-june-7405-1/fig-q11-stem.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-1-q11.3",
+      "paper": "2020-june-7405-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "11.3",
+      "questionNumber": "11.3",
+      "page": 26,
+      "marks": 1,
+      "topics": [
+        "3.1.11"
+      ],
+      "skills": [],
+      "summary": "Give the equation for the overall reaction in the glucose-oxygen fuel cell.",
+      "specRef": "3.1.11",
+      "image": "img/2020-june-7405-1/q11-3.jpg",
+      "markscheme": "img/2020-june-7405-1/ms/q11-3.png",
+      "figures": [
+        "img/2020-june-7405-1/fig-q11-stem.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-1-q11.4",
+      "paper": "2020-june-7405-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "11.4",
+      "questionNumber": "11.4",
+      "page": 26,
+      "marks": 2,
+      "topics": [
+        "3.1.11"
+      ],
+      "skills": [],
+      "summary": "Give the conventional representation for the glucose-oxygen fuel cell.",
+      "specRef": "3.1.11",
+      "image": "img/2020-june-7405-1/q11-4.jpg",
+      "markscheme": "img/2020-june-7405-1/ms/q11-4.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-1-q11.5",
+      "paper": "2020-june-7405-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "11.5",
+      "questionNumber": "11.5",
+      "page": 26,
+      "marks": 1,
+      "topics": [
+        "3.1.11"
+      ],
+      "skills": [],
+      "summary": "State what must be done to maintain the EMF of this fuel cell when in use.",
+      "specRef": "3.1.11",
+      "image": "img/2020-june-7405-1/q11-5.jpg",
+      "markscheme": "img/2020-june-7405-1/ms/q11-5.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-2-q01.1",
+      "paper": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "01.1",
+      "questionNumber": "01.1",
+      "page": 2,
+      "marks": 3,
+      "topics": [
+        "3.1.5"
+      ],
+      "skills": [],
+      "summary": "Use Figure 1 to determine the initial rate of reaction and state its units.",
+      "specRef": "3.1.5",
+      "image": "img/2020-june-7405-2/q01-1.jpg",
+      "markscheme": "img/2020-june-7405-2/ms/q01-1.png",
+      "figures": [
+        "img/2020-june-7405-2/fig-q1-fig1.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-2-q01.2",
+      "paper": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "01.2",
+      "questionNumber": "01.2",
+      "page": 3,
+      "marks": 2,
+      "topics": [
+        "3.1.9"
+      ],
+      "skills": [],
+      "summary": "State the relationship between initial [H2PO2-] and time t in Table 1 and deduce the order.",
+      "specRef": "3.1.9",
+      "image": "img/2020-june-7405-2/q01-2.jpg",
+      "markscheme": "img/2020-june-7405-2/ms/q01-2.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-2-q01.3",
+      "paper": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "01.3",
+      "questionNumber": "01.3",
+      "page": 4,
+      "marks": 1,
+      "topics": [
+        "RP"
+      ],
+      "skills": [],
+      "summary": "Complete Figure 2 to show how hydrogen gas could be collected and measured.",
+      "specRef": "RP",
+      "image": "img/2020-june-7405-2/q01-3.jpg",
+      "markscheme": "img/2020-june-7405-2/ms/q01-3.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-2-q01.4",
+      "paper": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "01.4",
+      "questionNumber": "01.4",
+      "page": 4,
+      "marks": 1,
+      "topics": [
+        "3.1.9"
+      ],
+      "skills": [],
+      "summary": "Deduce the overall effect on the rate when concentrations of both L and M are halved (rate = k[L][M]^2).",
+      "specRef": "3.1.9",
+      "image": "img/2020-june-7405-2/q01-4.jpg",
+      "markscheme": "img/2020-june-7405-2/ms/q01-4.png",
+      "figures": [
+        "img/2020-june-7405-2/fig-q1-rate-eq.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-2-q01.5",
+      "paper": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "01.5",
+      "questionNumber": "01.5",
+      "page": 5,
+      "marks": 3,
+      "topics": [
+        "3.1.9"
+      ],
+      "skills": [],
+      "summary": "Calculate the concentration of M given rate = 0.0250, [L] = 0.0155, k = 21.3.",
+      "specRef": "3.1.9",
+      "image": "img/2020-june-7405-2/q01-5.jpg",
+      "markscheme": "img/2020-june-7405-2/ms/q01-5.png",
+      "figures": [
+        "img/2020-june-7405-2/fig-q1-rate-eq.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-2-q01.6",
+      "paper": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "01.6",
+      "questionNumber": "01.6",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "3.1.9"
+      ],
+      "skills": [],
+      "summary": "Define the term overall order of reaction.",
+      "specRef": "3.1.9",
+      "image": "img/2020-june-7405-2/q01-6.jpg",
+      "markscheme": "img/2020-june-7405-2/ms/q01-6.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-2-q02.1",
+      "paper": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "02.1",
+      "questionNumber": "02.1",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "3.3.7"
+      ],
+      "skills": [],
+      "summary": "Draw a circle around any chiral centre(s) in prilocaine (Figure 3).",
+      "specRef": "3.3.7",
+      "image": "img/2020-june-7405-2/q02-1.jpg",
+      "markscheme": "img/2020-june-7405-2/ms/q02-1.png",
+      "figures": [
+        "img/2020-june-7405-2/fig-q2-fig3.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-2-q02.2",
+      "paper": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "02.2",
+      "questionNumber": "02.2",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [],
+      "summary": "Identify the functional group(s) in the prilocaine molecule.",
+      "specRef": "3.3.1",
+      "image": "img/2020-june-7405-2/q02-2.jpg",
+      "markscheme": "img/2020-june-7405-2/ms/q02-2.png",
+      "figures": [
+        "img/2020-june-7405-2/fig-q2-fig3.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-2-q02.3",
+      "paper": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "02.3",
+      "questionNumber": "02.3",
+      "page": 6,
+      "marks": 3,
+      "topics": [
+        "3.3.9"
+      ],
+      "skills": [],
+      "summary": "Draw the structures of the two organic products formed in complete acidic hydrolysis of prilocaine.",
+      "specRef": "3.3.9",
+      "image": "img/2020-june-7405-2/q02-3.jpg",
+      "markscheme": "img/2020-june-7405-2/ms/q02-3.png",
+      "figures": [
+        "img/2020-june-7405-2/fig-q2-fig3.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-2-q02.4",
+      "paper": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "02.4",
+      "questionNumber": "02.4",
+      "page": 7,
+      "marks": 2,
+      "topics": [
+        "3.3.12"
+      ],
+      "skills": [],
+      "summary": "Explain how a structural feature of the enzyme enables it to hydrolyse isomer G but not isomer F.",
+      "specRef": "3.3.12",
+      "image": "img/2020-june-7405-2/q02-4.jpg",
+      "markscheme": "img/2020-june-7405-2/ms/q02-4.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-2-q03.1",
+      "paper": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "03.1",
+      "questionNumber": "03.1",
+      "page": 8,
+      "marks": 2,
+      "topics": [
+        "3.3.5"
+      ],
+      "skills": [],
+      "summary": "Identify the isomer(s) P-U that react with acidified potassium dichromate(VI) and state the observation.",
+      "specRef": "3.3.5",
+      "image": "img/2020-june-7405-2/q03-1.jpg",
+      "markscheme": "img/2020-june-7405-2/ms/q03-1.png",
+      "figures": [
+        "img/2020-june-7405-2/fig-q3-isomers.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-2-q03.2",
+      "paper": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "03.2",
+      "questionNumber": "03.2",
+      "page": 8,
+      "marks": 2,
+      "topics": [
+        "3.3.8"
+      ],
+      "skills": [],
+      "summary": "Identify the isomer(s) P-U that react with Tollens' reagent and state the observation.",
+      "specRef": "3.3.8",
+      "image": "img/2020-june-7405-2/q03-2.jpg",
+      "markscheme": "img/2020-june-7405-2/ms/q03-2.png",
+      "figures": [
+        "img/2020-june-7405-2/fig-q3-isomers.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-2-q03.3",
+      "paper": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "03.3",
+      "questionNumber": "03.3",
+      "page": 9,
+      "marks": 3,
+      "topics": [
+        "3.3.9"
+      ],
+      "skills": [],
+      "summary": "Identify the isomer(s) reacting with ethanoic acid, how to detect reaction, and why NaHCO3(aq) is used.",
+      "specRef": "3.3.9",
+      "image": "img/2020-june-7405-2/q03-3.jpg",
+      "markscheme": "img/2020-june-7405-2/ms/q03-3.png",
+      "figures": [
+        "img/2020-june-7405-2/fig-q3-isomers.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-2-q03.4",
+      "paper": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "03.4",
+      "questionNumber": "03.4",
+      "page": 9,
+      "marks": 1,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [],
+      "summary": "State the type of structural isomerism shown by isomers P, Q, R and S.",
+      "specRef": "3.3.1",
+      "image": "img/2020-june-7405-2/q03-4.jpg",
+      "markscheme": "img/2020-june-7405-2/ms/q03-4.png",
+      "figures": [
+        "img/2020-june-7405-2/fig-q3-isomers.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-2-q03.5",
+      "paper": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "03.5",
+      "questionNumber": "03.5",
+      "page": 9,
+      "marks": 4,
+      "topics": [
+        "3.3.16"
+      ],
+      "skills": [],
+      "summary": "Describe how infrared spectra (Table A) can be used to distinguish between isomers R, S and T.",
+      "specRef": "3.3.16",
+      "image": "img/2020-june-7405-2/q03-5.jpg",
+      "markscheme": "img/2020-june-7405-2/ms/q03-5.png",
+      "figures": [
+        "img/2020-june-7405-2/fig-q3-isomers.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-2-q03.6",
+      "paper": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "03.6",
+      "questionNumber": "03.6",
+      "page": 9,
+      "marks": 1,
+      "topics": [
+        "3.3.16"
+      ],
+      "skills": [],
+      "summary": "State why electrospray mass spectrometry is not suitable to distinguish between the isomers.",
+      "specRef": "3.3.16",
+      "image": "img/2020-june-7405-2/q03-6.jpg",
+      "markscheme": "img/2020-june-7405-2/ms/q03-6.png",
+      "figures": [
+        "img/2020-june-7405-2/fig-q3-isomers.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-2-q04.1",
+      "paper": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "04.1",
+      "questionNumber": "04.1",
+      "page": 10,
+      "marks": 2,
+      "topics": [
+        "RP"
+      ],
+      "skills": [],
+      "summary": "Describe the missing instruction in step 4 of the aspirin synthesis and justify why it is necessary.",
+      "specRef": "RP",
+      "image": "img/2020-june-7405-2/q04-1.jpg",
+      "markscheme": "img/2020-june-7405-2/ms/q04-1.png",
+      "figures": [
+        "img/2020-june-7405-2/fig-q4-method.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-2-q04.2",
+      "paper": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "04.2",
+      "questionNumber": "04.2",
+      "page": 10,
+      "marks": 1,
+      "topics": [
+        "RP"
+      ],
+      "skills": [],
+      "summary": "Suggest a suitable piece of apparatus to measure out 10 cm3 of ethanoic anhydride in step 5.",
+      "specRef": "RP",
+      "image": "img/2020-june-7405-2/q04-2.jpg",
+      "markscheme": "img/2020-june-7405-2/ms/q04-2.png",
+      "figures": [
+        "img/2020-june-7405-2/fig-q4-method.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-2-q04.3",
+      "paper": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "04.3",
+      "questionNumber": "04.3",
+      "page": 10,
+      "marks": 1,
+      "topics": [
+        "RP"
+      ],
+      "skills": [],
+      "summary": "Identify a hazard of using concentrated phosphoric acid in step 6.",
+      "specRef": "RP",
+      "image": "img/2020-june-7405-2/q04-3.jpg",
+      "markscheme": "img/2020-june-7405-2/ms/q04-3.png",
+      "figures": [
+        "img/2020-june-7405-2/fig-q4-method.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-2-q04.4",
+      "paper": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "04.4",
+      "questionNumber": "04.4",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "3.3.9"
+      ],
+      "skills": [],
+      "summary": "Complete the equation for the reaction of salicylic acid with ethanoic anhydride to produce aspirin.",
+      "specRef": "3.3.9",
+      "image": "img/2020-june-7405-2/q04-4.jpg",
+      "markscheme": "img/2020-june-7405-2/ms/q04-4.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-2-q04.5",
+      "paper": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "04.5",
+      "questionNumber": "04.5",
+      "page": 11,
+      "marks": 5,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [],
+      "summary": "Show which reagent is in excess and calculate the mass of aspirin produced (84.1% yield).",
+      "specRef": "3.1.2",
+      "image": "img/2020-june-7405-2/q04-5.jpg",
+      "markscheme": "img/2020-june-7405-2/ms/q04-5.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-2-q04.6",
+      "paper": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "04.6",
+      "questionNumber": "04.6",
+      "page": 12,
+      "marks": 2,
+      "topics": [
+        "RP"
+      ],
+      "skills": [],
+      "summary": "Suggest two ways the melting point of crude aspirin would differ from pure aspirin.",
+      "specRef": "RP",
+      "image": "img/2020-june-7405-2/q04-6.jpg",
+      "markscheme": "img/2020-june-7405-2/ms/q04-6.png",
+      "figures": [
+        "img/2020-june-7405-2/fig-q4-method.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-2-q04.7",
+      "paper": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "04.7",
+      "questionNumber": "04.7",
+      "page": 12,
+      "marks": 2,
+      "topics": [
+        "RP"
+      ],
+      "skills": [],
+      "summary": "Describe two important precautions when heating ethanol and crude aspirin during recrystallisation.",
+      "specRef": "RP",
+      "image": "img/2020-june-7405-2/q04-7.jpg",
+      "markscheme": "img/2020-june-7405-2/ms/q04-7.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-2-q04.8",
+      "paper": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "04.8",
+      "questionNumber": "04.8",
+      "page": 12,
+      "marks": 1,
+      "topics": [
+        "RP"
+      ],
+      "skills": [],
+      "summary": "Explain the purpose of pouring a small amount of cold ethanol through the Buchner funnel.",
+      "specRef": "RP",
+      "image": "img/2020-june-7405-2/q04-8.jpg",
+      "markscheme": "img/2020-june-7405-2/ms/q04-8.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-2-q04.9",
+      "paper": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "04.9",
+      "questionNumber": "04.9",
+      "page": 12,
+      "marks": 1,
+      "topics": [
+        "RP"
+      ],
+      "skills": [],
+      "summary": "Describe one difference in appearance between crude aspirin and purified aspirin.",
+      "specRef": "RP",
+      "image": "img/2020-june-7405-2/q04-9.jpg",
+      "markscheme": "img/2020-june-7405-2/ms/q04-9.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-2-q05.1",
+      "paper": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "05.1",
+      "questionNumber": "05.1",
+      "page": 14,
+      "marks": 3,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [],
+      "summary": "Define electronegativity and explain the polarity of the C-Br bond in 2-bromopropane.",
+      "specRef": "3.1.3",
+      "image": "img/2020-june-7405-2/q05-1.jpg",
+      "markscheme": "img/2020-june-7405-2/ms/q05-1.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-2-q05.2",
+      "paper": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "05.2",
+      "questionNumber": "05.2",
+      "page": 14,
+      "marks": 4,
+      "topics": [
+        "3.3.3"
+      ],
+      "skills": [],
+      "summary": "Outline the mechanism for the reaction of 2-bromopropane with an excess of ammonia.",
+      "specRef": "3.3.3",
+      "image": "img/2020-june-7405-2/q05-2.jpg",
+      "markscheme": "img/2020-june-7405-2/ms/q05-2.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-2-q05.3",
+      "paper": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "05.3",
+      "questionNumber": "05.3",
+      "page": 15,
+      "marks": 2,
+      "topics": [
+        "3.3.11"
+      ],
+      "skills": [],
+      "summary": "Draw the skeletal formula of the main organic species formed with a large excess of 2-bromopropane and give a use.",
+      "specRef": "3.3.11",
+      "image": "img/2020-june-7405-2/q05-3.jpg",
+      "markscheme": "img/2020-june-7405-2/ms/q05-3.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-2-q06.1",
+      "paper": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "06.1",
+      "questionNumber": "06.1",
+      "page": 16,
+      "marks": 3,
+      "topics": [
+        "3.3.10"
+      ],
+      "skills": [],
+      "summary": "State the type of reaction, reagent(s), and conditions for step 1 in the synthesis of polystyrene.",
+      "specRef": "3.3.10",
+      "image": "img/2020-june-7405-2/q06-1.jpg",
+      "markscheme": "img/2020-june-7405-2/ms/q06-1.png",
+      "figures": [
+        "img/2020-june-7405-2/fig-q6-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-2-q06.2",
+      "paper": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "06.2",
+      "questionNumber": "06.2",
+      "page": 16,
+      "marks": 3,
+      "topics": [
+        "3.3.8"
+      ],
+      "skills": [],
+      "summary": "State the mechanism, inorganic reagent, and organic product name for step 2.",
+      "specRef": "3.3.8",
+      "image": "img/2020-june-7405-2/q06-2.jpg",
+      "markscheme": "img/2020-june-7405-2/ms/q06-2.png",
+      "figures": [
+        "img/2020-june-7405-2/fig-q6-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-2-q06.3",
+      "paper": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "06.3",
+      "questionNumber": "06.3",
+      "page": 17,
+      "marks": 3,
+      "topics": [
+        "3.3.5"
+      ],
+      "skills": [],
+      "summary": "Outline the mechanism for step 3 (reaction of step 2 product with concentrated sulfuric acid).",
+      "specRef": "3.3.5",
+      "image": "img/2020-june-7405-2/q06-3.jpg",
+      "markscheme": "img/2020-june-7405-2/ms/q06-3.png",
+      "figures": [
+        "img/2020-june-7405-2/fig-q6-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-2-q06.4",
+      "paper": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "06.4",
+      "questionNumber": "06.4",
+      "page": 17,
+      "marks": 1,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [],
+      "summary": "Draw the repeating unit of polystyrene.",
+      "specRef": "3.3.4",
+      "image": "img/2020-june-7405-2/q06-4.jpg",
+      "markscheme": "img/2020-june-7405-2/ms/q06-4.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-2-q07.1",
+      "paper": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "07.1",
+      "questionNumber": "07.1",
+      "page": 18,
+      "marks": 6,
+      "topics": [
+        "3.3.15"
+      ],
+      "skills": [],
+      "summary": "State why Si(CH3)4, CCl4 and CDCl3 are used in 1H NMR spectroscopy and explain how their properties make them suitable.",
+      "specRef": "3.3.15",
+      "image": "img/2020-june-7405-2/q07-1.jpg",
+      "markscheme": "img/2020-june-7405-2/ms/q07-1.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-2-q07.2",
+      "paper": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "07.2",
+      "questionNumber": "07.2",
+      "page": 20,
+      "marks": 3,
+      "topics": [
+        "3.3.15"
+      ],
+      "skills": [],
+      "summary": "Deduce the splitting pattern for the H atoms labelled x, y and z in CH3CHClCOCH(CH3)2.",
+      "specRef": "3.3.15",
+      "image": "img/2020-june-7405-2/q07-2.jpg",
+      "markscheme": "img/2020-june-7405-2/ms/q07-2.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-2-q07.3",
+      "paper": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "07.3",
+      "questionNumber": "07.3",
+      "page": 20,
+      "marks": 1,
+      "topics": [
+        "3.3.15"
+      ],
+      "skills": [],
+      "summary": "Suggest why it is difficult to use Table B to predict the chemical shift of H atom y.",
+      "specRef": "3.3.15",
+      "image": "img/2020-june-7405-2/q07-3.jpg",
+      "markscheme": "img/2020-june-7405-2/ms/q07-3.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-2-q07.4",
+      "paper": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "07.4",
+      "questionNumber": "07.4",
+      "page": 20,
+      "marks": 2,
+      "topics": [
+        "3.3.15"
+      ],
+      "skills": [],
+      "summary": "Deduce the structures of two isomers of CH3CHClCOCH(CH3)2 that each have two singlet peaks with integration ratio 2:9.",
+      "specRef": "3.3.15",
+      "image": "img/2020-june-7405-2/q07-4.jpg",
+      "markscheme": "img/2020-june-7405-2/ms/q07-4.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-2-q08.1",
+      "paper": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "08.1",
+      "questionNumber": "08.1",
+      "page": 21,
+      "marks": 5,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [],
+      "summary": "Show that the empirical formula of citric acid (H3Y.xH2O) is C3H5O4 from combustion data.",
+      "specRef": "3.1.2",
+      "image": "img/2020-june-7405-2/q08-1.jpg",
+      "markscheme": "img/2020-june-7405-2/ms/q08-1.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-2-q08.2",
+      "paper": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "08.2",
+      "questionNumber": "08.2",
+      "page": 21,
+      "marks": 2,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [],
+      "summary": "Show that x = 1 when 3.00 g of H3Y.xH2O (Mr = 210.0) is heated to constant mass leaving 2.74 g H3Y.",
+      "specRef": "3.1.2",
+      "image": "img/2020-june-7405-2/q08-2.jpg",
+      "markscheme": "img/2020-june-7405-2/ms/q08-2.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-2-q08.3",
+      "paper": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "08.3",
+      "questionNumber": "08.3",
+      "page": 22,
+      "marks": 1,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [],
+      "summary": "Complete the IUPAC name for H3Y (Figure 5): ___ propane-1,2,3-tricarboxylic acid.",
+      "specRef": "3.3.1",
+      "image": "img/2020-june-7405-2/q08-3.jpg",
+      "markscheme": "img/2020-june-7405-2/ms/q08-3.png",
+      "figures": [
+        "img/2020-june-7405-2/fig-q8-fig5.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-2-q08.4",
+      "paper": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "08.4",
+      "questionNumber": "08.4",
+      "page": 22,
+      "marks": 1,
+      "topics": [
+        "3.3.15"
+      ],
+      "skills": [],
+      "summary": "State the number of peaks expected in the 13C NMR spectrum for H3Y.",
+      "specRef": "3.3.15",
+      "image": "img/2020-june-7405-2/q08-4.jpg",
+      "markscheme": "img/2020-june-7405-2/ms/q08-4.png",
+      "figures": [
+        "img/2020-june-7405-2/fig-q8-fig5.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-2-q09.1",
+      "paper": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "09.1",
+      "questionNumber": "09.1",
+      "page": 23,
+      "marks": 2,
+      "topics": [
+        "3.1.6"
+      ],
+      "skills": [],
+      "summary": "Calculate the equilibrium amounts of A and B for A(aq) + 2B(aq) <=> C(aq) given 0.015 mol C.",
+      "specRef": "3.1.6",
+      "image": "img/2020-june-7405-2/q09-1.jpg",
+      "markscheme": "img/2020-june-7405-2/ms/q09-1.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-2-q09.2",
+      "paper": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "09.2",
+      "questionNumber": "09.2",
+      "page": 23,
+      "marks": 4,
+      "topics": [
+        "3.1.6"
+      ],
+      "skills": [],
+      "summary": "Calculate Kc and deduce its units for 0.30 mol A, 0.25 mol B, 0.020 mol C in 350 cm3.",
+      "specRef": "3.1.6",
+      "image": "img/2020-june-7405-2/q09-2.jpg",
+      "markscheme": "img/2020-june-7405-2/ms/q09-2.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-2-q09.3",
+      "paper": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "09.3",
+      "questionNumber": "09.3",
+      "page": 24,
+      "marks": 1,
+      "topics": [
+        "3.1.6"
+      ],
+      "skills": [],
+      "summary": "Suggest why the expression for K for chloroethanal + water can be written without [H2O].",
+      "specRef": "3.1.6",
+      "image": "img/2020-june-7405-2/q09-3.jpg",
+      "markscheme": "img/2020-june-7405-2/ms/q09-3.png",
+      "figures": [
+        "img/2020-june-7405-2/fig-q9-eq.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-2-q09.4",
+      "paper": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "09.4",
+      "questionNumber": "09.4",
+      "page": 24,
+      "marks": 5,
+      "topics": [
+        "3.1.6"
+      ],
+      "skills": [],
+      "summary": "Calculate the equilibrium concentration of ClCH2CH(OH)2 given 4.71 g chloroethanal in 50.0 cm3 and K = 37.0.",
+      "specRef": "3.1.6",
+      "image": "img/2020-june-7405-2/q09-4.jpg",
+      "markscheme": "img/2020-june-7405-2/ms/q09-4.png",
+      "figures": [
+        "img/2020-june-7405-2/fig-q9-eq.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-2-q09.5",
+      "paper": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "09.5",
+      "questionNumber": "09.5",
+      "page": 25,
+      "marks": 3,
+      "topics": [
+        "3.3.8"
+      ],
+      "skills": [],
+      "summary": "Complete the nucleophilic addition mechanism in Figure 6 for water reacting with chloroethanal.",
+      "specRef": "3.3.8",
+      "image": "img/2020-june-7405-2/q09-5.jpg",
+      "markscheme": "img/2020-june-7405-2/ms/q09-5.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-2-q09.6",
+      "paper": "2020-june-7405-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "09.6",
+      "questionNumber": "09.6",
+      "page": 25,
+      "marks": 3,
+      "topics": [
+        "3.3.8"
+      ],
+      "skills": [],
+      "summary": "Suggest why the reaction of water with ethanal is slower than with chloroethanal.",
+      "specRef": "3.3.8",
+      "image": "img/2020-june-7405-2/q09-6.jpg",
+      "markscheme": "img/2020-june-7405-2/ms/q09-6.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q01.1",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "01.1",
+      "questionNumber": "01.1",
+      "page": 2,
+      "marks": 2,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [],
+      "summary": "Explain how oxides of nitrogen are formed in petrol and diesel engines.",
+      "specRef": "3.3.2",
+      "image": "img/2020-june-7405-3/q01-1.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q01-1.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q01.2",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "01.2",
+      "questionNumber": "01.2",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [],
+      "summary": "State why it is desirable to decrease emissions of oxides of nitrogen from vehicles.",
+      "specRef": "3.3.2",
+      "image": "img/2020-june-7405-3/q01-2.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q01-2.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q01.3",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "01.3",
+      "questionNumber": "01.3",
+      "page": 2,
+      "marks": 2,
+      "topics": [
+        "3.1.7"
+      ],
+      "skills": [],
+      "summary": "Give the oxidation state of N in NO2, NH3 and N2, and complete the equation for NO2 + NH3.",
+      "specRef": "3.1.7",
+      "image": "img/2020-june-7405-3/q01-3.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q01-3.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q01.4",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "01.4",
+      "questionNumber": "01.4",
+      "page": 3,
+      "marks": 2,
+      "topics": [
+        "3.2.5"
+      ],
+      "skills": [],
+      "summary": "State the meaning of the term heterogeneous catalyst.",
+      "specRef": "3.2.5",
+      "image": "img/2020-june-7405-3/q01-4.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q01-4.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q01.5",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "01.5",
+      "questionNumber": "01.5",
+      "page": 3,
+      "marks": 1,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [],
+      "summary": "Explain why carbon particulates are formed in diesel and petrol vehicles.",
+      "specRef": "3.3.2",
+      "image": "img/2020-june-7405-3/q01-5.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q01-5.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q02.1",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "02.1",
+      "questionNumber": "02.1",
+      "page": 4,
+      "marks": 2,
+      "topics": [
+        "3.2.4"
+      ],
+      "skills": [],
+      "summary": "State why Na2O and MgO form alkaline solutions and why Na2O forms a solution with higher pH.",
+      "specRef": "3.2.4",
+      "image": "img/2020-june-7405-3/q02-1.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q02-1.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q02.2",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "02.2",
+      "questionNumber": "02.2",
+      "page": 4,
+      "marks": 1,
+      "topics": [
+        "3.2.4"
+      ],
+      "skills": [],
+      "summary": "Give an equation for the reaction between phosphorus(V) oxide and water.",
+      "specRef": "3.2.4",
+      "image": "img/2020-june-7405-3/q02-2.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q02-2.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q02.3",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "02.3",
+      "questionNumber": "02.3",
+      "page": 4,
+      "marks": 2,
+      "topics": [
+        "3.2.5"
+      ],
+      "skills": [],
+      "summary": "Give two equations to show how vanadium(V) oxide acts as a catalyst in the Contact process.",
+      "specRef": "3.2.5",
+      "image": "img/2020-june-7405-3/q02-3.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q02-3.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q03.1",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "03.1",
+      "questionNumber": "03.1",
+      "page": 6,
+      "marks": 3,
+      "topics": [
+        "3.2.5"
+      ],
+      "skills": [],
+      "summary": "Explain why complexes formed from transition metal ions are coloured.",
+      "specRef": "3.2.5",
+      "image": "img/2020-june-7405-3/q03-1.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q03-1.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q03.2",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "03.2",
+      "questionNumber": "03.2",
+      "page": 6,
+      "marks": 3,
+      "topics": [
+        "3.2.5"
+      ],
+      "skills": [],
+      "summary": "Calculate the energy, in J, gained by each excited electron in the absorption at 490 nm.",
+      "specRef": "3.2.5",
+      "image": "img/2020-june-7405-3/q03-2.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q03-2.png",
+      "figures": [
+        "img/2020-june-7405-3/fig-q3-method.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-3-q03.3",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "03.3",
+      "questionNumber": "03.3",
+      "page": 7,
+      "marks": 3,
+      "topics": [
+        "RP"
+      ],
+      "skills": [],
+      "summary": "Describe how a calibration graph is produced and used to find the concentration of the iron(III) complex.",
+      "specRef": "RP",
+      "image": "img/2020-june-7405-3/q03-3.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q03-3.png",
+      "figures": [
+        "img/2020-june-7405-3/fig-q3-method.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-3-q03.4",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "03.4",
+      "questionNumber": "03.4",
+      "page": 7,
+      "marks": 2,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [],
+      "summary": "Calculate the mass, in mg, of iron in the tablet given [Fe3+] = 4.66 x 10^-3 mol dm-3 in 250 cm3.",
+      "specRef": "3.1.2",
+      "image": "img/2020-june-7405-3/q03-4.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q03-4.png",
+      "figures": [
+        "img/2020-june-7405-3/fig-q3-method.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-3-q04.1",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "04.1",
+      "questionNumber": "04.1",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "3.3.13"
+      ],
+      "skills": [],
+      "summary": "Name the process that is prevented by cisplatin during cell division.",
+      "specRef": "3.3.13",
+      "image": "img/2020-june-7405-3/q04-1.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q04-1.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q04.2",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "04.2",
+      "questionNumber": "04.2",
+      "page": 8,
+      "marks": 2,
+      "topics": [
+        "3.2.5"
+      ],
+      "skills": [],
+      "summary": "Give the equation for replacing one chloride ligand in cisplatin with a water molecule.",
+      "specRef": "3.2.5",
+      "image": "img/2020-june-7405-3/q04-2.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q04-2.png",
+      "figures": [
+        "img/2020-june-7405-3/fig-q4-2-stem.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-3-q04.3",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "04.3",
+      "questionNumber": "04.3",
+      "page": 9,
+      "marks": 2,
+      "topics": [
+        "3.3.13"
+      ],
+      "skills": [],
+      "summary": "Complete Figure 1 to show how the platinum complex forms a cross-link between two guanine nucleotides.",
+      "specRef": "3.3.13",
+      "image": "img/2020-june-7405-3/q04-3.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q04-3.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q04.4",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "04.4",
+      "questionNumber": "04.4",
+      "page": 10,
+      "marks": 3,
+      "topics": [
+        "3.1.9"
+      ],
+      "skills": [],
+      "summary": "Explain how graphical methods can be used to confirm that the hydrolysis of cisplatin is first order.",
+      "specRef": "3.1.9",
+      "image": "img/2020-june-7405-3/q04-4.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q04-4.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q04.5",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "04.5",
+      "questionNumber": "04.5",
+      "page": 10,
+      "marks": 2,
+      "topics": [
+        "3.1.9"
+      ],
+      "skills": [],
+      "summary": "Complete Table 1 by calculating 1/T and ln k at 318 K.",
+      "specRef": "3.1.9",
+      "image": "img/2020-june-7405-3/q04-5.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q04-5.png",
+      "figures": [
+        "img/2020-june-7405-3/fig-q4-table1.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-3-q04.6",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "04.6",
+      "questionNumber": "04.6",
+      "page": 11,
+      "marks": 5,
+      "topics": [
+        "3.1.9"
+      ],
+      "skills": [],
+      "summary": "Plot ln k against 1/T on Figure 2 and calculate the activation energy Ea in kJ mol-1.",
+      "specRef": "3.1.9",
+      "image": "img/2020-june-7405-3/q04-6.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q04-6.png",
+      "figures": [
+        "img/2020-june-7405-3/fig-q4-table1.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-3-q05.1",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "05.1",
+      "questionNumber": "05.1",
+      "page": 12,
+      "marks": 3,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [],
+      "summary": "Calculate the heat capacity Ccal of the bomb calorimeter using hexane combustion data.",
+      "specRef": "3.1.4",
+      "image": "img/2020-june-7405-3/q05-1.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q05-1.png",
+      "figures": [
+        "img/2020-june-7405-3/fig-q5-stem.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7405-3-q05.2",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "05.2",
+      "questionNumber": "05.2",
+      "page": 12,
+      "marks": 2,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [],
+      "summary": "Calculate the heat change, in kJ mol-1, for octane combusted in the bomb calorimeter.",
+      "specRef": "3.1.4",
+      "image": "img/2020-june-7405-3/q05-2.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q05-2.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q05.3",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "05.3",
+      "questionNumber": "05.3",
+      "page": 13,
+      "marks": 1,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [],
+      "summary": "State why the heat change calculated from the bomb calorimeter experiment is not an enthalpy change.",
+      "specRef": "3.1.4",
+      "image": "img/2020-june-7405-3/q05-3.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q05-3.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q05.4",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "05.4",
+      "questionNumber": "05.4",
+      "page": 13,
+      "marks": 2,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [],
+      "summary": "Calculate the percentage uncertainty in temperature change (12.2 C, +/- 0.1 C) and suggest a change to reduce it.",
+      "specRef": "3.1.2",
+      "image": "img/2020-june-7405-3/q05-4.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q05-4.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q06.1",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "06.1",
+      "questionNumber": "06.1",
+      "page": 14,
+      "marks": 3,
+      "topics": [
+        "3.1.11"
+      ],
+      "skills": [],
+      "summary": "State the substances and conditions needed in a standard hydrogen electrode.",
+      "specRef": "3.1.11",
+      "image": "img/2020-june-7405-3/q06-1.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q06-1.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q06.2",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "06.2",
+      "questionNumber": "06.2",
+      "page": 14,
+      "marks": 6,
+      "topics": [
+        "RP"
+      ],
+      "skills": [],
+      "summary": "Describe an experiment using Cu2+/Cu as a secondary standard to show E0(TiO2+/Ti) = -0.88 V.",
+      "specRef": "RP",
+      "image": "img/2020-june-7405-3/q06-2.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q06-2.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q06.3",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "06.3",
+      "questionNumber": "06.3",
+      "page": 17,
+      "marks": 1,
+      "topics": [
+        "3.1.7"
+      ],
+      "skills": [],
+      "summary": "Give the half-equation for the TiO2+(aq)/Ti(s) electrode in acidic conditions.",
+      "specRef": "3.1.7",
+      "image": "img/2020-june-7405-3/q06-3.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q06-3.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q06.4",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "06.4",
+      "questionNumber": "06.4",
+      "page": 17,
+      "marks": 3,
+      "topics": [
+        "3.1.11"
+      ],
+      "skills": [],
+      "summary": "Use Table 2 to explain why copper reacts with nitric acid but not most acids, and give an equation.",
+      "specRef": "3.1.11",
+      "image": "img/2020-june-7405-3/q06-4.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q06-4.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q07",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "07",
+      "questionNumber": "07",
+      "page": 18,
+      "marks": 1,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [],
+      "summary": "What is the amount, in moles, of KClO3 that decomposed to form 67.2 cm3 O2 at 298 K and 110 kPa?",
+      "specRef": "3.1.2",
+      "image": "img/2020-june-7405-3/q07.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q07.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q08",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "08",
+      "questionNumber": "08",
+      "page": 19,
+      "marks": 1,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [],
+      "summary": "Which has a bond angle of 109.5 degrees?",
+      "specRef": "3.1.3",
+      "image": "img/2020-june-7405-3/q08.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q08.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q09",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "09",
+      "questionNumber": "09",
+      "page": 19,
+      "marks": 1,
+      "topics": [
+        "3.1.8"
+      ],
+      "skills": [],
+      "summary": "Which reaction has an enthalpy change equal to the standard enthalpy of formation of silver iodide?",
+      "specRef": "3.1.8",
+      "image": "img/2020-june-7405-3/q09.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q09.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q10",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "10",
+      "questionNumber": "10",
+      "page": 19,
+      "marks": 1,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [],
+      "summary": "Which is the enthalpy change for CH4 + 2O2 -> CO2 + 2H2O from the bond enthalpies?",
+      "specRef": "3.1.4",
+      "image": "img/2020-june-7405-3/q10.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q10.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q11",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "11",
+      "questionNumber": "11",
+      "page": 20,
+      "marks": 1,
+      "topics": [
+        "3.1.7"
+      ],
+      "skills": [],
+      "summary": "In which conversion is the metal reduced?",
+      "specRef": "3.1.7",
+      "image": "img/2020-june-7405-3/q11.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q11.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q12",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "12",
+      "questionNumber": "12",
+      "page": 20,
+      "marks": 1,
+      "topics": [
+        "3.1.9"
+      ],
+      "skills": [],
+      "summary": "Which statement about rate = k[X]^2[Y] is correct?",
+      "specRef": "3.1.9",
+      "image": "img/2020-june-7405-3/q12.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q12.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q13",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "13",
+      "questionNumber": "13",
+      "page": 20,
+      "marks": 1,
+      "topics": [
+        "3.1.12"
+      ],
+      "skills": [],
+      "summary": "Which statement about pH is correct?",
+      "specRef": "3.1.12",
+      "image": "img/2020-june-7405-3/q13.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q13.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q14",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "14",
+      "questionNumber": "14",
+      "page": 21,
+      "marks": 1,
+      "topics": [
+        "3.1.12"
+      ],
+      "skills": [],
+      "summary": "Which acid-base pair has the highest pH at the equivalence point?",
+      "specRef": "3.1.12",
+      "image": "img/2020-june-7405-3/q14.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q14.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q15",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "15",
+      "questionNumber": "15",
+      "page": 21,
+      "marks": 1,
+      "topics": [
+        "3.2.3"
+      ],
+      "skills": [],
+      "summary": "Why is dilute nitric acid added before silver nitrate solution in the halide test?",
+      "specRef": "3.2.3",
+      "image": "img/2020-june-7405-3/q15.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q15.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q16",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "16",
+      "questionNumber": "16",
+      "page": 21,
+      "marks": 1,
+      "topics": [
+        "3.2.3"
+      ],
+      "skills": [],
+      "summary": "Which shows the major product(s) formed when chlorine reacts with cold, dilute, aqueous NaOH?",
+      "specRef": "3.2.3",
+      "image": "img/2020-june-7405-3/q16.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q16.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q17",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "17",
+      "questionNumber": "17",
+      "page": 22,
+      "marks": 1,
+      "topics": [
+        "3.2.5"
+      ],
+      "skills": [],
+      "summary": "Which shows the electron configuration of an atom of a transition metal?",
+      "specRef": "3.2.5",
+      "image": "img/2020-june-7405-3/q17.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q17.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q18",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "18",
+      "questionNumber": "18",
+      "page": 22,
+      "marks": 1,
+      "topics": [
+        "3.2.5"
+      ],
+      "skills": [],
+      "summary": "Which will not act as a ligand in the formation of a complex ion?",
+      "specRef": "3.2.5",
+      "image": "img/2020-june-7405-3/q18.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q18.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q19",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "19",
+      "questionNumber": "19",
+      "page": 22,
+      "marks": 1,
+      "topics": [
+        "3.2.5"
+      ],
+      "skills": [],
+      "summary": "Which shows the correct oxidation state and co-ordination number of cobalt in [Co(NH3)5Cl]Cl2?",
+      "specRef": "3.2.5",
+      "image": "img/2020-june-7405-3/q19.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q19.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q20",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "20",
+      "questionNumber": "20",
+      "page": 23,
+      "marks": 1,
+      "topics": [
+        "3.2.5"
+      ],
+      "skills": [],
+      "summary": "Which statement about shapes of complexes/ions is not correct?",
+      "specRef": "3.2.5",
+      "image": "img/2020-june-7405-3/q20.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q20.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q21",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "21",
+      "questionNumber": "21",
+      "page": 23,
+      "marks": 1,
+      "topics": [
+        "3.2.5"
+      ],
+      "skills": [],
+      "summary": "Which compound decolourises acidified potassium manganate(VII) solution?",
+      "specRef": "3.2.5",
+      "image": "img/2020-june-7405-3/q21.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q21.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q22",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "22",
+      "questionNumber": "22",
+      "page": 23,
+      "marks": 1,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [],
+      "summary": "Which has E-Z isomers?",
+      "specRef": "3.3.1",
+      "image": "img/2020-june-7405-3/q22.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q22.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q23",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "23",
+      "questionNumber": "23",
+      "page": 24,
+      "marks": 1,
+      "topics": [
+        "3.3.3"
+      ],
+      "skills": [],
+      "summary": "Which is the mechanism for converting methylbenzene to (chloromethyl)benzene?",
+      "specRef": "3.3.3",
+      "image": "img/2020-june-7405-3/q23.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q23.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q24",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "24",
+      "questionNumber": "24",
+      "page": 24,
+      "marks": 1,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [],
+      "summary": "Which compound decolourises bromine water in the absence of sunlight?",
+      "specRef": "3.3.4",
+      "image": "img/2020-june-7405-3/q24.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q24.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q25",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "25",
+      "questionNumber": "25",
+      "page": 24,
+      "marks": 1,
+      "topics": [
+        "3.3.5"
+      ],
+      "skills": [],
+      "summary": "Which compound reacts to form a ketone when warmed with acidified potassium dichromate(VI)?",
+      "specRef": "3.3.5",
+      "image": "img/2020-june-7405-3/q25.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q25.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q26",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "26",
+      "questionNumber": "26",
+      "page": 25,
+      "marks": 1,
+      "topics": [
+        "3.3.7"
+      ],
+      "skills": [],
+      "summary": "Which does not contain an asymmetric carbon atom?",
+      "specRef": "3.3.7",
+      "image": "img/2020-june-7405-3/q26.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q26.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q27",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "27",
+      "questionNumber": "27",
+      "page": 25,
+      "marks": 1,
+      "topics": [
+        "3.3.9"
+      ],
+      "skills": [],
+      "summary": "Which reaction involves addition-elimination?",
+      "specRef": "3.3.9",
+      "image": "img/2020-june-7405-3/q27.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q27.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q28",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "28",
+      "questionNumber": "28",
+      "page": 25,
+      "marks": 1,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [],
+      "summary": "Which compound reacts with HBr to give 2-bromo-3-methylbutane as the major product?",
+      "specRef": "3.3.4",
+      "image": "img/2020-june-7405-3/q28.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q28.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q29",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "29",
+      "questionNumber": "29",
+      "page": 26,
+      "marks": 1,
+      "topics": [
+        "3.3.12"
+      ],
+      "skills": [],
+      "summary": "Which forms a polymer with ClOC(CH2)8COCl?",
+      "specRef": "3.3.12",
+      "image": "img/2020-june-7405-3/q29.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q29.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q30",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "30",
+      "questionNumber": "30",
+      "page": 26,
+      "marks": 1,
+      "topics": [
+        "3.3.13"
+      ],
+      "skills": [],
+      "summary": "Which structure shows the zwitterion of an amino acid?",
+      "specRef": "3.3.13",
+      "image": "img/2020-june-7405-3/q30.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q30.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q31",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "31",
+      "questionNumber": "31",
+      "page": 26,
+      "marks": 1,
+      "topics": [
+        "3.2.5"
+      ],
+      "skills": [],
+      "summary": "What is the minimum volume of 0.02 mol dm-3 KMnO4 needed to oxidise 0.01 mol VO2+?",
+      "specRef": "3.2.5",
+      "image": "img/2020-june-7405-3/q31.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q31.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q32",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "32",
+      "questionNumber": "32",
+      "page": 27,
+      "marks": 1,
+      "topics": [
+        "3.1.12"
+      ],
+      "skills": [],
+      "summary": "Which is the concentration of NaOH(aq) that has pH = 14.30?",
+      "specRef": "3.1.12",
+      "image": "img/2020-june-7405-3/q32.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q32.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q33",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "33",
+      "questionNumber": "33",
+      "page": 27,
+      "marks": 1,
+      "topics": [
+        "3.1.9"
+      ],
+      "skills": [],
+      "summary": "What are the units of the rate constant for a third order reaction?",
+      "specRef": "3.1.9",
+      "image": "img/2020-june-7405-3/q33.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q33.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q34",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "34",
+      "questionNumber": "34",
+      "page": 27,
+      "marks": 1,
+      "topics": [
+        "3.1.12"
+      ],
+      "skills": [],
+      "summary": "What is the pH of 0.015 mol dm-3 sulfuric acid?",
+      "specRef": "3.1.12",
+      "image": "img/2020-june-7405-3/q34.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q34.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q35",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "35",
+      "questionNumber": "35",
+      "page": 28,
+      "marks": 1,
+      "topics": [
+        "3.3.9"
+      ],
+      "skills": [],
+      "summary": "Which compound is formed when phenyl benzenecarboxylate is hydrolysed under acidic conditions?",
+      "specRef": "3.3.9",
+      "image": "img/2020-june-7405-3/q35.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q35.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7405-3-q36",
+      "paper": "2020-june-7405-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "36",
+      "questionNumber": "36",
+      "page": 28,
+      "marks": 1,
+      "topics": [
+        "RP"
+      ],
+      "skills": [],
+      "summary": "Which rinsing error explains a larger than expected titre volume?",
+      "specRef": "RP",
+      "image": "img/2020-june-7405-3/q36.jpg",
+      "markscheme": "img/2020-june-7405-3/ms/q36.png",
       "figures": []
     }
   ]
