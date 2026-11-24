@@ -1516,6 +1516,28 @@
       "date": "2012-02-01",
       "totalMarks": 100,
       "duration": "1 hour 45 minutes"
+    },
+    {
+      "id": "2012-june-chem1",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "title": "CHEM1 – Foundation Chemistry",
+      "date": "2012-05-15",
+      "totalMarks": 70,
+      "duration": "1 hour 15 minutes"
+    },
+    {
+      "id": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "title": "CHEM2 – Chemistry in Action",
+      "date": "2012-05-23",
+      "totalMarks": 100,
+      "duration": "1 hour 45 minutes"
     }
   ],
   "questions": [
@@ -77521,6 +77543,2235 @@
       "specRef": "3.5.4",
       "image": "img/2012-jan-chem5/q8eii.jpg",
       "markscheme": "img/2012-jan-chem5/ms/q8eii.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem1-q1a",
+      "paper": "2012-june-chem1",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "1(a)",
+      "questionNumber": "1(a)",
+      "page": 2,
+      "marks": 2,
+      "topics": [
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State the number of protons and the number of neutrons in an atom of 85Rb.",
+      "specRef": "3.1.1",
+      "image": "img/2012-june-chem1/q1a.jpg",
+      "markscheme": "img/2012-june-chem1/ms/q1a.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem1-q1bi",
+      "paper": "2012-june-chem1",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "1(b)(i)",
+      "questionNumber": "1(b)(i)",
+      "page": 2,
+      "marks": 2,
+      "topics": [
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Explain how gaseous atoms of rubidium are ionised in a mass spectrometer.",
+      "specRef": "3.1.1",
+      "image": "img/2012-june-chem1/q1bi.jpg",
+      "markscheme": "img/2012-june-chem1/ms/q1bi.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem1-q1bii",
+      "paper": "2012-june-chem1",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "1(b)(ii)",
+      "questionNumber": "1(b)(ii)",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Write an equation, including state symbols, for the first ionisation energy of rubidium.",
+      "specRef": "3.1.1",
+      "image": "img/2012-june-chem1/q1bii.jpg",
+      "markscheme": "img/2012-june-chem1/ms/q1bii.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem1-q1c",
+      "paper": "2012-june-chem1",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "1(c)",
+      "questionNumber": "1(c)",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "Atomic Structure",
+        "Periodicity"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "State one reason why the first ionisation energy of rubidium is lower than that of sodium.",
+      "specRef": "3.1.1",
+      "image": "img/2012-june-chem1/q1c.jpg",
+      "markscheme": "img/2012-june-chem1/ms/q1c.png",
+      "figures": [
+        "img/2012-june-chem1/fig-q1c-table.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          558,
+          630
+        ]
+      ]
+    },
+    {
+      "id": "2012-june-chem1-q1di",
+      "paper": "2012-june-chem1",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "1(d)(i)",
+      "questionNumber": "1(d)(i)",
+      "page": 3,
+      "marks": 1,
+      "topics": [
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State the block of elements in the Periodic Table that contains rubidium.",
+      "specRef": "3.1.1",
+      "image": "img/2012-june-chem1/q1di.jpg",
+      "markscheme": "img/2012-june-chem1/ms/q1di.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem1-q1dii",
+      "paper": "2012-june-chem1",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "1(d)(ii)",
+      "questionNumber": "1(d)(ii)",
+      "page": 3,
+      "marks": 1,
+      "topics": [
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Deduce the full electron configuration of a rubidium atom.",
+      "specRef": "3.1.1",
+      "image": "img/2012-june-chem1/q1dii.jpg",
+      "markscheme": "img/2012-june-chem1/ms/q1dii.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem1-q1e",
+      "paper": "2012-june-chem1",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "1(e)",
+      "questionNumber": "1(e)",
+      "page": 3,
+      "marks": 3,
+      "topics": [
+        "Atomic Structure",
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the relative atomic mass of a sample of rubidium where 85Rb has an abundance 2.5 times greater than 87Rb.",
+      "specRef": "3.1.1",
+      "image": "img/2012-june-chem1/q1e.jpg",
+      "markscheme": "img/2012-june-chem1/ms/q1e.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem1-q1f",
+      "paper": "2012-june-chem1",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "1(f)",
+      "questionNumber": "1(f)",
+      "page": 3,
+      "marks": 2,
+      "topics": [
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Explain how the abundance of an isotope is determined in a mass spectrometer.",
+      "specRef": "3.1.1",
+      "image": "img/2012-june-chem1/q1f.jpg",
+      "markscheme": "img/2012-june-chem1/ms/q1f.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem1-q1g",
+      "paper": "2012-june-chem1",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "1(g)",
+      "questionNumber": "1(g)",
+      "page": 3,
+      "marks": 3,
+      "topics": [
+        "Periodicity",
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Predict and explain how the atomic radius of 88Sr compares to that of 87Rb.",
+      "specRef": "3.1.4",
+      "image": "img/2012-june-chem1/q1g.jpg",
+      "markscheme": "img/2012-june-chem1/ms/q1g.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem1-q2ai",
+      "paper": "2012-june-chem1",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "2(a)(i)",
+      "questionNumber": "2(a)(i)",
+      "page": 4,
+      "marks": 1,
+      "topics": [
+        "Alkanes"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Deduce the general formula of the homologous series that contains compound X (but-2-ene).",
+      "specRef": "3.1.5",
+      "image": "img/2012-june-chem1/q2ai.jpg",
+      "markscheme": "img/2012-june-chem1/ms/q2ai.png",
+      "figures": [
+        "img/2012-june-chem1/fig-q2-x.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          108,
+          176
+        ]
+      ]
+    },
+    {
+      "id": "2012-june-chem1-q2aii",
+      "paper": "2012-june-chem1",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "2(a)(ii)",
+      "questionNumber": "2(a)(ii)",
+      "page": 4,
+      "marks": 1,
+      "topics": [
+        "Alkanes"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Name a process used to obtain a sample of X from a mixture containing other members of the same homologous series.",
+      "specRef": "3.1.5",
+      "image": "img/2012-june-chem1/q2aii.jpg",
+      "markscheme": "img/2012-june-chem1/ms/q2aii.png",
+      "figures": [
+        "img/2012-june-chem1/fig-q2-x.jpg"
+      ]
+    },
+    {
+      "id": "2012-june-chem1-q2bi",
+      "paper": "2012-june-chem1",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "2(b)(i)",
+      "questionNumber": "2(b)(i)",
+      "page": 4,
+      "marks": 1,
+      "topics": [
+        "Introduction to Organic Chemistry"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Give the IUPAC name of the position isomer of X (but-2-ene).",
+      "specRef": "3.1.5",
+      "image": "img/2012-june-chem1/q2bi.jpg",
+      "markscheme": "img/2012-june-chem1/ms/q2bi.png",
+      "figures": [
+        "img/2012-june-chem1/fig-q2-x.jpg"
+      ]
+    },
+    {
+      "id": "2012-june-chem1-q2bii",
+      "paper": "2012-june-chem1",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "2(b)(ii)",
+      "questionNumber": "2(b)(ii)",
+      "page": 4,
+      "marks": 1,
+      "topics": [
+        "Introduction to Organic Chemistry"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw the structure of a functional group isomer of X (but-2-ene).",
+      "specRef": "3.1.5",
+      "image": "img/2012-june-chem1/q2bii.jpg",
+      "markscheme": "img/2012-june-chem1/ms/q2bii.png",
+      "figures": [
+        "img/2012-june-chem1/fig-q2-x.jpg"
+      ]
+    },
+    {
+      "id": "2012-june-chem1-q2ci",
+      "paper": "2012-june-chem1",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "2(c)(i)",
+      "questionNumber": "2(c)(i)",
+      "page": 4,
+      "marks": 1,
+      "topics": [
+        "Alkanes"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Write an equation for the cracking of one molecule of C15H32 into two molecules of X and one molecule of another compound.",
+      "specRef": "3.1.6",
+      "image": "img/2012-june-chem1/q2ci.jpg",
+      "markscheme": "img/2012-june-chem1/ms/q2ci.png",
+      "figures": [
+        "img/2012-june-chem1/fig-q2-x.jpg"
+      ]
+    },
+    {
+      "id": "2012-june-chem1-q2cii",
+      "paper": "2012-june-chem1",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "2(c)(ii)",
+      "questionNumber": "2(c)(ii)",
+      "page": 5,
+      "marks": 2,
+      "topics": [
+        "Alkanes"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State the name of the cracking process used to obtain a high yield of X from C15H32 and give one reason why it is used in industry.",
+      "specRef": "3.1.6",
+      "image": "img/2012-june-chem1/q2cii.jpg",
+      "markscheme": "img/2012-june-chem1/ms/q2cii.png",
+      "figures": [
+        "img/2012-june-chem1/fig-q2-x.jpg"
+      ]
+    },
+    {
+      "id": "2012-june-chem1-q2ciii",
+      "paper": "2012-june-chem1",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "2(c)(iii)",
+      "questionNumber": "2(c)(iii)",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "Alkanes"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State why high temperatures are needed for thermal cracking.",
+      "specRef": "3.1.6",
+      "image": "img/2012-june-chem1/q2ciii.jpg",
+      "markscheme": "img/2012-june-chem1/ms/q2ciii.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem1-q2di",
+      "paper": "2012-june-chem1",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "2(d)(i)",
+      "questionNumber": "2(d)(i)",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "Alkanes"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Suggest the formula of a reagent added to X (but-2-ene) to convert it into Y (butane).",
+      "specRef": "3.1.6",
+      "image": "img/2012-june-chem1/q2di.jpg",
+      "markscheme": "img/2012-june-chem1/ms/q2di.png",
+      "figures": [
+        "img/2012-june-chem1/fig-q2d-y.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          334,
+          404
+        ]
+      ]
+    },
+    {
+      "id": "2012-june-chem1-q2dii",
+      "paper": "2012-june-chem1",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "2(d)(ii)",
+      "questionNumber": "2(d)(ii)",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "Alkanes"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Give one use of compound Y (butane).",
+      "specRef": "3.1.6",
+      "image": "img/2012-june-chem1/q2dii.jpg",
+      "markscheme": "img/2012-june-chem1/ms/q2dii.png",
+      "figures": [
+        "img/2012-june-chem1/fig-q2d-y.jpg"
+      ]
+    },
+    {
+      "id": "2012-june-chem1-q2diii",
+      "paper": "2012-june-chem1",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "2(d)(iii)",
+      "questionNumber": "2(d)(iii)",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "Alkanes"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Write an equation for the incomplete combustion of Y (butane) to produce a solid and water only.",
+      "specRef": "3.1.6",
+      "image": "img/2012-june-chem1/q2diii.jpg",
+      "markscheme": "img/2012-june-chem1/ms/q2diii.png",
+      "figures": [
+        "img/2012-june-chem1/fig-q2d-y.jpg"
+      ]
+    },
+    {
+      "id": "2012-june-chem1-q2div",
+      "paper": "2012-june-chem1",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "2(d)(iv)",
+      "questionNumber": "2(d)(iv)",
+      "page": 6,
+      "marks": 2,
+      "topics": [
+        "Alkanes"
+      ],
+      "skills": [
+        "Knowledge & Recall",
+        "Application"
+      ],
+      "summary": "Identify the toxic gas formed when Y contaminated with CH3SH is burned and suggest a compound to remove it.",
+      "specRef": "3.1.6",
+      "image": "img/2012-june-chem1/q2div.jpg",
+      "markscheme": "img/2012-june-chem1/ms/q2div.png",
+      "figures": [
+        "img/2012-june-chem1/fig-q2d-y.jpg"
+      ]
+    },
+    {
+      "id": "2012-june-chem1-q2dv",
+      "paper": "2012-june-chem1",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "2(d)(v)",
+      "questionNumber": "2(d)(v)",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "Alkanes"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Name the process that occurs when SO2 is removed using calcium oxide.",
+      "specRef": "3.1.6",
+      "image": "img/2012-june-chem1/q2dv.jpg",
+      "markscheme": "img/2012-june-chem1/ms/q2dv.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem1-q2e",
+      "paper": "2012-june-chem1",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "2(e)",
+      "questionNumber": "2(e)",
+      "page": 6,
+      "marks": 2,
+      "topics": [
+        "Bonding",
+        "Alkanes"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Explain why the boiling points of X (but-2-ene) and Y (butane) are similar.",
+      "specRef": "3.1.3",
+      "image": "img/2012-june-chem1/q2e.jpg",
+      "markscheme": "img/2012-june-chem1/ms/q2e.png",
+      "figures": [
+        "img/2012-june-chem1/fig-q2-x.jpg",
+        "img/2012-june-chem1/fig-q2d-y.jpg"
+      ]
+    },
+    {
+      "id": "2012-june-chem1-q3a",
+      "paper": "2012-june-chem1",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "3(a)",
+      "questionNumber": "3(a)",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw the shape of the PH3 molecule including any lone pairs of electrons.",
+      "specRef": "3.1.3",
+      "image": "img/2012-june-chem1/q3a.jpg",
+      "markscheme": "img/2012-june-chem1/ms/q3a.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem1-q3b",
+      "paper": "2012-june-chem1",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "3(b)",
+      "questionNumber": "3(b)",
+      "page": 7,
+      "marks": 2,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State the type of bond formed between PH3 and H+ and explain how it is formed.",
+      "specRef": "3.1.3",
+      "image": "img/2012-june-chem1/q3b.jpg",
+      "markscheme": "img/2012-june-chem1/ms/q3b.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem1-q3c",
+      "paper": "2012-june-chem1",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "3(c)",
+      "questionNumber": "3(c)",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Predict the bond angle in the PH4+ ion.",
+      "specRef": "3.1.3",
+      "image": "img/2012-june-chem1/q3c.jpg",
+      "markscheme": "img/2012-june-chem1/ms/q3c.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem1-q3d",
+      "paper": "2012-june-chem1",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "3(d)",
+      "questionNumber": "3(d)",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Explain why there is no hydrogen bonding between phosphine (PH3) molecules.",
+      "specRef": "3.1.3",
+      "image": "img/2012-june-chem1/q3d.jpg",
+      "markscheme": "img/2012-june-chem1/ms/q3d.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem1-q4ai",
+      "paper": "2012-june-chem1",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "4(a)(i)",
+      "questionNumber": "4(a)(i)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Deduce the type of crystal structure shown by graphene.",
+      "specRef": "3.1.3",
+      "image": "img/2012-june-chem1/q4ai.jpg",
+      "markscheme": "img/2012-june-chem1/ms/q4ai.png",
+      "figures": [
+        "img/2012-june-chem1/fig-q4a-graphene.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          130,
+          374
+        ]
+      ]
+    },
+    {
+      "id": "2012-june-chem1-q4aii",
+      "paper": "2012-june-chem1",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "4(a)(ii)",
+      "questionNumber": "4(a)(ii)",
+      "page": 8,
+      "marks": 2,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Suggest why graphene is an excellent conductor of electricity.",
+      "specRef": "3.1.3",
+      "image": "img/2012-june-chem1/q4aii.jpg",
+      "markscheme": "img/2012-june-chem1/ms/q4aii.png",
+      "figures": [
+        "img/2012-june-chem1/fig-q4a-graphene.jpg"
+      ]
+    },
+    {
+      "id": "2012-june-chem1-q4aiii",
+      "paper": "2012-june-chem1",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "4(a)(iii)",
+      "questionNumber": "4(a)(iii)",
+      "page": 8,
+      "marks": 2,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Explain, in terms of its structure and bonding, why graphene has a high melting point.",
+      "specRef": "3.1.3",
+      "image": "img/2012-june-chem1/q4aiii.jpg",
+      "markscheme": "img/2012-june-chem1/ms/q4aiii.png",
+      "figures": [
+        "img/2012-june-chem1/fig-q4a-graphene.jpg"
+      ]
+    },
+    {
+      "id": "2012-june-chem1-q4bi",
+      "paper": "2012-june-chem1",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "4(b)(i)",
+      "questionNumber": "4(b)(i)",
+      "page": 9,
+      "marks": 1,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State the type of crystal structure shown by titanium.",
+      "specRef": "3.1.3",
+      "image": "img/2012-june-chem1/q4bi.jpg",
+      "markscheme": "img/2012-june-chem1/ms/q4bi.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem1-q4bii",
+      "paper": "2012-june-chem1",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "4(b)(ii)",
+      "questionNumber": "4(b)(ii)",
+      "page": 9,
+      "marks": 2,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Explain, in terms of its structure and bonding, why titanium has a high melting point.",
+      "specRef": "3.1.3",
+      "image": "img/2012-june-chem1/q4bii.jpg",
+      "markscheme": "img/2012-june-chem1/ms/q4bii.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem1-q4ci",
+      "paper": "2012-june-chem1",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "4(c)(i)",
+      "questionNumber": "4(c)(i)",
+      "page": 9,
+      "marks": 1,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Suggest why titanium can be hammered into different shapes.",
+      "specRef": "3.1.3",
+      "image": "img/2012-june-chem1/q4ci.jpg",
+      "markscheme": "img/2012-june-chem1/ms/q4ci.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem1-q4cii",
+      "paper": "2012-june-chem1",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "4(c)(ii)",
+      "questionNumber": "4(c)(ii)",
+      "page": 9,
+      "marks": 1,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Suggest why objects hammered from titanium into different shapes have similar strengths.",
+      "specRef": "3.1.3",
+      "image": "img/2012-june-chem1/q4cii.jpg",
+      "markscheme": "img/2012-june-chem1/ms/q4cii.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem1-q4d",
+      "paper": "2012-june-chem1",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "4(d)",
+      "questionNumber": "4(d)",
+      "page": 9,
+      "marks": 3,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Predict the type of crystal structure in magnesium oxide and suggest why its melting point (3125 K) is high.",
+      "specRef": "3.1.3",
+      "image": "img/2012-june-chem1/q4d.jpg",
+      "markscheme": "img/2012-june-chem1/ms/q4d.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem1-q5a",
+      "paper": "2012-june-chem1",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "5(a)",
+      "questionNumber": "5(a)",
+      "page": 10,
+      "marks": 5,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Use pV = nRT to calculate the mass of B2O3 that reacted when the total gas volume produced is 5000 cm3 at 100 kPa and 298 K.",
+      "specRef": "3.1.2",
+      "image": "img/2012-june-chem1/q5a.jpg",
+      "markscheme": "img/2012-june-chem1/ms/q5a.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem1-q5b",
+      "paper": "2012-june-chem1",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "5(b)",
+      "questionNumber": "5(b)",
+      "page": 11,
+      "marks": 3,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Knowledge & Recall",
+        "Explanation"
+      ],
+      "summary": "Write an equation to prepare BCl3 from its elements and explain why BCl3 has a trigonal planar shape with equal bond angles.",
+      "specRef": "3.1.3",
+      "image": "img/2012-june-chem1/q5b.jpg",
+      "markscheme": "img/2012-june-chem1/ms/q5b.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem1-q5ci",
+      "paper": "2012-june-chem1",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "5(c)(i)",
+      "questionNumber": "5(c)(i)",
+      "page": 11,
+      "marks": 4,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the concentration of HCl produced when 43.2 g of BCl3 is added to water to form 500 cm3 of solution.",
+      "specRef": "3.1.2",
+      "image": "img/2012-june-chem1/q5ci.jpg",
+      "markscheme": "img/2012-june-chem1/ms/q5ci.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem1-q5cii",
+      "paper": "2012-june-chem1",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "5(c)(ii)",
+      "questionNumber": "5(c)(ii)",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Write an equation for the reaction of boric acid (H3BO3) with sodium hydroxide to form sodium borate and water.",
+      "specRef": "3.1.2",
+      "image": "img/2012-june-chem1/q5cii.jpg",
+      "markscheme": "img/2012-june-chem1/ms/q5cii.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem1-q5d",
+      "paper": "2012-june-chem1",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "5(d)",
+      "questionNumber": "5(d)",
+      "page": 12,
+      "marks": 3,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Calculation",
+        "Application"
+      ],
+      "summary": "Calculate the percentage atom economy for the formation of boron from BCl3 and H2, and suggest how a company could increase profits.",
+      "specRef": "3.1.2",
+      "image": "img/2012-june-chem1/q5d.jpg",
+      "markscheme": "img/2012-june-chem1/ms/q5d.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem1-q5e",
+      "paper": "2012-june-chem1",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "5(e)",
+      "questionNumber": "5(e)",
+      "page": 12,
+      "marks": 4,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the molecular formula of a compound of boron and chlorine with Mr = 163.6 and 13.2% boron by mass.",
+      "specRef": "3.1.2",
+      "image": "img/2012-june-chem1/q5e.jpg",
+      "markscheme": "img/2012-june-chem1/ms/q5e.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem2-q1a",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "1(a)",
+      "questionNumber": "1(a)",
+      "page": 2,
+      "marks": 2,
+      "topics": [
+        "Kinetics"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw a curve on Figure 1 for the decomposition of 100 cm3 of 2.0 mol dm-3 H2O2 at 298 K.",
+      "specRef": "3.2.2",
+      "image": "img/2012-june-chem2/q1a.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q1a.png",
+      "figures": [
+        "img/2012-june-chem2/fig-q1a-fig1.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          276,
+          475
+        ]
+      ]
+    },
+    {
+      "id": "2012-june-chem2-q1b",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "1(b)",
+      "questionNumber": "1(b)",
+      "page": 2,
+      "marks": 2,
+      "topics": [
+        "Kinetics"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw a curve on Figure 2 for the decomposition of 100 cm3 of 0.4 mol dm-3 H2O2 at 298 K.",
+      "specRef": "3.2.2",
+      "image": "img/2012-june-chem2/q1b.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q1b.png",
+      "figures": [
+        "img/2012-june-chem2/fig-q1b-fig2.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          550,
+          748
+        ]
+      ]
+    },
+    {
+      "id": "2012-june-chem2-q1c",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "1(c)",
+      "questionNumber": "1(c)",
+      "page": 3,
+      "marks": 2,
+      "topics": [
+        "Kinetics"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw a curve on Figure 3 for the original experiment repeated at a temperature higher than 298 K.",
+      "specRef": "3.2.2",
+      "image": "img/2012-june-chem2/q1c.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q1c.png",
+      "figures": [
+        "img/2012-june-chem2/fig-q1c-fig3.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          134,
+          332
+        ]
+      ]
+    },
+    {
+      "id": "2012-june-chem2-q1d",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "1(d)",
+      "questionNumber": "1(d)",
+      "page": 3,
+      "marks": 2,
+      "topics": [
+        "Kinetics"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Explain why the slope (gradient) of curve R decreases as time increases.",
+      "specRef": "3.2.2",
+      "image": "img/2012-june-chem2/q1d.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q1d.png",
+      "figures": [
+        "img/2012-june-chem2/fig-q1c-fig3.jpg"
+      ]
+    },
+    {
+      "id": "2012-june-chem2-q1ei",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "1(e)(i)",
+      "questionNumber": "1(e)(i)",
+      "page": 4,
+      "marks": 1,
+      "topics": [
+        "Kinetics"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Write an equation for the overall decomposition of hydrogen peroxide catalysed by HBr.",
+      "specRef": "3.2.2",
+      "image": "img/2012-june-chem2/q1ei.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q1ei.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem2-q1eii",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "1(e)(ii)",
+      "questionNumber": "1(e)(ii)",
+      "page": 4,
+      "marks": 1,
+      "topics": [
+        "Kinetics"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Give one reason, other than the increase in rate, why HBr behaves as a catalyst in this two-step reaction.",
+      "specRef": "3.2.2",
+      "image": "img/2012-june-chem2/q1eii.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q1eii.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem2-q2ai",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "2(a)(i)",
+      "questionNumber": "2(a)(i)",
+      "page": 6,
+      "marks": 3,
+      "topics": [
+        "Energetics"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the standard enthalpy change for the synthesis of methanol from CO2 and H2 using standard enthalpies of formation.",
+      "specRef": "3.2.1",
+      "image": "img/2012-june-chem2/q2ai.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q2ai.png",
+      "figures": [
+        "img/2012-june-chem2/fig-q2a-table.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          122,
+          192
+        ]
+      ]
+    },
+    {
+      "id": "2012-june-chem2-q2aii",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "2(a)(ii)",
+      "questionNumber": "2(a)(ii)",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "Energetics"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State why the standard enthalpy of formation for hydrogen gas is zero.",
+      "specRef": "3.2.1",
+      "image": "img/2012-june-chem2/q2aii.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q2aii.png",
+      "figures": [
+        "img/2012-june-chem2/fig-q2a-table.jpg"
+      ]
+    },
+    {
+      "id": "2012-june-chem2-q2b",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "2(b)",
+      "questionNumber": "2(b)",
+      "page": 7,
+      "marks": 3,
+      "topics": [
+        "Equilibria"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "State and explain what happens to the yield of methanol when the total pressure is increased.",
+      "specRef": "3.2.3",
+      "image": "img/2012-june-chem2/q2b.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q2b.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem2-q2c",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "2(c)",
+      "questionNumber": "2(c)",
+      "page": 7,
+      "marks": 3,
+      "topics": [
+        "Equilibria"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "State and explain what happens to the yield of hydrogen in CH4 + H2O <=> CO + 3H2 (Delta H = +206) when temperature is increased.",
+      "specRef": "3.2.3",
+      "image": "img/2012-june-chem2/q2c.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q2c.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem2-q2di",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "2(d)(i)",
+      "questionNumber": "2(d)(i)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "Alcohols",
+        "Energetics"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State the meaning of the term carbon-neutral.",
+      "specRef": "3.2.10",
+      "image": "img/2012-june-chem2/q2di.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q2di.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem2-q2dii",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "2(d)(ii)",
+      "questionNumber": "2(d)(ii)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "Alcohols"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Write an equation for the complete combustion of methanol.",
+      "specRef": "3.2.10",
+      "image": "img/2012-june-chem2/q2dii.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q2dii.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem2-q2diii",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "2(d)(iii)",
+      "questionNumber": "2(d)(iii)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "Alcohols",
+        "Energetics"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Deduce an equation for the overall chemical change when methanol behaves as a carbon-neutral fuel.",
+      "specRef": "3.2.10",
+      "image": "img/2012-june-chem2/q2diii.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q2diii.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem2-q2e",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "2(e)",
+      "questionNumber": "2(e)",
+      "page": 9,
+      "marks": 3,
+      "topics": [
+        "Energetics"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the enthalpy change of combustion of methanol when 0.011 mol warms 140 g of water by 7.5 C.",
+      "specRef": "3.2.1",
+      "image": "img/2012-june-chem2/q2e.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q2e.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem2-q3a",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "3(a)",
+      "questionNumber": "3(a)",
+      "page": 10,
+      "marks": 1,
+      "topics": [
+        "Redox"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Complete the balanced equation for the manufacture of phosphorus from Ca5F(PO4)3.",
+      "specRef": "3.2.4",
+      "image": "img/2012-june-chem2/q3a.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q3a.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem2-q3b",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "3(b)",
+      "questionNumber": "3(b)",
+      "page": 10,
+      "marks": 2,
+      "topics": [
+        "Redox"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Give the oxidation state of phosphorus in P4 and in H3PO4.",
+      "specRef": "3.2.4",
+      "image": "img/2012-june-chem2/q3b.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q3b.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem2-q3c",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "3(c)",
+      "questionNumber": "3(c)",
+      "page": 10,
+      "marks": 1,
+      "topics": [
+        "Analytical Techniques"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Use precise relative atomic mass data to show how mass spectrometry distinguishes between H2SO4 and H3PO4.",
+      "specRef": "3.2.11",
+      "image": "img/2012-june-chem2/q3c.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q3c.png",
+      "figures": [
+        "img/2012-june-chem2/fig-q3c-table.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          398,
+          552
+        ]
+      ]
+    },
+    {
+      "id": "2012-june-chem2-q3di",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "3(d)(i)",
+      "questionNumber": "3(d)(i)",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "Kinetics"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State the meaning of the term catalyst.",
+      "specRef": "3.2.2",
+      "image": "img/2012-june-chem2/q3di.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q3di.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem2-q3dii",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "3(d)(ii)",
+      "questionNumber": "3(d)(ii)",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "Alkenes",
+        "Alcohols"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State the meaning of the term hydration.",
+      "specRef": "3.2.10",
+      "image": "img/2012-june-chem2/q3dii.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q3dii.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem2-q3diii",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "3(d)(iii)",
+      "questionNumber": "3(d)(iii)",
+      "page": 11,
+      "marks": 2,
+      "topics": [
+        "Alkenes",
+        "Alcohols"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Write an equation for the hydration of propene to form isopropyl alcohol and give its IUPAC name.",
+      "specRef": "3.2.10",
+      "image": "img/2012-june-chem2/q3diii.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q3diii.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem2-q4a",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "4(a)",
+      "questionNumber": "4(a)",
+      "page": 12,
+      "marks": 1,
+      "topics": [
+        "Extraction of Metals"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Give one reason why titanium cannot be extracted directly from titanium(IV) oxide using carbon.",
+      "specRef": "3.2.7",
+      "image": "img/2012-june-chem2/q4a.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q4a.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem2-q4bi",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "4(b)(i)",
+      "questionNumber": "4(b)(i)",
+      "page": 12,
+      "marks": 1,
+      "topics": [
+        "Extraction of Metals"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Write an equation for the reaction of FeTiO3 with chlorine and carbon to produce FeCl3, TiCl4, and CO.",
+      "specRef": "3.2.7",
+      "image": "img/2012-june-chem2/q4bi.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q4bi.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem2-q4bii",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "4(b)(ii)",
+      "questionNumber": "4(b)(ii)",
+      "page": 12,
+      "marks": 1,
+      "topics": [
+        "Extraction of Metals"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Write an equation for the simultaneous reduction of FeCl3 and TiCl4 to iron and titanium using sodium.",
+      "specRef": "3.2.7",
+      "image": "img/2012-june-chem2/q4bii.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q4bii.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem2-q4c",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "4(c)",
+      "questionNumber": "4(c)",
+      "page": 13,
+      "marks": 2,
+      "topics": [
+        "Extraction of Metals",
+        "Redox"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Explain in terms of redox what happens to copper(II) ions when scrap iron is used to extract copper.",
+      "specRef": "3.2.7",
+      "image": "img/2012-june-chem2/q4c.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q4c.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem2-q4d",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "4(d)",
+      "questionNumber": "4(d)",
+      "page": 13,
+      "marks": 1,
+      "topics": [
+        "Extraction of Metals"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Write the half-equation for the reaction at the positive electrode during the electrolysis of molten aluminium oxide.",
+      "specRef": "3.2.7",
+      "image": "img/2012-june-chem2/q4d.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q4d.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem2-q5ai",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "5(a)(i)",
+      "questionNumber": "5(a)(i)",
+      "page": 14,
+      "marks": 1,
+      "topics": [
+        "Group 2"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Write an equation for the reaction of barium with water.",
+      "specRef": "3.2.6",
+      "image": "img/2012-june-chem2/q5ai.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q5ai.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem2-q5aii",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "5(a)(ii)",
+      "questionNumber": "5(a)(ii)",
+      "page": 14,
+      "marks": 1,
+      "topics": [
+        "Group 2"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State the trend in reactivity with water of the Group 2 metals from Mg to Ba.",
+      "specRef": "3.2.6",
+      "image": "img/2012-june-chem2/q5aii.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q5aii.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem2-q5b",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "5(b)",
+      "questionNumber": "5(b)",
+      "page": 14,
+      "marks": 1,
+      "topics": [
+        "Group 2"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Give the formula of the least soluble hydroxide of the Group 2 metals from Mg to Ba.",
+      "specRef": "3.2.6",
+      "image": "img/2012-june-chem2/q5b.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q5b.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem2-q5c",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "5(c)",
+      "questionNumber": "5(c)",
+      "page": 14,
+      "marks": 2,
+      "topics": [
+        "Group 2"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State how barium sulfate is used in medicine and explain why this is safe despite barium ions being poisonous.",
+      "specRef": "3.2.6",
+      "image": "img/2012-june-chem2/q5c.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q5c.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem2-q6ai",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "6(a)(i)",
+      "questionNumber": "6(a)(i)",
+      "page": 15,
+      "marks": 3,
+      "topics": [
+        "Haloalkanes"
+      ],
+      "skills": [
+        "Knowledge & Recall",
+        "Application"
+      ],
+      "summary": "Write equations for the initiation and two propagation steps in the reaction of chlorine with dichloromethane to form trichloromethane.",
+      "specRef": "3.2.8",
+      "image": "img/2012-june-chem2/q6ai.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q6ai.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem2-q6aii",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "6(a)(ii)",
+      "questionNumber": "6(a)(ii)",
+      "page": 15,
+      "marks": 2,
+      "topics": [
+        "Haloalkanes"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Give one essential condition for the reaction of chlorine with dichloromethane and name the type of mechanism.",
+      "specRef": "3.2.8",
+      "image": "img/2012-june-chem2/q6aii.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q6aii.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem2-q6bi",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "6(b)(i)",
+      "questionNumber": "6(b)(i)",
+      "page": 16,
+      "marks": 1,
+      "topics": [
+        "Haloalkanes"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Write an equation for the overall reaction of chlorine with trichloromethane to form X (Mr = 154.0).",
+      "specRef": "3.2.8",
+      "image": "img/2012-june-chem2/q6bi.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q6bi.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem2-q6bii",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "6(b)(ii)",
+      "questionNumber": "6(b)(ii)",
+      "page": 16,
+      "marks": 2,
+      "topics": [
+        "Analytical Techniques",
+        "Haloalkanes"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Use the infrared spectrum of X to explain why this sample of X contains no trichloromethane.",
+      "specRef": "3.2.11",
+      "image": "img/2012-june-chem2/q6bii.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q6bii.png",
+      "figures": [
+        "img/2012-june-chem2/fig-q6bii-spectrum.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          248,
+          444
+        ]
+      ]
+    },
+    {
+      "id": "2012-june-chem2-q6c",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "6(c)",
+      "questionNumber": "6(c)",
+      "page": 17,
+      "marks": 4,
+      "topics": [
+        "Haloalkanes"
+      ],
+      "skills": [
+        "Knowledge & Recall",
+        "Explanation"
+      ],
+      "summary": "Explain, with equations and intermediates, why the EU has banned chlorodifluoromethane (CHClF2) as a refrigerant.",
+      "specRef": "3.2.8",
+      "image": "img/2012-june-chem2/q6c.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q6c.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem2-q6di",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "6(d)(i)",
+      "questionNumber": "6(d)(i)",
+      "page": 17,
+      "marks": 1,
+      "topics": [
+        "Alkenes",
+        "Haloalkanes"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw the displayed formula for 2,3,3,3-tetrafluoropropene.",
+      "specRef": "3.2.9",
+      "image": "img/2012-june-chem2/q6di.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q6di.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem2-q6dii",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "6(d)(ii)",
+      "questionNumber": "6(d)(ii)",
+      "page": 17,
+      "marks": 1,
+      "topics": [
+        "Haloalkanes"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Give one reason why 2,3,3,3-tetrafluoropropene is a more environmentally acceptable refrigerant than chlorodifluoromethane.",
+      "specRef": "3.2.8",
+      "image": "img/2012-june-chem2/q6dii.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q6dii.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem2-q7ai",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "7(a)(i)",
+      "questionNumber": "7(a)(i)",
+      "page": 18,
+      "marks": 3,
+      "topics": [
+        "Haloalkanes",
+        "Alkenes"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Complete the elimination mechanism for 3-bromohexane forming hex-3-ene by drawing curly arrows.",
+      "specRef": "3.2.8",
+      "image": "img/2012-june-chem2/q7ai.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q7ai.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem2-q7aii",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "7(a)(ii)",
+      "questionNumber": "7(a)(ii)",
+      "page": 18,
+      "marks": 2,
+      "topics": [
+        "Alkenes"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw structures for the E and Z stereoisomers of hex-3-ene.",
+      "specRef": "3.2.9",
+      "image": "img/2012-june-chem2/q7aii.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q7aii.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem2-q7aiii",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "7(a)(iii)",
+      "questionNumber": "7(a)(iii)",
+      "page": 18,
+      "marks": 2,
+      "topics": [
+        "Alkenes"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State the meaning of the term stereoisomers.",
+      "specRef": "3.2.9",
+      "image": "img/2012-june-chem2/q7aiii.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q7aiii.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem2-q7b",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "7(b)",
+      "questionNumber": "7(b)",
+      "page": 19,
+      "marks": 4,
+      "topics": [
+        "Alkenes"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Outline a mechanism for the reaction of hex-3-ene with H2SO4.",
+      "specRef": "3.2.9",
+      "image": "img/2012-june-chem2/q7b.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q7b.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem2-q8a",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "8(a)",
+      "questionNumber": "8(a)",
+      "page": 20,
+      "marks": 2,
+      "topics": [
+        "Alcohols"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Deduce one safety reason and one environmental reason why Process 2 is preferred to Process 1 for making butanedioic acid.",
+      "specRef": "3.2.10",
+      "image": "img/2012-june-chem2/q8a.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q8a.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem2-q8bi",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "8(b)(i)",
+      "questionNumber": "8(b)(i)",
+      "page": 21,
+      "marks": 3,
+      "topics": [
+        "Haloalkanes"
+      ],
+      "skills": [
+        "Knowledge & Recall",
+        "Application"
+      ],
+      "summary": "Name and outline a mechanism for the reaction of 1,4-dibromobutane with NaOH.",
+      "specRef": "3.2.8",
+      "image": "img/2012-june-chem2/q8bi.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q8bi.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem2-q8bii",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "8(b)(ii)",
+      "questionNumber": "8(b)(ii)",
+      "page": 22,
+      "marks": 3,
+      "topics": [
+        "Analytical Techniques"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Identify which infrared spectrum corresponds to 1,4-dibromobutane (A), butane-1,4-diol (B), and butanedioic acid (C).",
+      "specRef": "3.2.11",
+      "image": "img/2012-june-chem2/q8bii.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q8bii.png",
+      "figures": [
+        "img/2012-june-chem2/fig-q8bii-spectra.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          180,
+          750
+        ]
+      ]
+    },
+    {
+      "id": "2012-june-chem2-q8c",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "8(c)",
+      "questionNumber": "8(c)",
+      "page": 23,
+      "marks": 4,
+      "topics": [
+        "Alcohols"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Name the process for producing bioethanol from glucose and state three essential conditions.",
+      "specRef": "3.2.10",
+      "image": "img/2012-june-chem2/q8c.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q8c.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem2-q8d",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "8(d)",
+      "questionNumber": "8(d)",
+      "page": 23,
+      "marks": 3,
+      "topics": [
+        "Alcohols"
+      ],
+      "skills": [
+        "Knowledge & Recall",
+        "Application"
+      ],
+      "summary": "State the class of alcohols for butane-1,4-diol, identify a reagent to oxidise it to butanedioic acid, and write an equation.",
+      "specRef": "3.2.10",
+      "image": "img/2012-june-chem2/q8d.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q8d.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem2-q9ai",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "9(a)(i)",
+      "questionNumber": "9(a)(i)",
+      "page": 24,
+      "marks": 3,
+      "topics": [
+        "Group 7 (Halogens)",
+        "Redox"
+      ],
+      "skills": [
+        "Knowledge & Recall",
+        "Application"
+      ],
+      "summary": "Identify the brown species in Test 1 (Cl2 + KI), write the simplest ionic equation, and state the type of reaction.",
+      "specRef": "3.2.5",
+      "image": "img/2012-june-chem2/q9ai.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q9ai.png",
+      "figures": [
+        "img/2012-june-chem2/fig-q9a-table.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          118,
+          224
+        ]
+      ]
+    },
+    {
+      "id": "2012-june-chem2-q9aii",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "9(a)(ii)",
+      "questionNumber": "9(a)(ii)",
+      "page": 24,
+      "marks": 3,
+      "topics": [
+        "Group 7 (Halogens)"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Name the white precipitate in Test 2 (AgNO3 + KCl), write the simplest ionic equation, and state what happens with excess dilute NH3.",
+      "specRef": "3.2.5",
+      "image": "img/2012-june-chem2/q9aii.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q9aii.png",
+      "figures": [
+        "img/2012-june-chem2/fig-q9a-table.jpg"
+      ]
+    },
+    {
+      "id": "2012-june-chem2-q9bi",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "9(b)(i)",
+      "questionNumber": "9(b)(i)",
+      "page": 25,
+      "marks": 2,
+      "topics": [
+        "Group 7 (Halogens)"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Write the simplest ionic equation for Test 3 (conc H2SO4 + KCl) and identify the misty white fumes.",
+      "specRef": "3.2.5",
+      "image": "img/2012-june-chem2/q9bi.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q9bi.png",
+      "figures": [
+        "img/2012-june-chem2/fig-q9b-table.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          94,
+          238
+        ]
+      ]
+    },
+    {
+      "id": "2012-june-chem2-q9bii",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "9(b)(ii)",
+      "questionNumber": "9(b)(ii)",
+      "page": 25,
+      "marks": 4,
+      "topics": [
+        "Group 7 (Halogens)",
+        "Redox"
+      ],
+      "skills": [
+        "Application",
+        "Knowledge & Recall"
+      ],
+      "summary": "Write the two half-equations for 8H+ + 8I- + H2SO4 -> 4I2 + H2S + 4H2O, state the role of H2SO4, and identify the yellow solid.",
+      "specRef": "3.2.5",
+      "image": "img/2012-june-chem2/q9bii.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q9bii.png",
+      "figures": [
+        "img/2012-june-chem2/fig-q9b-table.jpg"
+      ]
+    },
+    {
+      "id": "2012-june-chem2-q9biii",
+      "paper": "2012-june-chem2",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "9(b)(iii)",
+      "questionNumber": "9(b)(iii)",
+      "page": 26,
+      "marks": 3,
+      "topics": [
+        "Equilibria",
+        "Group 7 (Halogens)"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Use Le Chatelier's principle to explain why Br2 + H2O <=> HBrO + H+ + Br- shifts right when NaOH is added, and why bromine can be used in pools.",
+      "specRef": "3.2.3",
+      "image": "img/2012-june-chem2/q9biii.jpg",
+      "markscheme": "img/2012-june-chem2/ms/q9biii.png",
       "figures": []
     }
   ]

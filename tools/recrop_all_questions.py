@@ -116,6 +116,8 @@ PDF_MAP = {
     '2012-jan-chem2': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795512340923_5d0f81dc.pdf',
     '2012-jan-chem4': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795512363659_b0526e57.pdf',
     '2012-jan-chem5': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795512363575_04e4191c.pdf',
+    '2012-june-chem1': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795512406270_36a6ba56.pdf',
+    '2012-june-chem2': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795512406290_38e436e6.pdf',
 }
 
 def extract_lines(page):
