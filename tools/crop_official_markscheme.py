@@ -64,9 +64,9 @@ def _find_horizontal_rules(page: fitz.Page) -> list[float]:
         r = d.get("rect")
         if not r:
             continue
-        if r.width > 90 and r.height <= 3.0 and 45 < r.y0 < page.rect.height - 30:
+        if r.x0 < 100 and r.width > 90 and r.height <= 3.0 and 45 < r.y0 < page.rect.height - 30:
             ys.append(round((r.y0 + r.y1) / 2.0, 1))
-        elif r.width > 90 and r.height > 10:
+        elif r.x0 < 100 and r.width > 90 and r.height > 10:
             # Rectangle border (e.g. cell box)
             if 45 < r.y0 < page.rect.height - 30:
                 ys.append(round(r.y0, 1))
@@ -81,7 +81,7 @@ def _find_horizontal_rules(page: fitz.Page) -> list[float]:
     return dedup
 
 
-def _snap_to_rule_above(rules: list[float], y: float, max_dist: float = 120.0) -> float:
+def _snap_to_rule_above(rules: list[float], y: float, max_dist: float = 350.0) -> float:
     cands = [r for r in rules if r <= y + 2.0 and (y - r) <= max_dist]
     return cands[-1] if cands else max(45.0, y - 4.0)
 
@@ -156,7 +156,7 @@ def _find_question_anchors(doc: fitz.Document, start_page: int = 0) -> list[dict
             if re.match(r"^\d{1,2}$", norm):
                 if not (1 <= int(norm) <= 45):
                     continue
-                same_line_words = [ow[4] for ow in words if abs(ow[1] - y0) < 4 and ow[0] < q_col_max_x + 80]
+                same_line_words = [ow[4] for ow in words if abs(ow[1] - y0) < 4 and ow[0] <= q_col_max_x + 5]
                 if "of" in same_line_words or "Level" in same_line_words:
                     continue
             anchors.append({
