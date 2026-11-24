@@ -1794,6 +1794,42 @@
       "totalMarks": 80,
       "pdf": null,
       "ms": null
+    },
+    {
+      "id": "2015-specimen-7404-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/1",
+      "level": "AS",
+      "date": "2015-01-01",
+      "title": "7404/1 — AS Paper 1: Inorganic and Physical Chemistry (Specimen)",
+      "totalMarks": 80,
+      "pdf": null,
+      "ms": null
+    },
+    {
+      "id": "2015-specimen-7404-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/2",
+      "level": "AS",
+      "date": "2015-01-01",
+      "title": "7404/2 — AS Paper 2: Organic and Physical Chemistry (Specimen)",
+      "totalMarks": 80,
+      "pdf": null,
+      "ms": null
+    },
+    {
+      "id": "2015-specimen-7405-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/1",
+      "level": "A-level",
+      "date": "2015-01-01",
+      "title": "7405/1 — A-level Paper 1: Inorganic and Physical Chemistry (Specimen)",
+      "totalMarks": 105,
+      "pdf": null,
+      "ms": null
     }
   ],
   "questions": [
@@ -105345,6 +105381,2768 @@
       "image": "img/2017-june-7404-2/q24.jpg",
       "markscheme": "img/2017-june-7404-2/ms/q24.png",
       "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-1-q01.1",
+      "paper": "2015-specimen-7404-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "01.1",
+      "questionNumber": "01.1",
+      "page": 3,
+      "marks": 1,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [],
+      "summary": "Use the Periodic Table to deduce the full electron configuration of calcium.",
+      "specRef": "3.1.1",
+      "image": "img/2015-specimen-7404-1/q01-1.jpg",
+      "markscheme": "img/2015-specimen-7404-1/ms/q01-1.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-1-q01.2",
+      "paper": "2015-specimen-7404-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "01.2",
+      "questionNumber": "01.2",
+      "page": 3,
+      "marks": 1,
+      "topics": [
+        "3.2.2"
+      ],
+      "skills": [],
+      "summary": "Write an ionic equation, with state symbols, to show the reaction of calcium with an excess of water.",
+      "specRef": "3.2.2",
+      "image": "img/2015-specimen-7404-1/q01-2.jpg",
+      "markscheme": "img/2015-specimen-7404-1/ms/q01-2.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-1-q01.3",
+      "paper": "2015-specimen-7404-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "01.3",
+      "questionNumber": "01.3",
+      "page": 3,
+      "marks": 1,
+      "topics": [
+        "3.1.7"
+      ],
+      "skills": [],
+      "summary": "State the role of water in the reaction with calcium.",
+      "specRef": "3.1.7",
+      "image": "img/2015-specimen-7404-1/q01-3.jpg",
+      "markscheme": "img/2015-specimen-7404-1/ms/q01-3.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-1-q01.4",
+      "paper": "2015-specimen-7404-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "01.4",
+      "questionNumber": "01.4",
+      "page": 3,
+      "marks": 1,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [],
+      "summary": "Write an equation, including state symbols, to represent the process that occurs when the first ionisation energy of calcium is measured.",
+      "specRef": "3.1.1",
+      "image": "img/2015-specimen-7404-1/q01-4.jpg",
+      "markscheme": "img/2015-specimen-7404-1/ms/q01-4.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-1-q01.5",
+      "paper": "2015-specimen-7404-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "01.5",
+      "questionNumber": "01.5",
+      "page": 3,
+      "marks": 3,
+      "topics": [
+        "3.2.1"
+      ],
+      "skills": [],
+      "summary": "State and explain the trend in the first ionisation energies of the elements in Group 2 from magnesium to barium.",
+      "specRef": "3.2.1",
+      "image": "img/2015-specimen-7404-1/q01-5.jpg",
+      "markscheme": "img/2015-specimen-7404-1/ms/q01-5.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-1-q02.1",
+      "paper": "2015-specimen-7404-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "02.1",
+      "questionNumber": "02.1",
+      "page": 4,
+      "marks": 4,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [],
+      "summary": "A sample of sulfur consisting of three isotopes has a relative atomic mass of 32.16. Use Table 1 to determine the relative abundance and mass number of the third isotope.",
+      "specRef": "3.1.1",
+      "image": "img/2015-specimen-7404-1/q02-1.jpg",
+      "markscheme": "img/2015-specimen-7404-1/ms/q02-1.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-1-q02.2",
+      "paper": "2015-specimen-7404-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "02.2",
+      "questionNumber": "02.2",
+      "page": 4,
+      "marks": 2,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [],
+      "summary": "Describe how ions are formed in a time of flight (TOF) mass spectrometer.",
+      "specRef": "3.1.1",
+      "image": "img/2015-specimen-7404-1/q02-2.jpg",
+      "markscheme": "img/2015-specimen-7404-1/ms/q02-2.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-1-q02.3",
+      "paper": "2015-specimen-7404-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "02.3",
+      "questionNumber": "02.3",
+      "page": 5,
+      "marks": 2,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [],
+      "summary": "Explain why it is necessary to ionise molecules when measuring their mass in a TOF mass spectrometer.",
+      "specRef": "3.1.1",
+      "image": "img/2015-specimen-7404-1/q02-3.jpg",
+      "markscheme": "img/2015-specimen-7404-1/ms/q02-3.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-1-q03.1",
+      "paper": "2015-specimen-7404-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "03.1",
+      "questionNumber": "03.1",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [],
+      "summary": "Write an equation, including state symbols, for the reaction with enthalpy change equal to the standard enthalpy of formation for CF4(g).",
+      "specRef": "3.1.4",
+      "image": "img/2015-specimen-7404-1/q03-1.jpg",
+      "markscheme": "img/2015-specimen-7404-1/ms/q03-1.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-1-q03.2",
+      "paper": "2015-specimen-7404-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "03.2",
+      "questionNumber": "03.2",
+      "page": 6,
+      "marks": 2,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [],
+      "summary": "Explain why CF4 has a bond angle of 109.5 degrees.",
+      "specRef": "3.1.3",
+      "image": "img/2015-specimen-7404-1/q03-2.jpg",
+      "markscheme": "img/2015-specimen-7404-1/ms/q03-2.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-1-q03.3",
+      "paper": "2015-specimen-7404-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "03.3",
+      "questionNumber": "03.3",
+      "page": 6,
+      "marks": 3,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [],
+      "summary": "Use Table 2 and the enthalpy change (-2889 kJ mol-1) for C2H6(g) + 7F2(g) -> 2CF4(g) + 6HF(g) to calculate the standard enthalpy of formation of C2H6(g).",
+      "specRef": "3.1.4",
+      "image": "img/2015-specimen-7404-1/q03-3.jpg",
+      "markscheme": "img/2015-specimen-7404-1/ms/q03-3.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-1-q03.4",
+      "paper": "2015-specimen-7404-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "03.4",
+      "questionNumber": "03.4",
+      "page": 7,
+      "marks": 4,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [],
+      "summary": "Use Table 3 and CH4(g) + 4F2(g) -> CF4(g) + 4HF(g) (delta H = -1904 kJ mol-1) to calculate the F-F bond enthalpy and evaluate the student's suggestion about the reactivity of fluorine.",
+      "specRef": "3.1.4",
+      "image": "img/2015-specimen-7404-1/q03-4.jpg",
+      "markscheme": "img/2015-specimen-7404-1/ms/q03-4.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-1-q04.1",
+      "paper": "2015-specimen-7404-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "04.1",
+      "questionNumber": "04.1",
+      "page": 8,
+      "marks": 2,
+      "topics": [
+        "3.1.6"
+      ],
+      "skills": [],
+      "summary": "At equilibrium, the mixture contained 0.20 mol of Z(aq). Calculate the amount, in moles, of X(aq) and Y(aq) in this equilibrium mixture.",
+      "specRef": "3.1.6",
+      "image": "img/2015-specimen-7404-1/q04-1.jpg",
+      "markscheme": "img/2015-specimen-7404-1/ms/q04-1.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-1-q04.2",
+      "paper": "2015-specimen-7404-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "04.2",
+      "questionNumber": "04.2",
+      "page": 8,
+      "marks": 3,
+      "topics": [
+        "3.1.6"
+      ],
+      "skills": [],
+      "summary": "On the grid below, draw a graph to show how the amount of Z(aq) changed from the time of initial mixing until 60 seconds had elapsed.",
+      "specRef": "3.1.6",
+      "image": "img/2015-specimen-7404-1/q04-2.jpg",
+      "markscheme": "img/2015-specimen-7404-1/ms/q04-2.png",
+      "figures": [
+        "img/2015-specimen-7404-1/fig-q4-stem.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7404-1-q04.3",
+      "paper": "2015-specimen-7404-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "04.3",
+      "questionNumber": "04.3",
+      "page": 9,
+      "marks": 3,
+      "topics": [
+        "3.1.6"
+      ],
+      "skills": [],
+      "summary": "At a different temperature, Kc = 2.9 mol-2 dm6, [X] = 0.40 mol dm-3 and [Z] = 0.35 mol dm-3. Calculate [Y] to the appropriate number of significant figures.",
+      "specRef": "3.1.6",
+      "image": "img/2015-specimen-7404-1/q04-3.jpg",
+      "markscheme": "img/2015-specimen-7404-1/ms/q04-3.png",
+      "figures": [
+        "img/2015-specimen-7404-1/fig-q4-stem.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7404-1-q04.4",
+      "paper": "2015-specimen-7404-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "04.4",
+      "questionNumber": "04.4",
+      "page": 9,
+      "marks": 3,
+      "topics": [
+        "3.1.6"
+      ],
+      "skills": [],
+      "summary": "A small amount of more Y(aq) was added to the equilibrium mixture in 04.3. Predict and explain any colour change.",
+      "specRef": "3.1.6",
+      "image": "img/2015-specimen-7404-1/q04-4.jpg",
+      "markscheme": "img/2015-specimen-7404-1/ms/q04-4.png",
+      "figures": [
+        "img/2015-specimen-7404-1/fig-q4-stem.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7404-1-q04.5",
+      "paper": "2015-specimen-7404-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "04.5",
+      "questionNumber": "04.5",
+      "page": 9,
+      "marks": 1,
+      "topics": [
+        "3.1.6"
+      ],
+      "skills": [],
+      "summary": "The student warmed the equilibrium mixture from Question 4.3. Predict the colour change, if any, when the equilibrium mixture was warmed.",
+      "specRef": "3.1.6",
+      "image": "img/2015-specimen-7404-1/q04-5.jpg",
+      "markscheme": "img/2015-specimen-7404-1/ms/q04-5.png",
+      "figures": [
+        "img/2015-specimen-7404-1/fig-q4-stem.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7404-1-q05.1",
+      "paper": "2015-specimen-7404-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "05.1",
+      "questionNumber": "05.1",
+      "page": 10,
+      "marks": 3,
+      "topics": [
+        "3.2.3"
+      ],
+      "skills": [],
+      "summary": "Write an equation for the reaction of sodium bromide with concentrated sulfuric acid and explain why bromide ions react differently from chloride ions.",
+      "specRef": "3.2.3",
+      "image": "img/2015-specimen-7404-1/q05-1.jpg",
+      "markscheme": "img/2015-specimen-7404-1/ms/q05-1.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-1-q05.2",
+      "paper": "2015-specimen-7404-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "05.2",
+      "questionNumber": "05.2",
+      "page": 10,
+      "marks": 6,
+      "topics": [
+        "3.2.3"
+      ],
+      "skills": [],
+      "summary": "Develop a procedure to prepare a pure sample of silver bromide from a mixture of sodium chloride and sodium bromide using aqueous silver nitrate and other reagents, explaining each step with equations.",
+      "specRef": "3.2.3",
+      "image": "img/2015-specimen-7404-1/q05-2.jpg",
+      "markscheme": "img/2015-specimen-7404-1/ms/q05-2.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-1-q05.3",
+      "paper": "2015-specimen-7404-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "05.3",
+      "questionNumber": "05.3",
+      "page": 11,
+      "marks": 2,
+      "topics": [
+        "3.2.3"
+      ],
+      "skills": [],
+      "summary": "Write an ionic equation for the reaction between chlorine and cold dilute sodium hydroxide solution, and give the oxidation state of chlorine in each chlorine-containing ion formed.",
+      "specRef": "3.2.3",
+      "image": "img/2015-specimen-7404-1/q05-3.jpg",
+      "markscheme": "img/2015-specimen-7404-1/ms/q05-3.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-1-q06.1",
+      "paper": "2015-specimen-7404-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "06.1",
+      "questionNumber": "06.1",
+      "page": 12,
+      "marks": 8,
+      "topics": [
+        "RP"
+      ],
+      "skills": [],
+      "summary": "Outline how to conduct a back titration experiment with 50.0 cm3 of 0.200 mol dm-3 HCl and standard NaOH to determine accurately the relative formula mass of solid calcium hydroxide.",
+      "specRef": "RP",
+      "image": "img/2015-specimen-7404-1/q06-1.jpg",
+      "markscheme": "img/2015-specimen-7404-1/ms/q06-1.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-1-q06.2",
+      "paper": "2015-specimen-7404-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "06.2",
+      "questionNumber": "06.2",
+      "page": 13,
+      "marks": 3,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [],
+      "summary": "A 3.56 g sample of CaCl2 reacted with excess H2SO4 with an 83.4% yield of CaSO4. Calculate the mass of CaSO4 formed.",
+      "specRef": "3.1.2",
+      "image": "img/2015-specimen-7404-1/q06-2.jpg",
+      "markscheme": "img/2015-specimen-7404-1/ms/q06-2.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-1-q07.1",
+      "paper": "2015-specimen-7404-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "07.1",
+      "questionNumber": "07.1",
+      "page": 14,
+      "marks": 5,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [],
+      "summary": "A 3.74 x 10^-2 g sample of Mg(NO3)2 was completely decomposed by heating. Calculate the total volume, in cm3, of gas produced at 60.0 C and 100 kPa.",
+      "specRef": "3.1.2",
+      "image": "img/2015-specimen-7404-1/q07-1.jpg",
+      "markscheme": "img/2015-specimen-7404-1/ms/q07-1.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-1-q07.2",
+      "paper": "2015-specimen-7404-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "07.2",
+      "questionNumber": "07.2",
+      "page": 14,
+      "marks": 1,
+      "topics": [
+        "RP"
+      ],
+      "skills": [],
+      "summary": "The mass of MgO obtained in this experiment is slightly less than expected. Suggest one practical reason for this.",
+      "specRef": "RP",
+      "image": "img/2015-specimen-7404-1/q07-2.jpg",
+      "markscheme": "img/2015-specimen-7404-1/ms/q07-2.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-1-q08",
+      "paper": "2015-specimen-7404-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "08",
+      "questionNumber": "08",
+      "page": 15,
+      "marks": 1,
+      "topics": [
+        "3.2.1"
+      ],
+      "skills": [],
+      "summary": "Which of these atoms has the largest atomic radius?",
+      "specRef": "3.2.1",
+      "image": "img/2015-specimen-7404-1/q08.jpg",
+      "markscheme": "img/2015-specimen-7404-1/ms/q08.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-1-q09",
+      "paper": "2015-specimen-7404-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "09",
+      "questionNumber": "09",
+      "page": 15,
+      "marks": 1,
+      "topics": [
+        "3.2.3"
+      ],
+      "skills": [],
+      "summary": "Which of these species is the best reducing agent?",
+      "specRef": "3.2.3",
+      "image": "img/2015-specimen-7404-1/q09.jpg",
+      "markscheme": "img/2015-specimen-7404-1/ms/q09.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-1-q10",
+      "paper": "2015-specimen-7404-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "10",
+      "questionNumber": "10",
+      "page": 16,
+      "marks": 1,
+      "topics": [
+        "RP"
+      ],
+      "skills": [],
+      "summary": "Which of these pieces of apparatus has the lowest percentage uncertainty in the measurement shown?",
+      "specRef": "RP",
+      "image": "img/2015-specimen-7404-1/q10.jpg",
+      "markscheme": "img/2015-specimen-7404-1/ms/q10.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-1-q11",
+      "paper": "2015-specimen-7404-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "11",
+      "questionNumber": "11",
+      "page": 16,
+      "marks": 1,
+      "topics": [
+        "RP"
+      ],
+      "skills": [],
+      "summary": "Which of these is the correct volume of water that should be added to dilute 5.00 cm3 of 1.00 x 10^-2 mol dm-3 HCl to 5.00 x 10^-4 mol dm-3?",
+      "specRef": "RP",
+      "image": "img/2015-specimen-7404-1/q11.jpg",
+      "markscheme": "img/2015-specimen-7404-1/ms/q11.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-1-q12",
+      "paper": "2015-specimen-7404-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "12",
+      "questionNumber": "12",
+      "page": 16,
+      "marks": 1,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [],
+      "summary": "Which of these species has a trigonal planar structure?",
+      "specRef": "3.1.3",
+      "image": "img/2015-specimen-7404-1/q12.jpg",
+      "markscheme": "img/2015-specimen-7404-1/ms/q12.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-1-q13",
+      "paper": "2015-specimen-7404-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "13",
+      "questionNumber": "13",
+      "page": 17,
+      "marks": 1,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [],
+      "summary": "Which of these compounds has the highest boiling point?",
+      "specRef": "3.1.3",
+      "image": "img/2015-specimen-7404-1/q13.jpg",
+      "markscheme": "img/2015-specimen-7404-1/ms/q13.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-1-q14",
+      "paper": "2015-specimen-7404-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "14",
+      "questionNumber": "14",
+      "page": 17,
+      "marks": 1,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [],
+      "summary": "Which type of bond is formed between N and B when a molecule of NH3 reacts with a molecule of BF3?",
+      "specRef": "3.1.3",
+      "image": "img/2015-specimen-7404-1/q14.jpg",
+      "markscheme": "img/2015-specimen-7404-1/ms/q14.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-1-q15",
+      "paper": "2015-specimen-7404-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "15",
+      "questionNumber": "15",
+      "page": 17,
+      "marks": 1,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [],
+      "summary": "Which of these atoms has the highest electronegativity?",
+      "specRef": "3.1.3",
+      "image": "img/2015-specimen-7404-1/q15.jpg",
+      "markscheme": "img/2015-specimen-7404-1/ms/q15.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-1-q16",
+      "paper": "2015-specimen-7404-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "16",
+      "questionNumber": "16",
+      "page": 17,
+      "marks": 1,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [],
+      "summary": "Which of these atoms has the smallest number of neutrons?",
+      "specRef": "3.1.1",
+      "image": "img/2015-specimen-7404-1/q16.jpg",
+      "markscheme": "img/2015-specimen-7404-1/ms/q16.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-1-q17",
+      "paper": "2015-specimen-7404-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "17",
+      "questionNumber": "17",
+      "page": 18,
+      "marks": 1,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [],
+      "summary": "Which of these substances does not show hydrogen bonding?",
+      "specRef": "3.1.3",
+      "image": "img/2015-specimen-7404-1/q17.jpg",
+      "markscheme": "img/2015-specimen-7404-1/ms/q17.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-1-q18",
+      "paper": "2015-specimen-7404-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "18",
+      "questionNumber": "18",
+      "page": 18,
+      "marks": 1,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [],
+      "summary": "What is the formula of calcium nitrate(V)?",
+      "specRef": "3.1.2",
+      "image": "img/2015-specimen-7404-1/q18.jpg",
+      "markscheme": "img/2015-specimen-7404-1/ms/q18.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-1-q19",
+      "paper": "2015-specimen-7404-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "19",
+      "questionNumber": "19",
+      "page": 18,
+      "marks": 1,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [],
+      "summary": "Which of these elements has the highest second ionisation energy?",
+      "specRef": "3.1.1",
+      "image": "img/2015-specimen-7404-1/q19.jpg",
+      "markscheme": "img/2015-specimen-7404-1/ms/q19.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-1-q20",
+      "paper": "2015-specimen-7404-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "20",
+      "questionNumber": "20",
+      "page": 19,
+      "marks": 1,
+      "topics": [
+        "3.1.7"
+      ],
+      "skills": [],
+      "summary": "Which of the following shows chlorine in its correct oxidation states in HCl, KClO3, HClO?",
+      "specRef": "3.1.7",
+      "image": "img/2015-specimen-7404-1/q20.jpg",
+      "markscheme": "img/2015-specimen-7404-1/ms/q20.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-1-q21",
+      "paper": "2015-specimen-7404-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "21",
+      "questionNumber": "21",
+      "page": 19,
+      "marks": 1,
+      "topics": [
+        "3.2.3"
+      ],
+      "skills": [],
+      "summary": "Which substance is not produced in a redox reaction when solid sodium iodide reacts with concentrated sulfuric acid?",
+      "specRef": "3.2.3",
+      "image": "img/2015-specimen-7404-1/q21.jpg",
+      "markscheme": "img/2015-specimen-7404-1/ms/q21.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-1-q22",
+      "paper": "2015-specimen-7404-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "22",
+      "questionNumber": "22",
+      "page": 19,
+      "marks": 1,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [],
+      "summary": "Which of the following contains the most chloride ions?",
+      "specRef": "3.1.2",
+      "image": "img/2015-specimen-7404-1/q22.jpg",
+      "markscheme": "img/2015-specimen-7404-1/ms/q22.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-2-q01.1",
+      "paper": "2015-specimen-7404-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "01.1",
+      "questionNumber": "01.1",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [],
+      "summary": "Give the structure of the E isomer of leaf alcohol J (CH3CH2CH=CHCH2CH2OH).",
+      "specRef": "3.3.1",
+      "image": "img/2015-specimen-7404-2/q01-1.jpg",
+      "markscheme": "img/2015-specimen-7404-2/ms/q01-1.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-2-q01.2",
+      "paper": "2015-specimen-7404-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "01.2",
+      "questionNumber": "01.2",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "3.3.5"
+      ],
+      "skills": [],
+      "summary": "Give the skeletal formula of the organic product formed when J is dehydrated using concentrated sulfuric acid.",
+      "specRef": "3.3.5",
+      "image": "img/2015-specimen-7404-2/q01-2.jpg",
+      "markscheme": "img/2015-specimen-7404-2/ms/q01-2.png",
+      "figures": [
+        "img/2015-specimen-7404-2/fig-q1-stem.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7404-2-q01.3",
+      "paper": "2015-specimen-7404-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "01.3",
+      "questionNumber": "01.3",
+      "page": 3,
+      "marks": 6,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [],
+      "summary": "Deduce the full IUPAC name of isomer K of leaf alcohol J, including the Z/E prefix deduced using Cahn-Ingold-Prelog priority rules.",
+      "specRef": "3.3.1",
+      "image": "img/2015-specimen-7404-2/q01-3.jpg",
+      "markscheme": "img/2015-specimen-7404-2/ms/q01-3.png",
+      "figures": [
+        "img/2015-specimen-7404-2/fig-q1-stem.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7404-2-q01.4",
+      "paper": "2015-specimen-7404-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "01.4",
+      "questionNumber": "01.4",
+      "page": 4,
+      "marks": 2,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [],
+      "summary": "Determine whether a student was correct to claim a 70% yield when 10.0 g of maleic acid (Mr = 116.0) formed 6.53 g of organic product (Mr = 98.0).",
+      "specRef": "3.1.2",
+      "image": "img/2015-specimen-7404-2/q01-4.jpg",
+      "markscheme": "img/2015-specimen-7404-2/ms/q01-4.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-2-q02.1",
+      "paper": "2015-specimen-7404-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "02.1",
+      "questionNumber": "02.1",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [],
+      "summary": "Write an equation for the complete combustion of leaf alcohol (CH3CH2CH=CHCH2CH2OH).",
+      "specRef": "3.1.4",
+      "image": "img/2015-specimen-7404-2/q02-1.jpg",
+      "markscheme": "img/2015-specimen-7404-2/ms/q02-1.png",
+      "figures": [
+        "img/2015-specimen-7404-2/fig-q2-apparatus.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          65,
+          620
+        ]
+      ]
+    },
+    {
+      "id": "2015-specimen-7404-2-q02.2",
+      "paper": "2015-specimen-7404-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "02.2",
+      "questionNumber": "02.2",
+      "page": 7,
+      "marks": 4,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [],
+      "summary": "Use the results from Table 1 to calculate a value for the enthalpy of combustion of leaf alcohol.",
+      "specRef": "3.1.4",
+      "image": "img/2015-specimen-7404-2/q02-2.jpg",
+      "markscheme": "img/2015-specimen-7404-2/ms/q02-2.png",
+      "figures": [
+        "img/2015-specimen-7404-2/fig-q2-apparatus.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7404-2-q02.3",
+      "paper": "2015-specimen-7404-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "02.3",
+      "questionNumber": "02.3",
+      "page": 7,
+      "marks": 2,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [],
+      "summary": "State how your answer to Question 2.2 is likely to differ from the data book value and give one reason for this difference.",
+      "specRef": "3.1.4",
+      "image": "img/2015-specimen-7404-2/q02-3.jpg",
+      "markscheme": "img/2015-specimen-7404-2/ms/q02-3.png",
+      "figures": [
+        "img/2015-specimen-7404-2/fig-q2-apparatus.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7404-2-q02.4",
+      "paper": "2015-specimen-7404-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "02.4",
+      "questionNumber": "02.4",
+      "page": 8,
+      "marks": 2,
+      "topics": [
+        "RP"
+      ],
+      "skills": [],
+      "summary": "Explain why the 50.0 g sample of water in the calorimeter did not need to be weighed.",
+      "specRef": "RP",
+      "image": "img/2015-specimen-7404-2/q02-4.jpg",
+      "markscheme": "img/2015-specimen-7404-2/ms/q02-4.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-2-q03.1",
+      "paper": "2015-specimen-7404-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "03.1",
+      "questionNumber": "03.1",
+      "page": 9,
+      "marks": 1,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [],
+      "summary": "State what is meant by the term structural isomers.",
+      "specRef": "3.3.1",
+      "image": "img/2015-specimen-7404-2/q03-1.jpg",
+      "markscheme": "img/2015-specimen-7404-2/ms/q03-1.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-2-q03.2",
+      "paper": "2015-specimen-7404-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "03.2",
+      "questionNumber": "03.2",
+      "page": 9,
+      "marks": 5,
+      "topics": [
+        "3.3.3"
+      ],
+      "skills": [],
+      "summary": "Name and outline a mechanism for the reaction of 2-bromopentane with ethanolic potassium hydroxide to form a structural isomer of pent-1-ene.",
+      "specRef": "3.3.3",
+      "image": "img/2015-specimen-7404-2/q03-2.jpg",
+      "markscheme": "img/2015-specimen-7404-2/ms/q03-2.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-2-q04.1",
+      "paper": "2015-specimen-7404-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "04.1",
+      "questionNumber": "04.1",
+      "page": 10,
+      "marks": 4,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [],
+      "summary": "A compound has 40.9% C, 4.5% H and the remainder oxygen by mass, and Mr = 88.0. Calculate its molecular formula.",
+      "specRef": "3.1.2",
+      "image": "img/2015-specimen-7404-2/q04-1.jpg",
+      "markscheme": "img/2015-specimen-7404-2/ms/q04-1.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-2-q04.2",
+      "paper": "2015-specimen-7404-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "04.2",
+      "questionNumber": "04.2",
+      "page": 10,
+      "marks": 1,
+      "topics": [
+        "3.3.5"
+      ],
+      "skills": [],
+      "summary": "Write an equation for the fermentation of glucose to form ethanol.",
+      "specRef": "3.3.5",
+      "image": "img/2015-specimen-7404-2/q04-2.jpg",
+      "markscheme": "img/2015-specimen-7404-2/ms/q04-2.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-2-q04.3",
+      "paper": "2015-specimen-7404-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "04.3",
+      "questionNumber": "04.3",
+      "page": 10,
+      "marks": 2,
+      "topics": [
+        "3.3.5"
+      ],
+      "skills": [],
+      "summary": "Give one advantage and one disadvantage of carrying out fermentation at 40 C rather than 20 C.",
+      "specRef": "3.3.5",
+      "image": "img/2015-specimen-7404-2/q04-3.jpg",
+      "markscheme": "img/2015-specimen-7404-2/ms/q04-3.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-2-q04.4",
+      "paper": "2015-specimen-7404-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "04.4",
+      "questionNumber": "04.4",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "3.3.5"
+      ],
+      "skills": [],
+      "summary": "Explain why ethanoic acid was formed when a fermentation mixture was left in an open flask.",
+      "specRef": "3.3.5",
+      "image": "img/2015-specimen-7404-2/q04-4.jpg",
+      "markscheme": "img/2015-specimen-7404-2/ms/q04-4.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-2-q04.5",
+      "paper": "2015-specimen-7404-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "04.5",
+      "questionNumber": "04.5",
+      "page": 11,
+      "marks": 2,
+      "topics": [
+        "3.3.6"
+      ],
+      "skills": [],
+      "summary": "Explain how infrared spectroscopy could be used to show that ethanoic acid was present rather than ethanol, using Table A on the Data Sheet.",
+      "specRef": "3.3.6",
+      "image": "img/2015-specimen-7404-2/q04-5.jpg",
+      "markscheme": "img/2015-specimen-7404-2/ms/q04-5.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-2-q05.1",
+      "paper": "2015-specimen-7404-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "05.1",
+      "questionNumber": "05.1",
+      "page": 12,
+      "marks": 2,
+      "topics": [
+        "3.3.3"
+      ],
+      "skills": [],
+      "summary": "State the condition and write an equation for the initiation step when tetrachloromethane (CCl4) forms chlorine free radicals in the upper atmosphere.",
+      "specRef": "3.3.3",
+      "image": "img/2015-specimen-7404-2/q05-1.jpg",
+      "markscheme": "img/2015-specimen-7404-2/ms/q05-1.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-2-q05.2",
+      "paper": "2015-specimen-7404-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "05.2",
+      "questionNumber": "05.2",
+      "page": 12,
+      "marks": 2,
+      "topics": [
+        "3.3.3"
+      ],
+      "skills": [],
+      "summary": "Write equations to show how chlorine free radicals catalyse the decomposition of ozone.",
+      "specRef": "3.3.3",
+      "image": "img/2015-specimen-7404-2/q05-2.jpg",
+      "markscheme": "img/2015-specimen-7404-2/ms/q05-2.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-2-q05.3",
+      "paper": "2015-specimen-7404-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "05.3",
+      "questionNumber": "05.3",
+      "page": 12,
+      "marks": 3,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [],
+      "summary": "100 m3 of air contains 1.78 x 10^-4 kg of CF3Cl. Calculate the number of CF3Cl molecules in a 500 cm3 sample of this air.",
+      "specRef": "3.1.2",
+      "image": "img/2015-specimen-7404-2/q05-3.jpg",
+      "markscheme": "img/2015-specimen-7404-2/ms/q05-3.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-2-q06.1",
+      "paper": "2015-specimen-7404-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "06.1",
+      "questionNumber": "06.1",
+      "page": 14,
+      "marks": 2,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [],
+      "summary": "Name the homologous series that both C2H4 and C4H8 belong to, and draw a functional group isomer of C4H8 that does not belong to this homologous series.",
+      "specRef": "3.3.4",
+      "image": "img/2015-specimen-7404-2/q06-1.jpg",
+      "markscheme": "img/2015-specimen-7404-2/ms/q06-1.png",
+      "figures": [
+        "img/2015-specimen-7404-2/fig-q6-fig2.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          88,
+          348
+        ]
+      ]
+    },
+    {
+      "id": "2015-specimen-7404-2-q06.2",
+      "paper": "2015-specimen-7404-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "06.2",
+      "questionNumber": "06.2",
+      "page": 14,
+      "marks": 1,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [],
+      "summary": "Identify compound X in Reaction 1 (Figure 2).",
+      "specRef": "3.3.2",
+      "image": "img/2015-specimen-7404-2/q06-2.jpg",
+      "markscheme": "img/2015-specimen-7404-2/ms/q06-2.png",
+      "figures": [
+        "img/2015-specimen-7404-2/fig-q6-fig2.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7404-2-q06.3",
+      "paper": "2015-specimen-7404-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "06.3",
+      "questionNumber": "06.3",
+      "page": 14,
+      "marks": 1,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [],
+      "summary": "Name polymer Y in Figure 2.",
+      "specRef": "3.3.4",
+      "image": "img/2015-specimen-7404-2/q06-3.jpg",
+      "markscheme": "img/2015-specimen-7404-2/ms/q06-3.png",
+      "figures": [
+        "img/2015-specimen-7404-2/fig-q6-fig2.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7404-2-q06.4",
+      "paper": "2015-specimen-7404-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "06.4",
+      "questionNumber": "06.4",
+      "page": 15,
+      "marks": 1,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [],
+      "summary": "Reaction 1 is thermal cracking carried out at 750 C. State one other reaction condition needed.",
+      "specRef": "3.3.2",
+      "image": "img/2015-specimen-7404-2/q06-4.jpg",
+      "markscheme": "img/2015-specimen-7404-2/ms/q06-4.png",
+      "figures": [
+        "img/2015-specimen-7404-2/fig-q6-fig2.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7404-2-q06.5",
+      "paper": "2015-specimen-7404-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "06.5",
+      "questionNumber": "06.5",
+      "page": 15,
+      "marks": 6,
+      "topics": [
+        "3.1.6"
+      ],
+      "skills": [],
+      "summary": "Reaction 2 is exothermic. Explain the effect of a change of temperature on both the position of equilibrium and the rate of reaction, and justify why a compromise temperature of 200 C is used industrially.",
+      "specRef": "3.1.6",
+      "image": "img/2015-specimen-7404-2/q06-5.jpg",
+      "markscheme": "img/2015-specimen-7404-2/ms/q06-5.png",
+      "figures": [
+        "img/2015-specimen-7404-2/fig-q6-fig2.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7404-2-q07.1",
+      "paper": "2015-specimen-7404-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "07.1",
+      "questionNumber": "07.1",
+      "page": 16,
+      "marks": 2,
+      "topics": [
+        "RP"
+      ],
+      "skills": [],
+      "summary": "In a trial experiment, the gap between the tap and the tip of the burette still contained air. Suggest what effect this would have on the measured volume of bromine water and explain your answer.",
+      "specRef": "RP",
+      "image": "img/2015-specimen-7404-2/q07-1.jpg",
+      "markscheme": "img/2015-specimen-7404-2/ms/q07-1.png",
+      "figures": [
+        "img/2015-specimen-7404-2/fig-q7-table2.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          88,
+          395
+        ]
+      ]
+    },
+    {
+      "id": "2015-specimen-7404-2-q07.2",
+      "paper": "2015-specimen-7404-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "07.2",
+      "questionNumber": "07.2",
+      "page": 16,
+      "marks": 1,
+      "topics": [
+        "RP"
+      ],
+      "skills": [],
+      "summary": "Other than incorrect use of the burette, suggest a reason for the inconsistency in the student's results in Table 2.",
+      "specRef": "RP",
+      "image": "img/2015-specimen-7404-2/q07-2.jpg",
+      "markscheme": "img/2015-specimen-7404-2/ms/q07-2.png",
+      "figures": [
+        "img/2015-specimen-7404-2/fig-q7-table2.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7404-2-q07.3",
+      "paper": "2015-specimen-7404-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "07.3",
+      "questionNumber": "07.3",
+      "page": 17,
+      "marks": 4,
+      "topics": [
+        "RP"
+      ],
+      "skills": [],
+      "summary": "Outline how the student could improve this practical procedure so that more consistent results are obtained.",
+      "specRef": "RP",
+      "image": "img/2015-specimen-7404-2/q07-3.jpg",
+      "markscheme": "img/2015-specimen-7404-2/ms/q07-3.png",
+      "figures": [
+        "img/2015-specimen-7404-2/fig-q7-table2.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7404-2-q07.4",
+      "paper": "2015-specimen-7404-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "07.4",
+      "questionNumber": "07.4",
+      "page": 17,
+      "marks": 5,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [],
+      "summary": "Use the data (density 0.92 g cm-3, 5 drops of 5.0 x 10^-2 cm3, Mr 885, 2.0 x 10^-2 mol dm-3 Br2(aq), 39.40 cm3) to deduce the number of C=C double bonds in a molecule of the oil.",
+      "specRef": "3.1.2",
+      "image": "img/2015-specimen-7404-2/q07-4.jpg",
+      "markscheme": "img/2015-specimen-7404-2/ms/q07-4.png",
+      "figures": [
+        "img/2015-specimen-7404-2/fig-q7-table2.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7404-2-q08",
+      "paper": "2015-specimen-7404-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "08",
+      "questionNumber": "08",
+      "page": 18,
+      "marks": 1,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [],
+      "summary": "Which of these samples of gas contains the largest number of molecules?",
+      "specRef": "3.1.2",
+      "image": "img/2015-specimen-7404-2/q08.jpg",
+      "markscheme": "img/2015-specimen-7404-2/ms/q08.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-2-q09",
+      "paper": "2015-specimen-7404-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "09",
+      "questionNumber": "09",
+      "page": 18,
+      "marks": 1,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [],
+      "summary": "Which of these substances has permanent dipole-dipole attractions between molecules?",
+      "specRef": "3.1.3",
+      "image": "img/2015-specimen-7404-2/q09.jpg",
+      "markscheme": "img/2015-specimen-7404-2/ms/q09.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-2-q10",
+      "paper": "2015-specimen-7404-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "10",
+      "questionNumber": "10",
+      "page": 19,
+      "marks": 1,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [],
+      "summary": "What is the total volume of gas remaining after 20 cm3 ethane are burned completely in 100 cm3 oxygen above 100 C?",
+      "specRef": "3.1.2",
+      "image": "img/2015-specimen-7404-2/q10.jpg",
+      "markscheme": "img/2015-specimen-7404-2/ms/q10.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-2-q11",
+      "paper": "2015-specimen-7404-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "11",
+      "questionNumber": "11",
+      "page": 19,
+      "marks": 1,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [],
+      "summary": "Which species is formed in the mechanism of the reaction between propene and hydrogen bromide to form the major product?",
+      "specRef": "3.3.4",
+      "image": "img/2015-specimen-7404-2/q11.jpg",
+      "markscheme": "img/2015-specimen-7404-2/ms/q11.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-2-q12",
+      "paper": "2015-specimen-7404-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "12",
+      "questionNumber": "12",
+      "page": 19,
+      "marks": 1,
+      "topics": [
+        "3.3.3"
+      ],
+      "skills": [],
+      "summary": "Which of these substances reacts most rapidly to produce a silver halide precipitate with acidified silver nitrate?",
+      "specRef": "3.3.3",
+      "image": "img/2015-specimen-7404-2/q12.jpg",
+      "markscheme": "img/2015-specimen-7404-2/ms/q12.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-2-q13",
+      "paper": "2015-specimen-7404-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "13",
+      "questionNumber": "13",
+      "page": 20,
+      "marks": 1,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [],
+      "summary": "Which statement about E-1,2-dichloroethene is correct?",
+      "specRef": "3.3.4",
+      "image": "img/2015-specimen-7404-2/q13.jpg",
+      "markscheme": "img/2015-specimen-7404-2/ms/q13.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-2-q14",
+      "paper": "2015-specimen-7404-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "14",
+      "questionNumber": "14",
+      "page": 20,
+      "marks": 1,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [],
+      "summary": "Which statement about ethene is correct?",
+      "specRef": "3.3.4",
+      "image": "img/2015-specimen-7404-2/q14.jpg",
+      "markscheme": "img/2015-specimen-7404-2/ms/q14.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-2-q15",
+      "paper": "2015-specimen-7404-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "15",
+      "questionNumber": "15",
+      "page": 20,
+      "marks": 1,
+      "topics": [
+        "3.3.5"
+      ],
+      "skills": [],
+      "summary": "Which statement about ethanal is correct?",
+      "specRef": "3.3.5",
+      "image": "img/2015-specimen-7404-2/q15.jpg",
+      "markscheme": "img/2015-specimen-7404-2/ms/q15.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-2-q16",
+      "paper": "2015-specimen-7404-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "16",
+      "questionNumber": "16",
+      "page": 21,
+      "marks": 1,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [],
+      "summary": "Which of these substances does not contribute to the greenhouse effect?",
+      "specRef": "3.3.2",
+      "image": "img/2015-specimen-7404-2/q16.jpg",
+      "markscheme": "img/2015-specimen-7404-2/ms/q16.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7404-2-q17",
+      "paper": "2015-specimen-7404-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "17",
+      "questionNumber": "17",
+      "page": 21,
+      "marks": 1,
+      "topics": [
+        "3.3.3"
+      ],
+      "skills": [],
+      "summary": "Which of the curly arrows in the mechanism for preparing ethylamine is not correct?",
+      "specRef": "3.3.3",
+      "image": "img/2015-specimen-7404-2/q17.jpg",
+      "markscheme": "img/2015-specimen-7404-2/ms/q17.png",
+      "figures": [
+        "img/2015-specimen-7404-2/fig-q17-18-scheme.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          264,
+          415
+        ]
+      ]
+    },
+    {
+      "id": "2015-specimen-7404-2-q18",
+      "paper": "2015-specimen-7404-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "18",
+      "questionNumber": "18",
+      "page": 21,
+      "marks": 1,
+      "topics": [
+        "3.3.3"
+      ],
+      "skills": [],
+      "summary": "Which statement about the preparation of ethylamine from bromoethane and ammonia is not correct?",
+      "specRef": "3.3.3",
+      "image": "img/2015-specimen-7404-2/q18.jpg",
+      "markscheme": "img/2015-specimen-7404-2/ms/q18.png",
+      "figures": [
+        "img/2015-specimen-7404-2/fig-q17-18-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7404-2-q19",
+      "paper": "2015-specimen-7404-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "19",
+      "questionNumber": "19",
+      "page": 22,
+      "marks": 1,
+      "topics": [
+        "3.1.5"
+      ],
+      "skills": [],
+      "summary": "Which letter in Figure 3 best represents the mean energy of the molecules?",
+      "specRef": "3.1.5",
+      "image": "img/2015-specimen-7404-2/q19.jpg",
+      "markscheme": "img/2015-specimen-7404-2/ms/q19.png",
+      "figures": [
+        "img/2015-specimen-7404-2/fig-q19-20-fig3.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          65,
+          385
+        ]
+      ]
+    },
+    {
+      "id": "2015-specimen-7404-2-q20",
+      "paper": "2015-specimen-7404-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "20",
+      "questionNumber": "20",
+      "page": 22,
+      "marks": 1,
+      "topics": [
+        "3.1.5"
+      ],
+      "skills": [],
+      "summary": "What does the area under the curve in Figure 3 represent?",
+      "specRef": "3.1.5",
+      "image": "img/2015-specimen-7404-2/q20.jpg",
+      "markscheme": "img/2015-specimen-7404-2/ms/q20.png",
+      "figures": [
+        "img/2015-specimen-7404-2/fig-q19-20-fig3.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7404-2-q21",
+      "paper": "2015-specimen-7404-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "21",
+      "questionNumber": "21",
+      "page": 23,
+      "marks": 1,
+      "topics": [
+        "RP"
+      ],
+      "skills": [],
+      "summary": "What is likely to decrease the accuracy of the sodium thiosulfate + HCl disappearing cross experiment (Figure 4)?",
+      "specRef": "RP",
+      "image": "img/2015-specimen-7404-2/q21.jpg",
+      "markscheme": "img/2015-specimen-7404-2/ms/q21.png",
+      "figures": [
+        "img/2015-specimen-7404-2/fig-q21-22-fig4.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          65,
+          350
+        ]
+      ]
+    },
+    {
+      "id": "2015-specimen-7404-2-q22",
+      "paper": "2015-specimen-7404-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "22",
+      "questionNumber": "22",
+      "page": 23,
+      "marks": 1,
+      "topics": [
+        "RP"
+      ],
+      "skills": [],
+      "summary": "Which statement is correct about the time taken for the cross to disappear when repeating the experiment using a larger 250 cm3 conical flask?",
+      "specRef": "RP",
+      "image": "img/2015-specimen-7404-2/q22.jpg",
+      "markscheme": "img/2015-specimen-7404-2/ms/q22.png",
+      "figures": [
+        "img/2015-specimen-7404-2/fig-q21-22-fig4.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-1-q01.1",
+      "paper": "2015-specimen-7405-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "01.1",
+      "questionNumber": "01.1",
+      "page": 2,
+      "marks": 6,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [],
+      "summary": "Explain how the electron pair repulsion theory can be used to deduce the shape of, and the bond angle in, PF3.",
+      "specRef": "3.1.3",
+      "image": "img/2015-specimen-7405-1/q01-1.jpg",
+      "markscheme": "img/2015-specimen-7405-1/ms/q01-1.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-1-q01.2",
+      "paper": "2015-specimen-7405-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "01.2",
+      "questionNumber": "01.2",
+      "page": 3,
+      "marks": 1,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [],
+      "summary": "State the full electron configuration of a cobalt(II) ion.",
+      "specRef": "3.1.1",
+      "image": "img/2015-specimen-7405-1/q01-2.jpg",
+      "markscheme": "img/2015-specimen-7405-1/ms/q01-2.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-1-q01.3",
+      "paper": "2015-specimen-7405-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "01.3",
+      "questionNumber": "01.3",
+      "page": 3,
+      "marks": 1,
+      "topics": [
+        "3.2.5"
+      ],
+      "skills": [],
+      "summary": "Suggest one reason why [Co(NH3)6]^2+ cannot exist.",
+      "specRef": "3.2.5",
+      "image": "img/2015-specimen-7405-1/q01-3.jpg",
+      "markscheme": "img/2015-specimen-7405-1/ms/q01-3.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-1-q01.4",
+      "paper": "2015-specimen-7405-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "01.4",
+      "questionNumber": "01.4",
+      "page": 3,
+      "marks": 2,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [],
+      "summary": "State the shape of, and the bond angle in, [CoCl4]^2-.",
+      "specRef": "3.1.3",
+      "image": "img/2015-specimen-7405-1/q01-4.jpg",
+      "markscheme": "img/2015-specimen-7405-1/ms/q01-4.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-1-q02.1",
+      "paper": "2015-specimen-7405-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "02.1",
+      "questionNumber": "02.1",
+      "page": 4,
+      "marks": 2,
+      "topics": [
+        "3.2.1"
+      ],
+      "skills": [],
+      "summary": "Explain why the atomic radii of the elements decrease across Period 3 from sodium to chlorine.",
+      "specRef": "3.2.1",
+      "image": "img/2015-specimen-7405-1/q02-1.jpg",
+      "markscheme": "img/2015-specimen-7405-1/ms/q02-1.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-1-q02.2",
+      "paper": "2015-specimen-7405-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "02.2",
+      "questionNumber": "02.2",
+      "page": 4,
+      "marks": 2,
+      "topics": [
+        "3.2.1"
+      ],
+      "skills": [],
+      "summary": "Explain why the melting point of sulfur (S8) is greater than that of phosphorus (P4).",
+      "specRef": "3.2.1",
+      "image": "img/2015-specimen-7405-1/q02-2.jpg",
+      "markscheme": "img/2015-specimen-7405-1/ms/q02-2.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-1-q02.3",
+      "paper": "2015-specimen-7405-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "02.3",
+      "questionNumber": "02.3",
+      "page": 4,
+      "marks": 2,
+      "topics": [
+        "3.2.4"
+      ],
+      "skills": [],
+      "summary": "Explain why sodium oxide forms an alkaline solution when it reacts with water.",
+      "specRef": "3.2.4",
+      "image": "img/2015-specimen-7405-1/q02-3.jpg",
+      "markscheme": "img/2015-specimen-7405-1/ms/q02-3.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-1-q02.4",
+      "paper": "2015-specimen-7405-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "02.4",
+      "questionNumber": "02.4",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "3.2.4"
+      ],
+      "skills": [],
+      "summary": "Write an ionic equation for the reaction of phosphorus(V) oxide with an excess of sodium hydroxide solution.",
+      "specRef": "3.2.4",
+      "image": "img/2015-specimen-7405-1/q02-4.jpg",
+      "markscheme": "img/2015-specimen-7405-1/ms/q02-4.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-1-q03.1",
+      "paper": "2015-specimen-7405-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "03.1",
+      "questionNumber": "03.1",
+      "page": 6,
+      "marks": 2,
+      "topics": [
+        "3.1.11"
+      ],
+      "skills": [],
+      "summary": "Explain the function of the salt bridge in a cell used to measure electrode potential.",
+      "specRef": "3.1.11",
+      "image": "img/2015-specimen-7405-1/q03-1.jpg",
+      "markscheme": "img/2015-specimen-7405-1/ms/q03-1.png",
+      "figures": [],
+      "crop_exclude_y": [
+        [
+          65,
+          415
+        ]
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-1-q03.2",
+      "paper": "2015-specimen-7405-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "03.2",
+      "questionNumber": "03.2",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "3.1.11"
+      ],
+      "skills": [],
+      "summary": "Use data from Table 1 to deduce the halide ion that is the weakest reducing agent.",
+      "specRef": "3.1.11",
+      "image": "img/2015-specimen-7405-1/q03-2.jpg",
+      "markscheme": "img/2015-specimen-7405-1/ms/q03-2.png",
+      "figures": [
+        "img/2015-specimen-7405-1/fig-q3-table1.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-1-q03.3",
+      "paper": "2015-specimen-7405-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "03.3",
+      "questionNumber": "03.3",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "3.1.11"
+      ],
+      "skills": [],
+      "summary": "Use data from Table 1 to justify why sulfate ions should not be capable of oxidising bromide ions.",
+      "specRef": "3.1.11",
+      "image": "img/2015-specimen-7405-1/q03-3.jpg",
+      "markscheme": "img/2015-specimen-7405-1/ms/q03-3.png",
+      "figures": [
+        "img/2015-specimen-7405-1/fig-q3-table1.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-1-q03.4",
+      "paper": "2015-specimen-7405-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "03.4",
+      "questionNumber": "03.4",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "3.1.11"
+      ],
+      "skills": [],
+      "summary": "Use data from Table 1 to calculate a value for the EMF of a hydrogen-oxygen fuel cell operating under alkaline conditions.",
+      "specRef": "3.1.11",
+      "image": "img/2015-specimen-7405-1/q03-4.jpg",
+      "markscheme": "img/2015-specimen-7405-1/ms/q03-4.png",
+      "figures": [
+        "img/2015-specimen-7405-1/fig-q3-table1.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-1-q03.5",
+      "paper": "2015-specimen-7405-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "03.5",
+      "questionNumber": "03.5",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "3.1.11"
+      ],
+      "skills": [],
+      "summary": "Suggest why a hydrogen-oxygen fuel cell is more efficient than an internal combustion engine burning hydrogen.",
+      "specRef": "3.1.11",
+      "image": "img/2015-specimen-7405-1/q03-5.jpg",
+      "markscheme": "img/2015-specimen-7405-1/ms/q03-5.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-1-q04.1",
+      "paper": "2015-specimen-7405-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "04.1",
+      "questionNumber": "04.1",
+      "page": 8,
+      "marks": 3,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [],
+      "summary": "Use the enthalpy change for CO2(g) + 3H2(g) -> CH3OH(g) + H2O(g) (-49 kJ mol-1) and data from Table 2 to calculate a value for the H-H bond enthalpy.",
+      "specRef": "3.1.4",
+      "image": "img/2015-specimen-7405-1/q04-1.jpg",
+      "markscheme": "img/2015-specimen-7405-1/ms/q04-1.png",
+      "figures": [
+        "img/2015-specimen-7405-1/fig-q4-table2.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          78,
+          298
+        ]
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-1-q04.2",
+      "paper": "2015-specimen-7405-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "04.2",
+      "questionNumber": "04.2",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [],
+      "summary": "Suggest one reason why the data book value for the H-H bond enthalpy (436 kJ mol-1) is different from your answer to Question 4.1.",
+      "specRef": "3.1.4",
+      "image": "img/2015-specimen-7405-1/q04-2.jpg",
+      "markscheme": "img/2015-specimen-7405-1/ms/q04-2.png",
+      "figures": [
+        "img/2015-specimen-7405-1/fig-q4-table2.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-1-q04.3",
+      "paper": "2015-specimen-7405-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "04.3",
+      "questionNumber": "04.3",
+      "page": 9,
+      "marks": 1,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [],
+      "summary": "Suggest why using methanol produced by this process as a fuel is said to be carbon neutral.",
+      "specRef": "3.1.4",
+      "image": "img/2015-specimen-7405-1/q04-3.jpg",
+      "markscheme": "img/2015-specimen-7405-1/ms/q04-3.png",
+      "figures": [
+        "img/2015-specimen-7405-1/fig-q4-table2.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-1-q04.4",
+      "paper": "2015-specimen-7405-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "04.4",
+      "questionNumber": "04.4",
+      "page": 9,
+      "marks": 3,
+      "topics": [
+        "3.1.6"
+      ],
+      "skills": [],
+      "summary": "Explain why a high pressure is used in the industrial synthesis of methanol from carbon dioxide and hydrogen.",
+      "specRef": "3.1.6",
+      "image": "img/2015-specimen-7405-1/q04-4.jpg",
+      "markscheme": "img/2015-specimen-7405-1/ms/q04-4.png",
+      "figures": [
+        "img/2015-specimen-7405-1/fig-q4-table2.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-1-q04.5",
+      "paper": "2015-specimen-7405-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "04.5",
+      "questionNumber": "04.5",
+      "page": 9,
+      "marks": 1,
+      "topics": [
+        "3.2.5"
+      ],
+      "skills": [],
+      "summary": "Explain why the solid catalyst used in this process may become less active over time.",
+      "specRef": "3.2.5",
+      "image": "img/2015-specimen-7405-1/q04-5.jpg",
+      "markscheme": "img/2015-specimen-7405-1/ms/q04-5.png",
+      "figures": [
+        "img/2015-specimen-7405-1/fig-q4-table2.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-1-q04.6",
+      "paper": "2015-specimen-7405-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "04.6",
+      "questionNumber": "04.6",
+      "page": 10,
+      "marks": 7,
+      "topics": [
+        "3.1.10"
+      ],
+      "skills": [],
+      "summary": "1.0 mol CO2 and 3.0 mol H2 react at 500 kPa until 0.86 mol CH3OH is formed at equilibrium. Calculate Kp and give its units.",
+      "specRef": "3.1.10",
+      "image": "img/2015-specimen-7405-1/q04-6.jpg",
+      "markscheme": "img/2015-specimen-7405-1/ms/q04-6.png",
+      "figures": [
+        "img/2015-specimen-7405-1/fig-q4-table2.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-1-q05.1",
+      "paper": "2015-specimen-7405-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "05.1",
+      "questionNumber": "05.1",
+      "page": 12,
+      "marks": 4,
+      "topics": [
+        "3.1.8"
+      ],
+      "skills": [],
+      "summary": "Use the enthalpy change (-49 kJ mol-1) and entropy data from Table 3 to calculate the free-energy change (delta G) at 250 C, with units.",
+      "specRef": "3.1.8",
+      "image": "img/2015-specimen-7405-1/q05-1.jpg",
+      "markscheme": "img/2015-specimen-7405-1/ms/q05-1.png",
+      "figures": [
+        "img/2015-specimen-7405-1/fig-q5-table3.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          78,
+          260
+        ]
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-1-q05.2",
+      "paper": "2015-specimen-7405-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "05.2",
+      "questionNumber": "05.2",
+      "page": 13,
+      "marks": 2,
+      "topics": [
+        "3.1.8"
+      ],
+      "skills": [],
+      "summary": "Calculate the temperature at which the reaction becomes feasible.",
+      "specRef": "3.1.8",
+      "image": "img/2015-specimen-7405-1/q05-2.jpg",
+      "markscheme": "img/2015-specimen-7405-1/ms/q05-2.png",
+      "figures": [
+        "img/2015-specimen-7405-1/fig-q5-table3.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-1-q05.3",
+      "paper": "2015-specimen-7405-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "05.3",
+      "questionNumber": "05.3",
+      "page": 13,
+      "marks": 4,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [],
+      "summary": "Draw a diagram to show how methanol molecules are attracted to each other in the liquid state, and name the strongest intermolecular force.",
+      "specRef": "3.1.3",
+      "image": "img/2015-specimen-7405-1/q05-3.jpg",
+      "markscheme": "img/2015-specimen-7405-1/ms/q05-3.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-1-q06.1",
+      "paper": "2015-specimen-7405-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "06.1",
+      "questionNumber": "06.1",
+      "page": 14,
+      "marks": 2,
+      "topics": [
+        "RP"
+      ],
+      "skills": [],
+      "summary": "Suggest a suitable piece of apparatus that could be used to measure out the sodium hydroxide solution and explain why it is suitable.",
+      "specRef": "RP",
+      "image": "img/2015-specimen-7405-1/q06-1.jpg",
+      "markscheme": "img/2015-specimen-7405-1/ms/q06-1.png",
+      "figures": [
+        "img/2015-specimen-7405-1/fig-q6-fig1.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          78,
+          490
+        ]
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-1-q06.2",
+      "paper": "2015-specimen-7405-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "06.2",
+      "questionNumber": "06.2",
+      "page": 15,
+      "marks": 2,
+      "topics": [
+        "3.1.12"
+      ],
+      "skills": [],
+      "summary": "Use information from the curve in Figure 1 to explain why the end point of this reaction would be difficult to judge accurately using an indicator.",
+      "specRef": "3.1.12",
+      "image": "img/2015-specimen-7405-1/q06-2.jpg",
+      "markscheme": "img/2015-specimen-7405-1/ms/q06-2.png",
+      "figures": [
+        "img/2015-specimen-7405-1/fig-q6-fig1.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-1-q06.3",
+      "paper": "2015-specimen-7405-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "06.3",
+      "questionNumber": "06.3",
+      "page": 15,
+      "marks": 3,
+      "topics": [
+        "3.1.12"
+      ],
+      "skills": [],
+      "summary": "The pH at the end of the experiment was 11.80. Calculate [OH-] at 25 C (Kw = 1.00 x 10^-14 mol2 dm-6).",
+      "specRef": "3.1.12",
+      "image": "img/2015-specimen-7405-1/q06-3.jpg",
+      "markscheme": "img/2015-specimen-7405-1/ms/q06-3.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-1-q06.4",
+      "paper": "2015-specimen-7405-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "06.4",
+      "questionNumber": "06.4",
+      "page": 16,
+      "marks": 3,
+      "topics": [
+        "3.1.12"
+      ],
+      "skills": [],
+      "summary": "Use the pH of 2.00 mol dm-3 NH4Cl(aq) from Figure 1 to calculate Ka for NH4+.",
+      "specRef": "3.1.12",
+      "image": "img/2015-specimen-7405-1/q06-4.jpg",
+      "markscheme": "img/2015-specimen-7405-1/ms/q06-4.png",
+      "figures": [
+        "img/2015-specimen-7405-1/fig-q6-fig1.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-1-q06.5",
+      "paper": "2015-specimen-7405-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "06.5",
+      "questionNumber": "06.5",
+      "page": 16,
+      "marks": 2,
+      "topics": [
+        "3.1.12"
+      ],
+      "skills": [],
+      "summary": "A solution contains equal concentrations of ammonia and ammonium ions. Use your value of Ka from Question 6.4 to calculate the pH of this solution and explain your working.",
+      "specRef": "3.1.12",
+      "image": "img/2015-specimen-7405-1/q06-5.jpg",
+      "markscheme": "img/2015-specimen-7405-1/ms/q06-5.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-1-q07.1",
+      "paper": "2015-specimen-7405-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "07.1",
+      "questionNumber": "07.1",
+      "page": 18,
+      "marks": 1,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [],
+      "summary": "Which element in Table 4 (X, Y or Z) is calcium?",
+      "specRef": "3.1.1",
+      "image": "img/2015-specimen-7405-1/q07-1.jpg",
+      "markscheme": "img/2015-specimen-7405-1/ms/q07-1.png",
+      "figures": [
+        "img/2015-specimen-7405-1/fig-q7-table4.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          65,
+          418
+        ]
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-1-q07.2",
+      "paper": "2015-specimen-7405-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "07.2",
+      "questionNumber": "07.2",
+      "page": 18,
+      "marks": 1,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [],
+      "summary": "Which element in Table 4 (X, Y or Z) is vanadium?",
+      "specRef": "3.1.1",
+      "image": "img/2015-specimen-7405-1/q07-2.jpg",
+      "markscheme": "img/2015-specimen-7405-1/ms/q07-2.png",
+      "figures": [
+        "img/2015-specimen-7405-1/fig-q7-table4.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-1-q07.3",
+      "paper": "2015-specimen-7405-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "07.3",
+      "questionNumber": "07.3",
+      "page": 19,
+      "marks": 1,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [],
+      "summary": "Justify your choice of vanadium in Question 7.2.",
+      "specRef": "3.1.1",
+      "image": "img/2015-specimen-7405-1/q07-3.jpg",
+      "markscheme": "img/2015-specimen-7405-1/ms/q07-3.png",
+      "figures": [
+        "img/2015-specimen-7405-1/fig-q7-table4.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-1-q07.4",
+      "paper": "2015-specimen-7405-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "07.4",
+      "questionNumber": "07.4",
+      "page": 19,
+      "marks": 2,
+      "topics": [
+        "3.2.5"
+      ],
+      "skills": [],
+      "summary": "When SO2 is bubbled through acidified NH4VO3, the solution changes colour from yellow to blue. Explain what this observation indicates about vanadium.",
+      "specRef": "3.2.5",
+      "image": "img/2015-specimen-7405-1/q07-4.jpg",
+      "markscheme": "img/2015-specimen-7405-1/ms/q07-4.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-1-q07.5",
+      "paper": "2015-specimen-7405-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "07.5",
+      "questionNumber": "07.5",
+      "page": 20,
+      "marks": 6,
+      "topics": [
+        "3.2.5"
+      ],
+      "skills": [],
+      "summary": "50.0 cm3 of 0.800 mol dm-3 NH4VO3 reacts with 506 cm3 of SO2 at 293 K and 98.0 kPa. Deduce the oxidation state of vanadium in the blue solution.",
+      "specRef": "3.2.5",
+      "image": "img/2015-specimen-7405-1/q07-5.jpg",
+      "markscheme": "img/2015-specimen-7405-1/ms/q07-5.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-1-q08.1",
+      "paper": "2015-specimen-7405-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "08.1",
+      "questionNumber": "08.1",
+      "page": 22,
+      "marks": 2,
+      "topics": [
+        "3.2.5"
+      ],
+      "skills": [],
+      "summary": "Explain how a ligand forms a co-ordinate bond to a central metal ion.",
+      "specRef": "3.2.5",
+      "image": "img/2015-specimen-7405-1/q08-1.jpg",
+      "markscheme": "img/2015-specimen-7405-1/ms/q08-1.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-1-q08.2",
+      "paper": "2015-specimen-7405-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "08.2",
+      "questionNumber": "08.2",
+      "page": 22,
+      "marks": 4,
+      "topics": [
+        "3.2.6"
+      ],
+      "skills": [],
+      "summary": "Describe what is observed and write equations when aqueous ammonia is added dropwise and then in excess to [Cu(H2O)6]^2+.",
+      "specRef": "3.2.6",
+      "image": "img/2015-specimen-7405-1/q08-2.jpg",
+      "markscheme": "img/2015-specimen-7405-1/ms/q08-2.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-1-q08.3",
+      "paper": "2015-specimen-7405-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "08.3",
+      "questionNumber": "08.3",
+      "page": 23,
+      "marks": 1,
+      "topics": [
+        "3.2.5"
+      ],
+      "skills": [],
+      "summary": "Write an equation for the reaction of [Cu(NH3)4(H2O)2]^2+ with 1,2-diaminoethane (H2NCH2CH2NH2).",
+      "specRef": "3.2.5",
+      "image": "img/2015-specimen-7405-1/q08-3.jpg",
+      "markscheme": "img/2015-specimen-7405-1/ms/q08-3.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-1-q08.4",
+      "paper": "2015-specimen-7405-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "08.4",
+      "questionNumber": "08.4",
+      "page": 23,
+      "marks": 2,
+      "topics": [
+        "3.2.5"
+      ],
+      "skills": [],
+      "summary": "Suggest why the enthalpy change for the reaction in Question 8.3 is approximately zero.",
+      "specRef": "3.2.5",
+      "image": "img/2015-specimen-7405-1/q08-4.jpg",
+      "markscheme": "img/2015-specimen-7405-1/ms/q08-4.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-1-q08.5",
+      "paper": "2015-specimen-7405-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "08.5",
+      "questionNumber": "08.5",
+      "page": 23,
+      "marks": 2,
+      "topics": [
+        "3.1.8"
+      ],
+      "skills": [],
+      "summary": "Explain why the reaction in Question 8.3 occurs despite having an enthalpy change that is approximately zero.",
+      "specRef": "3.1.8",
+      "image": "img/2015-specimen-7405-1/q08-5.jpg",
+      "markscheme": "img/2015-specimen-7405-1/ms/q08-5.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-1-q09.1",
+      "paper": "2015-specimen-7405-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "09.1",
+      "questionNumber": "09.1",
+      "page": 24,
+      "marks": 4,
+      "topics": [
+        "RP"
+      ],
+      "skills": [],
+      "summary": "Describe how you would carry out an experiment to determine accurately the temperature change when 5.00 g of KCl dissolves in 50.0 cm3 of water.",
+      "specRef": "RP",
+      "image": "img/2015-specimen-7405-1/q09-1.jpg",
+      "markscheme": "img/2015-specimen-7405-1/ms/q09-1.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-1-q09.2",
+      "paper": "2015-specimen-7405-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "09.2",
+      "questionNumber": "09.2",
+      "page": 24,
+      "marks": 4,
+      "topics": [
+        "3.1.8"
+      ],
+      "skills": [],
+      "summary": "5.00 g of KCl dissolved in 50.0 g of water caused a temperature fall of 5.4 C. Calculate the enthalpy of solution of KCl in kJ mol-1.",
+      "specRef": "3.1.8",
+      "image": "img/2015-specimen-7405-1/q09-2.jpg",
+      "markscheme": "img/2015-specimen-7405-1/ms/q09-2.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-1-q09.3",
+      "paper": "2015-specimen-7405-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "09.3",
+      "questionNumber": "09.3",
+      "page": 25,
+      "marks": 2,
+      "topics": [
+        "3.1.8"
+      ],
+      "skills": [],
+      "summary": "Use enthalpy of solution of CaCl2 (-82.9 kJ mol-1) and hydration enthalpies (Ca2+ = -1650, Cl- = -364 kJ mol-1) to calculate the lattice enthalpy of dissociation of CaCl2.",
+      "specRef": "3.1.8",
+      "image": "img/2015-specimen-7405-1/q09-3.jpg",
+      "markscheme": "img/2015-specimen-7405-1/ms/q09-3.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-1-q09.4",
+      "paper": "2015-specimen-7405-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "09.4",
+      "questionNumber": "09.4",
+      "page": 25,
+      "marks": 2,
+      "topics": [
+        "3.1.8"
+      ],
+      "skills": [],
+      "summary": "Explain why your answer to Question 9.3 is different from the lattice enthalpy of dissociation for magnesium chloride.",
+      "specRef": "3.1.8",
+      "image": "img/2015-specimen-7405-1/q09-4.jpg",
+      "markscheme": "img/2015-specimen-7405-1/ms/q09-4.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-1-q10.1",
+      "paper": "2015-specimen-7405-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "10.1",
+      "questionNumber": "10.1",
+      "page": 26,
+      "marks": 6,
+      "topics": [
+        "3.2.6"
+      ],
+      "skills": [],
+      "summary": "Use the observations in Table 5 to identify each of compounds Q, R and S.",
+      "specRef": "3.2.6",
+      "image": "img/2015-specimen-7405-1/q10-1.jpg",
+      "markscheme": "img/2015-specimen-7405-1/ms/q10-1.png",
+      "figures": [
+        "img/2015-specimen-7405-1/fig-q10-table5.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          78,
+          353
+        ]
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-1-q10.2",
+      "paper": "2015-specimen-7405-1",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/1",
+      "level": "A-level",
+      "question": "10.2",
+      "questionNumber": "10.2",
+      "page": 27,
+      "marks": 4,
+      "topics": [
+        "3.2.6"
+      ],
+      "skills": [],
+      "summary": "Write ionic equations for each of the positive observations with compound S in Table 5.",
+      "specRef": "3.2.6",
+      "image": "img/2015-specimen-7405-1/q10-2.jpg",
+      "markscheme": "img/2015-specimen-7405-1/ms/q10-2.png",
+      "figures": [
+        "img/2015-specimen-7405-1/fig-q10-table5.jpg"
+      ]
     }
   ]
 }
