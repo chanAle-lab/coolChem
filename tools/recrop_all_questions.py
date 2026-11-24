@@ -112,6 +112,8 @@ PDF_MAP = {
     '2011-june-chem1': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795474239850_2896b5a4.pdf',
     '2011-june-chem4': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795474293039_800bcf47.pdf',
     '2011-june-chem5': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795474293070_c99e1967.pdf',
+    '2012-jan-chem1': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795512340760_5d7d6143.pdf',
+    '2012-jan-chem2': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795512340923_5d0f81dc.pdf',
 }
 
 def extract_lines(page):
@@ -260,7 +262,9 @@ def main():
                 continue
 
             # y0 calculation
-            if i == 0:
+            if q.get("crop_y0") is not None:
+                y0 = float(q["crop_y0"])
+            elif i == 0:
                 m = re.match(r'^(\d+)', q['question'])
                 q_num = int(m.group(1)) if m else None
                 if main_q_top and q_num and main_q_top[0] == q_num and main_q_top[1] < start_y0:
@@ -303,10 +307,37 @@ def main():
                     if notice_y0s:
                         y1 = min(y1, min(notice_y0s) - 3.0)
 
-            # Render high-resolution crop
-            rect = fitz.Rect(35, y0, 545, y1)
-            pix = page.get_pixmap(matrix=fitz.Matrix(2.0, 2.0), clip=rect)
-            im = Image.open(io.BytesIO(pix.tobytes("png"))).convert("RGB")
+            # Render high-resolution crop (optionally excluding embedded figure bands)
+            exclude_y = sorted(q.get("crop_exclude_y") or [])
+            if not exclude_y:
+                rect = fitz.Rect(35, y0, 545, y1)
+                pix = page.get_pixmap(matrix=fitz.Matrix(2.0, 2.0), clip=rect)
+                im = Image.open(io.BytesIO(pix.tobytes("png"))).convert("RGB")
+            else:
+                strips = []
+                cur = y0
+                for ey0, ey1 in exclude_y:
+                    if ey0 > cur + 2:
+                        strips.append((cur, min(ey0, y1)))
+                    cur = max(cur, ey1)
+                if cur < y1 - 2:
+                    strips.append((cur, y1))
+                parts = []
+                for sy0, sy1 in strips:
+                    if sy1 > sy0 + 2:
+                        pix = page.get_pixmap(matrix=fitz.Matrix(2.0, 2.0), clip=fitz.Rect(35, sy0, 545, sy1))
+                        parts.append(Image.open(io.BytesIO(pix.tobytes("png"))).convert("RGB"))
+                if parts:
+                    total_h = sum(p_im.height for p_im in parts)
+                    im = Image.new("RGB", (parts[0].width, total_h), (255, 255, 255))
+                    yy = 0
+                    for p_im in parts:
+                        im.paste(p_im, (0, yy))
+                        yy += p_im.height
+                else:
+                    rect = fitz.Rect(35, y0, 545, y1)
+                    pix = page.get_pixmap(matrix=fitz.Matrix(2.0, 2.0), clip=rect)
+                    im = Image.open(io.BytesIO(pix.tobytes("png"))).convert("RGB")
 
             # Output path
             img_rel = q["image"]
