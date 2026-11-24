@@ -136,6 +136,8 @@ PDF_MAP = {
     '2015-june-chem2': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795517257134_38e0f96b.pdf',
     '2015-june-chem4': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795517286205_577fc7d1.pdf',
     '2015-june-chem5': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795517285960_48949310.pdf',
+    '2016-june-7404-1': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795517433934_288fbc59.pdf',
+    '2016-june-7404-2': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795517433965_9bd37d6b.pdf',
 }
 
 def extract_lines(page):
@@ -210,8 +212,13 @@ def main():
         for q_idx, q in enumerate(q_list):
             total_count += 1
             q_label = q['question']
+            m_dot = re.match(r'^(\d{2})\.(\d+)$', q_label)
+            m_mcq = re.match(r'^(\d{2})$', q_label)
             m = re.match(r'^(\d+)?(?:\(([a-z\d]+)\))?(?:\(([a-z\d]+)\))?', q_label)
-            main_q, sub1, sub2 = m.groups() if m else (None, None, None)
+            if m_dot:
+                main_q, sub1, sub2 = str(int(m_dot.group(1))), None, None
+            else:
+                main_q, sub1, sub2 = m.groups() if m else (None, None, None)
 
             # Bound search by subsequent subpart letter if known
             max_search_y = 800.0
@@ -252,6 +259,16 @@ def main():
                 if main_q:
                     candidates.append(f"{main_q} ({sub1})")
                     candidates.append(f"{main_q}({sub1})")
+            elif m_dot:
+                d1, d2 = m_dot.group(1), m_dot.group(2)
+                candidates.append(f"{d1[0]} {d1[1]} . {d2}")
+                candidates.append(f"{d1}.{d2}")
+                candidates.append(f"{int(d1)}.{d2}")
+            elif m_mcq:
+                d1 = m_mcq.group(1)
+                candidates.append(f"{d1[0]} {d1[1]}")
+                candidates.append(d1)
+                candidates.append(str(int(d1)))
             elif main_q:
                 candidates.append(main_q)
 
