@@ -88,75 +88,18 @@ body {
   text-align: left;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
 }
-.lock-header {
-  display: flex;
-  align-items: center;
-  gap: 12px;
-  margin-bottom: 14px;
-}
-.lock-icon-badge {
-  width: 42px;
-  height: 42px;
-  border-radius: var(--radius);
-  background: var(--surface-hover);
-  border: 1px solid var(--border);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: var(--accent);
-  flex-shrink: 0;
-}
-.lock-brand-wrap {
-  display: flex;
-  flex-direction: column;
-}
 .lock-title {
   font-size: 1.25rem;
   font-weight: 700;
   letter-spacing: -0.02em;
-  margin: 0;
+  margin: 0 0 6px;
   color: var(--ink);
-  display: flex;
-  align-items: center;
-  gap: 8px;
-}
-.lock-badge {
-  font-size: 0.72rem;
-  font-weight: 600;
-  padding: 2px 7px;
-  border-radius: 999px;
-  background: var(--surface-hover);
-  border: 1px solid var(--border);
-  color: var(--muted);
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
 }
 .lock-desc {
   font-size: 0.85rem;
   color: var(--muted);
-  margin: 0 0 16px;
+  margin: 0 0 20px;
   line-height: 1.5;
-}
-.lock-hint-banner {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  background: var(--surface-hover);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  padding: 8px 12px;
-  font-size: 0.8rem;
-  color: var(--muted);
-  margin-bottom: 16px;
-}
-.lock-hint-code {
-  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
-  font-weight: 600;
-  background: var(--surface);
-  border: 1px solid var(--border);
-  padding: 2px 8px;
-  border-radius: 4px;
-  color: var(--ink);
 }
 .lock-form {
   display: flex;
@@ -1682,28 +1625,12 @@ footer {
 <!-- Minimalist Password Gate Screen -->
 <div id="lock-screen" class="lock-screen">
   <div class="lock-card">
-    <div class="lock-header">
-      <div class="lock-icon-badge" aria-hidden="true">
-        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-          <path d="M10 2v7.31L4.54 19.46A2 2 0 0 0 6.27 22h11.46a2 2 0 0 0 1.73-2.54L14 9.31V2"/>
-          <path d="M8.5 2h7"/>
-          <path d="M7 16h10"/>
-        </svg>
-      </div>
-      <div class="lock-brand-wrap">
-        <h1 class="lock-title">coolChem <span class="lock-badge">AQA 7405</span></h1>
-      </div>
-    </div>
-    <p class="lock-desc">Enter passcode to access AQA Chemistry past papers, mark schemes & revision tools.</p>
-
-    <div class="lock-hint-banner">
-      <span>Passcode:</span>
-      <code class="lock-hint-code">chemistry</code>
-    </div>
+    <h1 class="lock-title">coolChem</h1>
+    <p class="lock-desc">Enter passcode to access past paper revision questions.</p>
 
     <form id="lock-form" class="lock-form" onsubmit="return false;">
       <div class="lock-input-wrap">
-        <input type="password" id="lock-password" class="lock-input" placeholder="Passcode (chemistry)" autocomplete="current-password" autofocus required>
+        <input type="password" id="lock-password" class="lock-input" placeholder="Passcode" autocomplete="current-password" autofocus required>
         <button type="button" id="lock-toggle-pwd" class="lock-eye-btn" title="Show/hide passcode">Show</button>
       </div>
       <div class="lock-options">
@@ -1712,10 +1639,7 @@ footer {
           <span>Remember on this device</span>
         </label>
       </div>
-      <button type="submit" id="lock-submit-btn" class="lock-submit-btn">
-        <span>Enter Portal</span>
-        <span aria-hidden="true">→</span>
-      </button>
+      <button type="submit" id="lock-submit-btn" class="lock-submit-btn">Continue</button>
       <div id="lock-error-msg" class="lock-error"></div>
     </form>
   </div>
@@ -1911,7 +1835,7 @@ async function handleUnlockSubmit(e) {
   const pwdLower = rawPwd.toLowerCase();
 
   if (!rawPwd) {
-    if (err) err.textContent = 'Please enter passcode (chemistry).';
+    if (err) err.textContent = 'Please enter passcode.';
     return false;
   }
 
@@ -1932,7 +1856,7 @@ async function handleUnlockSubmit(e) {
     setAuthorized(remember);
     unlockPortal();
   } else {
-    if (err) err.textContent = 'Incorrect passcode. Passcode is: chemistry';
+    if (err) err.textContent = 'Incorrect passcode.';
     if (input) input.select();
   }
   return false;
