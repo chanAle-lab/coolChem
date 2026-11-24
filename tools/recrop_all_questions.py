@@ -197,13 +197,19 @@ def main():
                         max_search_y = min(max_search_y, s_y)
                         break
 
-            # Check if parent subpart (e.g. (b) before (i)) appears on this page
+            # Check if parent subpart (e.g. (b) or 1 (b) before (i)) appears on this page
             parent_sub_y0 = None
             if sub2 and (q_idx == 0 or not q_list[q_idx-1]['question'].startswith(f"{main_q}({sub1})")):
                 for bbox, txt in lines:
                     if curr_y - 5 <= bbox[1] < max_search_y and bbox[0] < 120:
                         words = txt.split()
-                        if words and words[0] == f"({sub1})":
+                        if words and (
+                            words[0] == f"({sub1})"
+                            or (
+                                (txt.startswith(f"{main_q} ({sub1})") or txt.startswith(f"{main_q}({sub1})"))
+                                and not re.match(rf'^{re.escape(main_q)}\s*\({re.escape(sub1)}\)\s*\(', txt)
+                            )
+                        ):
                             parent_sub_y0 = bbox[1]
                             break
 
