@@ -1698,6 +1698,30 @@
       "totalMarks": 100,
       "pdf": null,
       "ms": null
+    },
+    {
+      "id": "2015-june-chem1",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "date": "2015-05-22",
+      "title": "CHEM1 — Unit 1: Foundation Chemistry",
+      "totalMarks": 70,
+      "pdf": null,
+      "ms": null
+    },
+    {
+      "id": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "date": "2015-06-02",
+      "title": "CHEM2 — Unit 2: Chemistry in Action",
+      "totalMarks": 100,
+      "pdf": null,
+      "ms": null
     }
   ],
   "questions": [
@@ -96421,6 +96445,2127 @@
       "specRef": "3.1.7",
       "image": "img/2014-june-chem5/q8b.jpg",
       "markscheme": "img/2014-june-chem5/ms/q8b.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem1-q1a",
+      "paper": "2015-june-chem1",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "1(a)",
+      "questionNumber": "1(a)",
+      "page": 2,
+      "marks": 3,
+      "topics": [
+        "3.2.1",
+        "3.1.3"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "State and explain which Period 3 element has the highest melting point.",
+      "specRef": "3.2.1",
+      "image": "img/2015-june-chem1/q1a.jpg",
+      "markscheme": "img/2015-june-chem1/ms/q1a.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem1-q1b",
+      "paper": "2015-june-chem1",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "1(b)",
+      "questionNumber": "1(b)",
+      "page": 2,
+      "marks": 3,
+      "topics": [
+        "3.2.1",
+        "3.1.1"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "State and explain which Period 3 element has the highest first ionisation energy.",
+      "specRef": "3.2.1",
+      "image": "img/2015-june-chem1/q1b.jpg",
+      "markscheme": "img/2015-june-chem1/ms/q1b.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem1-q1c",
+      "paper": "2015-june-chem1",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "1(c)",
+      "questionNumber": "1(c)",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "3.2.1",
+        "3.1.3"
+      ],
+      "skills": [
+        "knowledge"
+      ],
+      "summary": "Suggest the element in Period 3 with the highest electronegativity value.",
+      "specRef": "3.2.1",
+      "image": "img/2015-june-chem1/q1c.jpg",
+      "markscheme": "img/2015-june-chem1/ms/q1c.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem1-q1di",
+      "paper": "2015-june-chem1",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "1(d)(i)",
+      "questionNumber": "1(d)(i)",
+      "page": 3,
+      "marks": 2,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [
+        "diagram"
+      ],
+      "summary": "Draw shapes of ClF3 and CCl2 including lone pairs that influence the shape.",
+      "specRef": "3.1.3",
+      "image": "img/2015-june-chem1/q1di.jpg",
+      "markscheme": "img/2015-june-chem1/ms/q1di.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem1-q1dii",
+      "paper": "2015-june-chem1",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "1(d)(ii)",
+      "questionNumber": "1(d)(ii)",
+      "page": 3,
+      "marks": 1,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [
+        "knowledge"
+      ],
+      "summary": "Name the shape of CCl2.",
+      "specRef": "3.1.3",
+      "image": "img/2015-june-chem1/q1dii.jpg",
+      "markscheme": "img/2015-june-chem1/ms/q1dii.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem1-q1diii",
+      "paper": "2015-june-chem1",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "1(d)(iii)",
+      "questionNumber": "1(d)(iii)",
+      "page": 3,
+      "marks": 1,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [
+        "equation"
+      ],
+      "summary": "Write equation for formation of one mole of ClF3 from its elements.",
+      "specRef": "3.1.2",
+      "image": "img/2015-june-chem1/q1diii.jpg",
+      "markscheme": "img/2015-june-chem1/ms/q1diii.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem1-q2a",
+      "paper": "2015-june-chem1",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "2(a)",
+      "questionNumber": "2(a)",
+      "page": 4,
+      "marks": 1,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [
+        "knowledge"
+      ],
+      "summary": "Complete the electron configuration of tellurium (atomic number 52): [Kr] ...",
+      "specRef": "3.1.1",
+      "image": "img/2015-june-chem1/q2a.jpg",
+      "markscheme": "img/2015-june-chem1/ms/q2a.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem1-q2bi",
+      "paper": "2015-june-chem1",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "2(b)(i)",
+      "questionNumber": "2(b)(i)",
+      "page": 4,
+      "marks": 3,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [
+        "calculation",
+        "data-analysis"
+      ],
+      "summary": "Calculate relative atomic mass of tellurium sample from Figure 1 to 1 decimal place.",
+      "specRef": "3.1.1",
+      "image": "img/2015-june-chem1/q2bi.jpg",
+      "markscheme": "img/2015-june-chem1/ms/q2bi.png",
+      "figures": [
+        {
+          "title": "Figure 1: Mass spectrum of tellurium",
+          "image": "img/2015-june-chem1/fig-q2b-fig1.jpg"
+        }
+      ],
+      "crop_exclude_y": [
+        [
+          218,
+          464
+        ]
+      ]
+    },
+    {
+      "id": "2015-june-chem1-q2bii",
+      "paper": "2015-june-chem1",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "2(b)(ii)",
+      "questionNumber": "2(b)(ii)",
+      "page": 4,
+      "marks": 1,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "Suggest why relative atomic mass of this Te sample differs from the Periodic Table.",
+      "specRef": "3.1.1",
+      "image": "img/2015-june-chem1/q2bii.jpg",
+      "markscheme": "img/2015-june-chem1/ms/q2bii.png",
+      "figures": [
+        {
+          "title": "Figure 1: Mass spectrum of tellurium",
+          "image": "img/2015-june-chem1/fig-q2b-fig1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2015-june-chem1-q2c",
+      "paper": "2015-june-chem1",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "2(c)",
+      "questionNumber": "2(c)",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [
+        "equation"
+      ],
+      "summary": "Write equation for the reaction when a tellurium ion hits the mass spectrometer detector.",
+      "specRef": "3.1.1",
+      "image": "img/2015-june-chem1/q2c.jpg",
+      "markscheme": "img/2015-june-chem1/ms/q2c.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem1-q2d",
+      "paper": "2015-june-chem1",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "2(d)",
+      "questionNumber": "2(d)",
+      "page": 5,
+      "marks": 2,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [
+        "data-analysis",
+        "explanation"
+      ],
+      "summary": "State m/z of ions producing biggest current at detector in Figure 1 and give a reason.",
+      "specRef": "3.1.1",
+      "image": "img/2015-june-chem1/q2d.jpg",
+      "markscheme": "img/2015-june-chem1/ms/q2d.png",
+      "figures": [
+        {
+          "title": "Figure 1: Mass spectrum of tellurium",
+          "image": "img/2015-june-chem1/fig-q2b-fig1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2015-june-chem1-q2e",
+      "paper": "2015-june-chem1",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "2(e)",
+      "questionNumber": "2(e)",
+      "page": 5,
+      "marks": 2,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "Explain the existence of a small peak at m/z = 64 in the mass spectrum of tellurium.",
+      "specRef": "3.1.1",
+      "image": "img/2015-june-chem1/q2e.jpg",
+      "markscheme": "img/2015-june-chem1/ms/q2e.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem1-q2f",
+      "paper": "2015-june-chem1",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "2(f)",
+      "questionNumber": "2(f)",
+      "page": 5,
+      "marks": 2,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "Compare atomic radius of 124Te and 130Te and explain.",
+      "specRef": "3.1.1",
+      "image": "img/2015-june-chem1/q2f.jpg",
+      "markscheme": "img/2015-june-chem1/ms/q2f.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem1-q3a",
+      "paper": "2015-june-chem1",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "3(a)",
+      "questionNumber": "3(a)",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [
+        "knowledge"
+      ],
+      "summary": "Name the type of crystal structure shown by silicon dioxide.",
+      "specRef": "3.1.3",
+      "image": "img/2015-june-chem1/q3a.jpg",
+      "markscheme": "img/2015-june-chem1/ms/q3a.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem1-q3b",
+      "paper": "2015-june-chem1",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "3(b)",
+      "questionNumber": "3(b)",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "Suggest why silicon dioxide does not conduct electricity when molten.",
+      "specRef": "3.1.3",
+      "image": "img/2015-june-chem1/q3b.jpg",
+      "markscheme": "img/2015-june-chem1/ms/q3b.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem1-q3c",
+      "paper": "2015-june-chem1",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "3(c)",
+      "questionNumber": "3(c)",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [
+        "equation"
+      ],
+      "summary": "Write equation for reaction of SiO2 with HF to produce H2SiF6 and one other substance.",
+      "specRef": "3.1.2",
+      "image": "img/2015-june-chem1/q3c.jpg",
+      "markscheme": "img/2015-june-chem1/ms/q3c.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem1-q4a",
+      "paper": "2015-june-chem1",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "4(a)",
+      "questionNumber": "4(a)",
+      "page": 7,
+      "marks": 4,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate integer x in NiSO4.xH2O when 2.287 g is heated to leave 1.344 g.",
+      "specRef": "3.1.2",
+      "image": "img/2015-june-chem1/q4a.jpg",
+      "markscheme": "img/2015-june-chem1/ms/q4a.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem1-q4b",
+      "paper": "2015-june-chem1",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "4(b)",
+      "questionNumber": "4(b)",
+      "page": 7,
+      "marks": 2,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [
+        "practical"
+      ],
+      "summary": "Suggest how a student could check that all water of crystallisation had been removed.",
+      "specRef": "3.1.2",
+      "image": "img/2015-june-chem1/q4b.jpg",
+      "markscheme": "img/2015-june-chem1/ms/q4b.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem1-q5a",
+      "paper": "2015-june-chem1",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "5(a)",
+      "questionNumber": "5(a)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [
+        "knowledge"
+      ],
+      "summary": "Suggest a value for the H-O-O bond angle in hydrogen peroxide.",
+      "specRef": "3.1.3",
+      "image": "img/2015-june-chem1/q5a.jpg",
+      "markscheme": "img/2015-june-chem1/ms/q5a.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem1-q5bi",
+      "paper": "2015-june-chem1",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "5(b)(i)",
+      "questionNumber": "5(b)(i)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [
+        "knowledge"
+      ],
+      "summary": "State the strongest type of interaction between hydrogen peroxide and water molecules.",
+      "specRef": "3.1.3",
+      "image": "img/2015-june-chem1/q5bi.jpg",
+      "markscheme": "img/2015-june-chem1/ms/q5bi.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem1-q5bii",
+      "paper": "2015-june-chem1",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "5(b)(ii)",
+      "questionNumber": "5(b)(ii)",
+      "page": 8,
+      "marks": 3,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [
+        "diagram"
+      ],
+      "summary": "Draw diagram showing interaction between one H2O2 molecule and one H2O molecule with lone pairs and partial charges.",
+      "specRef": "3.1.3",
+      "image": "img/2015-june-chem1/q5bii.jpg",
+      "markscheme": "img/2015-june-chem1/ms/q5bii.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem1-q5c",
+      "paper": "2015-june-chem1",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "5(c)",
+      "questionNumber": "5(c)",
+      "page": 9,
+      "marks": 2,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "Explain in terms of electronegativity why the boiling point of H2S2 is lower than H2O2.",
+      "specRef": "3.1.3",
+      "image": "img/2015-june-chem1/q5c.jpg",
+      "markscheme": "img/2015-june-chem1/ms/q5c.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem1-q6a",
+      "paper": "2015-june-chem1",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "6(a)",
+      "questionNumber": "6(a)",
+      "page": 10,
+      "marks": 2,
+      "topics": [
+        "3.3.1",
+        "3.3.2"
+      ],
+      "skills": [
+        "definition"
+      ],
+      "summary": "Give the meaning of the terms saturated and hydrocarbon.",
+      "specRef": "3.3.2",
+      "image": "img/2015-june-chem1/q6a.jpg",
+      "markscheme": "img/2015-june-chem1/ms/q6a.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem1-q6b",
+      "paper": "2015-june-chem1",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "6(b)",
+      "questionNumber": "6(b)",
+      "page": 10,
+      "marks": 1,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [
+        "equation"
+      ],
+      "summary": "Write equation for incomplete combustion of C16H34 forming a poisonous gas and one other product only.",
+      "specRef": "3.3.2",
+      "image": "img/2015-june-chem1/q6b.jpg",
+      "markscheme": "img/2015-june-chem1/ms/q6b.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem1-q6c",
+      "paper": "2015-june-chem1",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "6(c)",
+      "questionNumber": "6(c)",
+      "page": 10,
+      "marks": 2,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "Explain why sulfur compounds should be removed from crude oil fractions before use as fuel.",
+      "specRef": "3.3.2",
+      "image": "img/2015-june-chem1/q6c.jpg",
+      "markscheme": "img/2015-june-chem1/ms/q6c.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem1-q6di",
+      "paper": "2015-june-chem1",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "6(d)(i)",
+      "questionNumber": "6(d)(i)",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [
+        "equation"
+      ],
+      "summary": "Write equation for cracking C16H34 to form C8H18, ethene and propene.",
+      "specRef": "3.3.2",
+      "image": "img/2015-june-chem1/q6di.jpg",
+      "markscheme": "img/2015-june-chem1/ms/q6di.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem1-q6dii",
+      "paper": "2015-june-chem1",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "6(d)(ii)",
+      "questionNumber": "6(d)(ii)",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [
+        "knowledge"
+      ],
+      "summary": "Suggest one important substance manufactured on a large scale from propene.",
+      "specRef": "3.3.4",
+      "image": "img/2015-june-chem1/q6dii.jpg",
+      "markscheme": "img/2015-june-chem1/ms/q6dii.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem1-q6diii",
+      "paper": "2015-june-chem1",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "6(d)(iii)",
+      "questionNumber": "6(d)(iii)",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [
+        "structure"
+      ],
+      "summary": "Draw the displayed formula of the functional group isomer of propene.",
+      "specRef": "3.3.1",
+      "image": "img/2015-june-chem1/q6diii.jpg",
+      "markscheme": "img/2015-june-chem1/ms/q6diii.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem1-q6e",
+      "paper": "2015-june-chem1",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "6(e)",
+      "questionNumber": "6(e)",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [
+        "structure"
+      ],
+      "summary": "Draw the structure of 2,3,3-trimethylpentane.",
+      "specRef": "3.3.1",
+      "image": "img/2015-june-chem1/q6e.jpg",
+      "markscheme": "img/2015-june-chem1/ms/q6e.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem1-q6f",
+      "paper": "2015-june-chem1",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "6(f)",
+      "questionNumber": "6(f)",
+      "page": 12,
+      "marks": 1,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [
+        "naming"
+      ],
+      "summary": "Give the IUPAC name of the dichlorodimethylhexane isomer shown.",
+      "specRef": "3.3.1",
+      "image": "img/2015-june-chem1/q6f.jpg",
+      "markscheme": "img/2015-june-chem1/ms/q6f.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem1-q7a",
+      "paper": "2015-june-chem1",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "7(a)",
+      "questionNumber": "7(a)",
+      "page": 13,
+      "marks": 5,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate mass of NaNH2 needed to obtain 550 g NaN3 at 95.0% yield (to 3 s.f.).",
+      "specRef": "3.1.2",
+      "image": "img/2015-june-chem1/q7a.jpg",
+      "markscheme": "img/2015-june-chem1/ms/q7a.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem1-q7b",
+      "paper": "2015-june-chem1",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "7(b)",
+      "questionNumber": "7(b)",
+      "page": 14,
+      "marks": 6,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate minimum mass of NaN3 that must decompose to give 7.50 × 10⁻² m³ N2 at 150 kPa and 35 °C.",
+      "specRef": "3.1.2",
+      "image": "img/2015-june-chem1/q7b.jpg",
+      "markscheme": "img/2015-june-chem1/ms/q7b.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem1-q7ci",
+      "paper": "2015-june-chem1",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "7(c)(i)",
+      "questionNumber": "7(c)(i)",
+      "page": 15,
+      "marks": 3,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate concentration of 500 cm³ HNO2 used to destroy 150 g NaN3.",
+      "specRef": "3.1.2",
+      "image": "img/2015-june-chem1/q7ci.jpg",
+      "markscheme": "img/2015-june-chem1/ms/q7ci.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem1-q7cii",
+      "paper": "2015-june-chem1",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "7(c)(ii)",
+      "questionNumber": "7(c)(ii)",
+      "page": 15,
+      "marks": 1,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [
+        "equation"
+      ],
+      "summary": "Balance equation for thermal decomposition of nitrous acid.",
+      "specRef": "3.1.2",
+      "image": "img/2015-june-chem1/q7cii.jpg",
+      "markscheme": "img/2015-june-chem1/ms/q7cii.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem1-q7d",
+      "paper": "2015-june-chem1",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "7(d)",
+      "questionNumber": "7(d)",
+      "page": 15,
+      "marks": 3,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "Predict bonding in sodium azide and suggest why its melting point is high.",
+      "specRef": "3.1.3",
+      "image": "img/2015-june-chem1/q7d.jpg",
+      "markscheme": "img/2015-june-chem1/ms/q7d.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem1-q7ei",
+      "paper": "2015-june-chem1",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "7(e)(i)",
+      "questionNumber": "7(e)(i)",
+      "page": 16,
+      "marks": 1,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [
+        "diagram"
+      ],
+      "summary": "Draw arrowhead on azide ion N≡N—N⁻ showing direction of coordinate bond donation.",
+      "specRef": "3.1.3",
+      "image": "img/2015-june-chem1/q7ei.jpg",
+      "markscheme": "img/2015-june-chem1/ms/q7ei.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem1-q7eii",
+      "paper": "2015-june-chem1",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "7(e)(ii)",
+      "questionNumber": "7(e)(ii)",
+      "page": 16,
+      "marks": 1,
+      "topics": [
+        "3.1.1",
+        "3.1.3"
+      ],
+      "skills": [
+        "formula"
+      ],
+      "summary": "Give formula of a molecule with the same number of electrons as the azide ion (N3-).",
+      "specRef": "3.1.1",
+      "image": "img/2015-june-chem1/q7eii.jpg",
+      "markscheme": "img/2015-june-chem1/ms/q7eii.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem1-q7eiii",
+      "paper": "2015-june-chem1",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "7(e)(iii)",
+      "questionNumber": "7(e)(iii)",
+      "page": 16,
+      "marks": 1,
+      "topics": [
+        "3.1.2",
+        "3.1.3"
+      ],
+      "skills": [
+        "formula"
+      ],
+      "summary": "Select the correct formula of magnesium azide.",
+      "specRef": "3.1.2",
+      "image": "img/2015-june-chem1/q7eiii.jpg",
+      "markscheme": "img/2015-june-chem1/ms/q7eiii.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem2-q1ai",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "1(a)(i)",
+      "questionNumber": "1(a)(i)",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "3.1.7",
+        "3.2.3"
+      ],
+      "skills": [
+        "equation"
+      ],
+      "summary": "Deduce half-equation for oxidation of chloride ions to chlorine.",
+      "specRef": "3.1.7",
+      "image": "img/2015-june-chem2/q1ai.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q1ai.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem2-q1aii",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "1(a)(ii)",
+      "questionNumber": "1(a)(ii)",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "3.1.7"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Give the oxidation state of manganese in the MnO4- ion.",
+      "specRef": "3.1.7",
+      "image": "img/2015-june-chem2/q1aii.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q1aii.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem2-q1aiii",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "1(a)(iii)",
+      "questionNumber": "1(a)(iii)",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "3.1.7"
+      ],
+      "skills": [
+        "equation"
+      ],
+      "summary": "Deduce half-equation for reduction of MnO4- in acidified solution to Mn2+ and water.",
+      "specRef": "3.1.7",
+      "image": "img/2015-june-chem2/q1aiii.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q1aiii.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem2-q1bi",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "1(b)(i)",
+      "questionNumber": "1(b)(i)",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "3.2.3",
+        "3.1.7"
+      ],
+      "skills": [
+        "equation"
+      ],
+      "summary": "Write simplest ionic equation for reaction of chlorine with bromide ions.",
+      "specRef": "3.2.3",
+      "image": "img/2015-june-chem2/q1bi.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q1bi.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem2-q1bii",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "1(b)(ii)",
+      "questionNumber": "1(b)(ii)",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "3.2.3"
+      ],
+      "skills": [
+        "observation"
+      ],
+      "summary": "Give one observation made when chlorine is bubbled through bromide solution.",
+      "specRef": "3.2.3",
+      "image": "img/2015-june-chem2/q1bii.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q1bii.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem2-q1biii",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "1(b)(iii)",
+      "questionNumber": "1(b)(iii)",
+      "page": 3,
+      "marks": 1,
+      "topics": [
+        "3.1.7"
+      ],
+      "skills": [
+        "definition"
+      ],
+      "summary": "State the meaning of the term oxidising agent in terms of electrons.",
+      "specRef": "3.1.7",
+      "image": "img/2015-june-chem2/q1biii.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q1biii.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem2-q1c",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "1(c)",
+      "questionNumber": "1(c)",
+      "page": 3,
+      "marks": 2,
+      "topics": [
+        "3.2.3",
+        "3.1.7"
+      ],
+      "skills": [
+        "equation",
+        "calculation"
+      ],
+      "summary": "Write equation for chlorine oxidising water in sunlight to form oxygen, and give Cl oxidation state.",
+      "specRef": "3.2.3",
+      "image": "img/2015-june-chem2/q1c.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q1c.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem2-q1d",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "1(d)",
+      "questionNumber": "1(d)",
+      "page": 3,
+      "marks": 2,
+      "topics": [
+        "3.2.3",
+        "3.1.3"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "Explain why chlorine has a lower boiling point than bromine.",
+      "specRef": "3.2.3",
+      "image": "img/2015-june-chem2/q1d.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q1d.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem2-q2a",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "2(a)",
+      "questionNumber": "2(a)",
+      "page": 4,
+      "marks": 3,
+      "topics": [
+        "3.3.5",
+        "3.3.6"
+      ],
+      "skills": [
+        "practical",
+        "observation"
+      ],
+      "summary": "Give reagent and observations to distinguish butan-2-ol and 2-methylpropan-2-ol.",
+      "specRef": "3.3.5",
+      "image": "img/2015-june-chem2/q2a.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q2a.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem2-q2b",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "2(b)",
+      "questionNumber": "2(b)",
+      "page": 4,
+      "marks": 3,
+      "topics": [
+        "3.3.4",
+        "3.3.6"
+      ],
+      "skills": [
+        "practical",
+        "observation"
+      ],
+      "summary": "Give reagent and observations to distinguish propane and propene.",
+      "specRef": "3.3.4",
+      "image": "img/2015-june-chem2/q2b.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q2b.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem2-q2c",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "2(c)",
+      "questionNumber": "2(c)",
+      "page": 5,
+      "marks": 3,
+      "topics": [
+        "3.2.3",
+        "3.3.6"
+      ],
+      "skills": [
+        "practical",
+        "observation"
+      ],
+      "summary": "Give reagent and observations to distinguish aqueous silver nitrate and aqueous sodium nitrate.",
+      "specRef": "3.2.3",
+      "image": "img/2015-june-chem2/q2c.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q2c.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem2-q2d",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "2(d)",
+      "questionNumber": "2(d)",
+      "page": 5,
+      "marks": 3,
+      "topics": [
+        "3.2.2"
+      ],
+      "skills": [
+        "practical",
+        "observation"
+      ],
+      "summary": "Give reagent and observations to distinguish aqueous magnesium chloride and aqueous barium chloride.",
+      "specRef": "3.2.2",
+      "image": "img/2015-june-chem2/q2d.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q2d.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem2-q3a",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "3(a)",
+      "questionNumber": "3(a)",
+      "page": 7,
+      "marks": 2,
+      "topics": [
+        "3.2.2"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "State and explain trend in atomic radius down Group 2 from Mg to Ba.",
+      "specRef": "3.2.2",
+      "image": "img/2015-june-chem2/q3a.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q3a.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem2-q3bi",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "3(b)(i)",
+      "questionNumber": "3(b)(i)",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "3.2.2"
+      ],
+      "skills": [
+        "knowledge"
+      ],
+      "summary": "State the trend in reactivity with water down Group 2 from Mg to Ba.",
+      "specRef": "3.2.2",
+      "image": "img/2015-june-chem2/q3bi.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q3bi.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem2-q3bii",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "3(b)(ii)",
+      "questionNumber": "3(b)(ii)",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "3.2.2"
+      ],
+      "skills": [
+        "equation"
+      ],
+      "summary": "Write equation for reaction of strontium with water.",
+      "specRef": "3.2.2",
+      "image": "img/2015-june-chem2/q3bii.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q3bii.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem2-q3c",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "3(c)",
+      "questionNumber": "3(c)",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "3.2.2"
+      ],
+      "skills": [
+        "formula"
+      ],
+      "summary": "Give formula of the most water-soluble Group 2 hydroxide (Mg to Ba).",
+      "specRef": "3.2.2",
+      "image": "img/2015-june-chem2/q3c.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q3c.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem2-q4ai",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "4(a)(i)",
+      "questionNumber": "4(a)(i)",
+      "page": 8,
+      "marks": 3,
+      "topics": [
+        "3.1.6"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "Use Le Chatelier's principle to state and explain temperature for highest yield of H2 in Stage 1 (ΔH = +206).",
+      "specRef": "3.1.6",
+      "image": "img/2015-june-chem2/q4ai.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q4ai.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem2-q4aii",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "4(a)(ii)",
+      "questionNumber": "4(a)(ii)",
+      "page": 8,
+      "marks": 2,
+      "topics": [
+        "3.1.5",
+        "3.1.6"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "Explain in terms of particles why high operating pressure is used in Stage 1 despite lower yield.",
+      "specRef": "3.1.5",
+      "image": "img/2015-june-chem2/q4aii.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q4aii.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem2-q4aiii",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "4(a)(iii)",
+      "questionNumber": "4(a)(iii)",
+      "page": 9,
+      "marks": 2,
+      "topics": [
+        "3.1.5"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "Explain why nickel catalyst is more effective when coated onto an unreactive honeycomb.",
+      "specRef": "3.1.5",
+      "image": "img/2015-june-chem2/q4aiii.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q4aiii.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem2-q4b",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "4(b)",
+      "questionNumber": "4(b)",
+      "page": 9,
+      "marks": 2,
+      "topics": [
+        "3.1.6"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "Use Le Chatelier's principle to state and explain effect of decreasing total pressure on H2 yield in Stage 2.",
+      "specRef": "3.1.6",
+      "image": "img/2015-june-chem2/q4b.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q4b.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem2-q5ai",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "5(a)(i)",
+      "questionNumber": "5(a)(i)",
+      "page": 10,
+      "marks": 4,
+      "topics": [
+        "3.3.2",
+        "3.3.3"
+      ],
+      "skills": [
+        "mechanism"
+      ],
+      "summary": "Write initiation, two propagation, and a termination step for CHF3 + Br2 -> CBrF3 + HBr.",
+      "specRef": "3.3.2",
+      "image": "img/2015-june-chem2/q5ai.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q5ai.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem2-q5aii",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "5(a)(ii)",
+      "questionNumber": "5(a)(ii)",
+      "page": 10,
+      "marks": 1,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [
+        "conditions"
+      ],
+      "summary": "State one condition necessary for the initiation of CHF3 + Br2.",
+      "specRef": "3.3.2",
+      "image": "img/2015-june-chem2/q5aii.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q5aii.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem2-q5bi",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "5(b)(i)",
+      "questionNumber": "5(b)(i)",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "3.3.3"
+      ],
+      "skills": [
+        "structure"
+      ],
+      "summary": "Draw displayed formula of the radical formed alongside Br• from CBrF3 in the upper atmosphere.",
+      "specRef": "3.3.3",
+      "image": "img/2015-june-chem2/q5bi.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q5bi.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem2-q5bii",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "5(b)(ii)",
+      "questionNumber": "5(b)(ii)",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "3.3.3"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "Suggest why CBrF3 is more likely to produce Br atoms than CClF3 to produce Cl atoms.",
+      "specRef": "3.3.3",
+      "image": "img/2015-june-chem2/q5bii.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q5bii.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem2-q5biii",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "5(b)(iii)",
+      "questionNumber": "5(b)(iii)",
+      "page": 12,
+      "marks": 3,
+      "topics": [
+        "3.3.3"
+      ],
+      "skills": [
+        "equation",
+        "explanation"
+      ],
+      "summary": "Write two equations showing Br• catalysing ozone decomposition and explain how they show catalysis.",
+      "specRef": "3.3.3",
+      "image": "img/2015-june-chem2/q5biii.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q5biii.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem2-q6ai",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "6(a)(i)",
+      "questionNumber": "6(a)(i)",
+      "page": 13,
+      "marks": 1,
+      "topics": [
+        "3.3.6",
+        "3.1.1"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Use Table 1 to show that a more accurate Mr of butane is 58.1 (to 3 s.f.).",
+      "specRef": "3.3.6",
+      "image": "img/2015-june-chem2/q6ai.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q6ai.png",
+      "figures": [
+        {
+          "title": "Table 1: Precise relative atomic masses",
+          "image": "img/2015-june-chem2/fig-q6a-table1.jpg"
+        }
+      ],
+      "crop_exclude_y": [
+        [
+          170,
+          312
+        ]
+      ]
+    },
+    {
+      "id": "2015-june-chem2-q6aii",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "6(a)(ii)",
+      "questionNumber": "6(a)(ii)",
+      "page": 13,
+      "marks": 1,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [
+        "knowledge"
+      ],
+      "summary": "State why precise relative atomic mass of 12C is exactly 12.00000.",
+      "specRef": "3.1.1",
+      "image": "img/2015-june-chem2/q6aii.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q6aii.png",
+      "figures": [
+        {
+          "title": "Table 1: Precise relative atomic masses",
+          "image": "img/2015-june-chem2/fig-q6a-table1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2015-june-chem2-q6b",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "6(b)",
+      "questionNumber": "6(b)",
+      "page": 14,
+      "marks": 1,
+      "topics": [
+        "3.3.5"
+      ],
+      "skills": [
+        "structure"
+      ],
+      "summary": "Draw displayed formula for the organic product when propanal is oxidised by warm Tollens' reagent.",
+      "specRef": "3.3.5",
+      "image": "img/2015-june-chem2/q6b.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q6b.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem2-q6ci",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "6(c)(i)",
+      "questionNumber": "6(c)(i)",
+      "page": 14,
+      "marks": 1,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [
+        "structure"
+      ],
+      "summary": "Draw the structure of prop-2-en-1-ol.",
+      "specRef": "3.3.4",
+      "image": "img/2015-june-chem2/q6ci.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q6ci.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem2-q6cii",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "6(c)(ii)",
+      "questionNumber": "6(c)(ii)",
+      "page": 14,
+      "marks": 1,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [
+        "knowledge"
+      ],
+      "summary": "Deduce the type of polymerisation forming the polymer from prop-2-en-1-ol.",
+      "specRef": "3.3.4",
+      "image": "img/2015-june-chem2/q6cii.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q6cii.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem2-q6ciii",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "6(c)(iii)",
+      "questionNumber": "6(c)(iii)",
+      "page": 15,
+      "marks": 2,
+      "topics": [
+        "3.3.6"
+      ],
+      "skills": [
+        "data-analysis"
+      ],
+      "summary": "Use Table A to give a bond and its IR absorption range for each functional group in prop-2-en-1-ol.",
+      "specRef": "3.3.6",
+      "image": "img/2015-june-chem2/q6ciii.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q6ciii.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem2-q6di",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "6(d)(i)",
+      "questionNumber": "6(d)(i)",
+      "page": 15,
+      "marks": 1,
+      "topics": [
+        "3.3.6",
+        "3.3.1"
+      ],
+      "skills": [
+        "structure"
+      ],
+      "summary": "Draw structure of propanal isomer X showing IR absorption at 1680-1750 cm-1.",
+      "specRef": "3.3.6",
+      "image": "img/2015-june-chem2/q6di.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q6di.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem2-q6dii",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "6(d)(ii)",
+      "questionNumber": "6(d)(ii)",
+      "page": 15,
+      "marks": 1,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [
+        "knowledge"
+      ],
+      "summary": "Select the type of isomerism shown by X (propanone) and propanal.",
+      "specRef": "3.3.1",
+      "image": "img/2015-june-chem2/q6dii.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q6dii.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem2-q7ai",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "7(a)(i)",
+      "questionNumber": "7(a)(i)",
+      "page": 16,
+      "marks": 1,
+      "topics": [
+        "3.1.2",
+        "3.3.5"
+      ],
+      "skills": [
+        "equation"
+      ],
+      "summary": "Balance equation for conversion of glucose by bacteria to propanone, CO2 and H2O.",
+      "specRef": "3.1.2",
+      "image": "img/2015-june-chem2/q7ai.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q7ai.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem2-q7aii",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "7(a)(ii)",
+      "questionNumber": "7(a)(ii)",
+      "page": 16,
+      "marks": 1,
+      "topics": [
+        "3.1.5",
+        "3.3.5"
+      ],
+      "skills": [
+        "knowledge"
+      ],
+      "summary": "Deduce the role of the bacteria in this reaction.",
+      "specRef": "3.3.5",
+      "image": "img/2015-june-chem2/q7aii.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q7aii.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem2-q7bi",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "7(b)(i)",
+      "questionNumber": "7(b)(i)",
+      "page": 16,
+      "marks": 1,
+      "topics": [
+        "3.3.5"
+      ],
+      "skills": [
+        "equation"
+      ],
+      "summary": "Write equation for oxidation of propan-2-ol to propanone using [O].",
+      "specRef": "3.3.5",
+      "image": "img/2015-june-chem2/q7bi.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q7bi.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem2-q7bii",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "7(b)(ii)",
+      "questionNumber": "7(b)(ii)",
+      "page": 16,
+      "marks": 1,
+      "topics": [
+        "3.3.5"
+      ],
+      "skills": [
+        "knowledge"
+      ],
+      "summary": "State the class of alcohols to which propan-2-ol belongs.",
+      "specRef": "3.3.5",
+      "image": "img/2015-june-chem2/q7bii.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q7bii.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem2-q7c",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "7(c)",
+      "questionNumber": "7(c)",
+      "page": 17,
+      "marks": 3,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate enthalpy of combustion of propanone from calorimetry results (150 g water, +8.0 °C, 4.50 × 10⁻³ mol).",
+      "specRef": "3.1.4",
+      "image": "img/2015-june-chem2/q7c.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q7c.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem2-q7d",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "7(d)",
+      "questionNumber": "7(d)",
+      "page": 18,
+      "marks": 3,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [
+        "definition"
+      ],
+      "summary": "Define the term standard enthalpy of combustion.",
+      "specRef": "3.1.4",
+      "image": "img/2015-june-chem2/q7d.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q7d.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem2-q7e",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "7(e)",
+      "questionNumber": "7(e)",
+      "page": 18,
+      "marks": 3,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate standard enthalpy change of combustion of gaseous propanone using Table 2 mean bond enthalpies.",
+      "specRef": "3.1.4",
+      "image": "img/2015-june-chem2/q7e.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q7e.png",
+      "figures": [
+        {
+          "title": "Table 2: Mean bond enthalpy data",
+          "image": "img/2015-june-chem2/fig-q7e-table2.jpg"
+        }
+      ],
+      "crop_exclude_y": [
+        [
+          345,
+          450
+        ]
+      ]
+    },
+    {
+      "id": "2015-june-chem2-q7f",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "7(f)",
+      "questionNumber": "7(f)",
+      "page": 19,
+      "marks": 2,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [
+        "evaluation"
+      ],
+      "summary": "Suggest two reasons why the student's calorimetry value in 7(c) differs from the mean bond enthalpy value in 7(e).",
+      "specRef": "3.1.4",
+      "image": "img/2015-june-chem2/q7f.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q7f.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem2-q8a",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "8(a)",
+      "questionNumber": "8(a)",
+      "page": 20,
+      "marks": 2,
+      "topics": [
+        "3.3.1",
+        "3.3.3",
+        "3.3.4"
+      ],
+      "skills": [
+        "naming"
+      ],
+      "summary": "Give IUPAC names for alkene P and chloroalkane Q.",
+      "specRef": "3.3.1",
+      "image": "img/2015-june-chem2/q8a.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q8a.png",
+      "figures": [
+        {
+          "title": "Reaction scheme for P, Q, and R",
+          "image": "img/2015-june-chem2/fig-q8-scheme.jpg"
+        }
+      ],
+      "crop_exclude_y": [
+        [
+          155,
+          398
+        ]
+      ]
+    },
+    {
+      "id": "2015-june-chem2-q8b",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "8(b)",
+      "questionNumber": "8(b)",
+      "page": 21,
+      "marks": 5,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [
+        "mechanism"
+      ],
+      "summary": "Name and outline mechanism for conversion of P into Q using HCl.",
+      "specRef": "3.3.4",
+      "image": "img/2015-june-chem2/q8b.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q8b.png",
+      "figures": [
+        {
+          "title": "Reaction scheme for P, Q, and R",
+          "image": "img/2015-june-chem2/fig-q8-scheme.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2015-june-chem2-q8c",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "8(c)",
+      "questionNumber": "8(c)",
+      "page": 21,
+      "marks": 5,
+      "topics": [
+        "3.3.3"
+      ],
+      "skills": [
+        "mechanism"
+      ],
+      "summary": "Name and outline mechanism for conversion of Q into R using NH3.",
+      "specRef": "3.3.3",
+      "image": "img/2015-june-chem2/q8c.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q8c.png",
+      "figures": [
+        {
+          "title": "Reaction scheme for P, Q, and R",
+          "image": "img/2015-june-chem2/fig-q8-scheme.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2015-june-chem2-q8d",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "8(d)",
+      "questionNumber": "8(d)",
+      "page": 22,
+      "marks": 3,
+      "topics": [
+        "3.3.3"
+      ],
+      "skills": [
+        "knowledge",
+        "conditions"
+      ],
+      "summary": "State reaction type, reagent, and condition for high yield in Reaction 3 (Q -> P).",
+      "specRef": "3.3.3",
+      "image": "img/2015-june-chem2/q8d.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q8d.png",
+      "figures": [
+        {
+          "title": "Reaction scheme for P, Q, and R",
+          "image": "img/2015-june-chem2/fig-q8-scheme.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2015-june-chem2-q8e",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "8(e)",
+      "questionNumber": "8(e)",
+      "page": 22,
+      "marks": 4,
+      "topics": [
+        "3.2.3"
+      ],
+      "skills": [
+        "equation",
+        "knowledge"
+      ],
+      "summary": "Write equation for NaBr + H3PO4, identify two toxic gases with conc. H2SO4, and state role of H2SO4.",
+      "specRef": "3.2.3",
+      "image": "img/2015-june-chem2/q8e.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q8e.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem2-q9a",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "9(a)",
+      "questionNumber": "9(a)",
+      "page": 23,
+      "marks": 5,
+      "topics": [
+        "3.1.4",
+        "3.1.7"
+      ],
+      "skills": [
+        "calculation",
+        "evaluation"
+      ],
+      "summary": "Calculate ΔH for 5Ca + V2O5 -> 2V + 5CaO from Table 3, state reaction type for V2O5, and explain why expensive.",
+      "specRef": "3.1.4",
+      "image": "img/2015-june-chem2/q9a.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q9a.png",
+      "figures": [
+        {
+          "title": "Table 3: Standard enthalpies of formation",
+          "image": "img/2015-june-chem2/fig-q9a-table3.jpg"
+        }
+      ],
+      "crop_exclude_y": [
+        [
+          132,
+          234
+        ]
+      ]
+    },
+    {
+      "id": "2015-june-chem2-q9b",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "9(b)",
+      "questionNumber": "9(b)",
+      "page": 24,
+      "marks": 2,
+      "topics": [
+        "3.1.7"
+      ],
+      "skills": [
+        "equation",
+        "calculation"
+      ],
+      "summary": "Write equation for reaction of aluminium with iron(III) oxide and state oxidation state change of Al.",
+      "specRef": "3.1.7",
+      "image": "img/2015-june-chem2/q9b.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q9b.png",
+      "figures": []
+    },
+    {
+      "id": "2015-june-chem2-q9c",
+      "paper": "2015-june-chem2",
+      "year": 2015,
+      "series": "June",
+      "unit": "CHEM2",
+      "level": "AS",
+      "question": "9(c)",
+      "questionNumber": "9(c)",
+      "page": 24,
+      "marks": 4,
+      "topics": [
+        "3.1.7"
+      ],
+      "skills": [
+        "equation",
+        "evaluation"
+      ],
+      "summary": "Write equation for VCl2 + H2, identify two hazards, and deduce why process produces pure vanadium.",
+      "specRef": "3.1.7",
+      "image": "img/2015-june-chem2/q9c.jpg",
+      "markscheme": "img/2015-june-chem2/ms/q9c.png",
       "figures": []
     }
   ]
