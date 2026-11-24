@@ -1,0 +1,670 @@
+import json
+import os
+import sys
+import pymupdf as fitz
+
+ROOT = r"C:\Users\Alexander\.gemini\antigravity\scratch\coolChem"
+sys.path.insert(0, os.path.join(ROOT, "tools"))
+
+from generate_official_markscheme import render_official_markscheme_image
+
+QP_PDF = r"C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795517285960_48949310.pdf"
+PAPER_ID = "2015-june-chem5"
+
+PAPER_OBJ = {
+    "id": PAPER_ID,
+    "year": 2015,
+    "series": "June",
+    "unit": "CHEM5",
+    "level": "A2",
+    "date": "2015-06-15",
+    "title": "CHEM5 \u2014 Unit 5: Energetics, Redox and Inorganic Chemistry",
+    "totalMarks": 100,
+    "pdf": None,
+    "ms": None,
+}
+
+FIGURES = [
+    {"page": 3, "rect": (80, 92, 510, 305), "file": "fig-q1c-table1.jpg", "label": "Table 1: Enthalpy data for MgCl2 Born-Haber cycle"},
+    {"page": 4, "rect": (100, 92, 500, 240), "file": "fig-q1d-table2.jpg", "label": "Table 2: Hydration enthalpies"},
+    {"page": 6, "rect": (95, 92, 515, 185), "file": "fig-q2-table3.jpg", "label": "Table 3: Bond enthalpy data"},
+    {"page": 8, "rect": (115, 144, 460, 320), "file": "fig-q3-table4.jpg", "label": "Table 4: Enthalpy of formation and entropy data"},
+    {"page": 12, "rect": (75, 105, 535, 200), "file": "fig-q5-table5.jpg", "label": "Table 5: Melting points of Period 3 oxides"},
+    {"page": 14, "rect": (130, 92, 440, 370), "file": "fig-q6-table6.jpg", "label": "Table 6: Standard electrode potential data"},
+]
+
+FIG_T1 = [{"file": "fig-q1c-table1.jpg", "label": "Table 1: Enthalpy data for MgCl2 Born-Haber cycle"}]
+FIG_T2 = [{"file": "fig-q1d-table2.jpg", "label": "Table 2: Hydration enthalpies"}]
+FIG_T1_T2 = [
+    {"file": "fig-q1c-table1.jpg", "label": "Table 1: Enthalpy data for MgCl2 Born-Haber cycle"},
+    {"file": "fig-q1d-table2.jpg", "label": "Table 2: Hydration enthalpies"},
+]
+FIG_T3 = [{"file": "fig-q2-table3.jpg", "label": "Table 3: Bond enthalpy data"}]
+FIG_T4 = [{"file": "fig-q3-table4.jpg", "label": "Table 4: Enthalpy of formation and entropy data"}]
+FIG_T5 = [{"file": "fig-q5-table5.jpg", "label": "Table 5: Melting points of Period 3 oxides"}]
+FIG_T6 = [{"file": "fig-q6-table6.jpg", "label": "Table 6: Standard electrode potential data"}]
+
+QUESTIONS = [
+    # Q1 (15 marks)
+    {
+        "id": f"{PAPER_ID}-q1a",
+        "questionNumber": "1(a)",
+        "page": 2,
+        "marks": 2,
+        "topics": ["3.1.8"],
+        "skills": ["definition"],
+        "summary": "Define the term electron affinity for chlorine.",
+        "specRef": "3.1.8",
+        "ms_label": "1(a)",
+        "ms_ans": "Enthalpy change / heat energy change / &Delta;H for the formation of <b>one mole</b> of (chloride) ions from (chlorine) atoms <b>[1]</b><br>Atoms and ions in the <b>gaseous state</b> <b>[1]</b>",
+        "ms_extra": "Allow enthalpy change for Cl(g) + e<sup>&minus;</sup> &rarr; Cl<sup>&minus;</sup>(g). Penalise Cl<sub>2</sub> or chlorine molecules CE=0.",
+        "ms_marks": "2",
+    },
+    {
+        "id": f"{PAPER_ID}-q1b",
+        "questionNumber": "1(b)",
+        "page": 2,
+        "marks": 6,
+        "topics": ["3.1.8"],
+        "skills": ["diagram"],
+        "summary": "Complete the Born-Haber cycle for magnesium chloride with missing species and state symbols.",
+        "specRef": "3.1.8",
+        "ms_label": "1(b)",
+        "ms_ans": "<b>M1</b> Mg(s) + Cl<sub>2</sub>(g) <b>[1]</b><br><b>M2</b> Mg(g) + Cl<sub>2</sub>(g) <b>[1]</b><br><b>M3</b> Mg<sup>+</sup>(g) + e<sup>&minus;</sup> + Cl<sub>2</sub>(g) <b>[1]</b><br><b>M4</b> Mg<sup>2+</sup>(g) + 2e<sup>&minus;</sup> + Cl<sub>2</sub>(g) <b>[1]</b><br><b>M5</b> Mg<sup>2+</sup>(g) + 2e<sup>&minus;</sup> + 2Cl(g) <b>[1]</b><br><b>M6</b> Mg<sup>2+</sup>(g) + 2Cl<sup>&minus;</sup>(g) <b>[1]</b>",
+        "ms_extra": "State symbols essential.",
+        "ms_marks": "6",
+    },
+    {
+        "id": f"{PAPER_ID}-q1c",
+        "questionNumber": "1(c)",
+        "page": 3,
+        "marks": 3,
+        "topics": ["3.1.8"],
+        "skills": ["calculation"],
+        "summary": "Use the Born-Haber cycle and Table 1 to calculate the electron affinity of chlorine.",
+        "specRef": "3.1.8",
+        "figures": FIG_T1,
+        "crop_exclude_y": [[92, 305]],
+        "ms_label": "1(c)",
+        "ms_ans": "&minus;&Delta;H<sub>f</sub>(MgCl<sub>2</sub>) + &Delta;H<sub>a</sub>(Mg) + 1st IE + 2nd IE + 2&Delta;H<sub>a</sub>(Cl) = &minus;2EA(Cl) &minus; LE(MgCl<sub>2</sub>) <b>[1]</b><br>&minus;2EA(Cl) = 642 + 150 + 736 + 1450 + 242 &minus; 2493 = 727 <b>[1]</b><br>EA(Cl) = <b>&minus;364</b> (kJ mol<sup>&minus;1</sup>) (allow &minus;363 to &minus;364) <b>[1]</b>",
+        "ms_extra": "",
+        "ms_marks": "3",
+    },
+    {
+        "id": f"{PAPER_ID}-q1di",
+        "questionNumber": "1(d)(i)",
+        "page": 4,
+        "marks": 2,
+        "topics": ["3.1.8"],
+        "skills": ["explanation"],
+        "summary": "Explain why there is a difference between the hydration enthalpies of Mg2+ and Na+ ions.",
+        "specRef": "3.1.8",
+        "figures": FIG_T2,
+        "crop_exclude_y": [[92, 240]],
+        "ms_label": "1(d)(i)",
+        "ms_ans": "Magnesium (ion) is <b>smaller and more charged</b> than sodium ion (or higher charge density / charge-to-size ratio) <b>[1]</b><br>Mg<sup>2+</sup> attracts water more strongly <b>[1]</b>",
+        "ms_extra": "Mention of intermolecular forces or atomic radius CE=0.",
+        "ms_marks": "2",
+    },
+    {
+        "id": f"{PAPER_ID}-q1dii",
+        "questionNumber": "1(d)(ii)",
+        "page": 4,
+        "marks": 2,
+        "topics": ["3.1.8"],
+        "skills": ["calculation"],
+        "summary": "Calculate the enthalpy change when one mole of magnesium chloride dissolves in water.",
+        "specRef": "3.1.8",
+        "figures": FIG_T1_T2,
+        "crop_exclude_y": [[92, 240]],
+        "ms_label": "1(d)(ii)",
+        "ms_ans": "&Delta;H<sub>sol</sub> = &minus;LE(MgCl<sub>2</sub>) + &Sigma;(&Delta;H<sub>hyd</sub> ions) = 2493 + (&minus;1920 + 2 &times; &minus;364) <b>[1]</b><br>= <b>&minus;155</b> (kJ mol<sup>&minus;1</sup>) <b>[1]</b>",
+        "ms_extra": "",
+        "ms_marks": "2",
+    },
+
+    # Q2 (7 marks)
+    {
+        "id": f"{PAPER_ID}-q2a",
+        "questionNumber": "2(a)",
+        "page": 6,
+        "marks": 2,
+        "topics": ["3.1.8"],
+        "skills": ["definition"],
+        "summary": "State the meaning of the term mean bond enthalpy for the H-O bond.",
+        "specRef": "3.1.8",
+        "figures": FIG_T3,
+        "crop_exclude_y": [[92, 185]],
+        "ms_label": "2(a)",
+        "ms_ans": "The enthalpy (change) to break <b>1 mol</b> of H&ndash;O bonds <b>[1]</b><br>Averaged over a range of compounds / molecules <b>[1]</b>",
+        "ms_extra": "",
+        "ms_marks": "2",
+    },
+    {
+        "id": f"{PAPER_ID}-q2b",
+        "questionNumber": "2(b)",
+        "page": 6,
+        "marks": 3,
+        "topics": ["3.1.8"],
+        "skills": ["calculation"],
+        "summary": "Use bond enthalpies in Table 3 to calculate the enthalpy of formation of gaseous water.",
+        "specRef": "3.1.8",
+        "figures": FIG_T3,
+        "crop_exclude_y": [[92, 185]],
+        "ms_label": "2(b)",
+        "ms_ans": "&Delta;H = (H&ndash;H) + &frac12;(O=O) &minus; 2(H&ndash;O) <b>[1]</b><br>= 436 + 496/2 &minus; 2 &times; 464 <b>[1]</b><br>= <b>&minus;244</b> (kJ mol<sup>&minus;1</sup>) <b>[1]</b>",
+        "ms_extra": "Allow 1 mark only for +244 and &minus;488.",
+        "ms_marks": "3",
+    },
+    {
+        "id": f"{PAPER_ID}-q2ci",
+        "questionNumber": "2(c)(i)",
+        "page": 7,
+        "marks": 1,
+        "topics": ["3.1.8"],
+        "skills": ["explanation"],
+        "summary": "Suggest why standard enthalpy of combustion of hydrogen (forming H2O(g)) equals 2(b).",
+        "specRef": "3.1.8",
+        "ms_label": "2(c)(i)",
+        "ms_ans": "Same reaction / same equation / same reactants and products / same number and type of bonds broken and formed <b>[1]</b>",
+        "ms_extra": "Do not allow 'similar'.",
+        "ms_marks": "1",
+    },
+    {
+        "id": f"{PAPER_ID}-q2cii",
+        "questionNumber": "2(c)(ii)",
+        "page": 7,
+        "marks": 1,
+        "topics": ["3.1.8"],
+        "skills": ["explanation"],
+        "summary": "Suggest why standard enthalpy of combustion of hydrogen differs slightly from 2(b).",
+        "specRef": "3.1.8",
+        "ms_label": "2(c)(ii)",
+        "ms_ans": "Slight difference between actual bond enthalpy (in water) and mean bond enthalpies for O&ndash;H bond (in other molecules) <b>[1]</b>",
+        "ms_extra": "Do not allow heat loss or experimental error.",
+        "ms_marks": "1",
+    },
+
+    # Q3 (15 marks)
+    {
+        "id": f"{PAPER_ID}-q3ai",
+        "questionNumber": "3(a)(i)",
+        "page": 8,
+        "marks": 3,
+        "topics": ["3.1.8"],
+        "skills": ["calculation"],
+        "summary": "Calculate enthalpy change for CH4(g) + H2O(g) -> CO(g) + 3H2(g) using Table 4.",
+        "specRef": "3.1.8",
+        "figures": FIG_T4,
+        "crop_exclude_y": [[144, 320]],
+        "ms_label": "3(a)(i)",
+        "ms_ans": "&Delta;H = &Sigma;&Delta;H<sub>f</sub>(products) &minus; &Sigma;&Delta;H<sub>f</sub>(reactants) <b>[1]</b><br>= &minus;111 &minus; (&minus;75 &minus; 242) <b>[1]</b><br>= <b>(+)206</b> (kJ mol<sup>&minus;1</sup>) <b>[1]</b>",
+        "ms_extra": "&minus;206 scores 1 only.",
+        "ms_marks": "3",
+    },
+    {
+        "id": f"{PAPER_ID}-q3aii",
+        "questionNumber": "3(a)(ii)",
+        "page": 8,
+        "marks": 2,
+        "topics": ["3.1.8"],
+        "skills": ["calculation"],
+        "summary": "Calculate entropy change for CH4(g) + H2O(g) -> CO(g) + 3H2(g) using Table 4.",
+        "specRef": "3.1.8",
+        "figures": FIG_T4,
+        "crop_exclude_y": [[144, 320]],
+        "ms_label": "3(a)(ii)",
+        "ms_ans": "&Delta;S = 198 + 3 &times; 131 &minus; (186 + 189) <b>[1]</b><br>= <b>(+)216</b> (J K<sup>&minus;1</sup> mol<sup>&minus;1</sup>) (or 0.216 kJ K<sup>&minus;1</sup> mol<sup>&minus;1</sup>) <b>[1]</b>",
+        "ms_extra": "",
+        "ms_marks": "2",
+    },
+    {
+        "id": f"{PAPER_ID}-q3b",
+        "questionNumber": "3(b)",
+        "page": 9,
+        "marks": 4,
+        "topics": ["3.1.8"],
+        "skills": ["calculation"],
+        "summary": "Calculate the temperature above which the reaction of steam with methane is feasible.",
+        "specRef": "3.1.8",
+        "ms_label": "3(b)",
+        "ms_ans": "When &Delta;G = 0 / &Delta;H = T&Delta;S <b>[1]</b><br>T = &Delta;H / &Delta;S <b>[1]</b><br>= 206 &times; 1000 / 216 <b>[1]</b><br>= <b>954 K</b> (allow 953&ndash;955 K) <b>[1]</b>",
+        "ms_extra": "Units of K essential.",
+        "ms_marks": "4",
+    },
+    {
+        "id": f"{PAPER_ID}-q3c",
+        "questionNumber": "3(c)",
+        "page": 9,
+        "marks": 1,
+        "topics": ["3.1.8"],
+        "skills": ["explanation"],
+        "summary": "Suggest one reason (other than equilibrium position) why 1300 K is used instead of the temperature in 3(b).",
+        "specRef": "3.1.8",
+        "ms_label": "3(c)",
+        "ms_ans": "To speed up the rate of reaction (or more molecules have E &ge; E<sub>a</sub>) <b>[1]</b>",
+        "ms_extra": "",
+        "ms_marks": "1",
+    },
+    {
+        "id": f"{PAPER_ID}-q3di",
+        "questionNumber": "3(d)(i)",
+        "page": 10,
+        "marks": 3,
+        "topics": ["3.1.8"],
+        "skills": ["calculation", "explanation"],
+        "summary": "Explain using a calculation why CO(g) + H2O(g) -> CO2(g) + H2(g) should not occur at 1300 K.",
+        "specRef": "3.1.8",
+        "ms_label": "3(d)(i)",
+        "ms_ans": "&Delta;G = &Delta;H &minus; T&Delta;S = &minus;41 &minus; (1300 &times; &minus;42/1000) <b>[1]</b><br>= <b>+13.6 kJ mol<sup>&minus;1</sup></b> (or +13600 J mol<sup>&minus;1</sup>) <b>[1]</b><br>&Delta;G is positive (must be &le; 0 for feasible), so reaction is not feasible <b>[1]</b>",
+        "ms_extra": "Or Method 2: T = &Delta;H/&Delta;S = 976 K; &Delta;S is &minus;ve so &Delta;G is +ve above 976 K.",
+        "ms_marks": "3",
+    },
+    {
+        "id": f"{PAPER_ID}-q3dii",
+        "questionNumber": "3(d)(ii)",
+        "page": 10,
+        "marks": 2,
+        "topics": ["3.1.8"],
+        "skills": ["explanation"],
+        "summary": "Explain how conditions could be changed to allow CO(g) + H2O(g) -> CO2(g) + H2(g) to take place.",
+        "specRef": "3.1.8",
+        "ms_label": "3(d)(ii)",
+        "ms_ans": "Lower the temperature (to 976 K or below) <b>[1]</b><br>&Delta;G becomes (more) negative because &minus;T&Delta;S term is less positive / T&Delta;S &lt; &Delta;H <b>[1]</b>",
+        "ms_extra": "Ignore reference to catalyst or pressure.",
+        "ms_marks": "2",
+    },
+
+    # Q4 (6 marks)
+    {
+        "id": f"{PAPER_ID}-q4a",
+        "questionNumber": "4(a)",
+        "page": 11,
+        "marks": 3,
+        "topics": ["3.2.4"],
+        "skills": ["equation", "practical"],
+        "summary": "Write equation and observations when magnesium is heated in steam.",
+        "specRef": "3.2.4",
+        "ms_label": "4(a)",
+        "ms_ans": "Equation: <b>Mg + H<sub>2</sub>O &rarr; MgO + H<sub>2</sub></b> <b>[1]</b><br>Observations: <b>White solid / powder / ash / smoke</b> <b>[1]</b> and <b>(bright) white light / flame</b> <b>[1]</b>",
+        "ms_extra": "Penalise effervescence under list principle.",
+        "ms_marks": "3",
+    },
+    {
+        "id": f"{PAPER_ID}-q4b",
+        "questionNumber": "4(b)",
+        "page": 11,
+        "marks": 3,
+        "topics": ["3.2.4"],
+        "skills": ["equation", "practical"],
+        "summary": "Write equation and observations when sodium is heated in oxygen.",
+        "specRef": "3.2.4",
+        "ms_label": "4(b)",
+        "ms_ans": "Equation: <b>2Na + &frac12;O<sub>2</sub> &rarr; Na<sub>2</sub>O</b> (or 4Na + O<sub>2</sub> &rarr; 2Na<sub>2</sub>O) <b>[1]</b><br>Observations: <b>White / yellow solid / ash / smoke</b> <b>[1]</b> and <b>orange / yellow flame</b> <b>[1]</b>",
+        "ms_extra": "Allow 2Na + O<sub>2</sub> &rarr; Na<sub>2</sub>O<sub>2</sub>.",
+        "ms_marks": "3",
+    },
+
+    # Q5 (10 marks)
+    {
+        "id": f"{PAPER_ID}-q5ai",
+        "questionNumber": "5(a)(i)",
+        "page": 12,
+        "marks": 1,
+        "topics": ["3.2.4"],
+        "skills": ["recall"],
+        "summary": "Predict an approximate melting point for sodium oxide from Table 5.",
+        "specRef": "3.2.4",
+        "figures": FIG_T5,
+        "crop_exclude_y": [[105, 200]],
+        "ms_label": "5(a)(i)",
+        "ms_ans": "<b>1500 K</b> <b>[1]</b>",
+        "ms_extra": "",
+        "ms_marks": "1",
+    },
+    {
+        "id": f"{PAPER_ID}-q5aii",
+        "questionNumber": "5(a)(ii)",
+        "page": 12,
+        "marks": 2,
+        "topics": ["3.2.4"],
+        "skills": ["explanation"],
+        "summary": "Explain in terms of structure and bonding why sodium oxide has a high melting point.",
+        "specRef": "3.2.4",
+        "figures": FIG_T5,
+        "crop_exclude_y": [[105, 200]],
+        "ms_label": "5(a)(ii)",
+        "ms_ans": "<b>Ionic lattice / giant ionic</b> <b>[1]</b><br>Strong attraction between oppositely charged ions (Na<sup>+</sup> and O<sup>2&minus;</sup>) / lots of energy required to overcome attraction <b>[1]</b>",
+        "ms_extra": "Mention of vdW/covalent/molecules CE=0.",
+        "ms_marks": "2",
+    },
+    {
+        "id": f"{PAPER_ID}-q5aiii",
+        "questionNumber": "5(a)(iii)",
+        "page": 13,
+        "marks": 3,
+        "topics": ["3.2.4"],
+        "skills": ["explanation"],
+        "summary": "Predict melting point of SO2 and explain why it differs from P4O10 in terms of structure and bonding.",
+        "specRef": "3.2.4",
+        "figures": FIG_T5,
+        "ms_label": "5(a)(iii)",
+        "ms_ans": "Predicted m.p.: <b>200 K</b> (allow 10&ndash;273 K) <b>[1]</b><br>SO<sub>2</sub> is a <b>smaller molecule</b> (lower M<sub>r</sub> / fewer electrons / less polarisable) than P<sub>4</sub>O<sub>10</sub> <b>[1]</b><br><b>Van der Waals forces</b> between molecules are weaker / require less energy to separate <b>[1]</b>",
+        "ms_extra": "CE=0 if temperature > 573 K.",
+        "ms_marks": "3",
+    },
+    {
+        "id": f"{PAPER_ID}-q5b",
+        "questionNumber": "5(b)",
+        "page": 13,
+        "marks": 2,
+        "topics": ["3.2.4"],
+        "skills": ["equation", "recall"],
+        "summary": "Write equation for SO2 + H2O and suggest the pH value of the resulting solution.",
+        "specRef": "3.2.4",
+        "ms_label": "5(b)",
+        "ms_ans": "Equation: <b>SO<sub>2</sub> + H<sub>2</sub>O &rarr; H<sub>2</sub>SO<sub>3</sub></b> (or H<sup>+</sup> + HSO<sub>3</sub><sup>&minus;</sup> or 2H<sup>+</sup> + SO<sub>3</sub><sup>2&minus;</sup>) <b>[1]</b><br>pH value: <b>1</b> (allow 1&ndash;3) <b>[1]</b>",
+        "ms_extra": "",
+        "ms_marks": "2",
+    },
+    {
+        "id": f"{PAPER_ID}-q5c",
+        "questionNumber": "5(c)",
+        "page": 13,
+        "marks": 2,
+        "topics": ["3.2.4"],
+        "skills": ["equation", "explanation"],
+        "summary": "Explain using an equation why silicon(IV) oxide is classified as an acidic oxide.",
+        "specRef": "3.2.4",
+        "ms_label": "5(c)",
+        "ms_ans": "Reacts with / neutralises <b>bases / alkalis</b> <b>[1]</b><br><b>SiO<sub>2</sub> + 2NaOH &rarr; Na<sub>2</sub>SiO<sub>3</sub> + H<sub>2</sub>O</b> (or CaO + SiO<sub>2</sub> &rarr; CaSiO<sub>3</sub>) <b>[1]</b>",
+        "ms_extra": "",
+        "ms_marks": "2",
+    },
+
+    # Q6 (15 marks)
+    {
+        "id": f"{PAPER_ID}-q6a",
+        "questionNumber": "6(a)",
+        "page": 14,
+        "marks": 1,
+        "topics": ["3.1.9"],
+        "skills": ["definition"],
+        "summary": "Explain the meaning of the term oxidising agent in terms of electrons.",
+        "specRef": "3.1.9",
+        "ms_label": "6(a)",
+        "ms_ans": "<b>Electron acceptor / gains electrons</b> <b>[1]</b>",
+        "ms_extra": "Do not allow electron pair acceptor.",
+        "ms_marks": "1",
+    },
+    {
+        "id": f"{PAPER_ID}-q6b",
+        "questionNumber": "6(b)",
+        "page": 14,
+        "marks": 2,
+        "topics": ["3.1.9"],
+        "skills": ["interpretation"],
+        "summary": "Identify the weakest oxidising agent in Table 6 and explain your choice.",
+        "specRef": "3.1.9",
+        "figures": FIG_T6,
+        "crop_exclude_y": [[92, 370]],
+        "ms_label": "6(b)",
+        "ms_ans": "Weakest oxidising agent: <b>Fe<sup>2+</sup></b> (ions) <b>[1]</b><br>Explanation: Fe<sup>2+</sup>/Fe has the smallest / most negative electrode potential E<sup>&ominus;</sup> <b>[1]</b>",
+        "ms_extra": "Do not allow Fe/Fe<sup>2+</sup>.",
+        "ms_marks": "2",
+    },
+    {
+        "id": f"{PAPER_ID}-q6c",
+        "questionNumber": "6(c)",
+        "page": 15,
+        "marks": 4,
+        "topics": ["3.1.9"],
+        "skills": ["formula", "recall"],
+        "summary": "Write conventional cell representation for measuring E(Ag+/Ag) and state conditions.",
+        "specRef": "3.1.9",
+        "figures": FIG_T6,
+        "ms_label": "6(c)",
+        "ms_ans": "<b>Pt|H<sub>2</sub>|H<sup>+</sup>||Ag<sup>+</sup>|Ag</b> (H<sub>2</sub>, H<sup>+</sup>, Ag<sup>+</sup>, Ag in order <b>[1]</b>; Pt &amp; phase boundaries <b>[1]</b>)<br>Any <b>two</b> conditions: <b>298 K / 25 &deg;C</b>, <b>100 kPa</b> (or 1 bar), <b>both solutions 1 mol dm<sup>&minus;3</sup> / unit concentration</b>, <b>zero current</b> <b>[2]</b>",
+        "ms_extra": "",
+        "ms_marks": "4",
+    },
+    {
+        "id": f"{PAPER_ID}-q6d",
+        "questionNumber": "6(d)",
+        "page": 15,
+        "marks": 4,
+        "topics": ["3.1.9"],
+        "skills": ["explanation", "equation"],
+        "summary": "Explain what happens when Au+ ions are added to water, state observation, and write equation.",
+        "specRef": "3.1.9",
+        "figures": FIG_T6,
+        "ms_label": "6(d)",
+        "ms_ans": "<b>M1</b> E(Au<sup>+</sup>/Au) &gt; E(O<sub>2</sub>/H<sub>2</sub>O) (or E<sub>cell</sub> = 0.45 V) <b>[1]</b><br><b>M2</b> Au<sup>+</sup> oxidises water (water reduces Au<sup>+</sup>) <b>[1]</b><br><b>M3</b> Observation: <b>gold solid / precipitate</b> OR <b>bubbles / effervescence (of O<sub>2</sub>)</b> <b>[1]</b><br><b>M4</b> Equation: <b>2Au<sup>+</sup> + H<sub>2</sub>O &rarr; 2Au + 2H<sup>+</sup> + &frac12;O<sub>2</sub></b> (or 4Au<sup>+</sup> + 2H<sub>2</sub>O &rarr; 4Au + 4H<sup>+</sup> + O<sub>2</sub>) <b>[1]</b>",
+        "ms_extra": "",
+        "ms_marks": "4",
+    },
+    {
+        "id": f"{PAPER_ID}-q6ei",
+        "questionNumber": "6(e)(i)",
+        "page": 16,
+        "marks": 1,
+        "topics": ["3.1.9"],
+        "skills": ["calculation"],
+        "summary": "Calculate the e.m.f. of the Fe2+/Fe and Ag+/Ag cell.",
+        "specRef": "3.1.9",
+        "figures": FIG_T6,
+        "crop_exclude_y": [[92, 375]],
+        "ms_label": "6(e)(i)",
+        "ms_ans": "<b>1.24</b> (V) <b>[1]</b>",
+        "ms_extra": "Do not allow &minus;1.24.",
+        "ms_marks": "1",
+    },
+    {
+        "id": f"{PAPER_ID}-q6eii",
+        "questionNumber": "6(e)(ii)",
+        "page": 16,
+        "marks": 1,
+        "topics": ["3.1.9"],
+        "skills": ["explanation"],
+        "summary": "Suggest why KCl would not be suitable in the salt bridge of the Fe2+/Fe and Ag+/Ag cell.",
+        "specRef": "3.1.9",
+        "figures": FIG_T6,
+        "crop_exclude_y": [[92, 375]],
+        "ms_label": "6(e)(ii)",
+        "ms_ans": "Chloride ions / Cl<sup>&minus;</sup> react with / precipitate Ag<sup>+</sup> ions (form AgCl) <b>[1]</b>",
+        "ms_extra": "",
+        "ms_marks": "1",
+    },
+    {
+        "id": f"{PAPER_ID}-q6f",
+        "questionNumber": "6(f)",
+        "page": 17,
+        "marks": 2,
+        "topics": ["3.1.9"],
+        "skills": ["explanation"],
+        "summary": "Use Table 6 to explain what happens when iron(II) chloride solution is exposed to air.",
+        "specRef": "3.1.9",
+        "figures": FIG_T6,
+        "ms_label": "6(f)",
+        "ms_ans": "E(O<sub>2</sub>/H<sub>2</sub>O) &gt; E(Fe<sup>3+</sup>/Fe<sup>2+</sup>) (or E<sub>cell</sub> = 0.46 V) <b>[1]</b><br>Therefore Fe<sup>2+</sup> ions are oxidised to Fe<sup>3+</sup> ions (by oxygen) <b>[1]</b>",
+        "ms_extra": "",
+        "ms_marks": "2",
+    },
+
+    # Q7 (11 marks) - Section B
+    {
+        "id": f"{PAPER_ID}-q7a",
+        "questionNumber": "7(a)",
+        "page": 18,
+        "marks": 5,
+        "topics": ["3.2.6"],
+        "skills": ["equation", "practical"],
+        "summary": "Write ionic equations and observations when solid Cr(OH)3 reacts with HCl and with NaOH.",
+        "specRef": "3.2.6",
+        "ms_label": "7(a)",
+        "ms_ans": "<b>With acid:</b> Cr(OH)<sub>3</sub> + 3H<sub>2</sub>O + 3H<sup>+</sup> &rarr; <b>[Cr(H<sub>2</sub>O)<sub>6</sub>]<sup>3+</sup></b> <b>[1]</b><br><b>Green / grey-green solid</b> <b>[1]</b> forms <b>green / purple / ruby / violet solution</b> <b>[1]</b><br><b>With alkali:</b> Cr(OH)<sub>3</sub> + 2H<sub>2</sub>O + OH<sup>&minus;</sup> &rarr; <b>[Cr(H<sub>2</sub>O)<sub>2</sub>(OH)<sub>4</sub>]<sup>&minus;</sup></b> <b>[1]</b> (allow 5 or 6 OH<sup>&minus;</sup> if 6-coordinate)<br>Forms <b>green solution</b> <b>[1]</b>",
+        "ms_extra": "Can start with Cr(H<sub>2</sub>O)<sub>3</sub>(OH)<sub>3</sub>.",
+        "ms_marks": "5",
+    },
+    {
+        "id": f"{PAPER_ID}-q7b",
+        "questionNumber": "7(b)",
+        "page": 19,
+        "marks": 6,
+        "topics": ["3.2.5"],
+        "skills": ["equation", "practical"],
+        "summary": "Write equations and observations for CuSO4(aq) and CoSO4(aq) with excess dilute NH3(aq).",
+        "specRef": "3.2.5",
+        "ms_label": "7(b)",
+        "ms_ans": "<b>Cu(II):</b> [Cu(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup> + 4NH<sub>3</sub> &rarr; <b>[Cu(H<sub>2</sub>O)<sub>2</sub>(NH<sub>3</sub>)<sub>4</sub>]<sup>2+</sup></b> + 4H<sub>2</sub>O <b>[1]</b>; <b>blue (solution)</b> <b>[1]</b> &rarr; <b>dark / deep / royal blue solution</b> <b>[1]</b><br><b>Co(II):</b> [Co(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup> + 6NH<sub>3</sub> &rarr; <b>[Co(NH<sub>3</sub>)<sub>6</sub>]<sup>2+</sup></b> + 6H<sub>2</sub>O <b>[1]</b>; <b>pink / red (solution)</b> <b>[1]</b> &rarr; <b>brown / straw / yellow solution</b> <b>[1]</b>",
+        "ms_extra": "Allow two-step equations via hydroxide.",
+        "ms_marks": "6",
+    },
+
+    # Q8 (11 marks) - Section B
+    {
+        "id": f"{PAPER_ID}-q8a",
+        "questionNumber": "8(a)",
+        "page": 20,
+        "marks": 4,
+        "topics": ["3.2.6"],
+        "skills": ["equation", "practical"],
+        "summary": "Write equations and observations when [Fe(H2O)6]2+ reacts with aqueous NH3 and Na2CO3.",
+        "specRef": "3.2.6",
+        "ms_label": "8(a)",
+        "ms_ans": "[Fe(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup> + 2NH<sub>3</sub> &rarr; <b>Fe(H<sub>2</sub>O)<sub>4</sub>(OH)<sub>2</sub></b> + 2NH<sub>4</sub><sup>+</sup> <b>[1]</b>; <b>green precipitate</b> <b>[1]</b><br>[Fe(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup> + CO<sub>3</sub><sup>2&minus;</sup> &rarr; <b>FeCO<sub>3</sub></b> + 6H<sub>2</sub>O <b>[1]</b>; <b>green precipitate</b> <b>[1]</b>",
+        "ms_extra": "Effervescence loses M4.",
+        "ms_marks": "4",
+    },
+    {
+        "id": f"{PAPER_ID}-q8bi",
+        "questionNumber": "8(b)(i)",
+        "page": 21,
+        "marks": 2,
+        "topics": ["3.2.5", "3.1.9"],
+        "skills": ["practical"],
+        "summary": "State colour change at end point of KMnO4 titration with Fe2+ and give reason.",
+        "specRef": "3.2.5",
+        "ms_label": "8(b)(i)",
+        "ms_ans": "<b>Colourless / (pale) green changes to pink / purple</b> (solution) <b>[1]</b><br>Just after end-point MnO<sub>4</sub><sup>&minus;</sup> is in excess / present <b>[1]</b>",
+        "ms_extra": "Do not allow pale pink to purple.",
+        "ms_marks": "2",
+    },
+    {
+        "id": f"{PAPER_ID}-q8bii",
+        "questionNumber": "8(b)(ii)",
+        "page": 21,
+        "marks": 5,
+        "topics": ["3.2.5", "3.1.9"],
+        "skills": ["calculation", "equation"],
+        "summary": "Write Fe2+ + MnO4- equation and calculate concentration of Fe2+ in original solution X.",
+        "specRef": "3.2.5",
+        "ms_label": "8(b)(ii)",
+        "ms_ans": "<b>M1</b> MnO<sub>4</sub><sup>&minus;</sup> + 8H<sup>+</sup> + 5Fe<sup>2+</sup> &rarr; Mn<sup>2+</sup> + 4H<sub>2</sub>O + 5Fe<sup>3+</sup> <b>[1]</b><br><b>M2</b> mol KMnO<sub>4</sub> = 18.7 &times; 0.0205 / 1000 = <b>3.8335 &times; 10<sup>&minus;4</sup></b> <b>[1]</b><br><b>M3</b> mol Fe<sup>2+</sup> (in 25 cm<sup>3</sup>) = 5 &times; M2 = <b>1.91675 &times; 10<sup>&minus;3</sup></b> <b>[1]</b><br><b>M4</b> mol Fe<sup>2+</sup> in 250 cm<sup>3</sup> = 10 &times; M3 = <b>0.0191675</b> <b>[1]</b><br><b>M5</b> Original [Fe<sup>2+</sup>] = 0.0191675 &times; 1000/50 = <b>0.383 mol dm<sup>&minus;3</sup></b> (min 2 sf: 0.38) <b>[1]</b>",
+        "ms_extra": "",
+        "ms_marks": "5",
+    },
+
+    # Q9 (10 marks) - Section B
+    {
+        "id": f"{PAPER_ID}-q9a",
+        "questionNumber": "9(a)",
+        "page": 22,
+        "marks": 6,
+        "topics": ["3.2.5"],
+        "skills": ["equation", "explanation"],
+        "summary": "Write equation for autocatalysed MnO4- + C2O4^2- reaction, identify catalyst, and explain how it works.",
+        "specRef": "3.2.5",
+        "ms_label": "9(a)",
+        "ms_ans": "<b>M1</b> 2MnO<sub>4</sub><sup>&minus;</sup> + 16H<sup>+</sup> + 5C<sub>2</sub>O<sub>4</sub><sup>2&minus;</sup> &rarr; 2Mn<sup>2+</sup> + 8H<sub>2</sub>O + 10CO<sub>2</sub> <b>[1]</b><br><b>M2</b> Catalyst: <b>Mn<sup>2+</sup></b> (or Mn<sup>3+</sup>) <b>[1]</b><br><b>M3</b> Mn can exist in <b>variable oxidation states</b> <b>[1]</b><br><b>M4</b> E<sub>a</sub> lowered because oppositely charged ions attract <b>[1]</b><br><b>M5</b> Mn<sup>3+</sup> + C<sub>2</sub>O<sub>4</sub><sup>2&minus;</sup> &rarr; Mn<sup>2+</sup> (or Mn<sup>3+</sup> reduced to Mn<sup>2+</sup> by C<sub>2</sub>O<sub>4</sub><sup>2&minus;</sup>) <b>[1]</b><br><b>M6</b> Mn<sup>2+</sup> + MnO<sub>4</sub><sup>&minus;</sup> &rarr; Mn<sup>3+</sup> (or Mn<sup>2+</sup> oxidised to Mn<sup>3+</sup> by MnO<sub>4</sub><sup>&minus;</sup>) <b>[1]</b>",
+        "ms_extra": "",
+        "ms_marks": "6",
+    },
+    {
+        "id": f"{PAPER_ID}-q9b",
+        "questionNumber": "9(b)",
+        "page": 23,
+        "marks": 4,
+        "topics": ["3.2.5"],
+        "skills": ["diagram", "explanation"],
+        "summary": "Sketch graph of [MnO4-] vs time for autocatalysed reaction and explain its shape.",
+        "specRef": "3.2.5",
+        "ms_label": "9(b)",
+        "ms_ans": "<b>M1</b> Labelled axes ([MnO<sub>4</sub><sup>&minus;</sup>] vs time) + S-shaped curve not rising and not falling rapidly initially <b>[1]</b><br><b>M2</b> Starts on y-axis and levels out parallel to time axis <b>[1]</b><br><b>M3</b> Slope / rate increases as catalyst (concentration) forms <b>[1]</b><br><b>M4</b> Slope / rate decreases as [MnO<sub>4</sub><sup>&minus;</sup>] / reactants decrease (used up) <b>[1]</b>",
+        "ms_extra": "Cannot score graph marks if no axes/labels.",
+        "ms_marks": "4",
+    },
+]
+
+
+def extract_figures(doc):
+    out_dir = os.path.join(ROOT, "img", PAPER_ID)
+    os.makedirs(out_dir, exist_ok=True)
+    for fig in FIGURES:
+        page = doc[fig["page"] - 1]
+        rect = fitz.Rect(*fig["rect"])
+        pix = page.get_pixmap(clip=rect, dpi=200)
+        out_path = os.path.join(out_dir, fig["file"])
+        pix.save(out_path, jpg_quality=92)
+        print(f"Saved figure {fig['file']} ({pix.width}x{pix.height})")
+
+
+def main():
+    doc = fitz.open(QP_PDF)
+    extract_figures(doc)
+
+    db_path = os.path.join(ROOT, "questions.json")
+    with open(db_path, "r", encoding="utf-8") as f:
+        db = json.load(f)
+
+    db["papers"] = [p for p in db.get("papers", []) if p.get("id") != PAPER_ID]
+    db["papers"].append(PAPER_OBJ)
+
+    db["questions"] = [q for q in db.get("questions", []) if q.get("paper") != PAPER_ID]
+    ms_dir = os.path.join(ROOT, "img", PAPER_ID, "ms")
+    os.makedirs(ms_dir, exist_ok=True)
+
+    for q in QUESTIONS:
+        q_code = q["id"].replace(f"{PAPER_ID}-", "")
+        ms_rel = f"img/{PAPER_ID}/ms/{q_code}.png"
+        ms_abs = os.path.join(ROOT, ms_rel)
+        render_official_markscheme_image(
+            question_label=q["ms_label"],
+            answers_html=q["ms_ans"],
+            extra_html=q["ms_extra"],
+            marks=q["ms_marks"],
+            spec_ref=q["specRef"],
+            output_path=ms_abs,
+        )
+        entry = {
+            "id": q["id"],
+            "paper": PAPER_ID,
+            "year": PAPER_OBJ["year"],
+            "series": PAPER_OBJ["series"],
+            "unit": PAPER_OBJ["unit"],
+            "level": PAPER_OBJ["level"],
+            "question": q["questionNumber"],
+            "questionNumber": q["questionNumber"],
+            "page": q["page"],
+            "marks": q["marks"],
+            "topics": q["topics"],
+            "skills": q["skills"],
+            "summary": q["summary"],
+            "specRef": q["specRef"],
+            "image": f"img/{PAPER_ID}/{q_code}.jpg",
+            "markscheme": ms_rel,
+            "figures": q.get("figures", []),
+        }
+        if "crop_exclude_y" in q:
+            entry["crop_exclude_y"] = q["crop_exclude_y"]
+        db["questions"].append(entry)
+
+    with open(db_path, "w", encoding="utf-8") as f:
+        json.dump(db, f, indent=2, ensure_ascii=False)
+
+    total_marks = sum(q["marks"] for q in QUESTIONS)
+    print(f"Ingested {len(QUESTIONS)} questions ({total_marks} marks) for {PAPER_ID}")
+
+
+if __name__ == "__main__":
+    main()
