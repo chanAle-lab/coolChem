@@ -1439,6 +1439,17 @@
       "date": "2011-01-31",
       "totalMarks": 100,
       "duration": "1 hour 45 minutes"
+    },
+    {
+      "id": "2011-june-chem1",
+      "year": 2011,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "title": "CHEM1 – Foundation Chemistry",
+      "date": "2011-05-23",
+      "totalMarks": 70,
+      "duration": "1 hour 15 minutes"
     }
   ],
   "questions": [
@@ -69593,6 +69604,897 @@
       "specRef": "3.5.2",
       "image": "img/2011-jan-chem5/q7c.jpg",
       "markscheme": "img/2011-jan-chem5/ms/q7c.png",
+      "figures": []
+    },
+    {
+      "id": "2011-june-chem1-q1ai",
+      "paper": "2011-june-chem1",
+      "year": 2011,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "1(a)(i)",
+      "questionNumber": "1(a)(i)",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State the difference between isotopes of an element in terms of fundamental particles.",
+      "specRef": "3.1.1",
+      "image": "img/2011-june-chem1/q1ai.jpg",
+      "markscheme": "img/2011-june-chem1/ms/q1ai.png",
+      "figures": []
+    },
+    {
+      "id": "2011-june-chem1-q1aii",
+      "paper": "2011-june-chem1",
+      "year": 2011,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "1(a)(ii)",
+      "questionNumber": "1(a)(ii)",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State why isotopes of an element have the same chemical properties.",
+      "specRef": "3.1.1",
+      "image": "img/2011-june-chem1/q1aii.jpg",
+      "markscheme": "img/2011-june-chem1/ms/q1aii.png",
+      "figures": []
+    },
+    {
+      "id": "2011-june-chem1-q1b",
+      "paper": "2011-june-chem1",
+      "year": 2011,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "1(b)",
+      "questionNumber": "1(b)",
+      "page": 2,
+      "marks": 2,
+      "topics": [
+        "Atomic Structure",
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Give the meaning of the term relative atomic mass.",
+      "specRef": "3.1.1",
+      "image": "img/2011-june-chem1/q1b.jpg",
+      "markscheme": "img/2011-june-chem1/ms/q1b.png",
+      "figures": []
+    },
+    {
+      "id": "2011-june-chem1-q1ci",
+      "paper": "2011-june-chem1",
+      "year": 2011,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "1(c)(i)",
+      "questionNumber": "1(c)(i)",
+      "page": 3,
+      "marks": 3,
+      "topics": [
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the relative atomic mass of element X from its mass spectrum data to one decimal place.",
+      "specRef": "3.1.1",
+      "image": "img/2011-june-chem1/q1ci.jpg",
+      "markscheme": "img/2011-june-chem1/ms/q1ci.png",
+      "figures": []
+    },
+    {
+      "id": "2011-june-chem1-q1cii",
+      "paper": "2011-june-chem1",
+      "year": 2011,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "1(c)(ii)",
+      "questionNumber": "1(c)(ii)",
+      "page": 3,
+      "marks": 2,
+      "topics": [
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Use the Periodic Table to identify the species responsible for the peak at m/z = 64.",
+      "specRef": "3.1.1",
+      "image": "img/2011-june-chem1/q1cii.jpg",
+      "markscheme": "img/2011-june-chem1/ms/q1cii.png",
+      "figures": [
+        "img/2011-june-chem1/fig-q1c-table.jpg"
+      ]
+    },
+    {
+      "id": "2011-june-chem1-q1d",
+      "paper": "2011-june-chem1",
+      "year": 2011,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "1(d)",
+      "questionNumber": "1(d)",
+      "page": 3,
+      "marks": 1,
+      "topics": [
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Suggest one reason why particles with the same mass and velocity can be deflected by different amounts in the same magnetic field.",
+      "specRef": "3.1.1",
+      "image": "img/2011-june-chem1/q1d.jpg",
+      "markscheme": "img/2011-june-chem1/ms/q1d.png",
+      "figures": []
+    },
+    {
+      "id": "2011-june-chem1-q1e",
+      "paper": "2011-june-chem1",
+      "year": 2011,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "1(e)",
+      "questionNumber": "1(e)",
+      "page": 3,
+      "marks": 2,
+      "topics": [
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Explain how the detector in a mass spectrometer enables the abundance of an isotope to be measured.",
+      "specRef": "3.1.1",
+      "image": "img/2011-june-chem1/q1e.jpg",
+      "markscheme": "img/2011-june-chem1/ms/q1e.png",
+      "figures": []
+    },
+    {
+      "id": "2011-june-chem1-q2ai",
+      "paper": "2011-june-chem1",
+      "year": 2011,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "2(a)(i)",
+      "questionNumber": "2(a)(i)",
+      "page": 4,
+      "marks": 1,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the amount in moles of HNO3 in 36.2 cm3 of 0.586 mol dm-3 nitric acid.",
+      "specRef": "3.1.2",
+      "image": "img/2011-june-chem1/q2ai.jpg",
+      "markscheme": "img/2011-june-chem1/ms/q2ai.png",
+      "figures": []
+    },
+    {
+      "id": "2011-june-chem1-q2aii",
+      "paper": "2011-june-chem1",
+      "year": 2011,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "2(a)(ii)",
+      "questionNumber": "2(a)(ii)",
+      "page": 4,
+      "marks": 1,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the amount in moles of CaCO3 that reacted with the nitric acid.",
+      "specRef": "3.1.2",
+      "image": "img/2011-june-chem1/q2aii.jpg",
+      "markscheme": "img/2011-june-chem1/ms/q2aii.png",
+      "figures": []
+    },
+    {
+      "id": "2011-june-chem1-q2aiii",
+      "paper": "2011-june-chem1",
+      "year": 2011,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "2(a)(iii)",
+      "questionNumber": "2(a)(iii)",
+      "page": 4,
+      "marks": 2,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the minimum mass of powdered CaCO3 that should be added to react with all of the nitric acid.",
+      "specRef": "3.1.2",
+      "image": "img/2011-june-chem1/q2aiii.jpg",
+      "markscheme": "img/2011-june-chem1/ms/q2aiii.png",
+      "figures": []
+    },
+    {
+      "id": "2011-june-chem1-q2aiv",
+      "paper": "2011-june-chem1",
+      "year": 2011,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "2(a)(iv)",
+      "questionNumber": "2(a)(iv)",
+      "page": 4,
+      "marks": 1,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State the type of reaction that occurs when calcium carbonate reacts with nitric acid.",
+      "specRef": "3.1.2",
+      "image": "img/2011-june-chem1/q2aiv.jpg",
+      "markscheme": "img/2011-june-chem1/ms/q2aiv.png",
+      "figures": []
+    },
+    {
+      "id": "2011-june-chem1-q2bi",
+      "paper": "2011-june-chem1",
+      "year": 2011,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "2(b)(i)",
+      "questionNumber": "2(b)(i)",
+      "page": 5,
+      "marks": 3,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the total amount in moles of gases produced using pV = nRT.",
+      "specRef": "3.1.2",
+      "image": "img/2011-june-chem1/q2bi.jpg",
+      "markscheme": "img/2011-june-chem1/ms/q2bi.png",
+      "figures": []
+    },
+    {
+      "id": "2011-june-chem1-q2bii",
+      "paper": "2011-june-chem1",
+      "year": 2011,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "2(b)(ii)",
+      "questionNumber": "2(b)(ii)",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Hence calculate the amount in moles of oxygen produced.",
+      "specRef": "3.1.2",
+      "image": "img/2011-june-chem1/q2bii.jpg",
+      "markscheme": "img/2011-june-chem1/ms/q2bii.png",
+      "figures": [
+        "img/2011-june-chem1/fig-q2b-stem.jpg"
+      ]
+    },
+    {
+      "id": "2011-june-chem1-q2c",
+      "paper": "2011-june-chem1",
+      "year": 2011,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "2(c)",
+      "questionNumber": "2(c)",
+      "page": 5,
+      "marks": 3,
+      "topics": [
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate x in hydrated calcium nitrate Ca(NO3)2.xH2O given 6.04 g contains 1.84 g of water.",
+      "specRef": "3.1.2",
+      "image": "img/2011-june-chem1/q2c.jpg",
+      "markscheme": "img/2011-june-chem1/ms/q2c.png",
+      "figures": []
+    },
+    {
+      "id": "2011-june-chem1-q3a",
+      "paper": "2011-june-chem1",
+      "year": 2011,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "3(a)",
+      "questionNumber": "3(a)",
+      "page": 6,
+      "marks": 2,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Explain why iodine has a higher melting point than fluorine.",
+      "specRef": "3.1.3",
+      "image": "img/2011-june-chem1/q3a.jpg",
+      "markscheme": "img/2011-june-chem1/ms/q3a.png",
+      "figures": []
+    },
+    {
+      "id": "2011-june-chem1-q3bi",
+      "paper": "2011-june-chem1",
+      "year": 2011,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "3(b)(i)",
+      "questionNumber": "3(b)(i)",
+      "page": 6,
+      "marks": 4,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw and name the shapes of NHF2 and BF3, including any lone pairs that influence shape.",
+      "specRef": "3.1.3",
+      "image": "img/2011-june-chem1/q3bi.jpg",
+      "markscheme": "img/2011-june-chem1/ms/q3bi.png",
+      "figures": []
+    },
+    {
+      "id": "2011-june-chem1-q3bii",
+      "paper": "2011-june-chem1",
+      "year": 2011,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "3(b)(ii)",
+      "questionNumber": "3(b)(ii)",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Suggest a value for the F-N-F bond angle in NHF2.",
+      "specRef": "3.1.3",
+      "image": "img/2011-june-chem1/q3bii.jpg",
+      "markscheme": "img/2011-june-chem1/ms/q3bii.png",
+      "figures": []
+    },
+    {
+      "id": "2011-june-chem1-q3c",
+      "paper": "2011-june-chem1",
+      "year": 2011,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "3(c)",
+      "questionNumber": "3(c)",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State the strongest type of intermolecular force in a sample of NHF2.",
+      "specRef": "3.1.3",
+      "image": "img/2011-june-chem1/q3c.jpg",
+      "markscheme": "img/2011-june-chem1/ms/q3c.png",
+      "figures": []
+    },
+    {
+      "id": "2011-june-chem1-q3d",
+      "paper": "2011-june-chem1",
+      "year": 2011,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "3(d)",
+      "questionNumber": "3(d)",
+      "page": 7,
+      "marks": 2,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Knowledge & Recall",
+        "Explanation"
+      ],
+      "summary": "State the type of bond formed between N and B in F2HNBF3 and explain how it is formed.",
+      "specRef": "3.1.3",
+      "image": "img/2011-june-chem1/q3d.jpg",
+      "markscheme": "img/2011-june-chem1/ms/q3d.png",
+      "figures": []
+    },
+    {
+      "id": "2011-june-chem1-q4ai",
+      "paper": "2011-june-chem1",
+      "year": 2011,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "4(a)(i)",
+      "questionNumber": "4(a)(i)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Name the type of bonding in the element sodium.",
+      "specRef": "3.1.3",
+      "image": "img/2011-june-chem1/q4ai.jpg",
+      "markscheme": "img/2011-june-chem1/ms/q4ai.png",
+      "figures": []
+    },
+    {
+      "id": "2011-june-chem1-q4aii",
+      "paper": "2011-june-chem1",
+      "year": 2011,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "4(a)(ii)",
+      "questionNumber": "4(a)(ii)",
+      "page": 8,
+      "marks": 2,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw a 2D diagram showing how at least six particles are arranged in a crystal of sodium.",
+      "specRef": "3.1.3",
+      "image": "img/2011-june-chem1/q4aii.jpg",
+      "markscheme": "img/2011-june-chem1/ms/q4aii.png",
+      "figures": []
+    },
+    {
+      "id": "2011-june-chem1-q4bi",
+      "paper": "2011-june-chem1",
+      "year": 2011,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "4(b)(i)",
+      "questionNumber": "4(b)(i)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Name the type of bonding in sodium chloride.",
+      "specRef": "3.1.3",
+      "image": "img/2011-june-chem1/q4bi.jpg",
+      "markscheme": "img/2011-june-chem1/ms/q4bi.png",
+      "figures": []
+    },
+    {
+      "id": "2011-june-chem1-q4bii",
+      "paper": "2011-june-chem1",
+      "year": 2011,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "4(b)(ii)",
+      "questionNumber": "4(b)(ii)",
+      "page": 8,
+      "marks": 2,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Explain why the melting point of sodium chloride is high.",
+      "specRef": "3.1.3",
+      "image": "img/2011-june-chem1/q4bii.jpg",
+      "markscheme": "img/2011-june-chem1/ms/q4bii.png",
+      "figures": []
+    },
+    {
+      "id": "2011-june-chem1-q4c",
+      "paper": "2011-june-chem1",
+      "year": 2011,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "4(c)",
+      "questionNumber": "4(c)",
+      "page": 9,
+      "marks": 1,
+      "topics": [
+        "Bonding"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Suggest why the melting point of sodium iodide is lower than that of sodium bromide.",
+      "specRef": "3.1.3",
+      "image": "img/2011-june-chem1/q4c.jpg",
+      "markscheme": "img/2011-june-chem1/ms/q4c.png",
+      "figures": []
+    },
+    {
+      "id": "2011-june-chem1-q5a",
+      "paper": "2011-june-chem1",
+      "year": 2011,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "5(a)",
+      "questionNumber": "5(a)",
+      "page": 10,
+      "marks": 1,
+      "topics": [
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Write an equation with state symbols for the first ionisation energy of lithium.",
+      "specRef": "3.1.1",
+      "image": "img/2011-june-chem1/q5a.jpg",
+      "markscheme": "img/2011-june-chem1/ms/q5a.png",
+      "figures": []
+    },
+    {
+      "id": "2011-june-chem1-q5b",
+      "paper": "2011-june-chem1",
+      "year": 2011,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "5(b)",
+      "questionNumber": "5(b)",
+      "page": 10,
+      "marks": 3,
+      "topics": [
+        "Periodicity (Period 3)",
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "State and explain the general trend in first ionisation energies across Period 3 from aluminium to argon.",
+      "specRef": "3.1.4",
+      "image": "img/2011-june-chem1/q5b.jpg",
+      "markscheme": "img/2011-june-chem1/ms/q5b.png",
+      "figures": []
+    },
+    {
+      "id": "2011-june-chem1-q5c",
+      "paper": "2011-june-chem1",
+      "year": 2011,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "5(c)",
+      "questionNumber": "5(c)",
+      "page": 10,
+      "marks": 3,
+      "topics": [
+        "Atomic Structure",
+        "Periodicity (Period 3)"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "State how selenium deviates from the general trend in Period 4 first ionisation energies and explain why.",
+      "specRef": "3.1.1",
+      "image": "img/2011-june-chem1/q5c.jpg",
+      "markscheme": "img/2011-june-chem1/ms/q5c.png",
+      "figures": []
+    },
+    {
+      "id": "2011-june-chem1-q5d",
+      "paper": "2011-june-chem1",
+      "year": 2011,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "5(d)",
+      "questionNumber": "5(d)",
+      "page": 10,
+      "marks": 1,
+      "topics": [
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Suggest why the first ionisation energy of krypton is lower than that of argon.",
+      "specRef": "3.1.1",
+      "image": "img/2011-june-chem1/q5d.jpg",
+      "markscheme": "img/2011-june-chem1/ms/q5d.png",
+      "figures": []
+    },
+    {
+      "id": "2011-june-chem1-q5e",
+      "paper": "2011-june-chem1",
+      "year": 2011,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "5(e)",
+      "questionNumber": "5(e)",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Deduce the group in the Periodic Table from the successive ionisation energies of an element.",
+      "specRef": "3.1.1",
+      "image": "img/2011-june-chem1/q5e.jpg",
+      "markscheme": "img/2011-june-chem1/ms/q5e.png",
+      "figures": []
+    },
+    {
+      "id": "2011-june-chem1-q5f",
+      "paper": "2011-june-chem1",
+      "year": 2011,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "5(f)",
+      "questionNumber": "5(f)",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "Atomic Structure"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Identify the element whose 5+ ion has electron configuration 1s2 2s2 2p6 3s2 3p6 3d10.",
+      "specRef": "3.1.1",
+      "image": "img/2011-june-chem1/q5f.jpg",
+      "markscheme": "img/2011-june-chem1/ms/q5f.png",
+      "figures": []
+    },
+    {
+      "id": "2011-june-chem1-q6a",
+      "paper": "2011-june-chem1",
+      "year": 2011,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "6(a)",
+      "questionNumber": "6(a)",
+      "page": 12,
+      "marks": 3,
+      "topics": [
+        "Alkanes"
+      ],
+      "skills": [
+        "Knowledge & Recall",
+        "Application"
+      ],
+      "summary": "Write an equation for the complete combustion of methane, explain lower explosion risk above 15% CMM, and state the environmental benefit of collecting CMM.",
+      "specRef": "3.1.6",
+      "image": "img/2011-june-chem1/q6a.jpg",
+      "markscheme": "img/2011-june-chem1/ms/q6a.png",
+      "figures": []
+    },
+    {
+      "id": "2011-june-chem1-q6b",
+      "paper": "2011-june-chem1",
+      "year": 2011,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "6(b)",
+      "questionNumber": "6(b)",
+      "page": 13,
+      "marks": 3,
+      "topics": [
+        "Alkanes"
+      ],
+      "skills": [
+        "Knowledge & Recall",
+        "Application"
+      ],
+      "summary": "Write an equation for complete combustion of CH3SH, explain why CaO removes the sulfur product, and state one pollution problem caused by it.",
+      "specRef": "3.1.6",
+      "image": "img/2011-june-chem1/q6b.jpg",
+      "markscheme": "img/2011-june-chem1/ms/q6b.png",
+      "figures": []
+    },
+    {
+      "id": "2011-june-chem1-q7a",
+      "paper": "2011-june-chem1",
+      "year": 2011,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "7(a)",
+      "questionNumber": "7(a)",
+      "page": 14,
+      "marks": 1,
+      "topics": [
+        "Alkanes"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Give the general formula for the homologous series of alkanes.",
+      "specRef": "3.1.6",
+      "image": "img/2011-june-chem1/q7a.jpg",
+      "markscheme": "img/2011-june-chem1/ms/q7a.png",
+      "figures": []
+    },
+    {
+      "id": "2011-june-chem1-q7b",
+      "paper": "2011-june-chem1",
+      "year": 2011,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "7(b)",
+      "questionNumber": "7(b)",
+      "page": 14,
+      "marks": 2,
+      "topics": [
+        "Alkanes",
+        "Nomenclature & Isomerism"
+      ],
+      "skills": [
+        "Application",
+        "Knowledge & Recall"
+      ],
+      "summary": "Draw the displayed formula of 2,2-dimethylpropane and state the type of structural isomerism shown.",
+      "specRef": "3.1.5",
+      "image": "img/2011-june-chem1/q7b.jpg",
+      "markscheme": "img/2011-june-chem1/ms/q7b.png",
+      "figures": []
+    },
+    {
+      "id": "2011-june-chem1-q7c",
+      "paper": "2011-june-chem1",
+      "year": 2011,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "7(c)",
+      "questionNumber": "7(c)",
+      "page": 15,
+      "marks": 3,
+      "topics": [
+        "Alkanes"
+      ],
+      "skills": [
+        "Application",
+        "Knowledge & Recall"
+      ],
+      "summary": "Deduce the molecular formula of hydrocarbon Y cracked to pentane and two ethenes, explain why high temperatures are needed, and give an industrial reason for thermal cracking.",
+      "specRef": "3.1.6",
+      "image": "img/2011-june-chem1/q7c.jpg",
+      "markscheme": "img/2011-june-chem1/ms/q7c.png",
+      "figures": []
+    },
+    {
+      "id": "2011-june-chem1-q7d",
+      "paper": "2011-june-chem1",
+      "year": 2011,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "7(d)",
+      "questionNumber": "7(d)",
+      "page": 15,
+      "marks": 2,
+      "topics": [
+        "Alkanes"
+      ],
+      "skills": [
+        "Knowledge & Recall",
+        "Application"
+      ],
+      "summary": "Write an equation for incomplete combustion of pentane to form a solid pollutant and explain why it is an environmental problem.",
+      "specRef": "3.1.6",
+      "image": "img/2011-june-chem1/q7d.jpg",
+      "markscheme": "img/2011-june-chem1/ms/q7d.png",
+      "figures": []
+    },
+    {
+      "id": "2011-june-chem1-q7e",
+      "paper": "2011-june-chem1",
+      "year": 2011,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "7(e)",
+      "questionNumber": "7(e)",
+      "page": 16,
+      "marks": 3,
+      "topics": [
+        "Amount of Substance",
+        "Alkanes",
+        "Nomenclature & Isomerism"
+      ],
+      "skills": [
+        "Calculation",
+        "Application"
+      ],
+      "summary": "Calculate the percentage atom economy for C5H11Cl and deduce how many straight-chain isomers of C5H11Cl could be formed.",
+      "specRef": "3.1.2",
+      "image": "img/2011-june-chem1/q7e.jpg",
+      "markscheme": "img/2011-june-chem1/ms/q7e.png",
+      "figures": []
+    },
+    {
+      "id": "2011-june-chem1-q7f",
+      "paper": "2011-june-chem1",
+      "year": 2011,
+      "series": "June",
+      "unit": "CHEM1",
+      "level": "AS",
+      "question": "7(f)",
+      "questionNumber": "7(f)",
+      "page": 16,
+      "marks": 2,
+      "topics": [
+        "Nomenclature & Isomerism"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Name the displayed chloroalkane compound and deduce its empirical formula.",
+      "specRef": "3.1.5",
+      "image": "img/2011-june-chem1/q7f.jpg",
+      "markscheme": "img/2011-june-chem1/ms/q7f.png",
       "figures": []
     }
   ]
