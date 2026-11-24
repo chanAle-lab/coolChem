@@ -148,6 +148,9 @@ PDF_MAP = {
     '2016-specimen2-7405-1': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795517647584_ab5edb61.pdf',
     '2016-specimen2-7405-2': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795517647635_4437b334.pdf',
     '2016-specimen2-7405-3': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795517647587_21f98d76.pdf',
+    '2019-june-7404-1': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795521528956_a147581f.pdf',
+    '2019-june-7404-2': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795521528906_e59d1101.pdf',
+    '2019-june-7405-1': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795521529036_e244e3b7.pdf',
 }
 
 def extract_lines(page):

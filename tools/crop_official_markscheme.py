@@ -81,7 +81,7 @@ def _find_horizontal_rules(page: fitz.Page) -> list[float]:
     return dedup
 
 
-def _snap_to_rule_above(rules: list[float], y: float, max_dist: float = 25.0) -> float:
+def _snap_to_rule_above(rules: list[float], y: float, max_dist: float = 120.0) -> float:
     cands = [r for r in rules if r <= y + 2.0 and (y - r) <= max_dist]
     return cands[-1] if cands else max(45.0, y - 4.0)
 
@@ -110,14 +110,16 @@ def _find_question_anchors(doc: fitz.Document, start_page: int = 0) -> list[dict
     Returns a list of dicts: {label, page_idx, y0, y1, is_mcq} sorted in reading order.
     """
     anchors: list[dict] = []
-    # Pattern for 01.1, 01.2, 1.1, 05, 13, 1(a), etc.
-    q_re = re.compile(r"^(?:\d{1,2}\.\d{1,2}[a-z]?|\d{2}|\d{1,2}\([a-z]+\))$")
+    # Pattern for 01.1, 01.2, 1.1, 05, 9, 13, 1(a), etc.
+    q_re = re.compile(r"^(?:\d{1,2}\.\d{1,2}[a-z]?|\d{1,2}|\d{1,2}\([a-z]+\))$")
 
     seen_table = False
+    last_q_col_max_x = 110.0
     for p_idx in range(start_page, len(doc)):
         page = doc[p_idx]
+        hdr = _find_table_header_rect(page)
         if not seen_table:
-            if _find_table_header_rect(page) is None:
+            if hdr is None:
                 continue
             seen_table = True
         words = page.get_text("words")
@@ -127,25 +129,35 @@ def _find_question_anchors(doc: fitz.Document, start_page: int = 0) -> list[dict
         tx0, _ = _find_table_x_bounds(page)
         q_hdr_words = [w for w in words if w[4] == "Question" and w[0] < 300 and 40 < w[1] < 260]
         if q_hdr_words:
-            q_col_max_x = q_hdr_words[0][2] + 15.0
+            v_borders = sorted(
+                d["rect"].x0
+                for d in page.get_drawings()
+                if d.get("rect") and d["rect"].height > 20 and d["rect"].width <= 3.0
+                and d["rect"].x0 > q_hdr_words[0][0] + 20.0
+                and d["rect"].x0 < q_hdr_words[0][2] + 45.0
+            )
+            q_col_max_x = (v_borders[0] - 2.0) if v_borders else (q_hdr_words[0][2] + 15.0)
+            last_q_col_max_x = q_col_max_x
         else:
-            q_col_max_x = tx0 + 58.0
+            q_col_max_x = last_q_col_max_x
 
-        # Skip header/footer regions
+        min_y = hdr.y1 if hdr else 52.0
+        max_y = page.rect.height - 50.0
+
         for w in words:
             x0, y0, x1, y1, txt = w[:5]
-            if y0 < 48 or y1 > page.rect.height - 35:
+            if y0 < min_y or y1 > max_y:
                 continue
-            if x0 > q_col_max_x:
+            if x0 < 20.0 or x0 > q_col_max_x:
                 continue
-            # Ignore "MARK SCHEME" / "7 of 22" / "Level 1" etc.
             norm = _normalize_qlabel(txt)
             if not q_re.match(norm):
                 continue
-            # For 2-digit numbers like '05', only accept if on MCQ page OR followed by '.' or in Question col
-            if re.match(r"^\d{2}$", norm) and not is_mcq_page:
-                # In written tables, top-level stems without subparts are rare, but check x0
-                if x0 > tx0 + 65.0:
+            if re.match(r"^\d{1,2}$", norm):
+                if not (1 <= int(norm) <= 45):
+                    continue
+                same_line_words = [ow[4] for ow in words if abs(ow[1] - y0) < 4 and ow[0] < q_col_max_x + 80]
+                if "of" in same_line_words or "Level" in same_line_words:
                     continue
             anchors.append({
                 "label": norm,
@@ -217,6 +229,7 @@ def crop_official_markschemes(
 
     results: dict[str, str] = {}
     last_hdr_img: Optional[Image.Image] = None
+    last_table_x: Optional[tuple[float, float]] = None
     for raw_label in question_labels:
         norm = _normalize_qlabel(raw_label)
         ck = _canonical_qkey(raw_label)
@@ -234,7 +247,7 @@ def crop_official_markschemes(
         if nxt and p_end > p_start:
             end_page_hdr = _find_table_header_rect(doc[p_end])
             hdr_bot = end_page_hdr.y1 if end_page_hdr else 75.0
-            if nxt["y0"] - hdr_bot < 25.0:
+            if nxt["y0"] - hdr_bot < 55.0:
                 p_end = p_end - 1
                 nxt_on_same_end = False
             else:
@@ -248,6 +261,11 @@ def crop_official_markschemes(
             tx0, tx1 = _find_table_x_bounds(page)
             rules = _find_horizontal_rules(page)
             hdr = _find_table_header_rect(page)
+            if hdr and (tx0 < 70.0 or page.rect.width < 700):
+                last_table_x = (tx0, tx1)
+            elif last_table_x is not None and not curr["is_mcq"]:
+                tx0 = min(tx0, last_table_x[0])
+                tx1 = max(tx1, last_table_x[1]) if tx1 < last_table_x[1] else last_table_x[1]
 
             if p_idx == p_start:
                 y0 = _snap_to_rule_above(rules, curr["y0"])
