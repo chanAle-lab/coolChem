@@ -1770,6 +1770,30 @@
       "totalMarks": 80,
       "pdf": null,
       "ms": null
+    },
+    {
+      "id": "2017-june-7404-1",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "date": "2017-05-26",
+      "title": "7404/1 — AS Paper 1: Inorganic and Physical Chemistry",
+      "totalMarks": 80,
+      "pdf": null,
+      "ms": null
+    },
+    {
+      "id": "2017-june-7404-2",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "date": "2017-06-09",
+      "title": "7404/2 — AS Paper 2: Organic and Physical Chemistry",
+      "totalMarks": 80,
+      "pdf": null,
+      "ms": null
     }
   ],
   "questions": [
@@ -103245,6 +103269,2081 @@
       "specRef": "3.1.2",
       "image": "img/2016-june-7404-2/q23.jpg",
       "markscheme": "img/2016-june-7404-2/ms/q23.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-1-q01_1",
+      "paper": "2017-june-7404-1",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "01.1",
+      "questionNumber": "01.1",
+      "page": 2,
+      "marks": 2,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Write full electron configurations of Cl- and Fe2+.",
+      "specRef": "3.1.1",
+      "image": "img/2017-june-7404-1/q01_1.jpg",
+      "markscheme": "img/2017-june-7404-1/ms/q01_1.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-1-q01_2",
+      "paper": "2017-june-7404-1",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "01.2",
+      "questionNumber": "01.2",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [
+        "equation"
+      ],
+      "summary": "Write an equation with state symbols for the third ionisation energy of manganese.",
+      "specRef": "3.1.1",
+      "image": "img/2017-june-7404-1/q01_2.jpg",
+      "markscheme": "img/2017-june-7404-1/ms/q01_2.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-1-q01_3",
+      "paper": "2017-june-7404-1",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "01.3",
+      "questionNumber": "01.3",
+      "page": 2,
+      "marks": 3,
+      "topics": [
+        "3.1.1",
+        "3.2.1"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "State which of Mg and Al has the lower first ionisation energy and explain.",
+      "specRef": "3.1.1",
+      "image": "img/2017-june-7404-1/q01_3.jpg",
+      "markscheme": "img/2017-june-7404-1/ms/q01_3.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-1-q01_4",
+      "paper": "2017-june-7404-1",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "01.4",
+      "questionNumber": "01.4",
+      "page": 3,
+      "marks": 3,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [
+        "calculation",
+        "interpretation"
+      ],
+      "summary": "Identify nickel ion reaching TOF detector first and calculate Ar to 1 decimal place from Table 1.",
+      "specRef": "3.1.1",
+      "image": "img/2017-june-7404-1/q01_4.jpg",
+      "markscheme": "img/2017-june-7404-1/ms/q01_4.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-1-q02_1",
+      "paper": "2017-june-7404-1",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "02.1",
+      "questionNumber": "02.1",
+      "page": 4,
+      "marks": 1,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [
+        "equation"
+      ],
+      "summary": "Write an equation with state symbols for the enthalpy of formation of iron(III) oxide.",
+      "specRef": "3.1.4",
+      "image": "img/2017-june-7404-1/q02_1.jpg",
+      "markscheme": "img/2017-june-7404-1/ms/q02_1.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-1-q02_2",
+      "paper": "2017-june-7404-1",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "02.2",
+      "questionNumber": "02.2",
+      "page": 4,
+      "marks": 3,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate standard enthalpy of formation of CO2 using Table 2 and Fe2O3 + 3CO -> 2Fe + 3CO2.",
+      "specRef": "3.1.4",
+      "image": "img/2017-june-7404-1/q02_2.jpg",
+      "markscheme": "img/2017-june-7404-1/ms/q02_2.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-1-q02_3",
+      "paper": "2017-june-7404-1",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "02.3",
+      "questionNumber": "02.3",
+      "page": 5,
+      "marks": 3,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate N-H bond enthalpy in ammonia from Table 3.",
+      "specRef": "3.1.4",
+      "image": "img/2017-june-7404-1/q02_3.jpg",
+      "markscheme": "img/2017-june-7404-1/ms/q02_3.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-1-q02_4",
+      "paper": "2017-june-7404-1",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "02.4",
+      "questionNumber": "02.4",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "Give one reason why the N-H bond enthalpy in NH3 differs from the data book mean value (388 kJ mol-1).",
+      "specRef": "3.1.4",
+      "image": "img/2017-june-7404-1/q02_4.jpg",
+      "markscheme": "img/2017-june-7404-1/ms/q02_4.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-1-q03_1",
+      "paper": "2017-june-7404-1",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "03.1",
+      "questionNumber": "03.1",
+      "page": 6,
+      "marks": 6,
+      "topics": [
+        "3.1.4",
+        "3.1.2",
+        "RP"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Show which reactant is in excess and calculate experimental enthalpy of reaction for Mg + Zn2+ -> Mg2+ + Zn.",
+      "specRef": "3.1.4",
+      "image": "img/2017-june-7404-1/q03_1.jpg",
+      "markscheme": "img/2017-june-7404-1/ms/q03_1.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-1-q03_2",
+      "paper": "2017-june-7404-1",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "03.2",
+      "questionNumber": "03.2",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "3.1.4",
+        "RP"
+      ],
+      "skills": [
+        "evaluation"
+      ],
+      "summary": "Suggest the most likely reason why the student's enthalpy (-142 kJ mol-1) is much less exothermic than -310 kJ mol-1.",
+      "specRef": "3.1.4",
+      "image": "img/2017-june-7404-1/q03_2.jpg",
+      "markscheme": "img/2017-june-7404-1/ms/q03_2.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-1-q03_3",
+      "paper": "2017-june-7404-1",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "03.3",
+      "questionNumber": "03.3",
+      "page": 8,
+      "marks": 6,
+      "topics": [
+        "3.1.4",
+        "RP"
+      ],
+      "skills": [
+        "evaluation",
+        "practical"
+      ],
+      "summary": "Suggest and justify improvements to the method and analysis of results to obtain a more accurate enthalpy of reaction.",
+      "specRef": "3.1.4",
+      "image": "img/2017-june-7404-1/q03_3.jpg",
+      "markscheme": "img/2017-june-7404-1/ms/q03_3.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-1-q04_1",
+      "paper": "2017-june-7404-1",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "04.1",
+      "questionNumber": "04.1",
+      "page": 9,
+      "marks": 1,
+      "topics": [
+        "3.1.6"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Deduce equilibrium moles of R in terms of x for P(g) + Q(g) ⇌ 2R(g).",
+      "specRef": "3.1.6",
+      "image": "img/2017-june-7404-1/q04_1.jpg",
+      "markscheme": "img/2017-june-7404-1/ms/q04_1.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-1-q04_2",
+      "paper": "2017-june-7404-1",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "04.2",
+      "questionNumber": "04.2",
+      "page": 9,
+      "marks": 3,
+      "topics": [
+        "3.1.6"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate equilibrium concentration of R in mol dm-3 given Kc = 3.6.",
+      "specRef": "3.1.6",
+      "image": "img/2017-june-7404-1/q04_2.jpg",
+      "markscheme": "img/2017-june-7404-1/ms/q04_2.png",
+      "figures": [
+        {
+          "file": "fig-q4-stem.jpg",
+          "label": "Equilibrium equation, Kc expression and initial moles for Question 4"
+        }
+      ]
+    },
+    {
+      "id": "2017-june-7404-1-q05_1",
+      "paper": "2017-june-7404-1",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "05.1",
+      "questionNumber": "05.1",
+      "page": 10,
+      "marks": 1,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [
+        "definition"
+      ],
+      "summary": "Give the meaning of the term electronegativity.",
+      "specRef": "3.1.3",
+      "image": "img/2017-june-7404-1/q05_1.jpg",
+      "markscheme": "img/2017-june-7404-1/ms/q05_1.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-1-q05_2",
+      "paper": "2017-june-7404-1",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "05.2",
+      "questionNumber": "05.2",
+      "page": 10,
+      "marks": 2,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "Explain how permanent dipole-dipole forces arise between hydrogen chloride molecules.",
+      "specRef": "3.1.3",
+      "image": "img/2017-june-7404-1/q05_2.jpg",
+      "markscheme": "img/2017-june-7404-1/ms/q05_2.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-1-q05_3",
+      "paper": "2017-june-7404-1",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "05.3",
+      "questionNumber": "05.3",
+      "page": 10,
+      "marks": 4,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Complete Table 4 with shapes and permanent dipole ticks for SiH4, PH3, BeCl2 and CH3Cl.",
+      "specRef": "3.1.3",
+      "image": "img/2017-june-7404-1/q05_3.jpg",
+      "markscheme": "img/2017-june-7404-1/ms/q05_3.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-1-q06_1",
+      "paper": "2017-june-7404-1",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "06.1",
+      "questionNumber": "06.1",
+      "page": 11,
+      "marks": 2,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [
+        "equation"
+      ],
+      "summary": "Balance the two equations for producing copper from CuFeS2.",
+      "specRef": "3.1.2",
+      "image": "img/2017-june-7404-1/q06_1.jpg",
+      "markscheme": "img/2017-june-7404-1/ms/q06_1.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-1-q06_2",
+      "paper": "2017-june-7404-1",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "06.2",
+      "questionNumber": "06.2",
+      "page": 11,
+      "marks": 2,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Suggest two reasons why the sulfur dioxide by-product is removed from exhaust gases.",
+      "specRef": "3.3.2",
+      "image": "img/2017-june-7404-1/q06_2.jpg",
+      "markscheme": "img/2017-june-7404-1/ms/q06_2.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-1-q06_3",
+      "paper": "2017-june-7404-1",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "06.3",
+      "questionNumber": "06.3",
+      "page": 12,
+      "marks": 4,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate mass in tonnes of rock (1.25% CuFeS2) needed to produce 4050 kg of copper.",
+      "specRef": "3.1.2",
+      "image": "img/2017-june-7404-1/q06_3.jpg",
+      "markscheme": "img/2017-june-7404-1/ms/q06_3.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-1-q06_4",
+      "paper": "2017-june-7404-1",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "06.4",
+      "questionNumber": "06.4",
+      "page": 13,
+      "marks": 2,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate percentage atom economy for 2CuO + C -> 2Cu + CO2 to appropriate significant figures.",
+      "specRef": "3.1.2",
+      "image": "img/2017-june-7404-1/q06_4.jpg",
+      "markscheme": "img/2017-june-7404-1/ms/q06_4.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-1-q07_1",
+      "paper": "2017-june-7404-1",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "07.1",
+      "questionNumber": "07.1",
+      "page": 14,
+      "marks": 2,
+      "topics": [
+        "3.2.2"
+      ],
+      "skills": [
+        "practical",
+        "equation"
+      ],
+      "summary": "Suggest Group 2 metal ion in solution Y and write ionic equation with state symbols for reaction with H2SO4.",
+      "specRef": "3.2.2",
+      "image": "img/2017-june-7404-1/q07_1.jpg",
+      "markscheme": "img/2017-june-7404-1/ms/q07_1.png",
+      "figures": [
+        {
+          "file": "fig-q7-table5.jpg",
+          "label": "Table 5: Tests and observations on solution Y"
+        }
+      ]
+    },
+    {
+      "id": "2017-june-7404-1-q07_2",
+      "paper": "2017-june-7404-1",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "07.2",
+      "questionNumber": "07.2",
+      "page": 14,
+      "marks": 2,
+      "topics": [
+        "3.2.2"
+      ],
+      "skills": [
+        "practical",
+        "equation"
+      ],
+      "summary": "Suggest negative ion in solution Y and write ionic equation with state symbols for reaction with Mg(NO3)2.",
+      "specRef": "3.2.2",
+      "image": "img/2017-june-7404-1/q07_2.jpg",
+      "markscheme": "img/2017-june-7404-1/ms/q07_2.png",
+      "figures": [
+        {
+          "file": "fig-q7-table5.jpg",
+          "label": "Table 5: Tests and observations on solution Y"
+        }
+      ]
+    },
+    {
+      "id": "2017-june-7404-1-q08_1",
+      "paper": "2017-june-7404-1",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "08.1",
+      "questionNumber": "08.1",
+      "page": 15,
+      "marks": 2,
+      "topics": [
+        "3.1.7"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Give the oxidation state of nitrogen in NO2- and NO.",
+      "specRef": "3.1.7",
+      "image": "img/2017-june-7404-1/q08_1.jpg",
+      "markscheme": "img/2017-june-7404-1/ms/q08_1.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-1-q08_2",
+      "paper": "2017-june-7404-1",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "08.2",
+      "questionNumber": "08.2",
+      "page": 15,
+      "marks": 1,
+      "topics": [
+        "3.1.7"
+      ],
+      "skills": [
+        "equation"
+      ],
+      "summary": "Write half-equation for conversion of NO2- in acidic solution into NO.",
+      "specRef": "3.1.7",
+      "image": "img/2017-june-7404-1/q08_2.jpg",
+      "markscheme": "img/2017-june-7404-1/ms/q08_2.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-1-q08_3",
+      "paper": "2017-june-7404-1",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "08.3",
+      "questionNumber": "08.3",
+      "page": 15,
+      "marks": 1,
+      "topics": [
+        "3.1.7"
+      ],
+      "skills": [
+        "equation"
+      ],
+      "summary": "Write half-equation for conversion of I- into I2.",
+      "specRef": "3.1.7",
+      "image": "img/2017-june-7404-1/q08_3.jpg",
+      "markscheme": "img/2017-june-7404-1/ms/q08_3.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-1-q08_4",
+      "paper": "2017-june-7404-1",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "08.4",
+      "questionNumber": "08.4",
+      "page": 15,
+      "marks": 1,
+      "topics": [
+        "3.1.7"
+      ],
+      "skills": [
+        "equation"
+      ],
+      "summary": "Write overall ionic equation for reaction of NO2- in acidic solution with I-.",
+      "specRef": "3.1.7",
+      "image": "img/2017-june-7404-1/q08_4.jpg",
+      "markscheme": "img/2017-june-7404-1/ms/q08_4.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-1-q08_5",
+      "paper": "2017-june-7404-1",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "08.5",
+      "questionNumber": "08.5",
+      "page": 15,
+      "marks": 1,
+      "topics": [
+        "3.1.7"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "State the role of NO2- in the reaction with I-.",
+      "specRef": "3.1.7",
+      "image": "img/2017-june-7404-1/q08_5.jpg",
+      "markscheme": "img/2017-june-7404-1/ms/q08_5.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-1-q08_6",
+      "paper": "2017-june-7404-1",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "08.6",
+      "questionNumber": "08.6",
+      "page": 16,
+      "marks": 4,
+      "topics": [
+        "3.1.2",
+        "3.1.7"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate concentration in g dm-3 of NaNO2 titrated with acidified KClO3.",
+      "specRef": "3.1.2",
+      "image": "img/2017-june-7404-1/q08_6.jpg",
+      "markscheme": "img/2017-june-7404-1/ms/q08_6.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-1-q09",
+      "paper": "2017-june-7404-1",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "09",
+      "questionNumber": "09",
+      "page": 17,
+      "marks": 1,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Identify correct crystal structure for named substance.",
+      "specRef": "3.1.3",
+      "image": "img/2017-june-7404-1/q09.jpg",
+      "markscheme": "img/2017-june-7404-1/ms/q09.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-1-q10",
+      "paper": "2017-june-7404-1",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "10",
+      "questionNumber": "10",
+      "page": 17,
+      "marks": 1,
+      "topics": [
+        "3.2.3"
+      ],
+      "skills": [
+        "practical"
+      ],
+      "summary": "Identify best technique to remove silver chloride precipitate.",
+      "specRef": "3.2.3",
+      "image": "img/2017-june-7404-1/q10.jpg",
+      "markscheme": "img/2017-june-7404-1/ms/q10.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-1-q11",
+      "paper": "2017-june-7404-1",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "11",
+      "questionNumber": "11",
+      "page": 18,
+      "marks": 1,
+      "topics": [
+        "3.2.3"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Identify correct statement about astatine compared with bromine.",
+      "specRef": "3.2.3",
+      "image": "img/2017-june-7404-1/q11.jpg",
+      "markscheme": "img/2017-june-7404-1/ms/q11.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-1-q12",
+      "paper": "2017-june-7404-1",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "12",
+      "questionNumber": "12",
+      "page": 18,
+      "marks": 1,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Identify correct statement about time of flight mass spectrometry.",
+      "specRef": "3.1.1",
+      "image": "img/2017-june-7404-1/q12.jpg",
+      "markscheme": "img/2017-june-7404-1/ms/q12.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-1-q13",
+      "paper": "2017-june-7404-1",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "13",
+      "questionNumber": "13",
+      "page": 18,
+      "marks": 1,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Identify peaks and ratio in mass spectrum of Cl2 from 35Cl and 37Cl (3:1).",
+      "specRef": "3.1.1",
+      "image": "img/2017-june-7404-1/q13.jpg",
+      "markscheme": "img/2017-june-7404-1/ms/q13.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-1-q14",
+      "paper": "2017-june-7404-1",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "14",
+      "questionNumber": "14",
+      "page": 19,
+      "marks": 1,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate concentration in mol dm-3 of 4.85 g Na2SO4 in 250 cm3.",
+      "specRef": "3.1.2",
+      "image": "img/2017-june-7404-1/q14.jpg",
+      "markscheme": "img/2017-june-7404-1/ms/q14.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-1-q15",
+      "paper": "2017-june-7404-1",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "15",
+      "questionNumber": "15",
+      "page": 19,
+      "marks": 1,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Identify which sample contains the greatest number of atoms.",
+      "specRef": "3.1.2",
+      "image": "img/2017-june-7404-1/q15.jpg",
+      "markscheme": "img/2017-june-7404-1/ms/q15.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-1-q16",
+      "paper": "2017-june-7404-1",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "16",
+      "questionNumber": "16",
+      "page": 19,
+      "marks": 1,
+      "topics": [
+        "3.1.2",
+        "RP"
+      ],
+      "skills": [
+        "evaluation"
+      ],
+      "summary": "Identify procedural error causing calculated ethanoic acid concentration to be lower than actual.",
+      "specRef": "3.1.2",
+      "image": "img/2017-june-7404-1/q16.jpg",
+      "markscheme": "img/2017-june-7404-1/ms/q16.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-1-q17",
+      "paper": "2017-june-7404-1",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "17",
+      "questionNumber": "17",
+      "page": 20,
+      "marks": 1,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Deduce formula of metal bromide MBrn from reaction with AgNO3.",
+      "specRef": "3.1.2",
+      "image": "img/2017-june-7404-1/q17.jpg",
+      "markscheme": "img/2017-june-7404-1/ms/q17.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-1-q18",
+      "paper": "2017-june-7404-1",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "18",
+      "questionNumber": "18",
+      "page": 20,
+      "marks": 1,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Identify which species has one or more bond angle(s) of 90°.",
+      "specRef": "3.1.3",
+      "image": "img/2017-june-7404-1/q18.jpg",
+      "markscheme": "img/2017-june-7404-1/ms/q18.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-1-q19",
+      "paper": "2017-june-7404-1",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "19",
+      "questionNumber": "19",
+      "page": 20,
+      "marks": 1,
+      "topics": [
+        "3.1.6"
+      ],
+      "skills": [
+        "interpretation"
+      ],
+      "summary": "Identify correct statement about endothermic equilibrium COCl2(g) ⇌ CO(g) + Cl2(g).",
+      "specRef": "3.1.6",
+      "image": "img/2017-june-7404-1/q19.jpg",
+      "markscheme": "img/2017-june-7404-1/ms/q19.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-1-q20",
+      "paper": "2017-june-7404-1",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "20",
+      "questionNumber": "20",
+      "page": 21,
+      "marks": 1,
+      "topics": [
+        "3.1.7"
+      ],
+      "skills": [
+        "interpretation"
+      ],
+      "summary": "Identify which equation is not a redox reaction.",
+      "specRef": "3.1.7",
+      "image": "img/2017-june-7404-1/q20.jpg",
+      "markscheme": "img/2017-june-7404-1/ms/q20.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-1-q21",
+      "paper": "2017-june-7404-1",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "21",
+      "questionNumber": "21",
+      "page": 21,
+      "marks": 1,
+      "topics": [
+        "3.2.1"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Identify which Period 3 element has the highest first ionisation energy.",
+      "specRef": "3.2.1",
+      "image": "img/2017-june-7404-1/q21.jpg",
+      "markscheme": "img/2017-june-7404-1/ms/q21.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-1-q22",
+      "paper": "2017-june-7404-1",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "22",
+      "questionNumber": "22",
+      "page": 21,
+      "marks": 1,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate empirical formula of nitrogen oxide containing 26% nitrogen by mass.",
+      "specRef": "3.1.2",
+      "image": "img/2017-june-7404-1/q22.jpg",
+      "markscheme": "img/2017-june-7404-1/ms/q22.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-1-q23",
+      "paper": "2017-june-7404-1",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "23",
+      "questionNumber": "23",
+      "page": 21,
+      "marks": 1,
+      "topics": [
+        "3.2.3"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Identify which species is not produced by a redox reaction between NaI and conc H2SO4.",
+      "specRef": "3.2.3",
+      "image": "img/2017-june-7404-1/q23.jpg",
+      "markscheme": "img/2017-june-7404-1/ms/q23.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-2-q01_1",
+      "paper": "2017-june-7404-2",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "01.1",
+      "questionNumber": "01.1",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "3.1.5"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Label the horizontal axis in Figure 1 (Maxwell-Boltzmann distribution).",
+      "specRef": "3.1.5",
+      "image": "img/2017-june-7404-2/q01_1.jpg",
+      "markscheme": "img/2017-june-7404-2/ms/q01_1.png",
+      "figures": [
+        {
+          "file": "fig-q1-fig1.jpg",
+          "label": "Figure 1: Maxwell-Boltzmann distribution of molecular energies"
+        }
+      ]
+    },
+    {
+      "id": "2017-june-7404-2-q01_2",
+      "paper": "2017-june-7404-2",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "01.2",
+      "questionNumber": "01.2",
+      "page": 2,
+      "marks": 2,
+      "topics": [
+        "3.1.5"
+      ],
+      "skills": [
+        "diagram"
+      ],
+      "summary": "Sketch Maxwell-Boltzmann distribution on Figure 1 for the same gas at a higher temperature.",
+      "specRef": "3.1.5",
+      "image": "img/2017-june-7404-2/q01_2.jpg",
+      "markscheme": "img/2017-june-7404-2/ms/q01_2.png",
+      "figures": [
+        {
+          "file": "fig-q1-fig1.jpg",
+          "label": "Figure 1: Maxwell-Boltzmann distribution of molecular energies"
+        }
+      ]
+    },
+    {
+      "id": "2017-june-7404-2-q01_3",
+      "paper": "2017-june-7404-2",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "01.3",
+      "questionNumber": "01.3",
+      "page": 2,
+      "marks": 2,
+      "topics": [
+        "3.1.5"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "Explain why an increase in temperature increases the rate at which the gas decomposes.",
+      "specRef": "3.1.5",
+      "image": "img/2017-june-7404-2/q01_3.jpg",
+      "markscheme": "img/2017-june-7404-2/ms/q01_3.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-2-q02_1",
+      "paper": "2017-june-7404-2",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "02.1",
+      "questionNumber": "02.1",
+      "page": 3,
+      "marks": 5,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate relative molecular mass Mr of volatile hydrocarbon X from Table 1 (ideal gas data).",
+      "specRef": "3.1.2",
+      "image": "img/2017-june-7404-2/q02_1.jpg",
+      "markscheme": "img/2017-june-7404-2/ms/q02_1.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-2-q02_2",
+      "paper": "2017-june-7404-2",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "02.2",
+      "questionNumber": "02.2",
+      "page": 4,
+      "marks": 4,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate empirical and molecular formulas of hydrocarbon Y (83.7% C, Mr = 86.0).",
+      "specRef": "3.1.2",
+      "image": "img/2017-june-7404-2/q02_2.jpg",
+      "markscheme": "img/2017-june-7404-2/ms/q02_2.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-2-q03_1",
+      "paper": "2017-june-7404-2",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "03.1",
+      "questionNumber": "03.1",
+      "page": 5,
+      "marks": 6,
+      "topics": [
+        "3.3.4",
+        "3.3.1"
+      ],
+      "skills": [
+        "explanation",
+        "drawing"
+      ],
+      "summary": "Deduce structures for C5H10 isomers A, B and C from bromine water and stereoisomerism tests.",
+      "specRef": "3.3.4",
+      "image": "img/2017-june-7404-2/q03_1.jpg",
+      "markscheme": "img/2017-june-7404-2/ms/q03_1.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-2-q04_1",
+      "paper": "2017-june-7404-2",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "04.1",
+      "questionNumber": "04.1",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [
+        "equation"
+      ],
+      "summary": "Write an equation for the complete combustion of propane in oxygen.",
+      "specRef": "3.3.2",
+      "image": "img/2017-june-7404-2/q04_1.jpg",
+      "markscheme": "img/2017-june-7404-2/ms/q04_1.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-2-q04_2",
+      "paper": "2017-june-7404-2",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "04.2",
+      "questionNumber": "04.2",
+      "page": 6,
+      "marks": 2,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Deduce molecular formula of alkane with ΔcH = -6650 kJ mol-1 using ΔcH = -(496n + 202).",
+      "specRef": "3.1.4",
+      "image": "img/2017-june-7404-2/q04_2.jpg",
+      "markscheme": "img/2017-june-7404-2/ms/q04_2.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-2-q04_3",
+      "paper": "2017-june-7404-2",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "04.3",
+      "questionNumber": "04.3",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "Suggest one reason (other than mean bond enthalpies) why ΔcH of a liquid alkane differs from the bond enthalpy expression.",
+      "specRef": "3.1.4",
+      "image": "img/2017-june-7404-2/q04_3.jpg",
+      "markscheme": "img/2017-june-7404-2/ms/q04_3.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-2-q04_4",
+      "paper": "2017-june-7404-2",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "04.4",
+      "questionNumber": "04.4",
+      "page": 7,
+      "marks": 3,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [
+        "diagram",
+        "interpretation"
+      ],
+      "summary": "Plot enthalpy change per 1 g vs carbon atoms from Table 2, draw best fit curve, and estimate propane value.",
+      "specRef": "3.1.4",
+      "image": "img/2017-june-7404-2/q04_4.jpg",
+      "markscheme": "img/2017-june-7404-2/ms/q04_4.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-2-q04_5",
+      "paper": "2017-june-7404-2",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "04.5",
+      "questionNumber": "04.5",
+      "page": 8,
+      "marks": 2,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate heat energy released in kJ when 1.00 dm3 of isooctane (density 0.692 g cm-3, -47.8 kJ g-1) burns.",
+      "specRef": "3.1.4",
+      "image": "img/2017-june-7404-2/q04_5.jpg",
+      "markscheme": "img/2017-june-7404-2/ms/q04_5.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-2-q05_1",
+      "paper": "2017-june-7404-2",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "05.1",
+      "questionNumber": "05.1",
+      "page": 9,
+      "marks": 4,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate mass in mg of ethanedioic acid in 25.0 cm3 reacting with 25.30 cm3 of 0.500 mol dm-3 NaOH.",
+      "specRef": "3.1.2",
+      "image": "img/2017-june-7404-2/q05_1.jpg",
+      "markscheme": "img/2017-june-7404-2/ms/q05_1.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-2-q05_2",
+      "paper": "2017-june-7404-2",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "05.2",
+      "questionNumber": "05.2",
+      "page": 9,
+      "marks": 1,
+      "topics": [
+        "3.1.2",
+        "RP"
+      ],
+      "skills": [
+        "practical"
+      ],
+      "summary": "Explain why rinsing the inside of the conical flask with deionised water improved titration accuracy.",
+      "specRef": "3.1.2",
+      "image": "img/2017-june-7404-2/q05_2.jpg",
+      "markscheme": "img/2017-june-7404-2/ms/q05_2.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-2-q05_3",
+      "paper": "2017-june-7404-2",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "05.3",
+      "questionNumber": "05.3",
+      "page": 9,
+      "marks": 1,
+      "topics": [
+        "3.1.2",
+        "RP"
+      ],
+      "skills": [
+        "definition"
+      ],
+      "summary": "Give the meaning of the term concordant titres.",
+      "specRef": "3.1.2",
+      "image": "img/2017-june-7404-2/q05_3.jpg",
+      "markscheme": "img/2017-june-7404-2/ms/q05_3.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-2-q06_1",
+      "paper": "2017-june-7404-2",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "06.1",
+      "questionNumber": "06.1",
+      "page": 10,
+      "marks": 3,
+      "topics": [
+        "3.3.3"
+      ],
+      "skills": [
+        "mechanism"
+      ],
+      "summary": "Name and outline mechanism for reaction of 1-bromo-2-methylpropane with dilute aqueous NaOH.",
+      "specRef": "3.3.3",
+      "image": "img/2017-june-7404-2/q06_1.jpg",
+      "markscheme": "img/2017-june-7404-2/ms/q06_1.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-2-q06_2",
+      "paper": "2017-june-7404-2",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "06.2",
+      "questionNumber": "06.2",
+      "page": 10,
+      "marks": 3,
+      "topics": [
+        "3.1.2",
+        "3.3.3"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate percentage yield when 2.0 cm3 1-bromo-2-methylpropane (density 1.26 g cm-3) gives 895 mg alcohol.",
+      "specRef": "3.1.2",
+      "image": "img/2017-june-7404-2/q06_2.jpg",
+      "markscheme": "img/2017-june-7404-2/ms/q06_2.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-2-q06_3",
+      "paper": "2017-june-7404-2",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "06.3",
+      "questionNumber": "06.3",
+      "page": 11,
+      "marks": 2,
+      "topics": [
+        "3.3.3"
+      ],
+      "skills": [
+        "nomenclature",
+        "recall"
+      ],
+      "summary": "Name organic product and mechanism when 1-bromo-2-methylpropane reacts with hot, conc ethanolic KOH.",
+      "specRef": "3.3.3",
+      "image": "img/2017-june-7404-2/q06_3.jpg",
+      "markscheme": "img/2017-june-7404-2/ms/q06_3.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-2-q07_1",
+      "paper": "2017-june-7404-2",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "07.1",
+      "questionNumber": "07.1",
+      "page": 12,
+      "marks": 4,
+      "topics": [
+        "3.3.5"
+      ],
+      "skills": [
+        "mechanism"
+      ],
+      "summary": "Complete dehydration mechanism of 2-methylcyclohexanol to 1-methylcyclohexene via carbocation D.",
+      "specRef": "3.3.5",
+      "image": "img/2017-june-7404-2/q07_1.jpg",
+      "markscheme": "img/2017-june-7404-2/ms/q07_1.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-2-q07_2",
+      "paper": "2017-june-7404-2",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "07.2",
+      "questionNumber": "07.2",
+      "page": 12,
+      "marks": 1,
+      "topics": [
+        "3.3.5",
+        "3.3.4"
+      ],
+      "skills": [
+        "drawing"
+      ],
+      "summary": "Draw structure of a different cyclic alkene formed from carbocation D.",
+      "specRef": "3.3.5",
+      "image": "img/2017-june-7404-2/q07_2.jpg",
+      "markscheme": "img/2017-june-7404-2/ms/q07_2.png",
+      "figures": [
+        {
+          "file": "fig-q7_1-carbocation.jpg",
+          "label": "Structure of carbocation D from Question 7.1"
+        }
+      ]
+    },
+    {
+      "id": "2017-june-7404-2-q07_3",
+      "paper": "2017-june-7404-2",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "07.3",
+      "questionNumber": "07.3",
+      "page": 13,
+      "marks": 2,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "Explain why carbocation D rearranges to carbocation E (Figure 2).",
+      "specRef": "3.3.4",
+      "image": "img/2017-june-7404-2/q07_3.jpg",
+      "markscheme": "img/2017-june-7404-2/ms/q07_3.png",
+      "figures": [
+        {
+          "file": "fig-q7_3-fig2.jpg",
+          "label": "Figure 2: Rearrangement of carbocation D to carbocation E"
+        }
+      ],
+      "crop_exclude_y": [
+        [
+          115,
+          252
+        ]
+      ]
+    },
+    {
+      "id": "2017-june-7404-2-q07_4",
+      "paper": "2017-june-7404-2",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "07.4",
+      "questionNumber": "07.4",
+      "page": 13,
+      "marks": 1,
+      "topics": [
+        "3.3.5",
+        "3.3.4"
+      ],
+      "skills": [
+        "drawing"
+      ],
+      "summary": "Draw structure of the third alkene formed after rearrangement to carbocation E.",
+      "specRef": "3.3.5",
+      "image": "img/2017-june-7404-2/q07_4.jpg",
+      "markscheme": "img/2017-june-7404-2/ms/q07_4.png",
+      "figures": [
+        {
+          "file": "fig-q7_3-fig2.jpg",
+          "label": "Figure 2: Rearrangement of carbocation D to carbocation E"
+        }
+      ]
+    },
+    {
+      "id": "2017-june-7404-2-q07_5",
+      "paper": "2017-june-7404-2",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "07.5",
+      "questionNumber": "07.5",
+      "page": 14,
+      "marks": 6,
+      "topics": [
+        "3.1.3",
+        "3.3.5",
+        "RP"
+      ],
+      "skills": [
+        "explanation",
+        "practical"
+      ],
+      "summary": "Identify factors influencing boiling points of cyclohexene, cyclohexanol and H3PO4, and explain how cyclohexene is separated.",
+      "specRef": "3.1.3",
+      "image": "img/2017-june-7404-2/q07_5.jpg",
+      "markscheme": "img/2017-june-7404-2/ms/q07_5.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-2-q08_1",
+      "paper": "2017-june-7404-2",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "08.1",
+      "questionNumber": "08.1",
+      "page": 15,
+      "marks": 1,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [
+        "drawing"
+      ],
+      "summary": "Draw the skeletal formula of 3-methylbutanal.",
+      "specRef": "3.3.1",
+      "image": "img/2017-june-7404-2/q08_1.jpg",
+      "markscheme": "img/2017-june-7404-2/ms/q08_1.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-2-q08_2",
+      "paper": "2017-june-7404-2",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "08.2",
+      "questionNumber": "08.2",
+      "page": 15,
+      "marks": 1,
+      "topics": [
+        "3.3.4",
+        "3.3.1"
+      ],
+      "skills": [
+        "drawing"
+      ],
+      "summary": "Draw displayed formula of C5H11Br that is major product of 2-methylbut-2-ene + HBr.",
+      "specRef": "3.3.4",
+      "image": "img/2017-june-7404-2/q08_2.jpg",
+      "markscheme": "img/2017-june-7404-2/ms/q08_2.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-2-q08_3",
+      "paper": "2017-june-7404-2",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "08.3",
+      "questionNumber": "08.3",
+      "page": 15,
+      "marks": 1,
+      "topics": [
+        "3.3.2",
+        "3.3.4"
+      ],
+      "skills": [
+        "drawing"
+      ],
+      "summary": "Draw structure of a 4-carbon alkene produced by thermal cracking.",
+      "specRef": "3.3.2",
+      "image": "img/2017-june-7404-2/q08_3.jpg",
+      "markscheme": "img/2017-june-7404-2/ms/q08_3.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-2-q09_1",
+      "paper": "2017-june-7404-2",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "09.1",
+      "questionNumber": "09.1",
+      "page": 16,
+      "marks": 2,
+      "topics": [
+        "3.3.4",
+        "3.1.3"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "Explain why PVC melts at a higher temperature (>100 °C) than chloroethene (-154 °C).",
+      "specRef": "3.3.4",
+      "image": "img/2017-june-7404-2/q09_1.jpg",
+      "markscheme": "img/2017-june-7404-2/ms/q09_1.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-2-q09_2",
+      "paper": "2017-june-7404-2",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "09.2",
+      "questionNumber": "09.2",
+      "page": 16,
+      "marks": 1,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Deduce the number of hydrogen atoms in the phthalate plasticiser molecule.",
+      "specRef": "3.3.1",
+      "image": "img/2017-june-7404-2/q09_2.jpg",
+      "markscheme": "img/2017-june-7404-2/ms/q09_2.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-2-q09_3",
+      "paper": "2017-june-7404-2",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "09.3",
+      "questionNumber": "09.3",
+      "page": 17,
+      "marks": 1,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [
+        "explanation"
+      ],
+      "summary": "Explain whether you would expect to find a plasticiser in PVC used to insulate electrical cables.",
+      "specRef": "3.3.4",
+      "image": "img/2017-june-7404-2/q09_3.jpg",
+      "markscheme": "img/2017-june-7404-2/ms/q09_3.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-2-q09_4",
+      "paper": "2017-june-7404-2",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "09.4",
+      "questionNumber": "09.4",
+      "page": 17,
+      "marks": 1,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [
+        "drawing"
+      ],
+      "summary": "Draw the displayed formula for the repeating unit of poly(chloroprene).",
+      "specRef": "3.3.4",
+      "image": "img/2017-june-7404-2/q09_4.jpg",
+      "markscheme": "img/2017-june-7404-2/ms/q09_4.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-2-q10",
+      "paper": "2017-june-7404-2",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "10",
+      "questionNumber": "10",
+      "page": 18,
+      "marks": 1,
+      "topics": [
+        "3.1.2",
+        "RP"
+      ],
+      "skills": [
+        "practical"
+      ],
+      "summary": "Read the burette reading for the transparent liquid.",
+      "specRef": "3.1.2",
+      "image": "img/2017-june-7404-2/q10.jpg",
+      "markscheme": "img/2017-june-7404-2/ms/q10.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-2-q11",
+      "paper": "2017-june-7404-2",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "11",
+      "questionNumber": "11",
+      "page": 19,
+      "marks": 1,
+      "topics": [
+        "3.1.2",
+        "RP"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate percentage uncertainty in mass of solute weighed by difference (±0.005 g per reading).",
+      "specRef": "3.1.2",
+      "image": "img/2017-june-7404-2/q11.jpg",
+      "markscheme": "img/2017-june-7404-2/ms/q11.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-2-q12",
+      "paper": "2017-june-7404-2",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "12",
+      "questionNumber": "12",
+      "page": 19,
+      "marks": 1,
+      "topics": [
+        "3.3.6"
+      ],
+      "skills": [
+        "interpretation"
+      ],
+      "summary": "Identify compound producing the given infrared spectrum.",
+      "specRef": "3.3.6",
+      "image": "img/2017-june-7404-2/q12.jpg",
+      "markscheme": "img/2017-june-7404-2/ms/q12.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-2-q13",
+      "paper": "2017-june-7404-2",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "13",
+      "questionNumber": "13",
+      "page": 20,
+      "marks": 1,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Identify most likely bond angle around oxygen atom in ethanol.",
+      "specRef": "3.1.3",
+      "image": "img/2017-june-7404-2/q13.jpg",
+      "markscheme": "img/2017-june-7404-2/ms/q13.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-2-q14",
+      "paper": "2017-june-7404-2",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "14",
+      "questionNumber": "14",
+      "page": 20,
+      "marks": 1,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Identify structural isomer of Z-but-2-ene.",
+      "specRef": "3.3.1",
+      "image": "img/2017-june-7404-2/q14.jpg",
+      "markscheme": "img/2017-june-7404-2/ms/q14.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-2-q15",
+      "paper": "2017-june-7404-2",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "15",
+      "questionNumber": "15",
+      "page": 20,
+      "marks": 1,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Identify propagation step in conversion of CHCl3 to CCl4 with Cl2 under UV light.",
+      "specRef": "3.3.2",
+      "image": "img/2017-june-7404-2/q15.jpg",
+      "markscheme": "img/2017-june-7404-2/ms/q15.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-2-q16",
+      "paper": "2017-june-7404-2",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "16",
+      "questionNumber": "16",
+      "page": 21,
+      "marks": 1,
+      "topics": [
+        "3.3.3"
+      ],
+      "skills": [
+        "recall"
+      ],
+      "summary": "Identify 1-halobutane with fastest rate of reaction with KCN to form pentanenitrile.",
+      "specRef": "3.3.3",
+      "image": "img/2017-june-7404-2/q16.jpg",
+      "markscheme": "img/2017-june-7404-2/ms/q16.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-2-q17",
+      "paper": "2017-june-7404-2",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "17",
+      "questionNumber": "17",
+      "page": 21,
+      "marks": 1,
+      "topics": [
+        "3.3.5"
+      ],
+      "skills": [
+        "interpretation"
+      ],
+      "summary": "Identify alcohol that can be oxidised by acidified K2Cr2O7 but cannot be dehydrated by conc H2SO4.",
+      "specRef": "3.3.5",
+      "image": "img/2017-june-7404-2/q17.jpg",
+      "markscheme": "img/2017-june-7404-2/ms/q17.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-2-q18",
+      "paper": "2017-june-7404-2",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "18",
+      "questionNumber": "18",
+      "page": 21,
+      "marks": 1,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Count number of structural isomers with molecular formula C3H6BrCl.",
+      "specRef": "3.3.1",
+      "image": "img/2017-june-7404-2/q18.jpg",
+      "markscheme": "img/2017-june-7404-2/ms/q18.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-2-q19",
+      "paper": "2017-june-7404-2",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "19",
+      "questionNumber": "19",
+      "page": 22,
+      "marks": 1,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Identify which sample contains the most molecules.",
+      "specRef": "3.1.2",
+      "image": "img/2017-june-7404-2/q19.jpg",
+      "markscheme": "img/2017-june-7404-2/ms/q19.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-2-q20",
+      "paper": "2017-june-7404-2",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "20",
+      "questionNumber": "20",
+      "page": 22,
+      "marks": 1,
+      "topics": [
+        "3.3.6"
+      ],
+      "skills": [
+        "interpretation"
+      ],
+      "summary": "Identify compound forming a molecular ion with a different precise molecular mass from the other three.",
+      "specRef": "3.3.6",
+      "image": "img/2017-june-7404-2/q20.jpg",
+      "markscheme": "img/2017-june-7404-2/ms/q20.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-2-q21",
+      "paper": "2017-june-7404-2",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "21",
+      "questionNumber": "21",
+      "page": 23,
+      "marks": 1,
+      "topics": [
+        "3.1.6"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate Kc for CO(g) + H2O(g) ⇌ CO2(g) + H2(g) from initial 4.20 mol CO, 2.00 mol H2O, 1.60 mol H2 at equilibrium.",
+      "specRef": "3.1.6",
+      "image": "img/2017-june-7404-2/q21.jpg",
+      "markscheme": "img/2017-june-7404-2/ms/q21.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-2-q22",
+      "paper": "2017-june-7404-2",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "22",
+      "questionNumber": "22",
+      "page": 23,
+      "marks": 1,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate volume of water to add to 100 cm3 of 2.0 mol dm-3 acid to dilute to 1.5 mol dm-3.",
+      "specRef": "3.1.2",
+      "image": "img/2017-june-7404-2/q22.jpg",
+      "markscheme": "img/2017-june-7404-2/ms/q22.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-2-q23",
+      "paper": "2017-june-7404-2",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "23",
+      "questionNumber": "23",
+      "page": 24,
+      "marks": 1,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Identify gas in Flask B (340 mg) with same V, T, P as 4.0 x 10^-3 mol CH4 in Flask A.",
+      "specRef": "3.1.2",
+      "image": "img/2017-june-7404-2/q23.jpg",
+      "markscheme": "img/2017-june-7404-2/ms/q23.png",
+      "figures": []
+    },
+    {
+      "id": "2017-june-7404-2-q24",
+      "paper": "2017-june-7404-2",
+      "year": 2017,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "24",
+      "questionNumber": "24",
+      "page": 24,
+      "marks": 1,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [
+        "calculation"
+      ],
+      "summary": "Calculate mass of nitrogen in sample of C22H30N6O4S containing 0.0195 mol carbon.",
+      "specRef": "3.1.2",
+      "image": "img/2017-june-7404-2/q24.jpg",
+      "markscheme": "img/2017-june-7404-2/ms/q24.png",
       "figures": []
     }
   ]

@@ -138,6 +138,8 @@ PDF_MAP = {
     '2015-june-chem5': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795517285960_48949310.pdf',
     '2016-june-7404-1': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795517433934_288fbc59.pdf',
     '2016-june-7404-2': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795517433965_9bd37d6b.pdf',
+    '2017-june-7404-1': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795517557742_253ea9a3.pdf',
+    '2017-june-7404-2': r'C:\Users\Alexander\.gemini\antigravity\brain\8512efd8-03d2-4069-bf73-26ca25b72d40\.user_uploaded\media_1795517557743_aa619729.pdf',
 }
 
 def extract_lines(page):
@@ -284,6 +286,16 @@ def main():
                                 break
                     if found_y0 is not None:
                         break
+
+            # Fallback for split two-digit question boxes in 2017+ AQA papers (e.g. '0' at x=52, '1 . 2' or '2' at x=72)
+            if found_y0 is None and (m_dot or m_mcq):
+                d1 = m_dot.group(1) if m_dot else m_mcq.group(1)
+                right_target = f"{d1[1]} . {m_dot.group(2)}" if m_dot else d1[1]
+                for bbox, txt in lines:
+                    if search_start - 5 <= bbox[1] < max_search_y and 60 <= bbox[0] < 95 and txt.strip() == right_target:
+                        if any(b2[0] < 65 and abs(b2[1] - bbox[1]) < 4 and t2.strip() == d1[0] for b2, t2 in lines):
+                            found_y0 = bbox[1]
+                            break
 
             # Fallback for continued question without explicit label on current page
             if found_y0 is None and q_idx == 0 and len(lines) > 0:
