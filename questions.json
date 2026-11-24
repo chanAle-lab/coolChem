@@ -1830,6 +1830,30 @@
       "totalMarks": 105,
       "pdf": null,
       "ms": null
+    },
+    {
+      "id": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "date": "2015-01-01",
+      "title": "7405/2 — A-level Paper 2: Organic and Physical Chemistry (Specimen)",
+      "totalMarks": 105,
+      "pdf": null,
+      "ms": null
+    },
+    {
+      "id": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "date": "2015-01-01",
+      "title": "7405/3 — A-level Paper 3: Practical Skills, Data Analysis & Synopsis (Specimen)",
+      "totalMarks": 90,
+      "pdf": null,
+      "ms": null
     }
   ],
   "questions": [
@@ -108143,6 +108167,2240 @@
       "figures": [
         "img/2015-specimen-7405-1/fig-q10-table5.jpg"
       ]
+    },
+    {
+      "id": "2015-specimen-7405-2-q01.1",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "01.1",
+      "questionNumber": "01.1",
+      "page": 2,
+      "marks": 3,
+      "topics": [
+        "3.1.9"
+      ],
+      "skills": [],
+      "summary": "Show how the kinetic data in Table 1 can be used to deduce the rate expression for the reaction between A and B.",
+      "specRef": "3.1.9",
+      "image": "img/2015-specimen-7405-2/q01-1.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q01-1.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-2-q01.2",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "01.2",
+      "questionNumber": "01.2",
+      "page": 3,
+      "marks": 3,
+      "topics": [
+        "3.1.9"
+      ],
+      "skills": [],
+      "summary": "Use the data from experiment 4 in Table 2 and rate = k[C]^2[D] to calculate k and deduce its units.",
+      "specRef": "3.1.9",
+      "image": "img/2015-specimen-7405-2/q01-2.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q01-2.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-2-q01.3",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "01.3",
+      "questionNumber": "01.3",
+      "page": 3,
+      "marks": 1,
+      "topics": [
+        "3.1.9"
+      ],
+      "skills": [],
+      "summary": "Calculate a value for the initial rate in experiment 5.",
+      "specRef": "3.1.9",
+      "image": "img/2015-specimen-7405-2/q01-3.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q01-3.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-2-q01.4",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "01.4",
+      "questionNumber": "01.4",
+      "page": 4,
+      "marks": 3,
+      "topics": [
+        "3.1.5"
+      ],
+      "skills": [],
+      "summary": "For rate = k[E], explain qualitatively why doubling the temperature has a much greater effect on the rate of reaction than doubling [E].",
+      "specRef": "3.1.5",
+      "image": "img/2015-specimen-7405-2/q01-4.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q01-4.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-2-q01.5",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "01.5",
+      "questionNumber": "01.5",
+      "page": 4,
+      "marks": 2,
+      "topics": [
+        "3.1.9"
+      ],
+      "skills": [],
+      "summary": "Use ln k = ln A - Ea/RT with k = 6.51 x 10^-3 and A = 2.57 x 10^10 at 300 K to calculate Ea in kJ mol-1.",
+      "specRef": "3.1.9",
+      "image": "img/2015-specimen-7405-2/q01-5.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q01-5.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-2-q02.1",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "02.1",
+      "questionNumber": "02.1",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "3.1.9"
+      ],
+      "skills": [],
+      "summary": "Draw a tangent to the curve in Figure 1 when the concentration of butadiene is 0.0120 mol dm-3.",
+      "specRef": "3.1.9",
+      "image": "img/2015-specimen-7405-2/q02-1.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q02-1.png",
+      "figures": [
+        "img/2015-specimen-7405-2/fig-q2-fig1.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          78,
+          575
+        ]
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-2-q02.2",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "02.2",
+      "questionNumber": "02.2",
+      "page": 7,
+      "marks": 5,
+      "topics": [
+        "3.1.9"
+      ],
+      "skills": [],
+      "summary": "Use the initial rate (4.57 x 10^-6 mol dm-3 s-1) and the rate from your tangent at 0.0120 mol dm-3 to justify that the order of reaction is 2 with respect to butadiene.",
+      "specRef": "3.1.9",
+      "image": "img/2015-specimen-7405-2/q02-2.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q02-2.png",
+      "figures": [
+        "img/2015-specimen-7405-2/fig-q2-fig1.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-2-q03.1",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "03.1",
+      "questionNumber": "03.1",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [],
+      "summary": "Give the IUPAC name for isooctane (Figure 2).",
+      "specRef": "3.3.1",
+      "image": "img/2015-specimen-7405-2/q03-1.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q03-1.png",
+      "figures": [
+        "img/2015-specimen-7405-2/fig-q3-fig2.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          78,
+          240
+        ]
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-2-q03.2",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "03.2",
+      "questionNumber": "03.2",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "3.3.15"
+      ],
+      "skills": [],
+      "summary": "Deduce the number of peaks in the 13C NMR spectrum of isooctane.",
+      "specRef": "3.3.15",
+      "image": "img/2015-specimen-7405-2/q03-2.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q03-2.png",
+      "figures": [
+        "img/2015-specimen-7405-2/fig-q3-fig2.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-2-q03.3",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "03.3",
+      "questionNumber": "03.3",
+      "page": 9,
+      "marks": 1,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [],
+      "summary": "Write an equation using molecular formulas for cracking one molecule of a C20 alkane to form isooctane, propene and ethene.",
+      "specRef": "3.3.2",
+      "image": "img/2015-specimen-7405-2/q03-3.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q03-3.png",
+      "figures": [
+        "img/2015-specimen-7405-2/fig-q3-fig2.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-2-q03.4",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "03.4",
+      "questionNumber": "03.4",
+      "page": 9,
+      "marks": 1,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [],
+      "summary": "How do the products of the reaction in Question 3.3 show that the reaction is an example of thermal cracking?",
+      "specRef": "3.3.2",
+      "image": "img/2015-specimen-7405-2/q03-4.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q03-4.png",
+      "figures": [
+        "img/2015-specimen-7405-2/fig-q3-fig2.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-2-q03.5",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "03.5",
+      "questionNumber": "03.5",
+      "page": 9,
+      "marks": 2,
+      "topics": [
+        "3.3.7"
+      ],
+      "skills": [],
+      "summary": "Deduce the number of monochloro isomers formed by isooctane and draw the structure of the monochloro isomer that exists as a pair of optical isomers.",
+      "specRef": "3.3.7",
+      "image": "img/2015-specimen-7405-2/q03-5.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q03-5.png",
+      "figures": [
+        "img/2015-specimen-7405-2/fig-q3-fig2.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-2-q03.6",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "03.6",
+      "questionNumber": "03.6",
+      "page": 9,
+      "marks": 1,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [],
+      "summary": "An isomer of isooctane reacts with chlorine to form only one monochloro compound. Draw the skeletal formula of this monochloro compound.",
+      "specRef": "3.3.1",
+      "image": "img/2015-specimen-7405-2/q03-6.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q03-6.png",
+      "figures": [
+        "img/2015-specimen-7405-2/fig-q3-fig2.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-2-q03.7",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "03.7",
+      "questionNumber": "03.7",
+      "page": 10,
+      "marks": 2,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [],
+      "summary": "A sample of monochlorooctane has 35Cl and 37Cl in the ratio 1.5 : 1.0. Calculate the Mr of this monochlorooctane.",
+      "specRef": "3.1.1",
+      "image": "img/2015-specimen-7405-2/q03-7.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q03-7.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-2-q03.8",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "03.8",
+      "questionNumber": "03.8",
+      "page": 10,
+      "marks": 3,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [],
+      "summary": "A chlorinated compound formed from isooctane contains 24.6% C and 2.56% H by mass. Calculate its molecular formula.",
+      "specRef": "3.1.2",
+      "image": "img/2015-specimen-7405-2/q03-8.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q03-8.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-2-q04.1",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "04.1",
+      "questionNumber": "04.1",
+      "page": 12,
+      "marks": 1,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [],
+      "summary": "Deduce the IUPAC name for alcohol A, (CH3)2CHCH(OH)CH3.",
+      "specRef": "3.3.1",
+      "image": "img/2015-specimen-7405-2/q04-1.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q04-1.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-2-q04.2",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "04.2",
+      "questionNumber": "04.2",
+      "page": 12,
+      "marks": 1,
+      "topics": [
+        "3.3.5"
+      ],
+      "skills": [],
+      "summary": "Draw the structure of the organic product B formed when A is oxidised with acidified potassium dichromate(VI).",
+      "specRef": "3.3.5",
+      "image": "img/2015-specimen-7405-2/q04-2.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q04-2.png",
+      "figures": [
+        "img/2015-specimen-7405-2/fig-q4-stem.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-2-q04.3",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "04.3",
+      "questionNumber": "04.3",
+      "page": 12,
+      "marks": 1,
+      "topics": [
+        "3.3.5"
+      ],
+      "skills": [],
+      "summary": "Name the mechanism for the dehydration of A with concentrated sulfuric acid.",
+      "specRef": "3.3.5",
+      "image": "img/2015-specimen-7405-2/q04-3.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q04-3.png",
+      "figures": [
+        "img/2015-specimen-7405-2/fig-q4-stem.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-2-q04.4",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "04.4",
+      "questionNumber": "04.4",
+      "page": 12,
+      "marks": 2,
+      "topics": [
+        "3.3.5"
+      ],
+      "skills": [],
+      "summary": "Draw the structures of the two isomeric alkenes C and D formed when A is dehydrated.",
+      "specRef": "3.3.5",
+      "image": "img/2015-specimen-7405-2/q04-4.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q04-4.png",
+      "figures": [
+        "img/2015-specimen-7405-2/fig-q4-stem.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-2-q04.5",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "04.5",
+      "questionNumber": "04.5",
+      "page": 13,
+      "marks": 1,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [],
+      "summary": "Name the type of structural isomerism shown by C and D.",
+      "specRef": "3.3.1",
+      "image": "img/2015-specimen-7405-2/q04-5.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q04-5.png",
+      "figures": [
+        "img/2015-specimen-7405-2/fig-q4-stem.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-2-q04.6",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "04.6",
+      "questionNumber": "04.6",
+      "page": 13,
+      "marks": 1,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [],
+      "summary": "List alcohol A, product B and isomer C in order of increasing boiling point.",
+      "specRef": "3.1.3",
+      "image": "img/2015-specimen-7405-2/q04-6.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q04-6.png",
+      "figures": [
+        "img/2015-specimen-7405-2/fig-q4-stem.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-2-q04.7",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "04.7",
+      "questionNumber": "04.7",
+      "page": 13,
+      "marks": 1,
+      "topics": [
+        "3.3.5"
+      ],
+      "skills": [],
+      "summary": "Draw the structure of the isomer of A that is not oxidised by acidified potassium dichromate(VI).",
+      "specRef": "3.3.5",
+      "image": "img/2015-specimen-7405-2/q04-7.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q04-7.png",
+      "figures": [
+        "img/2015-specimen-7405-2/fig-q4-stem.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-2-q04.8",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "04.8",
+      "questionNumber": "04.8",
+      "page": 13,
+      "marks": 1,
+      "topics": [
+        "3.3.5"
+      ],
+      "skills": [],
+      "summary": "Draw the structure of the isomer of A that cannot be dehydrated to form an alkene by reaction with concentrated sulfuric acid.",
+      "specRef": "3.3.5",
+      "image": "img/2015-specimen-7405-2/q04-8.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q04-8.png",
+      "figures": [
+        "img/2015-specimen-7405-2/fig-q4-stem.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-2-q05.1",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "05.1",
+      "questionNumber": "05.1",
+      "page": 14,
+      "marks": 1,
+      "topics": [
+        "3.3.13"
+      ],
+      "skills": [],
+      "summary": "Name the type of protein structure in Figure 3.",
+      "specRef": "3.3.13",
+      "image": "img/2015-specimen-7405-2/q05-1.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q05-1.png",
+      "figures": [
+        "img/2015-specimen-7405-2/fig-q5-fig3.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          78,
+          365
+        ]
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-2-q05.2",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "05.2",
+      "questionNumber": "05.2",
+      "page": 14,
+      "marks": 4,
+      "topics": [
+        "3.3.13"
+      ],
+      "skills": [],
+      "summary": "Explain the origin of the interaction represented by the dotted lines in Figure 3.",
+      "specRef": "3.3.13",
+      "image": "img/2015-specimen-7405-2/q05-2.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q05-2.png",
+      "figures": [
+        "img/2015-specimen-7405-2/fig-q5-fig3.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-2-q06.1",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "06.1",
+      "questionNumber": "06.1",
+      "page": 15,
+      "marks": 1,
+      "topics": [
+        "3.3.7"
+      ],
+      "skills": [],
+      "summary": "Draw a separate circle around each of the asymmetric carbon atoms in the tripeptide in Figure 4.",
+      "specRef": "3.3.7",
+      "image": "img/2015-specimen-7405-2/q06-1.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q06-1.png",
+      "figures": [
+        "img/2015-specimen-7405-2/fig-q6-fig4.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          78,
+          278
+        ]
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-2-q06.2",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "06.2",
+      "questionNumber": "06.2",
+      "page": 15,
+      "marks": 1,
+      "topics": [
+        "3.3.13"
+      ],
+      "skills": [],
+      "summary": "Draw the zwitterion of glycine.",
+      "specRef": "3.3.13",
+      "image": "img/2015-specimen-7405-2/q06-2.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q06-2.png",
+      "figures": [
+        "img/2015-specimen-7405-2/fig-q6-fig4.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-2-q06.3",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "06.3",
+      "questionNumber": "06.3",
+      "page": 15,
+      "marks": 1,
+      "topics": [
+        "3.3.11"
+      ],
+      "skills": [],
+      "summary": "Draw the structure of the species formed when glycine reacts with an excess of bromomethane.",
+      "specRef": "3.3.11",
+      "image": "img/2015-specimen-7405-2/q06-3.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q06-3.png",
+      "figures": [
+        "img/2015-specimen-7405-2/fig-q6-fig4.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-2-q06.4",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "06.4",
+      "questionNumber": "06.4",
+      "page": 15,
+      "marks": 1,
+      "topics": [
+        "3.3.13"
+      ],
+      "skills": [],
+      "summary": "Deduce the IUPAC name of threonine.",
+      "specRef": "3.3.13",
+      "image": "img/2015-specimen-7405-2/q06-4.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q06-4.png",
+      "figures": [
+        "img/2015-specimen-7405-2/fig-q6-fig4.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-2-q06.5",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "06.5",
+      "questionNumber": "06.5",
+      "page": 15,
+      "marks": 1,
+      "topics": [
+        "3.3.13"
+      ],
+      "skills": [],
+      "summary": "Draw the structure of the species formed by lysine at low pH.",
+      "specRef": "3.3.13",
+      "image": "img/2015-specimen-7405-2/q06-5.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q06-5.png",
+      "figures": [
+        "img/2015-specimen-7405-2/fig-q6-fig4.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-2-q07.1",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "07.1",
+      "questionNumber": "07.1",
+      "page": 16,
+      "marks": 2,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [],
+      "summary": "Draw the structure of the monomer used to form polymer P (Figure 5) and name the type of polymerisation involved.",
+      "specRef": "3.3.4",
+      "image": "img/2015-specimen-7405-2/q07-1.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q07-1.png",
+      "figures": [
+        "img/2015-specimen-7405-2/fig-q7-fig5.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          78,
+          225
+        ]
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-2-q07.2",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "07.2",
+      "questionNumber": "07.2",
+      "page": 16,
+      "marks": 2,
+      "topics": [
+        "3.3.12"
+      ],
+      "skills": [],
+      "summary": "Draw the structures of two compounds that react together to form polymer Q (Figure 5).",
+      "specRef": "3.3.12",
+      "image": "img/2015-specimen-7405-2/q07-2.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q07-2.png",
+      "figures": [
+        "img/2015-specimen-7405-2/fig-q7-fig5.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-2-q07.3",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "07.3",
+      "questionNumber": "07.3",
+      "page": 17,
+      "marks": 3,
+      "topics": [
+        "3.3.12"
+      ],
+      "skills": [],
+      "summary": "Suggest an environmental advantage of polymer Q over polymer P and justify your answer.",
+      "specRef": "3.3.12",
+      "image": "img/2015-specimen-7405-2/q07-3.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q07-3.png",
+      "figures": [
+        "img/2015-specimen-7405-2/fig-q7-fig5.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-2-q08.1",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "08.1",
+      "questionNumber": "08.1",
+      "page": 18,
+      "marks": 1,
+      "topics": [
+        "3.3.13"
+      ],
+      "skills": [],
+      "summary": "State the name of the sugar molecule attached to bond X in DNA (Figure 6).",
+      "specRef": "3.3.13",
+      "image": "img/2015-specimen-7405-2/q08-1.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q08-1.png",
+      "figures": [
+        "img/2015-specimen-7405-2/fig-q8-fig6.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          78,
+          445
+        ]
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-2-q08.2",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "08.2",
+      "questionNumber": "08.2",
+      "page": 19,
+      "marks": 4,
+      "topics": [
+        "3.3.13"
+      ],
+      "skills": [],
+      "summary": "Suggest which of bases A and B (Figure 7) pairs with guanine (Figure 6) when mRNA is synthesised, and explain how it forms a base pair.",
+      "specRef": "3.3.13",
+      "image": "img/2015-specimen-7405-2/q08-2.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q08-2.png",
+      "figures": [
+        "img/2015-specimen-7405-2/fig-q8-fig6.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-2-q08.3",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "08.3",
+      "questionNumber": "08.3",
+      "page": 20,
+      "marks": 1,
+      "topics": [
+        "3.3.13"
+      ],
+      "skills": [],
+      "summary": "On Figure 6, draw a ring round an atom in guanine that is likely to bond to platinum in cisplatin.",
+      "specRef": "3.3.13",
+      "image": "img/2015-specimen-7405-2/q08-3.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q08-3.png",
+      "figures": [
+        "img/2015-specimen-7405-2/fig-q8-fig6.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-2-q08.4",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "08.4",
+      "questionNumber": "08.4",
+      "page": 20,
+      "marks": 1,
+      "topics": [
+        "3.3.13"
+      ],
+      "skills": [],
+      "summary": "Suggest one way in which cisplatin can be administered so that its side effect on healthy cells is minimised.",
+      "specRef": "3.3.13",
+      "image": "img/2015-specimen-7405-2/q08-4.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q08-4.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-2-q09.1",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "09.1",
+      "questionNumber": "09.1",
+      "page": 22,
+      "marks": 5,
+      "topics": [
+        "3.3.9"
+      ],
+      "skills": [],
+      "summary": "Name and draw a mechanism for step 1 of Figure 8 using CH3COCl with phenylamine.",
+      "specRef": "3.3.9",
+      "image": "img/2015-specimen-7405-2/q09-1.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q09-1.png",
+      "figures": [
+        "img/2015-specimen-7405-2/fig-q9-fig8.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          75,
+          450
+        ]
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-2-q09.2",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "09.2",
+      "questionNumber": "09.2",
+      "page": 23,
+      "marks": 4,
+      "topics": [
+        "RP"
+      ],
+      "skills": [],
+      "summary": "Give reasons for each of the four practical steps in the recrystallisation purification of the step 1 product.",
+      "specRef": "RP",
+      "image": "img/2015-specimen-7405-2/q09-2.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q09-2.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-2-q09.3",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "09.3",
+      "questionNumber": "09.3",
+      "page": 24,
+      "marks": 2,
+      "topics": [
+        "RP"
+      ],
+      "skills": [],
+      "summary": "The melting point of the sample in Question 9.2 was slightly lower than a data-book value. Suggest the most likely impurity and an improvement to the method.",
+      "specRef": "RP",
+      "image": "img/2015-specimen-7405-2/q09-3.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q09-3.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-2-q09.4",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "09.4",
+      "questionNumber": "09.4",
+      "page": 25,
+      "marks": 3,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [],
+      "summary": "5.05 g of phenylamine gave 4.82 g of purified product in step 1 (Figure 8). Calculate the percentage yield.",
+      "specRef": "3.1.2",
+      "image": "img/2015-specimen-7405-2/q09-4.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q09-4.png",
+      "figures": [
+        "img/2015-specimen-7405-2/fig-q9-fig8.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-2-q09.5",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "09.5",
+      "questionNumber": "09.5",
+      "page": 25,
+      "marks": 1,
+      "topics": [
+        "3.3.10"
+      ],
+      "skills": [],
+      "summary": "Write an equation for the reaction of the nitrating intermediate (NO2+) in step 2 (Figure 8).",
+      "specRef": "3.3.10",
+      "image": "img/2015-specimen-7405-2/q09-5.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q09-5.png",
+      "figures": [
+        "img/2015-specimen-7405-2/fig-q9-fig8.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-2-q09.6",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "09.6",
+      "questionNumber": "09.6",
+      "page": 25,
+      "marks": 1,
+      "topics": [
+        "3.3.10"
+      ],
+      "skills": [],
+      "summary": "Name a mechanism for the reaction in step 2 (Figure 8).",
+      "specRef": "3.3.10",
+      "image": "img/2015-specimen-7405-2/q09-6.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q09-6.png",
+      "figures": [
+        "img/2015-specimen-7405-2/fig-q9-fig8.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-2-q09.7",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "09.7",
+      "questionNumber": "09.7",
+      "page": 25,
+      "marks": 1,
+      "topics": [
+        "3.3.9"
+      ],
+      "skills": [],
+      "summary": "Suggest the type of reaction occurring in step 3 (Figure 8).",
+      "specRef": "3.3.9",
+      "image": "img/2015-specimen-7405-2/q09-7.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q09-7.png",
+      "figures": [
+        "img/2015-specimen-7405-2/fig-q9-fig8.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-2-q09.8",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "09.8",
+      "questionNumber": "09.8",
+      "page": 25,
+      "marks": 1,
+      "topics": [
+        "3.3.11"
+      ],
+      "skills": [],
+      "summary": "Identify the reagents used in step 4 (Figure 8).",
+      "specRef": "3.3.11",
+      "image": "img/2015-specimen-7405-2/q09-8.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q09-8.png",
+      "figures": [
+        "img/2015-specimen-7405-2/fig-q9-fig8.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-2-q10",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "10",
+      "questionNumber": "10",
+      "page": 27,
+      "marks": 8,
+      "topics": [
+        "3.3.15"
+      ],
+      "skills": [],
+      "summary": "Deduce the structure of compound R (C6H14O) by analysing the IR spectrum (Figure 9) and 1H NMR spectrum (Figure 10).",
+      "specRef": "3.3.15",
+      "image": "img/2015-specimen-7405-2/q10.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q10.png",
+      "figures": [
+        "img/2015-specimen-7405-2/fig-q10-spectra.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-2-q11.1",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "11.1",
+      "questionNumber": "11.1",
+      "page": 28,
+      "marks": 1,
+      "topics": [
+        "3.3.8"
+      ],
+      "skills": [],
+      "summary": "Write an overall equation for the reduction of butanone using [H] to represent the reductant.",
+      "specRef": "3.3.8",
+      "image": "img/2015-specimen-7405-2/q11-1.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q11-1.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-2-q11.2",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "11.2",
+      "questionNumber": "11.2",
+      "page": 28,
+      "marks": 6,
+      "topics": [
+        "3.3.7"
+      ],
+      "skills": [],
+      "summary": "By considering the mechanism of the reaction of butanone with NaBH4, explain why the product has no effect on plane polarised light.",
+      "specRef": "3.3.7",
+      "image": "img/2015-specimen-7405-2/q11-2.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q11-2.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-2-q12.1",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "12.1",
+      "questionNumber": "12.1",
+      "page": 29,
+      "marks": 1,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [],
+      "summary": "Suggest a reagent of the form HY which reacts with but-1-ene to form a saturated compound.",
+      "specRef": "3.3.4",
+      "image": "img/2015-specimen-7405-2/q12-1.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q12-1.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-2-q12.2",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "12.2",
+      "questionNumber": "12.2",
+      "page": 29,
+      "marks": 5,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [],
+      "summary": "Name and draw a mechanism for the reaction in Question 12.1.",
+      "specRef": "3.3.4",
+      "image": "img/2015-specimen-7405-2/q12-2.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q12-2.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-2-q12.3",
+      "paper": "2015-specimen-7405-2",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/2",
+      "level": "A-level",
+      "question": "12.3",
+      "questionNumber": "12.3",
+      "page": 29,
+      "marks": 3,
+      "topics": [
+        "3.3.7"
+      ],
+      "skills": [],
+      "summary": "Explain how three isomeric products are formed when HY reacts with but-1-ene.",
+      "specRef": "3.3.7",
+      "image": "img/2015-specimen-7405-2/q12-3.jpg",
+      "markscheme": "img/2015-specimen-7405-2/ms/q12-3.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-3-q01.1",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "01.1",
+      "questionNumber": "01.1",
+      "page": 2,
+      "marks": 3,
+      "topics": [
+        "RP"
+      ],
+      "skills": [],
+      "summary": "Describe what happens when a reaction mixture is refluxed and why it is necessary for complete oxidation of ethanol to ethanoic acid.",
+      "specRef": "RP",
+      "image": "img/2015-specimen-7405-3/q01-1.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q01-1.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-3-q01.2",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "01.2",
+      "questionNumber": "01.2",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "3.1.7"
+      ],
+      "skills": [],
+      "summary": "Write a half-equation for the overall oxidation of ethanol into ethanoic acid.",
+      "specRef": "3.1.7",
+      "image": "img/2015-specimen-7405-3/q01-2.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q01-2.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-3-q01.3",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "01.3",
+      "questionNumber": "01.3",
+      "page": 3,
+      "marks": 5,
+      "topics": [
+        "RP"
+      ],
+      "skills": [],
+      "summary": "Use Table 1 to describe how to obtain a sample of ethanal from a mixture of ethanol, ethanal and ethanoic acid, including apparatus and how to minimise loss of ethanal.",
+      "specRef": "RP",
+      "image": "img/2015-specimen-7405-3/q01-3.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q01-3.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-3-q01.4",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "01.4",
+      "questionNumber": "01.4",
+      "page": 4,
+      "marks": 2,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [],
+      "summary": "Use your knowledge of structure and bonding to explain why it is possible to separate ethanal in this way.",
+      "specRef": "3.1.3",
+      "image": "img/2015-specimen-7405-3/q01-4.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q01-4.png",
+      "figures": [
+        "img/2015-specimen-7405-3/fig-q1-table1.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-3-q01.5",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "01.5",
+      "questionNumber": "01.5",
+      "page": 4,
+      "marks": 5,
+      "topics": [
+        "3.3.6"
+      ],
+      "skills": [],
+      "summary": "Describe how the student could use chemical tests to confirm that the liquid contained ethanal and did not contain ethanoic acid.",
+      "specRef": "3.3.6",
+      "image": "img/2015-specimen-7405-3/q01-5.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q01-5.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-3-q02.1",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "02.1",
+      "questionNumber": "02.1",
+      "page": 5,
+      "marks": 6,
+      "topics": [
+        "3.1.6"
+      ],
+      "skills": [],
+      "summary": "8.00 x 10^-2 mol ethanoic acid and 1.20 x 10^-1 mol ethanol reach equilibrium at 20 C, made up to 250 cm3. A 10.0 cm3 sample reacts with 3.20 cm3 of 2.00 x 10^-1 mol dm-3 NaOH. Calculate Kc.",
+      "specRef": "3.1.6",
+      "image": "img/2015-specimen-7405-3/q02-1.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q02-1.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-3-q02.2",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "02.2",
+      "questionNumber": "02.2",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "RP"
+      ],
+      "skills": [],
+      "summary": "Complete Table 2 with the titres.",
+      "specRef": "RP",
+      "image": "img/2015-specimen-7405-3/q02-2.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q02-2.png",
+      "figures": [
+        "img/2015-specimen-7405-3/fig-q2-table2.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          78,
+          275
+        ]
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-3-q02.3",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "02.3",
+      "questionNumber": "02.3",
+      "page": 6,
+      "marks": 2,
+      "topics": [
+        "RP"
+      ],
+      "skills": [],
+      "summary": "Calculate the mean titre and justify your choice of titres from Table 2.",
+      "specRef": "RP",
+      "image": "img/2015-specimen-7405-3/q02-3.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q02-3.png",
+      "figures": [
+        "img/2015-specimen-7405-3/fig-q2-table2.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-3-q02.4",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "02.4",
+      "questionNumber": "02.4",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "3.1.12"
+      ],
+      "skills": [],
+      "summary": "Select from Table 3 a suitable indicator for the titration of ethanoic acid with sodium hydroxide.",
+      "specRef": "3.1.12",
+      "image": "img/2015-specimen-7405-3/q02-4.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q02-4.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-3-q02.5",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "02.5",
+      "questionNumber": "02.5",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "RP"
+      ],
+      "skills": [],
+      "summary": "The uncertainty in the mean titre is +/- 0.15 cm3. Calculate the percentage uncertainty in this mean titre.",
+      "specRef": "RP",
+      "image": "img/2015-specimen-7405-3/q02-5.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q02-5.png",
+      "figures": [
+        "img/2015-specimen-7405-3/fig-q2-table2.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-3-q02.6",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "02.6",
+      "questionNumber": "02.6",
+      "page": 7,
+      "marks": 2,
+      "topics": [
+        "RP"
+      ],
+      "skills": [],
+      "summary": "Suggest how, using the same mass of ethanoic acid, the experiment could be improved to reduce the percentage uncertainty.",
+      "specRef": "RP",
+      "image": "img/2015-specimen-7405-3/q02-6.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q02-6.png",
+      "figures": [
+        "img/2015-specimen-7405-3/fig-q2-table2.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-3-q03.1",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "03.1",
+      "questionNumber": "03.1",
+      "page": 8,
+      "marks": 4,
+      "topics": [
+        "RP"
+      ],
+      "skills": [],
+      "summary": "For each of the bold parts of the TLC practical procedure, consider whether it is essential and justify your answer.",
+      "specRef": "RP",
+      "image": "img/2015-specimen-7405-3/q03-1.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q03-1.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-3-q03.2",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "03.2",
+      "questionNumber": "03.2",
+      "page": 9,
+      "marks": 4,
+      "topics": [
+        "3.3.16"
+      ],
+      "skills": [],
+      "summary": "Outline the steps needed to locate the positions of the amino acids on the TLC plate and to determine their Rf values.",
+      "specRef": "3.3.16",
+      "image": "img/2015-specimen-7405-3/q03-2.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q03-2.png",
+      "figures": [
+        "img/2015-specimen-7405-3/fig-q3-stem.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-3-q03.3",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "03.3",
+      "questionNumber": "03.3",
+      "page": 9,
+      "marks": 2,
+      "topics": [
+        "3.3.16"
+      ],
+      "skills": [],
+      "summary": "Explain why different amino acids have different Rf values.",
+      "specRef": "3.3.16",
+      "image": "img/2015-specimen-7405-3/q03-3.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q03-3.png",
+      "figures": [
+        "img/2015-specimen-7405-3/fig-q3-stem.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-3-q04.1",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "04.1",
+      "questionNumber": "04.1",
+      "page": 10,
+      "marks": 6,
+      "topics": [
+        "3.1.12"
+      ],
+      "skills": [],
+      "summary": "Use the concept of electronegativity to justify why the acid strengths of ethanedioic acid and ethanoic acid are different.",
+      "specRef": "3.1.12",
+      "image": "img/2015-specimen-7405-3/q04-1.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q04-1.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-3-q04.2",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "04.2",
+      "questionNumber": "04.2",
+      "page": 11,
+      "marks": 5,
+      "topics": [
+        "3.1.12"
+      ],
+      "skills": [],
+      "summary": "A buffer is made by adding 6.00 x 10^-2 mol NaOH to 1.00 x 10^-1 mol ethanedioic acid (Ka = 5.89 x 10^-2 mol dm-3). Calculate the pH.",
+      "specRef": "3.1.12",
+      "image": "img/2015-specimen-7405-3/q04-2.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q04-2.png",
+      "figures": [
+        "img/2015-specimen-7405-3/fig-q4-stem.jpg"
+      ]
+    },
+    {
+      "id": "2015-specimen-7405-3-q04.3",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "04.3",
+      "questionNumber": "04.3",
+      "page": 12,
+      "marks": 4,
+      "topics": [
+        "3.2.5"
+      ],
+      "skills": [],
+      "summary": "25.0 cm3 of acidified ethanedioic acid reacted with 20.20 cm3 of 2.00 x 10^-2 mol dm-3 KMnO4. Deduce the equation and calculate the original concentration of ethanedioic acid.",
+      "specRef": "3.2.5",
+      "image": "img/2015-specimen-7405-3/q04-3.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q04-3.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-3-q05.1",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "05.1",
+      "questionNumber": "05.1",
+      "page": 13,
+      "marks": 2,
+      "topics": [
+        "3.3.9"
+      ],
+      "skills": [],
+      "summary": "Ethanedioic acid was treated with excess unknown alcohol and strong acid catalyst; TOF MS gave peaks at m/z = 104 and 118. Identify the species responsible.",
+      "specRef": "3.3.9",
+      "image": "img/2015-specimen-7405-3/q05-1.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q05-1.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-3-q05.2",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "05.2",
+      "questionNumber": "05.2",
+      "page": 13,
+      "marks": 4,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [],
+      "summary": "Outline how the TOF mass spectrometer is able to separate the species at m/z = 104 and 118 to give two peaks.",
+      "specRef": "3.1.1",
+      "image": "img/2015-specimen-7405-3/q05-2.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q05-2.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-3-q06",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "06",
+      "questionNumber": "06",
+      "page": 14,
+      "marks": 1,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [],
+      "summary": "Which change requires the largest amount of energy?",
+      "specRef": "3.1.1",
+      "image": "img/2015-specimen-7405-3/q06.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q06.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-3-q07",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "07",
+      "questionNumber": "07",
+      "page": 14,
+      "marks": 1,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [],
+      "summary": "A sample of 2.18 g of oxygen gas has a volume of 1870 cm3 at 101 kPa. What is the temperature of the gas?",
+      "specRef": "3.1.2",
+      "image": "img/2015-specimen-7405-3/q07.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q07.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-3-q08",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "08",
+      "questionNumber": "08",
+      "page": 15,
+      "marks": 1,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [],
+      "summary": "What is the percentage yield of RCOOH (Mr = 100) when 0.50 g is obtained from 1.0 g of RCOOR' (Mr = 150)?",
+      "specRef": "3.1.2",
+      "image": "img/2015-specimen-7405-3/q08.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q08.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-3-q09",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "09",
+      "questionNumber": "09",
+      "page": 15,
+      "marks": 1,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [],
+      "summary": "A saturated solution of Mg(OH)2 contains 1.17 x 10^-3 g in 100 cm3. What is [Mg2+(aq)]?",
+      "specRef": "3.1.2",
+      "image": "img/2015-specimen-7405-3/q09.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q09.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-3-q10",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "10",
+      "questionNumber": "10",
+      "page": 16,
+      "marks": 1,
+      "topics": [
+        "3.1.9"
+      ],
+      "skills": [],
+      "summary": "For Rate = k[C2H4][H2], if the mixture is compressed to triple the original pressure at fixed T, by what factor does the rate change?",
+      "specRef": "3.1.9",
+      "image": "img/2015-specimen-7405-3/q10.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q10.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-3-q11",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "11",
+      "questionNumber": "11",
+      "page": 16,
+      "marks": 1,
+      "topics": [
+        "3.1.10"
+      ],
+      "skills": [],
+      "summary": "1 mol NH3 dissociates 50% into 0.5 N2 + 1.5 H2. What is the total number of moles of gas at equilibrium?",
+      "specRef": "3.1.10",
+      "image": "img/2015-specimen-7405-3/q11.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q11.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-3-q12",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "12",
+      "questionNumber": "12",
+      "page": 16,
+      "marks": 1,
+      "topics": [
+        "3.1.10"
+      ],
+      "skills": [],
+      "summary": "Which change would alter the value of Kp for 2SO2(g) + O2(g) <=> 2SO3(g)?",
+      "specRef": "3.1.10",
+      "image": "img/2015-specimen-7405-3/q12.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q12.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-3-q13",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "13",
+      "questionNumber": "13",
+      "page": 17,
+      "marks": 1,
+      "topics": [
+        "3.1.12"
+      ],
+      "skills": [],
+      "summary": "What is the pH of a 0.020 mol dm-3 solution of a diprotic acid which is completely dissociated?",
+      "specRef": "3.1.12",
+      "image": "img/2015-specimen-7405-3/q13.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q13.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-3-q14",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "14",
+      "questionNumber": "14",
+      "page": 17,
+      "marks": 1,
+      "topics": [
+        "3.1.12"
+      ],
+      "skills": [],
+      "summary": "Ka of HA is 2.56 x 10^-4 mol dm-3. What is the pH of a 4.25 x 10^-3 mol dm-3 solution of HA?",
+      "specRef": "3.1.12",
+      "image": "img/2015-specimen-7405-3/q14.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q14.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-3-q15",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "15",
+      "questionNumber": "15",
+      "page": 17,
+      "marks": 1,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [],
+      "summary": "Which uses correct standard form and significant figures for the minimum volume of 2.56 mol dm-3 HCl to form 5.46 g MgCl2?",
+      "specRef": "3.1.2",
+      "image": "img/2015-specimen-7405-3/q15.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q15.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-3-q16",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "16",
+      "questionNumber": "16",
+      "page": 18,
+      "marks": 1,
+      "topics": [
+        "3.1.7"
+      ],
+      "skills": [],
+      "summary": "In which reaction is hydrogen acting as an oxidising agent?",
+      "specRef": "3.1.7",
+      "image": "img/2015-specimen-7405-3/q16.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q16.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-3-q17",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "17",
+      "questionNumber": "17",
+      "page": 18,
+      "marks": 1,
+      "topics": [
+        "3.1.7"
+      ],
+      "skills": [],
+      "summary": "In which reaction is the metal oxidised?",
+      "specRef": "3.1.7",
+      "image": "img/2015-specimen-7405-3/q17.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q17.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-3-q18",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "18",
+      "questionNumber": "18",
+      "page": 18,
+      "marks": 1,
+      "topics": [
+        "3.1.11"
+      ],
+      "skills": [],
+      "summary": "Which statement is correct about the operation of the cell Cu | Cu2+ || Ag+ | Ag (EMF = +0.46 V)?",
+      "specRef": "3.1.11",
+      "image": "img/2015-specimen-7405-3/q18.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q18.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-3-q19",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "19",
+      "questionNumber": "19",
+      "page": 19,
+      "marks": 1,
+      "topics": [
+        "3.2.2"
+      ],
+      "skills": [],
+      "summary": "0.102 g of Group 2 metal X reacts with excess HCl to give 65 cm3 H2 at 99 kPa and 303 K. Which is X?",
+      "specRef": "3.2.2",
+      "image": "img/2015-specimen-7405-3/q19.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q19.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-3-q20",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "20",
+      "questionNumber": "20",
+      "page": 19,
+      "marks": 1,
+      "topics": [
+        "3.2.6"
+      ],
+      "skills": [],
+      "summary": "What forms when sodium carbonate solution is added to gallium(III) nitrate solution?",
+      "specRef": "3.2.6",
+      "image": "img/2015-specimen-7405-3/q20.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q20.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-3-q21",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "21",
+      "questionNumber": "21",
+      "page": 19,
+      "marks": 1,
+      "topics": [
+        "3.2.3"
+      ],
+      "skills": [],
+      "summary": "Which compound gives a colourless solution when an excess of dilute aqueous ammonia is added?",
+      "specRef": "3.2.3",
+      "image": "img/2015-specimen-7405-3/q21.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q21.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-3-q22",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "22",
+      "questionNumber": "22",
+      "page": 20,
+      "marks": 1,
+      "topics": [
+        "3.2.6"
+      ],
+      "skills": [],
+      "summary": "What is the final species produced when an excess of aqueous ammonia is added to aqueous aluminium chloride?",
+      "specRef": "3.2.6",
+      "image": "img/2015-specimen-7405-3/q22.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q22.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-3-q23",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "23",
+      "questionNumber": "23",
+      "page": 20,
+      "marks": 1,
+      "topics": [
+        "3.2.5"
+      ],
+      "skills": [],
+      "summary": "What volume of 0.020 mol dm-3 KMnO4 is required to oxidise 0.010 mol of V4+ ions?",
+      "specRef": "3.2.5",
+      "image": "img/2015-specimen-7405-3/q23.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q23.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-3-q24",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "24",
+      "questionNumber": "24",
+      "page": 20,
+      "marks": 1,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [],
+      "summary": "How many isomers have the molecular formula C5H12?",
+      "specRef": "3.3.1",
+      "image": "img/2015-specimen-7405-3/q24.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q24.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-3-q25",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "25",
+      "questionNumber": "25",
+      "page": 21,
+      "marks": 1,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [],
+      "summary": "Which molecule is not produced when ethane reacts with bromine in the presence of UV light?",
+      "specRef": "3.3.2",
+      "image": "img/2015-specimen-7405-3/q25.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q25.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-3-q26",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "26",
+      "questionNumber": "26",
+      "page": 21,
+      "marks": 1,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [],
+      "summary": "How many structural isomers have the molecular formula C4H9Br?",
+      "specRef": "3.3.1",
+      "image": "img/2015-specimen-7405-3/q26.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q26.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-3-q27",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "27",
+      "questionNumber": "27",
+      "page": 21,
+      "marks": 1,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [],
+      "summary": "What is the major product of the reaction between but-1-ene and DBr?",
+      "specRef": "3.3.4",
+      "image": "img/2015-specimen-7405-3/q27.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q27.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-3-q28",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "28",
+      "questionNumber": "28",
+      "page": 21,
+      "marks": 1,
+      "topics": [
+        "3.3.3"
+      ],
+      "skills": [],
+      "summary": "Why are fluoroalkanes unreactive?",
+      "specRef": "3.3.3",
+      "image": "img/2015-specimen-7405-3/q28.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q28.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-3-q29",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "29",
+      "questionNumber": "29",
+      "page": 22,
+      "marks": 1,
+      "topics": [
+        "3.3.8"
+      ],
+      "skills": [],
+      "summary": "Which alcohol could not be produced by the reduction of an aldehyde or a ketone?",
+      "specRef": "3.3.8",
+      "image": "img/2015-specimen-7405-3/q29.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q29.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-3-q30",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "30",
+      "questionNumber": "30",
+      "page": 22,
+      "marks": 1,
+      "topics": [
+        "3.3.7"
+      ],
+      "skills": [],
+      "summary": "Which compound forms optically active compounds on reduction?",
+      "specRef": "3.3.7",
+      "image": "img/2015-specimen-7405-3/q30.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q30.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-3-q31",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "31",
+      "questionNumber": "31",
+      "page": 22,
+      "marks": 1,
+      "topics": [
+        "3.3.11"
+      ],
+      "skills": [],
+      "summary": "How many secondary amines have the molecular formula C4H11N?",
+      "specRef": "3.3.11",
+      "image": "img/2015-specimen-7405-3/q31.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q31.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-3-q32",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "32",
+      "questionNumber": "32",
+      "page": 22,
+      "marks": 1,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [],
+      "summary": "Which compound has the highest boiling point?",
+      "specRef": "3.1.3",
+      "image": "img/2015-specimen-7405-3/q32.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q32.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-3-q33",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "33",
+      "questionNumber": "33",
+      "page": 23,
+      "marks": 1,
+      "topics": [
+        "3.3.12"
+      ],
+      "skills": [],
+      "summary": "Which compound can polymerise by reaction with itself?",
+      "specRef": "3.3.12",
+      "image": "img/2015-specimen-7405-3/q33.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q33.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-3-q34",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "34",
+      "questionNumber": "34",
+      "page": 23,
+      "marks": 1,
+      "topics": [
+        "3.3.7"
+      ],
+      "skills": [],
+      "summary": "Which molecule requires the design of an optically active drug?",
+      "specRef": "3.3.7",
+      "image": "img/2015-specimen-7405-3/q34.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q34.png",
+      "figures": []
+    },
+    {
+      "id": "2015-specimen-7405-3-q35",
+      "paper": "2015-specimen-7405-3",
+      "year": 2015,
+      "series": "Specimen",
+      "unit": "7405/3",
+      "level": "A-level",
+      "question": "35",
+      "questionNumber": "35",
+      "page": 24,
+      "marks": 1,
+      "topics": [
+        "3.3.15"
+      ],
+      "skills": [],
+      "summary": "Which amine has only three peaks in its proton NMR spectrum?",
+      "specRef": "3.3.15",
+      "image": "img/2015-specimen-7405-3/q35.jpg",
+      "markscheme": "img/2015-specimen-7405-3/ms/q35.png",
+      "figures": []
     }
   ]
 }
