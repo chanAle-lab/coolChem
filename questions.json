@@ -1538,6 +1538,28 @@
       "date": "2012-05-23",
       "totalMarks": 100,
       "duration": "1 hour 45 minutes"
+    },
+    {
+      "id": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "title": "CHEM4 – Kinetics, Equilibria and Organic Chemistry",
+      "date": "2012-06-13",
+      "totalMarks": 100,
+      "duration": "1 hour 45 minutes"
+    },
+    {
+      "id": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "title": "CHEM5 – Energetics, Redox and Inorganic Chemistry",
+      "date": "2012-06-19",
+      "totalMarks": 100,
+      "duration": "1 hour 45 minutes"
     }
   ],
   "questions": [
@@ -79772,6 +79794,2452 @@
       "specRef": "3.2.3",
       "image": "img/2012-june-chem2/q9biii.jpg",
       "markscheme": "img/2012-june-chem2/ms/q9biii.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem4-q1ai",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "1(a)(i)",
+      "questionNumber": "1(a)(i)",
+      "page": 2,
+      "marks": 2,
+      "topics": [
+        "Equilibria & Kc"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the equilibrium amounts in moles of H2 and I2 when 2.06 mol HI is formed from 1.50 mol H2 and 1.20 mol I2.",
+      "specRef": "3.4.2",
+      "image": "img/2012-june-chem4/q1ai.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q1ai.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem4-q1aii",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "1(a)(ii)",
+      "questionNumber": "1(a)(ii)",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "Equilibria & Kc"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Write an expression for the equilibrium constant Kc for H2(g) + I2(g) <=> 2HI(g).",
+      "specRef": "3.4.2",
+      "image": "img/2012-june-chem4/q1aii.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q1aii.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem4-q1aiii",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "1(a)(iii)",
+      "questionNumber": "1(a)(iii)",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "Equilibria & Kc"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "State why the units cancel in the expression for Kc for this equilibrium.",
+      "specRef": "3.4.2",
+      "image": "img/2012-june-chem4/q1aiii.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q1aiii.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem4-q1aiv",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "1(a)(iv)",
+      "questionNumber": "1(a)(iv)",
+      "page": 2,
+      "marks": 2,
+      "topics": [
+        "Equilibria & Kc"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate Kc at this temperature given 0.38 mol H2, 0.19 mol I2, and 1.94 mol HI at equilibrium.",
+      "specRef": "3.4.2",
+      "image": "img/2012-june-chem4/q1aiv.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q1aiv.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem4-q1bi",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "1(b)(i)",
+      "questionNumber": "1(b)(i)",
+      "page": 3,
+      "marks": 1,
+      "topics": [
+        "Equilibria & Kc"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Select the letter A–E describing the effect of increasing temperature on H2 + I2 <=> 2HI (Delta H = +52).",
+      "specRef": "3.4.2",
+      "image": "img/2012-june-chem4/q1bi.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q1bi.png",
+      "figures": [
+        "img/2012-june-chem4/fig-q1b-table.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          184,
+          332
+        ]
+      ]
+    },
+    {
+      "id": "2012-june-chem4-q1bii",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "1(b)(ii)",
+      "questionNumber": "1(b)(ii)",
+      "page": 3,
+      "marks": 1,
+      "topics": [
+        "Equilibria & Kc"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Select the letter A–E describing the effect of increasing total pressure on 3H2 + N2 <=> 2NH3.",
+      "specRef": "3.4.2",
+      "image": "img/2012-june-chem4/q1bii.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q1bii.png",
+      "figures": [
+        "img/2012-june-chem4/fig-q1b-table.jpg"
+      ]
+    },
+    {
+      "id": "2012-june-chem4-q1biii",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "1(b)(iii)",
+      "questionNumber": "1(b)(iii)",
+      "page": 3,
+      "marks": 1,
+      "topics": [
+        "Equilibria & Kc"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Select the letter A–E describing the effect of adding a catalyst to CO + H2O <=> CO2 + H2.",
+      "specRef": "3.4.2",
+      "image": "img/2012-june-chem4/q1biii.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q1biii.png",
+      "figures": [
+        "img/2012-june-chem4/fig-q1b-table.jpg"
+      ]
+    },
+    {
+      "id": "2012-june-chem4-q1biv",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "1(b)(iv)",
+      "questionNumber": "1(b)(iv)",
+      "page": 3,
+      "marks": 1,
+      "topics": [
+        "Equilibria & Kc"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Select the letter A–E describing the effect of adding chlorine to PCl5 <=> PCl3 + Cl2 at constant temperature.",
+      "specRef": "3.4.2",
+      "image": "img/2012-june-chem4/q1biv.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q1biv.png",
+      "figures": [
+        "img/2012-june-chem4/fig-q1b-table.jpg"
+      ]
+    },
+    {
+      "id": "2012-june-chem4-q2a",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "2(a)",
+      "questionNumber": "2(a)",
+      "page": 4,
+      "marks": 3,
+      "topics": [
+        "Kinetics"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Complete the rate data table for Experiments 2, 3, and 4 using rate = k[P]^2[Q].",
+      "specRef": "3.4.1",
+      "image": "img/2012-june-chem4/q2a.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q2a.png",
+      "figures": [
+        "img/2012-june-chem4/fig-q2a-table.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          210,
+          356
+        ]
+      ]
+    },
+    {
+      "id": "2012-june-chem4-q2b",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "2(b)",
+      "questionNumber": "2(b)",
+      "page": 4,
+      "marks": 3,
+      "topics": [
+        "Kinetics"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate a value for the rate constant k from Experiment 1 and deduce its units.",
+      "specRef": "3.4.1",
+      "image": "img/2012-june-chem4/q2b.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q2b.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem4-q3a",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "3(a)",
+      "questionNumber": "3(a)",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "Acids, Bases & pH"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Define the term Bronsted-Lowry acid.",
+      "specRef": "3.4.3",
+      "image": "img/2012-june-chem4/q3a.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q3a.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem4-q3bi",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "3(b)(i)",
+      "questionNumber": "3(b)(i)",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "Acids, Bases & pH"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Identify whether H2O and CH3COO- act as Bronsted-Lowry acids (A) or bases (B) in CH3COOH + H2O <=> CH3COO- + H3O+.",
+      "specRef": "3.4.3",
+      "image": "img/2012-june-chem4/q3bi.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q3bi.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem4-q3bii",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "3(b)(ii)",
+      "questionNumber": "3(b)(ii)",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "Acids, Bases & pH"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Identify whether H2O and CH3NH3+ act as Bronsted-Lowry acids (A) or bases (B) in CH3NH2 + H2O <=> CH3NH3+ + OH-.",
+      "specRef": "3.4.3",
+      "image": "img/2012-june-chem4/q3bii.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q3bii.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem4-q3biii",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "3(b)(iii)",
+      "questionNumber": "3(b)(iii)",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "Acids, Bases & pH"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Identify whether HNO3 and H2NO3+ act as Bronsted-Lowry acids (A) or bases (B) in HNO3 + H2SO4 <=> H2NO3+ + HSO4-.",
+      "specRef": "3.4.3",
+      "image": "img/2012-june-chem4/q3biii.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q3biii.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem4-q3c",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "3(c)",
+      "questionNumber": "3(c)",
+      "page": 5,
+      "marks": 3,
+      "topics": [
+        "Acids, Bases & pH"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the total volume of solution formed when 25.0 cm3 of 0.0850 mol dm-3 HCl is diluted to pH 1.25.",
+      "specRef": "3.4.3",
+      "image": "img/2012-june-chem4/q3c.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q3c.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem4-q3di",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "3(d)(i)",
+      "questionNumber": "3(d)(i)",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "Acids, Bases & pH"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate pKa for HX given Ka = 3.01 x 10^-5 mol dm-3.",
+      "specRef": "3.4.3",
+      "image": "img/2012-june-chem4/q3di.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q3di.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem4-q3dii",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "3(d)(ii)",
+      "questionNumber": "3(d)(ii)",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "Acids, Bases & pH"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Write an expression for Ka for the weak acid HX.",
+      "specRef": "3.4.3",
+      "image": "img/2012-june-chem4/q3dii.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q3dii.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem4-q3diii",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "3(d)(iii)",
+      "questionNumber": "3(d)(iii)",
+      "page": 6,
+      "marks": 3,
+      "topics": [
+        "Acids, Bases & pH"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the pH of a 0.174 mol dm-3 solution of HX (Ka = 3.01 x 10^-5 mol dm-3).",
+      "specRef": "3.4.3",
+      "image": "img/2012-june-chem4/q3diii.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q3diii.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem4-q3e",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "3(e)",
+      "questionNumber": "3(e)",
+      "page": 7,
+      "marks": 6,
+      "topics": [
+        "Acids, Bases & pH"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the pH of the buffer formed when 10.0 cm3 of 0.125 mol dm-3 NaOH is added to 15.0 cm3 of 0.174 mol dm-3 HX.",
+      "specRef": "3.4.3",
+      "image": "img/2012-june-chem4/q3e.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q3e.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem4-q4a",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "4(a)",
+      "questionNumber": "4(a)",
+      "page": 8,
+      "marks": 5,
+      "topics": [
+        "Carboxylic Acids & Esters",
+        "Organic Synthesis & Mechanisms"
+      ],
+      "skills": [
+        "Application",
+        "Knowledge & Recall"
+      ],
+      "summary": "Outline a mechanism for the reaction of CH3CH2COCl with CH3OH and name the organic product.",
+      "specRef": "3.4.6",
+      "image": "img/2012-june-chem4/q4a.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q4a.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem4-q4bi",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "4(b)(i)",
+      "questionNumber": "4(b)(i)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "Polymers"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Name the diol used to make the given polyester.",
+      "specRef": "3.4.9",
+      "image": "img/2012-june-chem4/q4bi.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q4bi.png",
+      "figures": [
+        "img/2012-june-chem4/fig-q4b-polymer.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          430,
+          476
+        ]
+      ]
+    },
+    {
+      "id": "2012-june-chem4-q4bii",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "4(b)(ii)",
+      "questionNumber": "4(b)(ii)",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "Polymers",
+        "Carboxylic Acids & Esters"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw the displayed formula of the diacyl chloride used to make the given polyester.",
+      "specRef": "3.4.9",
+      "image": "img/2012-june-chem4/q4bii.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q4bii.png",
+      "figures": [
+        "img/2012-june-chem4/fig-q4b-polymer.jpg"
+      ]
+    },
+    {
+      "id": "2012-june-chem4-q4biii",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "4(b)(iii)",
+      "questionNumber": "4(b)(iii)",
+      "page": 9,
+      "marks": 3,
+      "topics": [
+        "Polymers",
+        "Carboxylic Acids & Esters"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Name the type of reaction and explain why aqueous NaOH makes holes in a polyester shirt.",
+      "specRef": "3.4.9",
+      "image": "img/2012-june-chem4/q4biii.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q4biii.png",
+      "figures": [
+        "img/2012-june-chem4/fig-q4b-polymer.jpg"
+      ]
+    },
+    {
+      "id": "2012-june-chem4-q4ci",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "4(c)(i)",
+      "questionNumber": "4(c)(i)",
+      "page": 9,
+      "marks": 1,
+      "topics": [
+        "Carboxylic Acids & Esters"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Write the structural formula of the missing product in the preparation of aspirin using ethanoic anhydride.",
+      "specRef": "3.4.6",
+      "image": "img/2012-june-chem4/q4ci.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q4ci.png",
+      "figures": [
+        "img/2012-june-chem4/fig-q4ci-eq.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          356,
+          455
+        ]
+      ]
+    },
+    {
+      "id": "2012-june-chem4-q4cii",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "4(c)(ii)",
+      "questionNumber": "4(c)(ii)",
+      "page": 9,
+      "marks": 1,
+      "topics": [
+        "Carboxylic Acids & Esters",
+        "Organic Synthesis & Mechanisms"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Suggest a name for the mechanism for the reaction in 4(c)(i).",
+      "specRef": "3.4.6",
+      "image": "img/2012-june-chem4/q4cii.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q4cii.png",
+      "figures": [
+        "img/2012-june-chem4/fig-q4ci-eq.jpg"
+      ]
+    },
+    {
+      "id": "2012-june-chem4-q4ciii",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "4(c)(iii)",
+      "questionNumber": "4(c)(iii)",
+      "page": 9,
+      "marks": 2,
+      "topics": [
+        "Carboxylic Acids & Esters"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Give two industrial advantages, other than cost, of using ethanoic anhydride rather than ethanoyl chloride in aspirin production.",
+      "specRef": "3.4.6",
+      "image": "img/2012-june-chem4/q4ciii.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q4ciii.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem4-q4d",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "4(d)",
+      "questionNumber": "4(d)",
+      "page": 10,
+      "marks": 1,
+      "topics": [
+        "Carboxylic Acids & Esters",
+        "Aromatic Chemistry"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw the structural formula of the single product formed when phthalic anhydride reacts with one molecule of methanol.",
+      "specRef": "3.4.6",
+      "image": "img/2012-june-chem4/q4d.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q4d.png",
+      "figures": [
+        "img/2012-june-chem4/fig-q4d-eq.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          116,
+          206
+        ]
+      ]
+    },
+    {
+      "id": "2012-june-chem4-q4ei",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "4(e)(i)",
+      "questionNumber": "4(e)(i)",
+      "page": 10,
+      "marks": 1,
+      "topics": [
+        "Carboxylic Acids & Esters"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Name the functional group ringed in the structure of phenolphthalein.",
+      "specRef": "3.4.6",
+      "image": "img/2012-june-chem4/q4ei.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q4ei.png",
+      "figures": [
+        "img/2012-june-chem4/fig-q4e-scheme.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          268,
+          476
+        ]
+      ]
+    },
+    {
+      "id": "2012-june-chem4-q4eii",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "4(e)(ii)",
+      "questionNumber": "4(e)(ii)",
+      "page": 10,
+      "marks": 1,
+      "topics": [
+        "Analytical Techniques"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Deduce the number of peaks in the 13C NMR spectrum of phenolphthalein.",
+      "specRef": "3.4.10",
+      "image": "img/2012-june-chem4/q4eii.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q4eii.png",
+      "figures": [
+        "img/2012-june-chem4/fig-q4e-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2012-june-chem4-q4eiii",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "4(e)(iii)",
+      "questionNumber": "4(e)(iii)",
+      "page": 10,
+      "marks": 1,
+      "topics": [
+        "Analytical Techniques"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Use Table 3 on the Data Sheet to suggest a delta range for the C*=O carbon peak in the 13C NMR spectrum of phenolphthalein.",
+      "specRef": "3.4.10",
+      "image": "img/2012-june-chem4/q4eiii.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q4eiii.png",
+      "figures": [
+        "img/2012-june-chem4/fig-q4e-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2012-june-chem4-q4fi",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "4(f)(i)",
+      "questionNumber": "4(f)(i)",
+      "page": 11,
+      "marks": 2,
+      "topics": [
+        "Acids, Bases & pH"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Tick the acid-alkali combinations in the table for which phenolphthalein (pH 8.3-10.0) could be used as an indicator.",
+      "specRef": "3.4.3",
+      "image": "img/2012-june-chem4/q4fi.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q4fi.png",
+      "figures": [
+        "img/2012-june-chem4/fig-q4fi-table.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          142,
+          294
+        ]
+      ]
+    },
+    {
+      "id": "2012-june-chem4-q4fii",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "4(f)(ii)",
+      "questionNumber": "4(f)(ii)",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "Acids, Bases & pH"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Give the colour change at the end-point when nitric acid is added to sodium hydroxide with phenolphthalein.",
+      "specRef": "3.4.3",
+      "image": "img/2012-june-chem4/q4fii.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q4fii.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem4-q5a",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "5(a)",
+      "questionNumber": "5(a)",
+      "page": 12,
+      "marks": 5,
+      "topics": [
+        "Carbonyl Compounds",
+        "Organic Synthesis & Mechanisms"
+      ],
+      "skills": [
+        "Knowledge & Recall",
+        "Application"
+      ],
+      "summary": "Name and outline a mechanism for Step 1 (propanal + HCN).",
+      "specRef": "3.4.5",
+      "image": "img/2012-june-chem4/q5a.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q5a.png",
+      "figures": [
+        "img/2012-june-chem4/fig-q5-scheme.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          94,
+          302
+        ]
+      ]
+    },
+    {
+      "id": "2012-june-chem4-q5b",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "5(b)",
+      "questionNumber": "5(b)",
+      "page": 12,
+      "marks": 1,
+      "topics": [
+        "Nomenclature & Isomerism"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Give the IUPAC name of the product of Step 2 (CH3CH2CH(Br)CN).",
+      "specRef": "3.4.4",
+      "image": "img/2012-june-chem4/q5b.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q5b.png",
+      "figures": [
+        "img/2012-june-chem4/fig-q5-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2012-june-chem4-q5c",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "5(c)",
+      "questionNumber": "5(c)",
+      "page": 13,
+      "marks": 3,
+      "topics": [
+        "Amines",
+        "Organic Synthesis & Mechanisms"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Give the reagent, condition, and mechanism name for Step 3 (converting -Br to -NH2).",
+      "specRef": "3.4.8",
+      "image": "img/2012-june-chem4/q5c.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q5c.png",
+      "figures": [
+        "img/2012-june-chem4/fig-q5-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2012-june-chem4-q5di",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "5(d)(i)",
+      "questionNumber": "5(d)(i)",
+      "page": 13,
+      "marks": 1,
+      "topics": [
+        "Amino Acids & Proteins"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw the structure of the species present in solid amino acid X (CH3CH2CH(NH2)COOH).",
+      "specRef": "3.4.9",
+      "image": "img/2012-june-chem4/q5di.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q5di.png",
+      "figures": [
+        "img/2012-june-chem4/fig-q5-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2012-june-chem4-q5dii",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "5(d)(ii)",
+      "questionNumber": "5(d)(ii)",
+      "page": 13,
+      "marks": 2,
+      "topics": [
+        "Amino Acids & Proteins",
+        "Bonding"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Explain why the melting point of amino acid X is higher than that of CH3CH2CH(OH)COOH.",
+      "specRef": "3.4.9",
+      "image": "img/2012-june-chem4/q5dii.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q5dii.png",
+      "figures": [
+        "img/2012-june-chem4/fig-q5-scheme.jpg"
+      ]
+    },
+    {
+      "id": "2012-june-chem4-q5ei",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "5(e)(i)",
+      "questionNumber": "5(e)(i)",
+      "page": 14,
+      "marks": 1,
+      "topics": [
+        "Nomenclature & Isomerism",
+        "Carboxylic Acids & Esters"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw a structural isomer of X (CH3CH2CH(NH2)COOH) that is an ethyl ester.",
+      "specRef": "3.4.4",
+      "image": "img/2012-june-chem4/q5ei.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q5ei.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem4-q5eii",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "5(e)(ii)",
+      "questionNumber": "5(e)(ii)",
+      "page": 14,
+      "marks": 1,
+      "topics": [
+        "Nomenclature & Isomerism"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw a structural isomer of X that is an amide and also a tertiary alcohol.",
+      "specRef": "3.4.4",
+      "image": "img/2012-june-chem4/q5eii.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q5eii.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem4-q5eiii",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "5(e)(iii)",
+      "questionNumber": "5(e)(iii)",
+      "page": 14,
+      "marks": 1,
+      "topics": [
+        "Nomenclature & Isomerism",
+        "Polymers"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw a structural isomer of X that has an unbranched carbon chain and can be polymerised to form a polyamide.",
+      "specRef": "3.4.9",
+      "image": "img/2012-june-chem4/q5eiii.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q5eiii.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem4-q5f",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "5(f)",
+      "questionNumber": "5(f)",
+      "page": 14,
+      "marks": 1,
+      "topics": [
+        "Amines"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw the structure of the tertiary amine formed when X reacts with bromomethane.",
+      "specRef": "3.4.8",
+      "image": "img/2012-june-chem4/q5f.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q5f.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem4-q6a",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "6(a)",
+      "questionNumber": "6(a)",
+      "page": 16,
+      "marks": 6,
+      "topics": [
+        "Aromatic Chemistry",
+        "Organic Synthesis & Mechanisms"
+      ],
+      "skills": [
+        "Knowledge & Recall",
+        "Application"
+      ],
+      "summary": "Write equations for AlCl3 acting as a catalyst in Friedel-Crafts acylation of benzene, outline the mechanism, and name C6H5COCH3.",
+      "specRef": "3.4.7",
+      "image": "img/2012-june-chem4/q6a.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q6a.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem4-q6b",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "6(b)",
+      "questionNumber": "6(b)",
+      "page": 17,
+      "marks": 1,
+      "topics": [
+        "Analytical Techniques"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw the structure of the fragment ion at m/z = 105 from phenylethanone (C6H5COCH3).",
+      "specRef": "3.4.10",
+      "image": "img/2012-june-chem4/q6b.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q6b.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem4-q6c",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "6(c)",
+      "questionNumber": "6(c)",
+      "page": 17,
+      "marks": 2,
+      "topics": [
+        "Aromatic Chemistry"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Suggest why methylbenzene reacts faster than benzene with ethanoyl chloride and aluminium chloride.",
+      "specRef": "3.4.7",
+      "image": "img/2012-june-chem4/q6c.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q6c.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem4-q7a",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "7(a)",
+      "questionNumber": "7(a)",
+      "page": 18,
+      "marks": 8,
+      "topics": [
+        "Organic Synthesis & Mechanisms",
+        "Carbonyl Compounds"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Describe four different test-tube reactions (reagents and observations) to identify propan-1-ol, propanal, propanoic acid, and 1-chloropropane.",
+      "specRef": "3.4.11",
+      "image": "img/2012-june-chem4/q7a.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q7a.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem4-q7b",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "7(b)",
+      "questionNumber": "7(b)",
+      "page": 19,
+      "marks": 4,
+      "topics": [
+        "Analytical Techniques",
+        "Carbonyl Compounds"
+      ],
+      "skills": [
+        "Explanation",
+        "Application"
+      ],
+      "summary": "Explain how propan-2-ol becomes contaminated with propanone, how IR detects it, and why propanone elutes first in silica-gel column chromatography.",
+      "specRef": "3.4.10",
+      "image": "img/2012-june-chem4/q7b.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q7b.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem4-q8a",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "8(a)",
+      "questionNumber": "8(a)",
+      "page": 20,
+      "marks": 2,
+      "topics": [
+        "Analytical Techniques",
+        "Aromatic Chemistry"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw structures for dinitrobenzenes F (2 peaks in 13C NMR) and G (3 peaks in 13C NMR).",
+      "specRef": "3.4.10",
+      "image": "img/2012-june-chem4/q8a.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q8a.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem4-q8b",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "8(b)",
+      "questionNumber": "8(b)",
+      "page": 21,
+      "marks": 2,
+      "topics": [
+        "Analytical Techniques"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw structures for C6H12 isomers H and J (both 1 peak in 1H NMR; H reacts with Br2(aq), J does not).",
+      "specRef": "3.4.10",
+      "image": "img/2012-june-chem4/q8b.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q8b.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem4-q8c",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "8(c)",
+      "questionNumber": "8(c)",
+      "page": 22,
+      "marks": 2,
+      "topics": [
+        "Analytical Techniques",
+        "Carbonyl Compounds"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw structures for cyclic C6H10O isomers K (ketone) and L (aldehyde), each with 4 peaks in 13C NMR.",
+      "specRef": "3.4.10",
+      "image": "img/2012-june-chem4/q8c.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q8c.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem4-q8d",
+      "paper": "2012-june-chem4",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM4",
+      "level": "A",
+      "question": "8(d)",
+      "questionNumber": "8(d)",
+      "page": 23,
+      "marks": 2,
+      "topics": [
+        "Analytical Techniques",
+        "Amines"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Draw structures for C6H15N isomers M (tertiary amine, 2 peaks in 1H NMR) and N (secondary amine, 3 peaks in 1H NMR).",
+      "specRef": "3.4.10",
+      "image": "img/2012-june-chem4/q8d.jpg",
+      "markscheme": "img/2012-june-chem4/ms/q8d.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem5-q1a",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "1(a)",
+      "questionNumber": "1(a)",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "Periodicity (Period 3)"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Suggest why white phosphorus is stored under water.",
+      "specRef": "3.5.2",
+      "image": "img/2012-june-chem5/q1a.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q1a.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem5-q1b",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "1(b)",
+      "questionNumber": "1(b)",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "Periodicity (Period 3)"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Suggest why phosphorus(V) oxide is usually represented by P4O10 rather than P2O5.",
+      "specRef": "3.5.2",
+      "image": "img/2012-june-chem5/q1b.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q1b.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem5-q1c",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "1(c)",
+      "questionNumber": "1(c)",
+      "page": 2,
+      "marks": 2,
+      "topics": [
+        "Periodicity (Period 3)",
+        "Bonding"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Explain why phosphorus(V) oxide has a higher melting point than sulfur(VI) oxide.",
+      "specRef": "3.5.2",
+      "image": "img/2012-june-chem5/q1c.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q1c.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem5-q1d",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "1(d)",
+      "questionNumber": "1(d)",
+      "page": 2,
+      "marks": 2,
+      "topics": [
+        "Periodicity (Period 3)"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Write an equation for the reaction of P4O10 with water and give the approximate pH of the final solution.",
+      "specRef": "3.5.2",
+      "image": "img/2012-june-chem5/q1d.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q1d.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem5-q1ei",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "1(e)(i)",
+      "questionNumber": "1(e)(i)",
+      "page": 3,
+      "marks": 1,
+      "topics": [
+        "Periodicity (Period 3)"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Write an equation for the reaction between phosphoric(V) acid and magnesium oxide.",
+      "specRef": "3.5.2",
+      "image": "img/2012-june-chem5/q1ei.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q1ei.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem5-q1eii",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "1(e)(ii)",
+      "questionNumber": "1(e)(ii)",
+      "page": 3,
+      "marks": 1,
+      "topics": [
+        "Periodicity (Period 3)"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Explain why an excess of magnesium oxide can be used for neutralising phosphoric(V) acid before disposal.",
+      "specRef": "3.5.2",
+      "image": "img/2012-june-chem5/q1eii.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q1eii.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem5-q1eiii",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "1(e)(iii)",
+      "questionNumber": "1(e)(iii)",
+      "page": 3,
+      "marks": 1,
+      "topics": [
+        "Periodicity (Period 3)"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Explain why using an excess of sodium hydroxide might lead to environmental problems in a lake.",
+      "specRef": "3.5.2",
+      "image": "img/2012-june-chem5/q1eiii.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q1eiii.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem5-q2a",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "2(a)",
+      "questionNumber": "2(a)",
+      "page": 4,
+      "marks": 1,
+      "topics": [
+        "Thermodynamics"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Write an equation showing the relationship between Delta G, Delta H, and Delta S.",
+      "specRef": "3.5.1",
+      "image": "img/2012-june-chem5/q2a.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q2a.png",
+      "figures": [
+        "img/2012-june-chem5/fig-q2-graph.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          160,
+          412
+        ]
+      ]
+    },
+    {
+      "id": "2012-june-chem5-q2b",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "2(b)",
+      "questionNumber": "2(b)",
+      "page": 4,
+      "marks": 3,
+      "topics": [
+        "Thermodynamics"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the gradient of the Delta G vs T graph for ammonia formation, give its units, and state the thermodynamic quantity it represents.",
+      "specRef": "3.5.1",
+      "image": "img/2012-june-chem5/q2b.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q2b.png",
+      "figures": [
+        "img/2012-june-chem5/fig-q2-graph.jpg"
+      ]
+    },
+    {
+      "id": "2012-june-chem5-q2c",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "2(c)",
+      "questionNumber": "2(c)",
+      "page": 5,
+      "marks": 2,
+      "topics": [
+        "Thermodynamics"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Explain the significance of temperatures below the x-intercept of the Delta G vs T graph.",
+      "specRef": "3.5.1",
+      "image": "img/2012-june-chem5/q2c.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q2c.png",
+      "figures": [
+        "img/2012-june-chem5/fig-q2-graph.jpg"
+      ]
+    },
+    {
+      "id": "2012-june-chem5-q2d",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "2(d)",
+      "questionNumber": "2(d)",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "Thermodynamics"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Suggest what happens to ammonia at 240 K that causes the slope of the Delta G vs T line to change.",
+      "specRef": "3.5.1",
+      "image": "img/2012-june-chem5/q2d.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q2d.png",
+      "figures": [
+        "img/2012-june-chem5/fig-q2-graph.jpg"
+      ]
+    },
+    {
+      "id": "2012-june-chem5-q3a",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "3(a)",
+      "questionNumber": "3(a)",
+      "page": 6,
+      "marks": 2,
+      "topics": [
+        "Thermodynamics"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Explain the meaning of the term electron affinity.",
+      "specRef": "3.5.1",
+      "image": "img/2012-june-chem5/q3a.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q3a.png",
+      "figures": [
+        "img/2012-june-chem5/fig-q3-table.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          114,
+          234
+        ]
+      ]
+    },
+    {
+      "id": "2012-june-chem5-q3b",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "3(b)",
+      "questionNumber": "3(b)",
+      "page": 6,
+      "marks": 2,
+      "topics": [
+        "Bonding",
+        "Periodicity"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Explain why the electronegativity of fluorine is greater than that of chlorine.",
+      "specRef": "3.5.1",
+      "image": "img/2012-june-chem5/q3b.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q3b.png",
+      "figures": [
+        "img/2012-june-chem5/fig-q3-table.jpg"
+      ]
+    },
+    {
+      "id": "2012-june-chem5-q3c",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "3(c)",
+      "questionNumber": "3(c)",
+      "page": 6,
+      "marks": 2,
+      "topics": [
+        "Thermodynamics"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Explain why the hydration enthalpy of F- is more negative than that of Cl-.",
+      "specRef": "3.5.1",
+      "image": "img/2012-june-chem5/q3c.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q3c.png",
+      "figures": [
+        "img/2012-june-chem5/fig-q3-table.jpg"
+      ]
+    },
+    {
+      "id": "2012-june-chem5-q3di",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "3(d)(i)",
+      "questionNumber": "3(d)(i)",
+      "page": 7,
+      "marks": 3,
+      "topics": [
+        "Thermodynamics"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the lattice enthalpy of dissociation of silver fluoride from hydration and solution enthalpies.",
+      "specRef": "3.5.1",
+      "image": "img/2012-june-chem5/q3di.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q3di.png",
+      "figures": [
+        "img/2012-june-chem5/fig-q3-table.jpg"
+      ]
+    },
+    {
+      "id": "2012-june-chem5-q3dii",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "3(d)(ii)",
+      "questionNumber": "3(d)(ii)",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "Thermodynamics"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Suggest why the entropy change for dissolving silver fluoride in water is positive.",
+      "specRef": "3.5.1",
+      "image": "img/2012-june-chem5/q3dii.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q3dii.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem5-q3diii",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "3(d)(iii)",
+      "questionNumber": "3(d)(iii)",
+      "page": 7,
+      "marks": 2,
+      "topics": [
+        "Thermodynamics"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Explain why dissolving silver fluoride in water is always a spontaneous process.",
+      "specRef": "3.5.1",
+      "image": "img/2012-june-chem5/q3diii.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q3diii.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem5-q4a",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "4(a)",
+      "questionNumber": "4(a)",
+      "page": 8,
+      "marks": 2,
+      "topics": [
+        "Thermodynamics"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the enthalpy change for NO(g) + 1/2 O2(g) -> NO2(g).",
+      "specRef": "3.5.1",
+      "image": "img/2012-june-chem5/q4a.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q4a.png",
+      "figures": [
+        "img/2012-june-chem5/fig-q4-table.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          130,
+          232
+        ]
+      ]
+    },
+    {
+      "id": "2012-june-chem5-q4b",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "4(b)",
+      "questionNumber": "4(b)",
+      "page": 8,
+      "marks": 2,
+      "topics": [
+        "Thermodynamics"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the entropy change for NO(g) + 1/2 O2(g) -> NO2(g).",
+      "specRef": "3.5.1",
+      "image": "img/2012-june-chem5/q4b.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q4b.png",
+      "figures": [
+        "img/2012-june-chem5/fig-q4-table.jpg"
+      ]
+    },
+    {
+      "id": "2012-june-chem5-q4c",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "4(c)",
+      "questionNumber": "4(c)",
+      "page": 9,
+      "marks": 2,
+      "topics": [
+        "Thermodynamics"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the temperature below which NO(g) + 1/2 O2(g) -> NO2(g) is spontaneous.",
+      "specRef": "3.5.1",
+      "image": "img/2012-june-chem5/q4c.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q4c.png",
+      "figures": [
+        "img/2012-june-chem5/fig-q4-table.jpg"
+      ]
+    },
+    {
+      "id": "2012-june-chem5-q4d",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "4(d)",
+      "questionNumber": "4(d)",
+      "page": 9,
+      "marks": 1,
+      "topics": [
+        "Thermodynamics"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Suggest why NO2 is not formed by this reaction in an internal combustion engine.",
+      "specRef": "3.5.1",
+      "image": "img/2012-june-chem5/q4d.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q4d.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem5-q4e",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "4(e)",
+      "questionNumber": "4(e)",
+      "page": 9,
+      "marks": 1,
+      "topics": [
+        "Thermodynamics"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Write an equation to show how nitrogen monoxide is formed in an internal combustion engine.",
+      "specRef": "3.5.1",
+      "image": "img/2012-june-chem5/q4e.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q4e.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem5-q4f",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "4(f)",
+      "questionNumber": "4(f)",
+      "page": 9,
+      "marks": 2,
+      "topics": [
+        "Thermodynamics"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Explain why Delta G for N2 + O2 -> 2NO stays approximately constant at different temperatures.",
+      "specRef": "3.5.1",
+      "image": "img/2012-june-chem5/q4f.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q4f.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem5-q5a",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "5(a)",
+      "questionNumber": "5(a)",
+      "page": 10,
+      "marks": 1,
+      "topics": [
+        "Redox & Electrode Potentials"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State the meaning of the term oxidising agent in terms of electrons.",
+      "specRef": "3.5.3",
+      "image": "img/2012-june-chem5/q5a.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q5a.png",
+      "figures": [
+        "img/2012-june-chem5/fig-q5-table.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          104,
+          236
+        ]
+      ]
+    },
+    {
+      "id": "2012-june-chem5-q5b",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "5(b)",
+      "questionNumber": "5(b)",
+      "page": 10,
+      "marks": 2,
+      "topics": [
+        "Redox & Electrode Potentials"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Deduce the weakest oxidising agent in the table and explain using E° values.",
+      "specRef": "3.5.3",
+      "image": "img/2012-june-chem5/q5b.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q5b.png",
+      "figures": [
+        "img/2012-june-chem5/fig-q5-table.jpg"
+      ]
+    },
+    {
+      "id": "2012-june-chem5-q5ci",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "5(c)(i)",
+      "questionNumber": "5(c)(i)",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "Redox & Electrode Potentials"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the e.m.f. of the non-rechargeable Zn/MnO2 cell.",
+      "specRef": "3.5.3",
+      "image": "img/2012-june-chem5/q5ci.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q5ci.png",
+      "figures": [
+        "img/2012-june-chem5/fig-q5-table.jpg",
+        "img/2012-june-chem5/fig-q5c-cell.jpg"
+      ]
+    },
+    {
+      "id": "2012-june-chem5-q5cii",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "5(c)(ii)",
+      "questionNumber": "5(c)(ii)",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "Redox & Electrode Potentials"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Write an equation for the overall reaction when the Zn/MnO2 cell discharges.",
+      "specRef": "3.5.3",
+      "image": "img/2012-june-chem5/q5cii.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q5cii.png",
+      "figures": [
+        "img/2012-june-chem5/fig-q5-table.jpg",
+        "img/2012-june-chem5/fig-q5c-cell.jpg"
+      ]
+    },
+    {
+      "id": "2012-june-chem5-q5ciii",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "5(c)(iii)",
+      "questionNumber": "5(c)(iii)",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "Redox & Electrode Potentials"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Deduce one essential property of the non-reactive porous separator.",
+      "specRef": "3.5.3",
+      "image": "img/2012-june-chem5/q5ciii.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q5ciii.png",
+      "figures": [
+        "img/2012-june-chem5/fig-q5c-cell.jpg"
+      ]
+    },
+    {
+      "id": "2012-june-chem5-q5civ",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "5(c)(iv)",
+      "questionNumber": "5(c)(iv)",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "Redox & Electrode Potentials"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Suggest the function of the carbon rod in the cell.",
+      "specRef": "3.5.3",
+      "image": "img/2012-june-chem5/q5civ.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q5civ.png",
+      "figures": [
+        "img/2012-june-chem5/fig-q5c-cell.jpg"
+      ]
+    },
+    {
+      "id": "2012-june-chem5-q5cv",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "5(c)(v)",
+      "questionNumber": "5(c)(v)",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "Redox & Electrode Potentials"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Suggest why the cell often leaks after being used for a long time.",
+      "specRef": "3.5.3",
+      "image": "img/2012-june-chem5/q5cv.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q5cv.png",
+      "figures": [
+        "img/2012-june-chem5/fig-q5c-cell.jpg"
+      ]
+    },
+    {
+      "id": "2012-june-chem5-q5di",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "5(d)(i)",
+      "questionNumber": "5(d)(i)",
+      "page": 12,
+      "marks": 3,
+      "topics": [
+        "Redox & Electrode Potentials"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Deduce the oxidation state of nickel after recharging and write an equation for recharging a nickel-cadmium cell.",
+      "specRef": "3.5.3",
+      "image": "img/2012-june-chem5/q5di.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q5di.png",
+      "figures": [
+        "img/2012-june-chem5/fig-q5-table.jpg"
+      ]
+    },
+    {
+      "id": "2012-june-chem5-q5dii",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "5(d)(ii)",
+      "questionNumber": "5(d)(ii)",
+      "page": 12,
+      "marks": 1,
+      "topics": [
+        "Redox & Electrode Potentials"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "State one environmental advantage of a rechargeable cell compared with a non-rechargeable cell.",
+      "specRef": "3.5.3",
+      "image": "img/2012-june-chem5/q5dii.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q5dii.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem5-q5ei",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "5(e)(i)",
+      "questionNumber": "5(e)(i)",
+      "page": 12,
+      "marks": 1,
+      "topics": [
+        "Redox & Electrode Potentials"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Deduce the equation for the overall reaction in an ethanol-oxygen fuel cell.",
+      "specRef": "3.5.3",
+      "image": "img/2012-june-chem5/q5ei.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q5ei.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem5-q5eii",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "5(e)(ii)",
+      "questionNumber": "5(e)(ii)",
+      "page": 12,
+      "marks": 1,
+      "topics": [
+        "Redox & Electrode Potentials"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Deduce a half-equation for the reaction at the ethanol electrode.",
+      "specRef": "3.5.3",
+      "image": "img/2012-june-chem5/q5eii.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q5eii.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem5-q5eiii",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "5(e)(iii)",
+      "questionNumber": "5(e)(iii)",
+      "page": 12,
+      "marks": 1,
+      "topics": [
+        "Redox & Electrode Potentials"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the electrode potential of the ethanol electrode given e.m.f. = 1.00 V.",
+      "specRef": "3.5.3",
+      "image": "img/2012-june-chem5/q5eiii.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q5eiii.png",
+      "figures": [
+        "img/2012-june-chem5/fig-q5-table.jpg"
+      ]
+    },
+    {
+      "id": "2012-june-chem5-q5eiv",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "5(e)(iv)",
+      "questionNumber": "5(e)(iv)",
+      "page": 13,
+      "marks": 2,
+      "topics": [
+        "Redox & Electrode Potentials"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Suggest why ethanol can be considered to be a carbon-neutral fuel.",
+      "specRef": "3.5.3",
+      "image": "img/2012-june-chem5/q5eiv.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q5eiv.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem5-q6a",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "6(a)",
+      "questionNumber": "6(a)",
+      "page": 14,
+      "marks": 1,
+      "topics": [
+        "Transition Metals"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Name the type of bond represented by the arrows in polymeric FeC2O4.2H2O.",
+      "specRef": "3.5.4",
+      "image": "img/2012-june-chem5/q6a.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q6a.png",
+      "figures": [
+        "img/2012-june-chem5/fig-q6-structure.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          118,
+          194
+        ]
+      ]
+    },
+    {
+      "id": "2012-june-chem5-q6b",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "6(b)",
+      "questionNumber": "6(b)",
+      "page": 14,
+      "marks": 2,
+      "topics": [
+        "Transition Metals"
+      ],
+      "skills": [
+        "Explanation"
+      ],
+      "summary": "Explain in terms of electrons how the two water molecules form bonds to iron.",
+      "specRef": "3.5.4",
+      "image": "img/2012-june-chem5/q6b.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q6b.png",
+      "figures": [
+        "img/2012-june-chem5/fig-q6-structure.jpg"
+      ]
+    },
+    {
+      "id": "2012-june-chem5-q6c",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "6(c)",
+      "questionNumber": "6(c)",
+      "page": 14,
+      "marks": 1,
+      "topics": [
+        "Transition Metals"
+      ],
+      "skills": [
+        "Application"
+      ],
+      "summary": "Predict the bond angle between the two bonds to iron formed by the two water molecules.",
+      "specRef": "3.5.4",
+      "image": "img/2012-june-chem5/q6c.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q6c.png",
+      "figures": [
+        "img/2012-june-chem5/fig-q6-structure.jpg"
+      ]
+    },
+    {
+      "id": "2012-june-chem5-q6di",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "6(d)(i)",
+      "questionNumber": "6(d)(i)",
+      "page": 15,
+      "marks": 1,
+      "topics": [
+        "Transition Metals",
+        "Redox & Electrode Potentials"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Use the half-equations to calculate the reacting mole ratio of MnO4- to FeC2O4.",
+      "specRef": "3.5.4",
+      "image": "img/2012-june-chem5/q6di.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q6di.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem5-q6dii",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "6(d)(ii)",
+      "questionNumber": "6(d)(ii)",
+      "page": 15,
+      "marks": 5,
+      "topics": [
+        "Transition Metals",
+        "Amount of Substance"
+      ],
+      "skills": [
+        "Calculation"
+      ],
+      "summary": "Calculate the percentage by mass of FeC2O4.2H2O in the 1.381 g impure sample.",
+      "specRef": "3.5.4",
+      "image": "img/2012-june-chem5/q6dii.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q6dii.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem5-q7a",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "7(a)",
+      "questionNumber": "7(a)",
+      "page": 16,
+      "marks": 5,
+      "topics": [
+        "Transition Metals",
+        "Redox & Electrode Potentials"
+      ],
+      "skills": [
+        "Knowledge & Recall",
+        "Application"
+      ],
+      "summary": "Describe the colour changes, coloured ions, and equations when excess zinc is added to acidified K2Cr2O7 in the absence of air.",
+      "specRef": "3.5.4",
+      "image": "img/2012-june-chem5/q7a.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q7a.png",
+      "figures": [
+        "img/2012-june-chem5/fig-q7-table.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          150,
+          268
+        ]
+      ]
+    },
+    {
+      "id": "2012-june-chem5-q7b",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "7(b)",
+      "questionNumber": "7(b)",
+      "page": 17,
+      "marks": 4,
+      "topics": [
+        "Reactions of Ions in Aqueous Solution"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Describe observations and write two equations when dilute aqueous NaOH is added dropwise until in excess to [Cr(H2O)6]3+.",
+      "specRef": "3.5.5",
+      "image": "img/2012-june-chem5/q7b.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q7b.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem5-q7c",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "7(c)",
+      "questionNumber": "7(c)",
+      "page": 17,
+      "marks": 3,
+      "topics": [
+        "Transition Metals"
+      ],
+      "skills": [
+        "Knowledge & Recall",
+        "Explanation"
+      ],
+      "summary": "Name the reaction converting [Cr(H2O)6]3+ to [Cr(H2O)5Cl]2+ and explain in terms of electrons why the colours differ.",
+      "specRef": "3.5.4",
+      "image": "img/2012-june-chem5/q7c.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q7c.png",
+      "figures": []
+    },
+    {
+      "id": "2012-june-chem5-q7d",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "7(d)",
+      "questionNumber": "7(d)",
+      "page": 18,
+      "marks": 7,
+      "topics": [
+        "Reactions of Ions in Aqueous Solution",
+        "Redox & Electrode Potentials"
+      ],
+      "skills": [
+        "Explanation",
+        "Application"
+      ],
+      "summary": "Explain why [Cr(H2O)6]2+ oxidises to Cr3+ in air, identify products with Na2CO3 for Cr2+ and Cr3+, and explain why Cr3+ behaves differently.",
+      "specRef": "3.5.5",
+      "image": "img/2012-june-chem5/q7d.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q7d.png",
+      "figures": [
+        "img/2012-june-chem5/fig-q7-table.jpg"
+      ]
+    },
+    {
+      "id": "2012-june-chem5-q8a",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "8(a)",
+      "questionNumber": "8(a)",
+      "page": 19,
+      "marks": 12,
+      "topics": [
+        "Reactions of Ions in Aqueous Solution",
+        "Transition Metals"
+      ],
+      "skills": [
+        "Knowledge & Recall"
+      ],
+      "summary": "Identify reagents, species W, X, Y, Z, and write equations for reactions 1 to 4 starting from [Co(H2O)6]2+.",
+      "specRef": "3.5.5",
+      "image": "img/2012-june-chem5/q8a.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q8a.png",
+      "figures": [
+        "img/2012-june-chem5/fig-q8a-scheme.jpg"
+      ],
+      "crop_exclude_y": [
+        [
+          118,
+          228
+        ]
+      ]
+    },
+    {
+      "id": "2012-june-chem5-q8b",
+      "paper": "2012-june-chem5",
+      "year": 2012,
+      "series": "June",
+      "unit": "CHEM5",
+      "level": "A",
+      "question": "8(b)",
+      "questionNumber": "8(b)",
+      "page": 20,
+      "marks": 4,
+      "topics": [
+        "Transition Metals"
+      ],
+      "skills": [
+        "Application",
+        "Explanation"
+      ],
+      "summary": "Write the overall equation for SO3^2- oxidation by O2, explain why Co2+ speeds it up, and write two equations for the catalysed mechanism.",
+      "specRef": "3.5.4",
+      "image": "img/2012-june-chem5/q8b.jpg",
+      "markscheme": "img/2012-june-chem5/ms/q8b.png",
       "figures": []
     }
   ]
