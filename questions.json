@@ -2010,6 +2010,30 @@
       "totalMarks": 90,
       "pdf": null,
       "ms": null
+    },
+    {
+      "id": "2021-june-7404-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "date": "2021-06-01",
+      "title": "7404/1 — AS Paper 1: Inorganic and Physical Chemistry (June 2021)",
+      "totalMarks": 80,
+      "pdf": null,
+      "ms": null
+    },
+    {
+      "id": "2021-june-7404-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "date": "2021-06-01",
+      "title": "7404/2 — AS Paper 2: Organic and Physical Chemistry (June 2021)",
+      "totalMarks": 80,
+      "pdf": null,
+      "ms": null
     }
   ],
   "questions": [
@@ -123228,6 +123252,1777 @@
       "specRef": "RP",
       "image": "img/2020-june-7405-3/q36.jpg",
       "markscheme": "img/2020-june-7405-3/ms/q36.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-1-q01.1",
+      "paper": "2021-june-7404-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "01.1",
+      "questionNumber": "01.1",
+      "page": 2,
+      "marks": 2,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [],
+      "summary": "State two features of Rutherford's model of the atom shown in Figure 1.",
+      "specRef": "3.1.1",
+      "image": "img/2021-june-7404-1/q01-1.jpg",
+      "markscheme": "img/2021-june-7404-1/ms/q01-1.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-1-q01.2",
+      "paper": "2021-june-7404-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "01.2",
+      "questionNumber": "01.2",
+      "page": 3,
+      "marks": 4,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [],
+      "summary": "Calculate the relative atomic mass (Ar) of the sample of tin to 1 decimal place from the TOF mass spectrum data in Table 1.",
+      "specRef": "3.1.1",
+      "image": "img/2021-june-7404-1/q01-2.jpg",
+      "markscheme": "img/2021-june-7404-1/ms/q01-2.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-1-q02.1",
+      "paper": "2021-june-7404-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "02.1",
+      "questionNumber": "02.1",
+      "page": 4,
+      "marks": 2,
+      "topics": [
+        "3.2.2"
+      ],
+      "skills": [],
+      "summary": "State one observation when magnesium reacts with steam and give an equation, including state symbols.",
+      "specRef": "3.2.2",
+      "image": "img/2021-june-7404-1/q02-1.jpg",
+      "markscheme": "img/2021-june-7404-1/ms/q02-1.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-1-q02.2",
+      "paper": "2021-june-7404-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "02.2",
+      "questionNumber": "02.2",
+      "page": 4,
+      "marks": 2,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [],
+      "summary": "Describe the bonding in magnesium.",
+      "specRef": "3.1.3",
+      "image": "img/2021-june-7404-1/q02-2.jpg",
+      "markscheme": "img/2021-june-7404-1/ms/q02-2.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-1-q02.3",
+      "paper": "2021-june-7404-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "02.3",
+      "questionNumber": "02.3",
+      "page": 4,
+      "marks": 3,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [],
+      "summary": "Explain why magnesium has a higher melting point than sodium.",
+      "specRef": "3.1.3",
+      "image": "img/2021-june-7404-1/q02-3.jpg",
+      "markscheme": "img/2021-june-7404-1/ms/q02-3.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-1-q02.4",
+      "paper": "2021-june-7404-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "02.4",
+      "questionNumber": "02.4",
+      "page": 4,
+      "marks": 1,
+      "topics": [
+        "3.2.2"
+      ],
+      "skills": [],
+      "summary": "State a medical use for magnesium hydroxide.",
+      "specRef": "3.2.2",
+      "image": "img/2021-june-7404-1/q02-4.jpg",
+      "markscheme": "img/2021-june-7404-1/ms/q02-4.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-1-q03.1",
+      "paper": "2021-june-7404-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "03.1",
+      "questionNumber": "03.1",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "3.1.7"
+      ],
+      "skills": [],
+      "summary": "State, in terms of electrons, the meaning of the term oxidising agent.",
+      "specRef": "3.1.7",
+      "image": "img/2021-june-7404-1/q03-1.jpg",
+      "markscheme": "img/2021-june-7404-1/ms/q03-1.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-1-q03.2",
+      "paper": "2021-june-7404-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "03.2",
+      "questionNumber": "03.2",
+      "page": 5,
+      "marks": 3,
+      "topics": [
+        "3.1.7"
+      ],
+      "skills": [],
+      "summary": "Write half-equations and an overall equation for Cr2O7^2- oxidising SO3^2- in acidic conditions to Cr3+ and SO4^2-.",
+      "specRef": "3.1.7",
+      "image": "img/2021-june-7404-1/q03-2.jpg",
+      "markscheme": "img/2021-june-7404-1/ms/q03-2.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-1-q04.1",
+      "paper": "2021-june-7404-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "04.1",
+      "questionNumber": "04.1",
+      "page": 6,
+      "marks": 2,
+      "topics": [
+        "3.2.2"
+      ],
+      "skills": [],
+      "summary": "Identify solutions A and B from the test-tube reactions in Table 2.",
+      "specRef": "3.2.2",
+      "image": "img/2021-june-7404-1/q04-1.jpg",
+      "markscheme": "img/2021-june-7404-1/ms/q04-1.png",
+      "figures": [
+        "img/2021-june-7404-1/fig-q4-table2.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7404-1-q04.2",
+      "paper": "2021-june-7404-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "04.2",
+      "questionNumber": "04.2",
+      "page": 6,
+      "marks": 2,
+      "topics": [
+        "3.2.2"
+      ],
+      "skills": [],
+      "summary": "Give ionic equations for the reactions observed in solution A and solution B.",
+      "specRef": "3.2.2",
+      "image": "img/2021-june-7404-1/q04-2.jpg",
+      "markscheme": "img/2021-june-7404-1/ms/q04-2.png",
+      "figures": [
+        "img/2021-june-7404-1/fig-q4-table2.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7404-1-q04.3",
+      "paper": "2021-june-7404-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "04.3",
+      "questionNumber": "04.3",
+      "page": 7,
+      "marks": 3,
+      "topics": [
+        "3.2.3"
+      ],
+      "skills": [],
+      "summary": "Describe a further test or tests to show whether solution C contains chloride ions or bromide ions.",
+      "specRef": "3.2.3",
+      "image": "img/2021-june-7404-1/q04-3.jpg",
+      "markscheme": "img/2021-june-7404-1/ms/q04-3.png",
+      "figures": [
+        "img/2021-june-7404-1/fig-q4-table2.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7404-1-q05.1",
+      "paper": "2021-june-7404-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "05.1",
+      "questionNumber": "05.1",
+      "page": 8,
+      "marks": 3,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [],
+      "summary": "Explain how the intermolecular forces arise between molecules of chlorine.",
+      "specRef": "3.1.3",
+      "image": "img/2021-june-7404-1/q05-1.jpg",
+      "markscheme": "img/2021-june-7404-1/ms/q05-1.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-1-q05.2",
+      "paper": "2021-june-7404-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "05.2",
+      "questionNumber": "05.2",
+      "page": 8,
+      "marks": 2,
+      "topics": [
+        "3.2.3"
+      ],
+      "skills": [],
+      "summary": "Explain why bromine has a higher boiling point than chlorine.",
+      "specRef": "3.2.3",
+      "image": "img/2021-june-7404-1/q05-2.jpg",
+      "markscheme": "img/2021-june-7404-1/ms/q05-2.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-1-q05.3",
+      "paper": "2021-june-7404-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "05.3",
+      "questionNumber": "05.3",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "3.2.3"
+      ],
+      "skills": [],
+      "summary": "Give an equation for the reaction of chlorine with cold, dilute aqueous sodium hydroxide.",
+      "specRef": "3.2.3",
+      "image": "img/2021-june-7404-1/q05-3.jpg",
+      "markscheme": "img/2021-june-7404-1/ms/q05-3.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-1-q06",
+      "paper": "2021-june-7404-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "06",
+      "questionNumber": "06",
+      "page": 9,
+      "marks": 5,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [],
+      "summary": "Show that CaSO4 is the limiting reagent when 2.50 g of CaS reacts with 9.85 g of CaSO4 and calculate the total volume of SO2 formed.",
+      "specRef": "3.1.2",
+      "image": "img/2021-june-7404-1/q06.jpg",
+      "markscheme": "img/2021-june-7404-1/ms/q06.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-1-q07.1",
+      "paper": "2021-june-7404-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "07.1",
+      "questionNumber": "07.1",
+      "page": 10,
+      "marks": 2,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [],
+      "summary": "State the meaning of the term standard enthalpy of combustion.",
+      "specRef": "3.1.4",
+      "image": "img/2021-june-7404-1/q07-1.jpg",
+      "markscheme": "img/2021-june-7404-1/ms/q07-1.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-1-q07.2",
+      "paper": "2021-june-7404-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "07.2",
+      "questionNumber": "07.2",
+      "page": 10,
+      "marks": 3,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [],
+      "summary": "Calculate the enthalpy of combustion of propan-1-ol from the student's calorimetry experiment.",
+      "specRef": "3.1.4",
+      "image": "img/2021-june-7404-1/q07-2.jpg",
+      "markscheme": "img/2021-june-7404-1/ms/q07-2.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-1-q07.3",
+      "paper": "2021-june-7404-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "07.3",
+      "questionNumber": "07.3",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [],
+      "summary": "Give one possible reason, other than heat loss, why the experimental enthalpy of combustion is less exothermic than the calculated value.",
+      "specRef": "3.1.4",
+      "image": "img/2021-june-7404-1/q07-3.jpg",
+      "markscheme": "img/2021-june-7404-1/ms/q07-3.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-1-q08.1",
+      "paper": "2021-june-7404-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "08.1",
+      "questionNumber": "08.1",
+      "page": 12,
+      "marks": 6,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [],
+      "summary": "Calculate the percentage by mass of ethanoic acid in the 5.60 g contaminated sample using the titration data in Table 3.",
+      "specRef": "3.1.2",
+      "image": "img/2021-june-7404-1/q08-1.jpg",
+      "markscheme": "img/2021-june-7404-1/ms/q08-1.png",
+      "figures": [
+        "img/2021-june-7404-1/fig-q8-table3.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7404-1-q08.2",
+      "paper": "2021-june-7404-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "08.2",
+      "questionNumber": "08.2",
+      "page": 13,
+      "marks": 2,
+      "topics": [
+        "RP"
+      ],
+      "skills": [],
+      "summary": "State and explain the effect of rinsing the burette with deionised water before filling with NaOH on the calculated percentage by mass.",
+      "specRef": "RP",
+      "image": "img/2021-june-7404-1/q08-2.jpg",
+      "markscheme": "img/2021-june-7404-1/ms/q08-2.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-1-q09",
+      "paper": "2021-june-7404-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "09",
+      "questionNumber": "09",
+      "page": 14,
+      "marks": 6,
+      "topics": [
+        "3.1.6"
+      ],
+      "skills": [],
+      "summary": "Explain the industrial conditions of temperature and pressure used for the reversible reaction CH4(g) + H2O(g) <-> CO(g) + 3 H2(g).",
+      "specRef": "3.1.6",
+      "image": "img/2021-june-7404-1/q09.jpg",
+      "markscheme": "img/2021-june-7404-1/ms/q09.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-1-q10.1",
+      "paper": "2021-june-7404-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "10.1",
+      "questionNumber": "10.1",
+      "page": 16,
+      "marks": 1,
+      "topics": [
+        "3.1.6"
+      ],
+      "skills": [],
+      "summary": "Give an expression for the equilibrium constant (Kc) for 2 SO2(g) + O2(g) <-> 2 SO3(g).",
+      "specRef": "3.1.6",
+      "image": "img/2021-june-7404-1/q10-1.jpg",
+      "markscheme": "img/2021-june-7404-1/ms/q10-1.png",
+      "figures": [
+        "img/2021-june-7404-1/fig-q10-eq.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7404-1-q10.2",
+      "paper": "2021-june-7404-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "10.2",
+      "questionNumber": "10.2",
+      "page": 16,
+      "marks": 3,
+      "topics": [
+        "3.1.6"
+      ],
+      "skills": [],
+      "summary": "Calculate Kc and deduce its units for the SO2 / O2 / SO3 equilibrium.",
+      "specRef": "3.1.6",
+      "image": "img/2021-june-7404-1/q10-2.jpg",
+      "markscheme": "img/2021-june-7404-1/ms/q10-2.png",
+      "figures": [
+        "img/2021-june-7404-1/fig-q10-eq.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7404-1-q10.3",
+      "paper": "2021-june-7404-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "10.3",
+      "questionNumber": "10.3",
+      "page": 17,
+      "marks": 5,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [],
+      "summary": "Calculate the temperature, in K, of the equilibrium mixture in the 3500 cm3 vessel at 255 kPa.",
+      "specRef": "3.1.2",
+      "image": "img/2021-june-7404-1/q10-3.jpg",
+      "markscheme": "img/2021-june-7404-1/ms/q10-3.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-1-q11",
+      "paper": "2021-june-7404-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "11",
+      "questionNumber": "11",
+      "page": 18,
+      "marks": 1,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [],
+      "summary": "Which species has the same electron configuration as an atom of argon?",
+      "specRef": "3.1.1",
+      "image": "img/2021-june-7404-1/q11.jpg",
+      "markscheme": "img/2021-june-7404-1/ms/q11.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-1-q12",
+      "paper": "2021-june-7404-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "12",
+      "questionNumber": "12",
+      "page": 18,
+      "marks": 1,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [],
+      "summary": "Which molecule has a permanent dipole?",
+      "specRef": "3.1.3",
+      "image": "img/2021-june-7404-1/q12.jpg",
+      "markscheme": "img/2021-june-7404-1/ms/q12.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-1-q13",
+      "paper": "2021-june-7404-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "13",
+      "questionNumber": "13",
+      "page": 19,
+      "marks": 1,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [],
+      "summary": "Which molecule is not able to form a co-ordinate bond with another species?",
+      "specRef": "3.1.3",
+      "image": "img/2021-june-7404-1/q13.jpg",
+      "markscheme": "img/2021-june-7404-1/ms/q13.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-1-q14",
+      "paper": "2021-june-7404-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "14",
+      "questionNumber": "14",
+      "page": 19,
+      "marks": 1,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [],
+      "summary": "Which species has a square planar shape?",
+      "specRef": "3.1.3",
+      "image": "img/2021-june-7404-1/q14.jpg",
+      "markscheme": "img/2021-june-7404-1/ms/q14.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-1-q15",
+      "paper": "2021-june-7404-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "15",
+      "questionNumber": "15",
+      "page": 19,
+      "marks": 1,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [],
+      "summary": "Which substance does not form hydrogen bonds between its molecules?",
+      "specRef": "3.1.3",
+      "image": "img/2021-june-7404-1/q15.jpg",
+      "markscheme": "img/2021-june-7404-1/ms/q15.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-1-q16",
+      "paper": "2021-june-7404-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "16",
+      "questionNumber": "16",
+      "page": 20,
+      "marks": 1,
+      "topics": [
+        "3.1.7"
+      ],
+      "skills": [],
+      "summary": "Which compound contains a chlorine atom with an oxidation state of +4?",
+      "specRef": "3.1.7",
+      "image": "img/2021-june-7404-1/q16.jpg",
+      "markscheme": "img/2021-june-7404-1/ms/q16.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-1-q17",
+      "paper": "2021-june-7404-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "17",
+      "questionNumber": "17",
+      "page": 20,
+      "marks": 1,
+      "topics": [
+        "3.2.1"
+      ],
+      "skills": [],
+      "summary": "Which element is classified as a d block element?",
+      "specRef": "3.2.1",
+      "image": "img/2021-june-7404-1/q17.jpg",
+      "markscheme": "img/2021-june-7404-1/ms/q17.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-1-q18",
+      "paper": "2021-june-7404-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "18",
+      "questionNumber": "18",
+      "page": 20,
+      "marks": 1,
+      "topics": [
+        "3.2.2"
+      ],
+      "skills": [],
+      "summary": "Which property decreases down Group 2?",
+      "specRef": "3.2.2",
+      "image": "img/2021-june-7404-1/q18.jpg",
+      "markscheme": "img/2021-june-7404-1/ms/q18.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-1-q19",
+      "paper": "2021-june-7404-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "19",
+      "questionNumber": "19",
+      "page": 21,
+      "marks": 1,
+      "topics": [
+        "3.2.3"
+      ],
+      "skills": [],
+      "summary": "Which pair of solutions, when mixed, reacts to form a dark brown solution?",
+      "specRef": "3.2.3",
+      "image": "img/2021-june-7404-1/q19.jpg",
+      "markscheme": "img/2021-june-7404-1/ms/q19.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-1-q20",
+      "paper": "2021-june-7404-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "20",
+      "questionNumber": "20",
+      "page": 21,
+      "marks": 1,
+      "topics": [
+        "3.2.3"
+      ],
+      "skills": [],
+      "summary": "Which solid sodium halide does not reduce concentrated sulfuric acid?",
+      "specRef": "3.2.3",
+      "image": "img/2021-june-7404-1/q20.jpg",
+      "markscheme": "img/2021-june-7404-1/ms/q20.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-1-q21",
+      "paper": "2021-june-7404-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "21",
+      "questionNumber": "21",
+      "page": 22,
+      "marks": 1,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [],
+      "summary": "Which atom has one more proton and two more neutrons than 31P?",
+      "specRef": "3.1.1",
+      "image": "img/2021-june-7404-1/q21.jpg",
+      "markscheme": "img/2021-june-7404-1/ms/q21.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-1-q22",
+      "paper": "2021-june-7404-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "22",
+      "questionNumber": "22",
+      "page": 22,
+      "marks": 1,
+      "topics": [
+        "3.2.2"
+      ],
+      "skills": [],
+      "summary": "What is a use for barium sulfate?",
+      "specRef": "3.2.2",
+      "image": "img/2021-june-7404-1/q22.jpg",
+      "markscheme": "img/2021-june-7404-1/ms/q22.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-1-q23",
+      "paper": "2021-june-7404-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "23",
+      "questionNumber": "23",
+      "page": 22,
+      "marks": 1,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [],
+      "summary": "Which sample has the greatest mass?",
+      "specRef": "3.1.2",
+      "image": "img/2021-june-7404-1/q23.jpg",
+      "markscheme": "img/2021-june-7404-1/ms/q23.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-1-q24",
+      "paper": "2021-june-7404-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "24",
+      "questionNumber": "24",
+      "page": 23,
+      "marks": 1,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [],
+      "summary": "Which element has a first ionisation energy lower than that of sulfur?",
+      "specRef": "3.1.1",
+      "image": "img/2021-june-7404-1/q24.jpg",
+      "markscheme": "img/2021-june-7404-1/ms/q24.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-1-q25",
+      "paper": "2021-june-7404-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/1",
+      "level": "AS",
+      "question": "25",
+      "questionNumber": "25",
+      "page": 23,
+      "marks": 1,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [],
+      "summary": "Deduce the group of element Z from its first seven successive ionisation energies.",
+      "specRef": "3.1.1",
+      "image": "img/2021-june-7404-1/q25.jpg",
+      "markscheme": "img/2021-june-7404-1/ms/q25.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-2-q01.1",
+      "paper": "2021-june-7404-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "01.1",
+      "questionNumber": "01.1",
+      "page": 3,
+      "marks": 1,
+      "topics": [
+        "3.1.5"
+      ],
+      "skills": [],
+      "summary": "Label the y-axis on the Maxwell-Boltzmann distribution in Figure 1.",
+      "specRef": "3.1.5",
+      "image": "img/2021-june-7404-2/q01-1.jpg",
+      "markscheme": "img/2021-june-7404-2/ms/q01-1.png",
+      "figures": [
+        "img/2021-june-7404-2/fig-q1-fig1.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7404-2-q01.2",
+      "paper": "2021-june-7404-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "01.2",
+      "questionNumber": "01.2",
+      "page": 3,
+      "marks": 1,
+      "topics": [
+        "3.1.5"
+      ],
+      "skills": [],
+      "summary": "State what the area under the Maxwell-Boltzmann curve represents.",
+      "specRef": "3.1.5",
+      "image": "img/2021-june-7404-2/q01-2.jpg",
+      "markscheme": "img/2021-june-7404-2/ms/q01-2.png",
+      "figures": [
+        "img/2021-june-7404-2/fig-q1-fig1.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7404-2-q01.3",
+      "paper": "2021-june-7404-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "01.3",
+      "questionNumber": "01.3",
+      "page": 3,
+      "marks": 1,
+      "topics": [
+        "3.1.5"
+      ],
+      "skills": [],
+      "summary": "Label the most probable energy (Emp) on Figure 1.",
+      "specRef": "3.1.5",
+      "image": "img/2021-june-7404-2/q01-3.jpg",
+      "markscheme": "img/2021-june-7404-2/ms/q01-3.png",
+      "figures": [
+        "img/2021-june-7404-2/fig-q1-fig1.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7404-2-q01.4",
+      "paper": "2021-june-7404-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "01.4",
+      "questionNumber": "01.4",
+      "page": 3,
+      "marks": 2,
+      "topics": [
+        "3.1.5"
+      ],
+      "skills": [],
+      "summary": "Explain why a small increase in temperature leads to a large increase in the rate of reaction.",
+      "specRef": "3.1.5",
+      "image": "img/2021-june-7404-2/q01-4.jpg",
+      "markscheme": "img/2021-june-7404-2/ms/q01-4.png",
+      "figures": [
+        "img/2021-june-7404-2/fig-q1-fig1.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7404-2-q02.1",
+      "paper": "2021-june-7404-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "02.1",
+      "questionNumber": "02.1",
+      "page": 4,
+      "marks": 5,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [],
+      "summary": "Name and outline the mechanism for the reaction of cyclohexene with bromine (Br2).",
+      "specRef": "3.3.4",
+      "image": "img/2021-june-7404-2/q02-1.jpg",
+      "markscheme": "img/2021-june-7404-2/ms/q02-1.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-2-q02.2",
+      "paper": "2021-june-7404-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "02.2",
+      "questionNumber": "02.2",
+      "page": 5,
+      "marks": 3,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [],
+      "summary": "Explain why there is an attraction between a C=C double bond and Br2.",
+      "specRef": "3.3.4",
+      "image": "img/2021-june-7404-2/q02-2.jpg",
+      "markscheme": "img/2021-june-7404-2/ms/q02-2.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-2-q02.3",
+      "paper": "2021-june-7404-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "02.3",
+      "questionNumber": "02.3",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [],
+      "summary": "Draw the skeletal formula of the halogenoalkane formed when buta-1,3-diene reacts with an excess of Br2.",
+      "specRef": "3.3.4",
+      "image": "img/2021-june-7404-2/q02-3.jpg",
+      "markscheme": "img/2021-june-7404-2/ms/q02-3.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-2-q03.1",
+      "paper": "2021-june-7404-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "03.1",
+      "questionNumber": "03.1",
+      "page": 6,
+      "marks": 6,
+      "topics": [
+        "RP"
+      ],
+      "skills": [],
+      "summary": "Identify three errors in the distillation apparatus in Figure 2 for making propanone from propan-2-ol and explain how to correct them.",
+      "specRef": "RP",
+      "image": "img/2021-june-7404-2/q03-1.jpg",
+      "markscheme": "img/2021-june-7404-2/ms/q03-1.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-2-q03.2",
+      "paper": "2021-june-7404-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "03.2",
+      "questionNumber": "03.2",
+      "page": 8,
+      "marks": 4,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [],
+      "summary": "Calculate the percentage yield of propanone from 2.0 cm3 of propan-2-ol.",
+      "specRef": "3.1.2",
+      "image": "img/2021-june-7404-2/q03-2.jpg",
+      "markscheme": "img/2021-june-7404-2/ms/q03-2.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-2-q03.3",
+      "paper": "2021-june-7404-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "03.3",
+      "questionNumber": "03.3",
+      "page": 9,
+      "marks": 2,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [],
+      "summary": "Complete Table 1 to suggest the shape and bond angle around the central carbon atom in propan-2-ol and propanone.",
+      "specRef": "3.1.3",
+      "image": "img/2021-june-7404-2/q03-3.jpg",
+      "markscheme": "img/2021-june-7404-2/ms/q03-3.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-2-q03.4",
+      "paper": "2021-june-7404-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "03.4",
+      "questionNumber": "03.4",
+      "page": 9,
+      "marks": 3,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [],
+      "summary": "Explain why propanone has a lower boiling point than propan-2-ol.",
+      "specRef": "3.1.3",
+      "image": "img/2021-june-7404-2/q03-4.jpg",
+      "markscheme": "img/2021-june-7404-2/ms/q03-4.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-2-q04.1",
+      "paper": "2021-june-7404-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "04.1",
+      "questionNumber": "04.1",
+      "page": 10,
+      "marks": 1,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [],
+      "summary": "Give the IUPAC name for CFC-11.",
+      "specRef": "3.3.1",
+      "image": "img/2021-june-7404-2/q04-1.jpg",
+      "markscheme": "img/2021-june-7404-2/ms/q04-1.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-2-q04.2",
+      "paper": "2021-june-7404-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "04.2",
+      "questionNumber": "04.2",
+      "page": 10,
+      "marks": 1,
+      "topics": [
+        "3.3.3"
+      ],
+      "skills": [],
+      "summary": "Give an equation for the initiation step in the decomposition of ozone by CFC-11.",
+      "specRef": "3.3.3",
+      "image": "img/2021-june-7404-2/q04-2.jpg",
+      "markscheme": "img/2021-june-7404-2/ms/q04-2.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-2-q04.3",
+      "paper": "2021-june-7404-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "04.3",
+      "questionNumber": "04.3",
+      "page": 11,
+      "marks": 2,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [],
+      "summary": "Estimate the number of moles of ozone destroyed by 0.50 kg of CFC-11 (Mr = 137.5).",
+      "specRef": "3.1.2",
+      "image": "img/2021-june-7404-2/q04-3.jpg",
+      "markscheme": "img/2021-june-7404-2/ms/q04-3.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-2-q04.4",
+      "paper": "2021-june-7404-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "04.4",
+      "questionNumber": "04.4",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "3.3.3"
+      ],
+      "skills": [],
+      "summary": "Give an overall equation for the decomposition of ozone.",
+      "specRef": "3.3.3",
+      "image": "img/2021-june-7404-2/q04-4.jpg",
+      "markscheme": "img/2021-june-7404-2/ms/q04-4.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-2-q04.5",
+      "paper": "2021-june-7404-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "04.5",
+      "questionNumber": "04.5",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "3.3.3"
+      ],
+      "skills": [],
+      "summary": "State the role of the chlorine free radical in the decomposition of ozone.",
+      "specRef": "3.3.3",
+      "image": "img/2021-june-7404-2/q04-5.jpg",
+      "markscheme": "img/2021-june-7404-2/ms/q04-5.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-2-q04.6",
+      "paper": "2021-june-7404-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "04.6",
+      "questionNumber": "04.6",
+      "page": 12,
+      "marks": 2,
+      "topics": [
+        "3.3.16"
+      ],
+      "skills": [],
+      "summary": "State and explain how CFC-11 is able to contribute to global warming.",
+      "specRef": "3.3.16",
+      "image": "img/2021-june-7404-2/q04-6.jpg",
+      "markscheme": "img/2021-june-7404-2/ms/q04-6.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-2-q05.1",
+      "paper": "2021-june-7404-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "05.1",
+      "questionNumber": "05.1",
+      "page": 14,
+      "marks": 6,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [],
+      "summary": "Describe the three key steps in the manufacture of poly(propene) from crude oil (fractional distillation, cracking, and addition polymerisation).",
+      "specRef": "3.3.4",
+      "image": "img/2021-june-7404-2/q05-1.jpg",
+      "markscheme": "img/2021-june-7404-2/ms/q05-1.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-2-q05.2",
+      "paper": "2021-june-7404-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "05.2",
+      "questionNumber": "05.2",
+      "page": 15,
+      "marks": 1,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [],
+      "summary": "Explain why poly(propene) is unreactive.",
+      "specRef": "3.3.4",
+      "image": "img/2021-june-7404-2/q05-2.jpg",
+      "markscheme": "img/2021-june-7404-2/ms/q05-2.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-2-q05.3",
+      "paper": "2021-june-7404-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "05.3",
+      "questionNumber": "05.3",
+      "page": 15,
+      "marks": 1,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [],
+      "summary": "Suggest one environmental advantage of using biodegradable polymers.",
+      "specRef": "3.3.4",
+      "image": "img/2021-june-7404-2/q05-3.jpg",
+      "markscheme": "img/2021-june-7404-2/ms/q05-3.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-2-q06.1",
+      "paper": "2021-june-7404-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "06.1",
+      "questionNumber": "06.1",
+      "page": 16,
+      "marks": 5,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [],
+      "summary": "Calculate the relative molecular mass (Mr) of liquid Y using the ideal gas equation and the data in Table 2.",
+      "specRef": "3.1.2",
+      "image": "img/2021-june-7404-2/q06-1.jpg",
+      "markscheme": "img/2021-june-7404-2/ms/q06-1.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-2-q06.2",
+      "paper": "2021-june-7404-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "06.2",
+      "questionNumber": "06.2",
+      "page": 17,
+      "marks": 2,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [],
+      "summary": "Calculate the total number of moles of gas remaining after the complete combustion of 0.0010 mol of 2,2,4-trimethylpentane with 0.0200 mol of O2.",
+      "specRef": "3.1.2",
+      "image": "img/2021-june-7404-2/q06-2.jpg",
+      "markscheme": "img/2021-june-7404-2/ms/q06-2.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-2-q07.1",
+      "paper": "2021-june-7404-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "07.1",
+      "questionNumber": "07.1",
+      "page": 18,
+      "marks": 1,
+      "topics": [
+        "3.3.3"
+      ],
+      "skills": [],
+      "summary": "Name the type of reaction when 3-chloroprop-1-ene reacts with dilute aqueous sodium hydroxide to form prop-2-en-1-ol.",
+      "specRef": "3.3.3",
+      "image": "img/2021-june-7404-2/q07-1.jpg",
+      "markscheme": "img/2021-june-7404-2/ms/q07-1.png",
+      "figures": [
+        "img/2021-june-7404-2/fig-q7-struct.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7404-2-q07.2",
+      "paper": "2021-june-7404-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "07.2",
+      "questionNumber": "07.2",
+      "page": 18,
+      "marks": 4,
+      "topics": [
+        "3.3.5"
+      ],
+      "skills": [],
+      "summary": "Describe a chemical test to confirm the presence of the C=C bond and a chemical test to confirm the presence of the -OH group in prop-2-en-1-ol.",
+      "specRef": "3.3.5",
+      "image": "img/2021-june-7404-2/q07-2.jpg",
+      "markscheme": "img/2021-june-7404-2/ms/q07-2.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-2-q07.3",
+      "paper": "2021-june-7404-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "07.3",
+      "questionNumber": "07.3",
+      "page": 19,
+      "marks": 1,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [],
+      "summary": "Draw the repeating unit of poly(prop-2-en-1-ol).",
+      "specRef": "3.3.4",
+      "image": "img/2021-june-7404-2/q07-3.jpg",
+      "markscheme": "img/2021-june-7404-2/ms/q07-3.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-2-q07.4",
+      "paper": "2021-june-7404-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "07.4",
+      "questionNumber": "07.4",
+      "page": 19,
+      "marks": 1,
+      "topics": [
+        "3.3.6"
+      ],
+      "skills": [],
+      "summary": "Identify the functional group isomer of prop-2-en-1-ol from the infrared spectrum in Figure 3.",
+      "specRef": "3.3.6",
+      "image": "img/2021-june-7404-2/q07-4.jpg",
+      "markscheme": "img/2021-june-7404-2/ms/q07-4.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-2-q08.1",
+      "paper": "2021-june-7404-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "08.1",
+      "questionNumber": "08.1",
+      "page": 20,
+      "marks": 1,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [],
+      "summary": "Define the term enthalpy change.",
+      "specRef": "3.1.4",
+      "image": "img/2021-june-7404-2/q08-1.jpg",
+      "markscheme": "img/2021-june-7404-2/ms/q08-1.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-2-q08.2",
+      "paper": "2021-june-7404-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "08.2",
+      "questionNumber": "08.2",
+      "page": 20,
+      "marks": 4,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [],
+      "summary": "Calculate the mean C-H bond enthalpy in propane using the enthalpy of combustion and the bond enthalpy data provided.",
+      "specRef": "3.1.4",
+      "image": "img/2021-june-7404-2/q08-2.jpg",
+      "markscheme": "img/2021-june-7404-2/ms/q08-2.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-2-q08.3",
+      "paper": "2021-june-7404-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "08.3",
+      "questionNumber": "08.3",
+      "page": 21,
+      "marks": 1,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [],
+      "summary": "Explain why the value given for the O=O bond enthalpy in Question 08.2 is not a mean value.",
+      "specRef": "3.1.4",
+      "image": "img/2021-june-7404-2/q08-3.jpg",
+      "markscheme": "img/2021-june-7404-2/ms/q08-3.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-2-q09",
+      "paper": "2021-june-7404-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "09",
+      "questionNumber": "09",
+      "page": 22,
+      "marks": 1,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [],
+      "summary": "What is the atom economy for the formation of iron in the blast furnace reaction?",
+      "specRef": "3.1.2",
+      "image": "img/2021-june-7404-2/q09.jpg",
+      "markscheme": "img/2021-june-7404-2/ms/q09.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-2-q10",
+      "paper": "2021-june-7404-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "10",
+      "questionNumber": "10",
+      "page": 22,
+      "marks": 1,
+      "topics": [
+        "3.1.5"
+      ],
+      "skills": [],
+      "summary": "Which statement about a catalyst is correct?",
+      "specRef": "3.1.5",
+      "image": "img/2021-june-7404-2/q10.jpg",
+      "markscheme": "img/2021-june-7404-2/ms/q10.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-2-q11",
+      "paper": "2021-june-7404-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "11",
+      "questionNumber": "11",
+      "page": 23,
+      "marks": 1,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [],
+      "summary": "What is the concentration in mol dm-3 of 80 mg of ethanol (Mr = 46.0) per 100 cm3 of blood?",
+      "specRef": "3.1.2",
+      "image": "img/2021-june-7404-2/q11.jpg",
+      "markscheme": "img/2021-june-7404-2/ms/q11.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-2-q12",
+      "paper": "2021-june-7404-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "12",
+      "questionNumber": "12",
+      "page": 23,
+      "marks": 1,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [],
+      "summary": "Which pair of compounds are structural isomers?",
+      "specRef": "3.3.1",
+      "image": "img/2021-june-7404-2/q12.jpg",
+      "markscheme": "img/2021-june-7404-2/ms/q12.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-2-q13",
+      "paper": "2021-june-7404-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "13",
+      "questionNumber": "13",
+      "page": 23,
+      "marks": 1,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [],
+      "summary": "Which alkane has the highest boiling point?",
+      "specRef": "3.3.2",
+      "image": "img/2021-june-7404-2/q13.jpg",
+      "markscheme": "img/2021-june-7404-2/ms/q13.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-2-q14",
+      "paper": "2021-june-7404-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "14",
+      "questionNumber": "14",
+      "page": 24,
+      "marks": 1,
+      "topics": [
+        "3.3.3"
+      ],
+      "skills": [],
+      "summary": "What is the organic product when 1-bromopropane reacts with potassium cyanide in aqueous ethanol?",
+      "specRef": "3.3.3",
+      "image": "img/2021-june-7404-2/q14.jpg",
+      "markscheme": "img/2021-june-7404-2/ms/q14.png",
+      "figures": [
+        "img/2021-june-7404-2/fig-q14-16-stem.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7404-2-q15",
+      "paper": "2021-june-7404-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "15",
+      "questionNumber": "15",
+      "page": 24,
+      "marks": 1,
+      "topics": [
+        "3.3.3"
+      ],
+      "skills": [],
+      "summary": "What is the role of the cyanide ion in the reaction of 1-bromopropane with KCN?",
+      "specRef": "3.3.3",
+      "image": "img/2021-june-7404-2/q15.jpg",
+      "markscheme": "img/2021-june-7404-2/ms/q15.png",
+      "figures": [
+        "img/2021-june-7404-2/fig-q14-16-stem.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7404-2-q16",
+      "paper": "2021-june-7404-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "16",
+      "questionNumber": "16",
+      "page": 25,
+      "marks": 1,
+      "topics": [
+        "3.3.3"
+      ],
+      "skills": [],
+      "summary": "Which row correctly shows the compound with a faster rate of reaction with KCN (1-bromopropane vs 1-chloropropane) and the reason?",
+      "specRef": "3.3.3",
+      "image": "img/2021-june-7404-2/q16.jpg",
+      "markscheme": "img/2021-june-7404-2/ms/q16.png",
+      "figures": [
+        "img/2021-june-7404-2/fig-q14-16-stem.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7404-2-q17",
+      "paper": "2021-june-7404-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "17",
+      "questionNumber": "17",
+      "page": 25,
+      "marks": 1,
+      "topics": [
+        "3.3.5"
+      ],
+      "skills": [],
+      "summary": "Which alcohol can be oxidised to a ketone?",
+      "specRef": "3.3.5",
+      "image": "img/2021-june-7404-2/q17.jpg",
+      "markscheme": "img/2021-june-7404-2/ms/q17.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-2-q18",
+      "paper": "2021-june-7404-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "18",
+      "questionNumber": "18",
+      "page": 26,
+      "marks": 1,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [],
+      "summary": "Which compound reacts with HBr to give 2-bromo-3-methylbutane as the major product?",
+      "specRef": "3.3.4",
+      "image": "img/2021-june-7404-2/q18.jpg",
+      "markscheme": "img/2021-june-7404-2/ms/q18.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-2-q19",
+      "paper": "2021-june-7404-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "19",
+      "questionNumber": "19",
+      "page": 26,
+      "marks": 1,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [],
+      "summary": "Which statement is correct about stereoisomerism in alkenes?",
+      "specRef": "3.3.4",
+      "image": "img/2021-june-7404-2/q19.jpg",
+      "markscheme": "img/2021-june-7404-2/ms/q19.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-2-q20",
+      "paper": "2021-june-7404-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "20",
+      "questionNumber": "20",
+      "page": 26,
+      "marks": 1,
+      "topics": [
+        "3.3.6"
+      ],
+      "skills": [],
+      "summary": "Which compound has a molecular ion peak at m/z = 72 in its mass spectrum?",
+      "specRef": "3.3.6",
+      "image": "img/2021-june-7404-2/q20.jpg",
+      "markscheme": "img/2021-june-7404-2/ms/q20.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-2-q21",
+      "paper": "2021-june-7404-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "21",
+      "questionNumber": "21",
+      "page": 27,
+      "marks": 1,
+      "topics": [
+        "3.1.5"
+      ],
+      "skills": [],
+      "summary": "Which curve represents the reaction of excess magnesium with a different concentration and volume of hydrochloric acid?",
+      "specRef": "3.1.5",
+      "image": "img/2021-june-7404-2/q21.jpg",
+      "markscheme": "img/2021-june-7404-2/ms/q21.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-2-q22",
+      "paper": "2021-june-7404-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "22",
+      "questionNumber": "22",
+      "page": 28,
+      "marks": 1,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [],
+      "summary": "Which statement is not correct about the pollutant sulfur dioxide?",
+      "specRef": "3.3.2",
+      "image": "img/2021-june-7404-2/q22.jpg",
+      "markscheme": "img/2021-june-7404-2/ms/q22.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7404-2-q23",
+      "paper": "2021-june-7404-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7404/2",
+      "level": "AS",
+      "question": "23",
+      "questionNumber": "23",
+      "page": 28,
+      "marks": 1,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [],
+      "summary": "Which species is a free radical?",
+      "specRef": "3.3.1",
+      "image": "img/2021-june-7404-2/q23.jpg",
+      "markscheme": "img/2021-june-7404-2/ms/q23.png",
       "figures": []
     }
   ]
